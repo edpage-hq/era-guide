@@ -4,8 +4,8 @@ import { defineVersionedConfig } from '@viteplus/versions'
 import { en, search as enSearch } from './locales/en'
 import { fr, search as frSearch } from './locales/fr'
 
-const base = process.env.VITE_BASE || '/docs/'
-const siteUrl = process.env.VITE_SITE_URL || 'https://docs.edpage.net'
+const base = process.env.VITE_BASE || '/'
+const siteUrl = process.env.VITE_SITE_URL || 'https://guide.edpage.net'
 
 // https://vitepress.dev/reference/site-config
 export default defineVersionedConfig({
@@ -16,7 +16,7 @@ export default defineVersionedConfig({
   // archive/README.md, which document the repo, not doc pages.
   srcExclude: ['*.md', 'archive/README.md'],
 
-  title: 'Docs',
+  title: 'ERA Guide',
 
   head: [
     [
@@ -28,11 +28,11 @@ export default defineVersionedConfig({
         href: `${base}images/icon.svg`,
       },
     ],
-    ['meta', { name: 'theme-color', content: '#0071BC' }],
+    ['meta', { name: 'theme-color', content: '#2183c5' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:locale', content: 'fr' }],
-    ['meta', { property: 'og:title', content: 'Docs | Documentation' }],
-    ['meta', { property: 'og:site_name', content: 'Docs' }],
+    ['meta', { property: 'og:title', content: 'ERA Guide | Guide utilisateur' }],
+    ['meta', { property: 'og:site_name', content: 'ERA Guide' }],
     ['meta', { property: 'og:url', content: siteUrl }],
   ],
 
@@ -40,10 +40,10 @@ export default defineVersionedConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: {
       light: '/images/icon.svg',
-      dark: '/images/icon-reverse.svg',
-      alt: 'Docs',
-      width: 48,
-      height: 48,
+      dark: '/images/icon.svg',
+      alt: 'ERA',
+      width: 40,
+      height: 36,
     },
 
     search: {
@@ -61,7 +61,7 @@ export default defineVersionedConfig({
         icon: {
           svg: '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24"><path d="M19 19H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83l1.41 1.41L19 6.41V10h2V3h-7z" fill="currentColor"></path></svg>',
         },
-        link: 'https://edpage.net',
+        link: 'https://github.com/edpage-hq/era-web',
       },
     ],
   },

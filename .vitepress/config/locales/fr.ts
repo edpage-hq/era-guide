@@ -3,14 +3,16 @@ import type { DefaultTheme, LocaleInterface, NavType, SidebarItemType } from '@v
 export const fr: LocaleInterface = {
   lang: 'fr',
   label: 'Français',
-  description: 'Starter de documentation.',
+  description:
+    "Guide utilisateur d'ERA — quoi faire et comment le faire, pour chaque acteur de l'app.",
 
   themeConfig: {
     nav: nav(),
-    siteTitle: 'Documentation',
+    siteTitle: 'ERA Guide',
 
     sidebar: {
       '/guide/': { base: '/guide/', items: sidebarGuide() },
+      '/admission/': { base: '/admission/', items: sidebarAdmission() },
     },
 
     footer: {
@@ -56,22 +58,27 @@ function nav(): NavType {
   return {
     root: [
       {
-        text: 'Lire la documentation',
-        link: '/guide/getting-started',
+        text: 'Guide utilisateur',
+        link: '/guide/prise-en-main',
         activeMatch: '/guide/',
+      },
+      {
+        text: 'Era Admission',
+        link: '/admission/',
+        activeMatch: '/admission/',
       },
       {
         text: 'Support',
         items: [
           {
             text: 'Notes de version',
-            link: 'https://github.com/edpage-hq/guide-starter/releases',
+            link: 'https://github.com/edpage-hq/era-guide/releases',
             target: '_blank',
             rel: 'noopener',
           },
           {
             text: 'Signaler un problème',
-            link: 'https://github.com/edpage-hq/guide-starter/issues',
+            link: 'https://github.com/edpage-hq/era-guide/issues',
             target: '_blank',
             rel: 'noopener',
           },
@@ -84,15 +91,93 @@ function nav(): NavType {
 
 function sidebarGuide(): SidebarItemType[] {
   return [
+    { text: 'Bien démarrer', link: 'prise-en-main' },
     {
-      text: 'Introduction',
-      collapsed: false,
-      items: [{ text: 'Pour commencer', link: 'getting-started' }],
+      text: 'Administrateur',
+      link: 'admin/',
+      collapsed: true,
+      items: [
+        { text: "Structure de l'établissement", link: 'admin/structure-etablissement' },
+        { text: 'Personnel et comptes utilisateurs', link: 'admin/personnel-utilisateurs' },
+        { text: 'Élèves et tuteurs', link: 'admin/eleves-tuteurs' },
+        { text: 'Frais et tarification', link: 'admin/frais-tarification' },
+        { text: 'Emplois du temps', link: 'admin/emplois-du-temps' },
+        { text: 'Bulletins', link: 'admin/bulletins' },
+        { text: 'Activités extrascolaires', link: 'admin/activites-extrascolaires' },
+        { text: "Démo complète et journal d'activité", link: 'admin/demo-et-journal' },
+      ],
     },
     {
-      text: 'Autres',
-      collapsed: false,
-      items: [{ text: 'A propos', link: 'about' }],
+      text: 'Secrétariat',
+      link: 'secretariat/',
+      collapsed: true,
+      items: [
+        { text: 'Candidatures', link: 'secretariat/candidatures' },
+        { text: 'Transferts de site', link: 'secretariat/transferts-sites' },
+      ],
+    },
+    {
+      text: 'Caisse',
+      link: 'caissier/',
+      collapsed: true,
+      items: [
+        { text: 'Inscriptions et paiements', link: 'caissier/inscriptions-et-paiements' },
+        { text: 'Export comptable', link: 'caissier/export-comptable' },
+        { text: 'Dépenses', link: 'caissier/depenses' },
+      ],
+    },
+    {
+      text: 'Enseignant',
+      link: 'enseignant/',
+      collapsed: true,
+      items: [
+        { text: 'Notes et évaluations', link: 'enseignant/notes-et-evaluations' },
+        { text: 'Bulletins et cahier de textes', link: 'enseignant/bulletins-et-cahier-texte' },
+        { text: 'Registre et emploi du temps', link: 'enseignant/registre-et-emploi-du-temps' },
+      ],
+    },
+    {
+      text: 'Vie scolaire',
+      link: 'vie-scolaire/',
+      collapsed: true,
+      items: [
+        { text: 'Présences et absences', link: 'vie-scolaire/presences-et-absences' },
+        { text: 'Discipline et conseils', link: 'vie-scolaire/discipline-et-conseils' },
+        { text: 'Cantine et transport', link: 'vie-scolaire/cantine-et-transport' },
+        { text: 'Activités extrascolaires', link: 'vie-scolaire/activites-extrascolaires' },
+      ],
+    },
+    { text: 'Internat', link: 'internat/' },
+    { text: 'Infirmerie', link: 'infirmerie/' },
+    {
+      text: 'Parent',
+      link: 'parent/',
+      collapsed: true,
+      items: [
+        { text: 'Mes enfants et leurs documents', link: 'parent/enfants-et-documents' },
+        { text: 'Paiements en ligne', link: 'parent/paiements-en-ligne' },
+        { text: 'Démarches administratives', link: 'parent/demarches' },
+      ],
+    },
+    { text: 'Élève', link: 'eleve/' },
+  ]
+}
+
+function sidebarAdmission(): SidebarItemType[] {
+  return [
+    { text: 'Présentation', link: '/admission/' },
+    {
+      text: 'Écoles',
+      collapsed: true,
+      items: [
+        { text: 'Inscription et démonstration', link: 'ecoles/inscription-et-demo' },
+        { text: 'Passer à une licence', link: 'ecoles/passage-licence' },
+      ],
+    },
+    {
+      text: 'Équipe edPage',
+      collapsed: true,
+      items: [{ text: 'Panneau interne', link: 'staff-edpage/' }],
     },
   ]
 }

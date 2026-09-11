@@ -20,5 +20,8 @@ dans ERA. Si vous découvrez l'app, commencez par [Bien démarrer](/guide/prise-
 | [Parent](/guide/parent/)             | Suivre ses enfants, télécharger leurs documents, payer en ligne et faire ses démarches                       |
 | [Élève](/guide/eleve/)               | Consulter son propre espace, ses documents et son emploi du temps                                            |
 
+Les **[demandes de congé](/guide/conges)** sont l'exception : tout membre
+du personnel dépose les siennes, quel que soit son rôle.
+
 Vous cherchez plutôt l'inscription en ligne d'un établissement ou le
 panneau interne edPage ? C'est du côté d'[Era Admission](/admission/).

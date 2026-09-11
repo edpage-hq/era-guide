@@ -92,11 +92,13 @@ function nav(): NavType {
 function sidebarGuide(): SidebarItemType[] {
   return [
     { text: 'Bien démarrer', link: 'prise-en-main' },
+    { text: 'Demandes de congé', link: 'conges' },
     {
       text: 'Administrateur',
       link: 'admin/',
       collapsed: true,
       items: [
+        { text: 'Tableau de bord', link: 'admin/tableau-de-bord' },
         { text: "Structure de l'établissement", link: 'admin/structure-etablissement' },
         { text: 'Personnel et comptes utilisateurs', link: 'admin/personnel-utilisateurs' },
         { text: 'Élèves et tuteurs', link: 'admin/eleves-tuteurs' },
@@ -104,6 +106,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Emplois du temps', link: 'admin/emplois-du-temps' },
         { text: 'Bulletins', link: 'admin/bulletins' },
         { text: 'Activités extrascolaires', link: 'admin/activites-extrascolaires' },
+        { text: "Paramètres de l'application", link: 'admin/parametres-application' },
         { text: "Démo complète et journal d'activité", link: 'admin/demo-et-journal' },
       ],
     },

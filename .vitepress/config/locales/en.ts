@@ -61,11 +61,13 @@ function nav(): NavType {
 function sidebarGuide(): SidebarItemType[] {
   return [
     { text: 'Getting started', link: 'prise-en-main' },
+    { text: 'Leave requests', link: 'conges' },
     {
       text: 'Administrator',
       link: 'admin/',
       collapsed: true,
       items: [
+        { text: 'Dashboard', link: 'admin/tableau-de-bord' },
         { text: 'School structure', link: 'admin/structure-etablissement' },
         { text: 'Staff and user accounts', link: 'admin/personnel-utilisateurs' },
         { text: 'Students and guardians', link: 'admin/eleves-tuteurs' },
@@ -73,6 +75,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Timetables', link: 'admin/emplois-du-temps' },
         { text: 'Report cards', link: 'admin/bulletins' },
         { text: 'Extracurricular activities', link: 'admin/activites-extrascolaires' },
+        { text: 'App settings', link: 'admin/parametres-application' },
         { text: 'Full demo and activity log', link: 'admin/demo-et-journal' },
       ],
     },

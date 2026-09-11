@@ -81,6 +81,48 @@ demande à valider). Cliquez sur une notification pour l'ouvrir et la
 marquer comme lue, ou utilisez **Tout marquer comme lu** pour vider la
 liste d'un coup.
 
+## Valider une demande directement depuis une notification
+
+Certaines notifications ne servent pas seulement à prévenir : elles
+ouvrent un écran de **validation rapide**, volontairement réduit à
+l'essentiel, où vous décidez sans naviguer dans le reste de l'app. C'est
+prévu pour être utilisé depuis un téléphone.
+
+Trois demandes fonctionnent ainsi :
+
+| Demande                                 | Qui la valide                 |
+| --------------------------------------- | ----------------------------- |
+| Transfert d'un élève vers un autre site | Administration ou secrétariat |
+| Transfert d'un membre du personnel      | Administration                |
+| Dépense à approuver                     | Administration                |
+
+L'écran affiche le détail de la demande et deux actions : **Approuver**,
+qui statue immédiatement, ou **Rejeter**, qui demande d'abord un motif —
+motif ensuite visible par la personne qui avait déposé la demande.
+
+Vous pouvez toujours traiter ces demandes de la façon classique, depuis la
+file correspondante dans le menu. La validation rapide est un raccourci,
+pas un circuit séparé : une demande déjà traitée depuis une notification
+apparaît comme traitée dans la file, et inversement.
+
+## Pourquoi certains menus n'apparaissent pas
+
+ERA se vend par pôles : un établissement n'active que ceux dont il a
+besoin. Si un menu attendu n'est pas là, ce n'est pas nécessairement un
+problème de droits — le pôle concerné n'est peut-être simplement pas
+inclus dans la licence de l'établissement.
+
+Deux causes possibles, à distinguer avant de signaler un incident :
+
+- **Votre rôle** ne donne pas accès à cette fonction. Un enseignant ne voit
+  pas la caisse, un caissier ne saisit pas de notes.
+- **Le pôle n'est pas licencié** pour l'établissement. Dans ce cas,
+  personne ne voit la fonction, quel que soit son rôle, et ouvrir l'adresse
+  directement affiche un message indiquant que la fonction n'est pas
+  incluse.
+
+Votre administrateur peut confirmer lequel des deux cas s'applique.
+
 ## Changer de langue
 
 Le sélecteur de langue (menu **Paramètres → Langue**, ou l'icône de langue

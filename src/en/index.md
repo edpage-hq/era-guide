@@ -3,26 +3,25 @@
 layout: home
 
 hero:
-  name: Docs
-  text: Documentation
-  tagline: Documentation starter.
-  image:
-    light: /images/home.svg
-    dark: /images/home-reverse.svg
-    alt: Docs
+  name: ERA Guide
+  text: The guide for every ERA actor
+  tagline: What each role can do in the app, and how to do it, step by step.
   actions:
     - theme: brand
-      text: Getting started →
-      link: /en/guide/getting-started
+      text: Find my role →
+      link: /en/guide/
+    - theme: alt
+      text: Era Admission →
+      link: /en/admission/
 
 features:
+  - icon: 🧑‍🤝‍🧑
+    title: One guide per actor
+    details: Administrator, teacher, front desk, cash desk, school life, boarding, infirmary, parent, student — each has its own section, built around their own tasks.
   - icon: 🌍
-    title: Multilingual
-    details: French (root) and English (/en/) content ready to go, with translated search in each language.
-  - icon: 🔎
-    title: Local search
-    details: Built-in full-text search, no external service to configure.
-  - icon: 🚀
-    title: CI out of the box
-    details: Lint and build checked automatically on every pull request via edpage-hq's reusable workflows.
+    title: Bilingual
+    details: French (root) and English (/en/) content, with translated search in each language.
+  - icon: 📚
+    title: Complements era.docs
+    details: era.docs explains the code to developers; this site explains the app to the people who use it every day.
 ---

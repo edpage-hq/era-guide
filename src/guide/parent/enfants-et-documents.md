@@ -38,6 +38,14 @@ enfant déjà inscrit à votre compte :
 L'enfant apparaît ensuite dans la liste **Enfants déjà rattachés** de
 cette même page, et sur votre page **Mes enfants**.
 
+::: info Si le menu « Rattacher un enfant » n'existe pas
+C'est que l'établissement n'a pas activé le rattachement en libre-service.
+Ce n'est pas un problème sur votre compte : dans ce cas, le rattachement
+est fait par le secrétariat ou l'administration, depuis le dossier de votre
+enfant. Contactez l'établissement en indiquant le nom et la date de
+naissance de l'enfant, et votre lien de parenté.
+:::
+
 ## Consulter le suivi d'un enfant
 
 Sur la fiche d'un enfant (accessible depuis **Mes enfants**), vous

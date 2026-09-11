@@ -36,6 +36,13 @@ your account:
 The child then appears in the **Already linked children** list on this
 same page, and on your **My children** page.
 
+::: info If there's no "Link a child" menu
+Your school hasn't enabled self-service linking. Nothing is wrong with your
+account: in that case the link is made by the front desk or the
+administration, from your child's record. Contact the school with the
+child's name, date of birth, and your relationship to them.
+:::
+
 ## Following a child's record
 
 On a child's record (opened from **My children**), you'll find, in order:

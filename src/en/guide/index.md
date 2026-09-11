@@ -20,5 +20,8 @@ If you're new to the app, start with [Getting started](/en/guide/prise-en-main)
 | [Parent](/en/guide/parent/)            | Follow your children, download their documents, pay online and handle requests    |
 | [Student](/en/guide/eleve/)            | View your own space, documents and timetable                                      |
 
+**[Leave requests](/en/guide/conges)** are the exception: every staff
+member files their own, whatever their role.
+
 Looking for a school's online signup or the internal edPage panel instead?
 That's under [Era Admission](/en/admission/).

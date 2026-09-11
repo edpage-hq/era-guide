@@ -73,6 +73,45 @@ notifications (for example an application to process, or a request to
 approve). Click a notification to open it and mark it as read, or use
 **Mark all as read** to clear the list at once.
 
+## Approving a request straight from a notification
+
+Some notifications don't just inform you: they open a **quick review**
+screen, deliberately stripped down, where you decide without navigating
+into the rest of the app. It's built to be used from a phone.
+
+Three requests work this way:
+
+| Request                          | Who decides                  |
+| -------------------------------- | ---------------------------- |
+| Moving a student to another site | Administration or front desk |
+| Moving a staff member            | Administration               |
+| An expense awaiting approval     | Administration               |
+
+The screen shows the request's details and two actions: **Approve**, which
+decides immediately, or **Reject**, which first asks for a reason — a
+reason then visible to whoever filed the request.
+
+You can still handle these the usual way, from the matching queue in the
+menu. Quick review is a shortcut, not a separate track: a request already
+handled from a notification shows as handled in the queue, and the other
+way round.
+
+## Why some menus don't appear
+
+ERA is sold by module: a school only activates the ones it needs. If an
+expected menu isn't there, it isn't necessarily a permissions problem — the
+module may simply not be part of the school's licence.
+
+Two possible causes, worth telling apart before reporting a fault:
+
+- **Your role** doesn't grant that function. A teacher doesn't see the cash
+  desk; a cashier doesn't enter grades.
+- **The module isn't licensed** for the school. In that case nobody sees
+  the function, whatever their role, and opening the address directly shows
+  a message saying the function isn't included.
+
+Your administrator can confirm which of the two applies.
+
 ## Switching language
 
 The language switcher (**Settings → Language**, or the language icon in

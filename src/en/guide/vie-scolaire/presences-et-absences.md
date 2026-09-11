@@ -44,3 +44,31 @@ with the status **Pending**.
 
 Once processed, the request moves to **Approved** or **Rejected**; a
 rejected justification shows its rejection reason directly in the list.
+
+### What happens automatically when you approve
+
+Approving a justification does more than change its status:
+
+- **The attendance sheet updates itself.** The absence is marked
+  **Justified**, and the reason the family gave is copied into the record's
+  note. You don't need to go back into **Attendance** to tick the box by
+  hand — doing so would achieve nothing.
+- **The family is notified** of your decision, approval or rejection alike.
+  No need to call them to pass it on.
+- **The decision is final.** A request that has already been approved or
+  rejected can't be reopened: the app refuses to process it a second time.
+  If you got it wrong, correct the student's attendance record directly in
+  **Attendance**.
+
+### What you see, and what you don't
+
+You can only take attendance and decide for the **classes you have access
+to**. An empty class list isn't a fault: no class is attached to you. The
+administration manages those attachments, through teacher assignments and
+the classes themselves.
+
+::: tip Absences feed the indicators
+The absence rate on the [dashboard](/en/guide/admin/tableau-de-bord) is
+computed from attendance actually recorded. A roll call that was never
+taken doesn't count as an absence — it doesn't count at all.
+:::

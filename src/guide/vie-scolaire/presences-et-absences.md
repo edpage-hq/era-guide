@@ -46,3 +46,32 @@ d'absence** avec le statut **En attente**.
 Une fois traitée, la demande passe au statut **Approuvée** ou **Rejetée** ;
 un justificatif rejeté affiche son motif de rejet directement dans la
 liste.
+
+### Ce qui se passe automatiquement quand vous approuvez
+
+Approuver une justification ne se contente pas de changer son statut :
+
+- **La feuille d'appel est mise à jour toute seule.** L'absence concernée
+  passe en **Justifié**, et le motif saisi par la famille est recopié dans
+  la note du relevé. Vous n'avez pas à retourner dans **Présences** pour
+  cocher la case à la main — le faire ne servirait à rien.
+- **La famille est prévenue** de votre décision, qu'elle soit une
+  approbation ou un rejet. Inutile de la rappeler pour l'informer.
+- **La décision est définitive.** Une demande déjà approuvée ou rejetée ne
+  peut plus être rouverte : l'app refuse de la traiter une seconde fois. En
+  cas d'erreur, corrigez directement le relevé de présence de l'élève dans
+  **Présences**.
+
+### Ce que vous voyez, et ce que vous ne voyez pas
+
+Vous ne pouvez faire l'appel et statuer que sur les **classes auxquelles
+vous avez accès**. Si la liste des classes est vide, ce n'est pas un
+dysfonctionnement : aucune classe ne vous est rattachée. C'est
+l'administration qui gère ces rattachements, via les affectations
+d'enseignants et les classes elles-mêmes.
+
+::: tip Les absences alimentent les indicateurs
+Le taux d'absentéisme du [tableau de bord](/guide/admin/tableau-de-bord) se
+calcule à partir des appels réellement saisis. Un appel non fait ne compte
+pas comme une absence : il ne compte pas du tout.
+:::

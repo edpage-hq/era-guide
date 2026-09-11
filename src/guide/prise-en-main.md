@@ -86,3 +86,18 @@ liste d'un coup.
 Le sélecteur de langue (menu **Paramètres → Langue**, ou l'icône de langue
 dans l'en-tête selon votre rôle) bascule immédiatement toute l'interface
 entre français et anglais — aucune reconnexion nécessaire.
+
+## Conditions d'utilisation et données personnelles
+
+Deux pages accessibles à tous, y compris sans être connecté, depuis les
+liens en bas de la page d'accueil :
+
+- **CGU / CGV** — les conditions générales d'utilisation et de vente :
+  ce que couvre la licence de votre établissement, la maintenance, et les
+  formules d'hébergement.
+- **Politique de confidentialité** — quelles données ERA traite sur les
+  élèves, les familles et le personnel, pendant combien de temps elles
+  sont conservées, et qui y a accès.
+
+Ces deux pages suivent la langue de l'application : elles s'affichent en
+français ou en anglais selon le réglage de **Paramètres → Langue**.

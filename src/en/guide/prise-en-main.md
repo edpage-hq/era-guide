@@ -78,3 +78,16 @@ approve). Click a notification to open it and mark it as read, or use
 The language switcher (**Settings → Language**, or the language icon in
 the header depending on your role) switches the whole interface between
 French and English immediately — no need to sign in again.
+
+## Terms of use and personal data
+
+Two pages are open to everyone, including signed-out visitors, from the
+links at the bottom of the home page:
+
+- **Terms of use and sale** — what your school's licence covers,
+  maintenance, and the hosting plans.
+- **Privacy policy** — which data ERA processes about students, families
+  and staff, how long it is kept, and who can access it.
+
+Both pages follow the application's language: they display in French or
+English according to your **Settings → Language** choice.

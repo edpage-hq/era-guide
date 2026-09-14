@@ -29,6 +29,9 @@ faire, vous le trouvez dans une des sections du menu de gauche :
 - **Paramètres de l'application** (en haut du menu) personnalise votre
   instance et règle deux comportements qui affectent les autres
   utilisateurs — voir [Paramètres de l'application](/guide/admin/parametres-application).
+- **Page d'accueil**, juste au-dessus, modifie la page publique que voient
+  les familles sur l'adresse de l'établissement — voir
+  [Page d'accueil](/guide/admin/page-accueil).
 
 ## Ce que vous pouvez faire
 
@@ -42,7 +45,8 @@ faire, vous le trouvez dans une des sections du menu de gauche :
 | [Emplois du temps](/guide/admin/emplois-du-temps)                        | Construire l'emploi du temps hebdomadaire de chaque classe                                                                                                                |
 | [Bulletins](/guide/admin/bulletins)                                      | Publier et télécharger les bulletins d'une classe pour une période donnée                                                                                                 |
 | [Activités extrascolaires](/guide/admin/activites-extrascolaires)        | Créer le catalogue d'activités périscolaires et planifier leurs séances                                                                                                   |
-| [Paramètres de l'application](/guide/admin/parametres-application)       | Identité, couleurs, logos, accroche d'accueil, personnalisation des reçus, et les deux réglages qui changent le comportement de l'app                                     |
+| [Page d'accueil](/guide/admin/page-accueil)                              | Configurer la page publique de l'établissement : accroche, présentation, départements et foire aux questions                                                              |
+| [Paramètres de l'application](/guide/admin/parametres-application)       | Identité, couleurs, logos, personnalisation des reçus, et les deux réglages qui changent le comportement de l'app                                                         |
 | [Démo complète et journal d'activité](/guide/admin/demo-et-journal)      | Activer la démo complète (établissements Era Admission en version gratuite) et consulter l'historique des actions                                                         |
 
 Les paramètres qui concernent votre propre compte (profil, sécurité,

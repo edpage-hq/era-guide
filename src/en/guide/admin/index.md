@@ -27,6 +27,8 @@ do, you'll find it in one of the sections of the left-hand menu:
 - **App Settings** (near the top of the menu) customises your instance and
   controls two behaviours that affect other users — see
   [App settings](/en/guide/admin/parametres-application).
+- **Homepage**, just above it, edits the public page families see on the
+  school's address — see [Homepage](/en/guide/admin/page-accueil).
 
 ## What you can do
 
@@ -40,7 +42,8 @@ do, you'll find it in one of the sections of the left-hand menu:
 | [Timetables](/en/guide/admin/emplois-du-temps)                         | Building each class's weekly timetable                                                                                                                      |
 | [Report cards](/en/guide/admin/bulletins)                              | Publishing and downloading a class's report cards for a given period                                                                                        |
 | [Extracurricular activities](/en/guide/admin/activites-extrascolaires) | Building the extracurricular activity catalog and scheduling its sessions                                                                                   |
-| [App settings](/en/guide/admin/parametres-application)                 | Identity, colors, logos, home page tagline, receipt customisation, and the two settings that change how the app behaves                                     |
+| [Homepage](/en/guide/admin/page-accueil)                               | Configuring the school's public page: tagline, introduction, departments and FAQ                                                                            |
+| [App settings](/en/guide/admin/parametres-application)                 | Identity, colors, logos, receipt customisation, and the two settings that change how the app behaves                                                        |
 | [Full demo and activity log](/en/guide/admin/demo-et-journal)          | Activating the full demo (Era Admission tenants on the free tier) and reviewing the action history                                                          |
 
 Settings that relate to your own account (profile, security,

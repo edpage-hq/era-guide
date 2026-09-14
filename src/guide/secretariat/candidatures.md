@@ -10,6 +10,9 @@ une famille (canal **En ligne**) ou d'une saisie faite par la caisse pour
 une famille venue sur site (canal **Caisse**). C'est depuis cette page
 que vous décidez d'accepter ou de refuser chaque dossier.
 
+Les familles accèdent au formulaire public par le bouton **Inscrire mon
+enfant** de la page d'accueil de l'établissement.
+
 ::: tip
 Consulter la file d'attente est toujours disponible. L'affectation à une
 classe (la validation d'un dossier) dépend du module Admissions activé

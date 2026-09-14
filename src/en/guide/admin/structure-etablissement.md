@@ -43,6 +43,23 @@ everything else to it.
 To create a site: go to **School Structure → Sites**, click **New site**,
 fill in the name (and the optional address), then **Save**.
 
+### Site logo
+
+Once the site exists, its **Edit** page offers a **site logo**, below the
+name/address form. That logo is printed on the bulletins of the classes
+attached to this site, in place of the instance logo. Sites with no logo of
+their own keep using the one from the
+[application settings](/en/guide/admin/parametres-application) — so there's
+nothing to do if all your campuses share one identity.
+
+The logo is only used on bulletins: the menu, the public home page and
+payment receipts keep the instance logo.
+
+Accepted formats: PNG, JPG, WebP or SVG, 2 MB maximum. The **Remove**
+button deletes the site's logo and brings back the instance one.
+Already-published bulletins aren't rewritten: the change applies to
+bulletins generated afterwards.
+
 ## Departments
 
 A department corresponds to a level or track (e.g. "Preschool", "Middle

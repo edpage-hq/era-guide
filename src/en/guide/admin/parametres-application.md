@@ -30,7 +30,9 @@ out — worth trying before hand-correcting a shade.
 Two separate logos, and the difference matters:
 
 - The **full logo** appears in the expanded menu and on the home page. It's
-  also the one printed on payment receipts.
+  also the one printed on payment receipts, and on the bulletins of any site
+  that has no logo of its own (see
+  [School structure](/en/guide/admin/structure-etablissement)).
 - The **icon logo** appears in the collapsed menu. If you leave it empty,
   the full logo is used instead — which usually becomes unreadable once
   scaled down. Prepare a square version.

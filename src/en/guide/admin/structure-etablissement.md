@@ -46,19 +46,24 @@ fill in the name (and the optional address), then **Save**.
 ### Site logo
 
 Once the site exists, its **Edit** page offers a **site logo**, below the
-name/address form. That logo is printed on the bulletins of the classes
-attached to this site, in place of the instance logo. Sites with no logo of
-their own keep using the one from the
+name/address form. That logo is printed, in place of the instance logo, on:
+
+- the **bulletins** of the classes attached to this site;
+- the **payment receipts** of students enrolled in one of this site's
+  classes.
+
+Sites with no logo of their own keep using the one from the
 [application settings](/en/guide/admin/parametres-application) — so there's
 nothing to do if all your campuses share one identity.
 
-The logo is only used on bulletins: the menu, the public home page and
-payment receipts keep the instance logo.
+Only the logo changes: the menu and the public home page keep the instance
+logo, and the address, phone and email printed on receipts are still the
+ones from the application settings.
 
 Accepted formats: PNG, JPG, WebP or SVG, 2 MB maximum. The **Remove**
 button deletes the site's logo and brings back the instance one.
-Already-published bulletins aren't rewritten: the change applies to
-bulletins generated afterwards.
+Already-generated bulletins and receipts aren't rewritten: the change
+applies to documents produced afterwards.
 
 ## Departments
 

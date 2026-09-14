@@ -30,7 +30,7 @@ out — worth trying before hand-correcting a shade.
 Two separate logos, and the difference matters:
 
 - The **full logo** appears in the expanded menu and on the home page. It's
-  also the one printed on payment receipts, and on the bulletins of any site
+  also the one printed on the bulletins and payment receipts of any site
   that has no logo of its own (see
   [School structure](/en/guide/admin/structure-etablissement)).
 - The **icon logo** appears in the collapsed menu. If you leave it empty,
@@ -46,7 +46,9 @@ in that language.
 ## Receipt customisation
 
 These fields are printed on **every generated payment receipt**, alongside
-the full logo: address, phone, email, thank-you message and footer note.
+the logo (the student's site logo if it has one, otherwise the full logo):
+address, phone, email, thank-you message and footer note. These fields are
+shared by every site.
 
 This is where the details a family needs on their proof of payment belong.
 Already-generated receipts aren't rewritten: the change applies to receipts

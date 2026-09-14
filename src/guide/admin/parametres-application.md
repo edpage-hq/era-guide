@@ -31,8 +31,8 @@ teinte à la main.
 Deux logos distincts, et la différence compte :
 
 - Le **logo complet** s'affiche dans le menu déployé et sur la page
-  d'accueil. C'est aussi celui qui apparaît sur les reçus de paiement, et
-  sur les bulletins des sites qui n'ont pas de logo propre (voir
+  d'accueil. C'est aussi celui qui apparaît sur les bulletins et les reçus
+  de paiement des sites qui n'ont pas de logo propre (voir
   [Structure de l'établissement](/guide/admin/structure-etablissement)).
 - Le **logo icône** s'affiche dans le menu réduit. Si vous ne le
   renseignez pas, le logo complet est utilisé à sa place — ce qui donne
@@ -48,8 +48,9 @@ le texte par défaut dans cette langue.
 ## Personnalisation des reçus
 
 Ces champs s'impriment sur **chaque reçu de paiement généré**, en plus du
-logo complet : adresse, téléphone, e-mail, message de remerciement et note
-de bas de page.
+logo (celui du site de l'élève s'il en a un, sinon le logo complet) :
+adresse, téléphone, e-mail, message de remerciement et note de bas de page.
+Ces champs sont communs à tous les sites.
 
 C'est ici qu'on met les mentions que la famille doit retrouver sur son
 justificatif. Les reçus déjà générés ne sont pas réécrits : le changement

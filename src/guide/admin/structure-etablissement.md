@@ -48,19 +48,24 @@ Pour créer un site : allez dans **Structure scolaire → Sites**, cliquez sur
 ### Logo du site
 
 Une fois le site créé, sa page **Modifier** propose un **logo du site**,
-sous le formulaire nom/adresse. Ce logo s'imprime sur les bulletins des
-classes rattachées à ce site, à la place du logo de l'établissement. Les
-sites qui n'ont pas de logo propre continuent d'utiliser celui des
+sous le formulaire nom/adresse. Ce logo s'imprime, à la place du logo de
+l'établissement, sur :
+
+- les **bulletins** des classes rattachées à ce site ;
+- les **reçus de paiement** des élèves inscrits dans une classe de ce site.
+
+Les sites qui n'ont pas de logo propre continuent d'utiliser celui des
 [paramètres de l'application](/guide/admin/parametres-application) — vous
 n'avez donc rien à faire si tous vos campus partagent la même identité.
 
-Le logo ne sert qu'aux bulletins : le menu, la page d'accueil publique et
-les reçus de paiement gardent le logo de l'établissement.
+Seul le logo change : le menu et la page d'accueil publique gardent le logo
+de l'établissement, et l'adresse, le téléphone et l'e-mail imprimés sur les
+reçus restent ceux des paramètres de l'application.
 
 Formats acceptés : PNG, JPG, WebP ou SVG, 2 Mo maximum. Le bouton
 **Retirer** supprime le logo du site et ramène celui de l'établissement.
-Les bulletins déjà publiés ne sont pas réécrits : le changement s'applique
-aux bulletins générés ensuite.
+Les bulletins et reçus déjà générés ne sont pas réécrits : le changement
+s'applique aux documents produits ensuite.
 
 ## Départements
 

@@ -12,8 +12,9 @@ choisir une licence.
 
 ## Créer le compte de votre établissement
 
-L'inscription se fait depuis le site public d'ERA, avec un formulaire
-très court :
+L'inscription se fait depuis le site public d'Era Admission : cliquez sur
+**Créer mon espace gratuit** sur sa page d'accueil, puis remplissez un
+formulaire très court :
 
 1. Le nom de votre établissement.
 2. Votre nom.

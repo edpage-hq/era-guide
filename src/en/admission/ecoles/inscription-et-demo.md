@@ -11,7 +11,8 @@ solution before choosing a license.
 
 ## Creating your school's account
 
-Signup happens on ERA's public site, through a very short form:
+Signup happens on Era Admission's public site: click **Create my free
+space** on its home page, then fill in a very short form:
 
 1. Your school's name.
 2. Your name.

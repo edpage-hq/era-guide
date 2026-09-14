@@ -75,6 +75,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Timetables', link: 'admin/emplois-du-temps' },
         { text: 'Report cards', link: 'admin/bulletins' },
         { text: 'Extracurricular activities', link: 'admin/activites-extrascolaires' },
+        { text: 'Homepage', link: 'admin/page-accueil' },
         { text: 'App settings', link: 'admin/parametres-application' },
         { text: 'Full demo and activity log', link: 'admin/demo-et-journal' },
       ],

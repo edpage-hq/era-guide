@@ -41,9 +41,9 @@ Deux logos distincts, et la différence compte :
 
 ## Accroche d'accueil
 
-L'**accroche** et le **sous-titre** affichés sur la page d'accueil publique,
-saisis séparément pour chaque langue. Laissez un champ vide pour conserver
-le texte par défaut dans cette langue.
+L'accroche et le sous-titre de la page d'accueil ne se modifient plus ici :
+ils ont rejoint le reste du contenu de la page, dans
+[Page d'accueil](/guide/admin/page-accueil).
 
 ## Personnalisation des reçus
 

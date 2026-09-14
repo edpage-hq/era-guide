@@ -106,6 +106,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Emplois du temps', link: 'admin/emplois-du-temps' },
         { text: 'Bulletins', link: 'admin/bulletins' },
         { text: 'Activités extrascolaires', link: 'admin/activites-extrascolaires' },
+        { text: "Page d'accueil", link: 'admin/page-accueil' },
         { text: "Paramètres de l'application", link: 'admin/parametres-application' },
         { text: "Démo complète et journal d'activité", link: 'admin/demo-et-journal' },
       ],

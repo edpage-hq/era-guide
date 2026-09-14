@@ -39,9 +39,8 @@ Two separate logos, and the difference matters:
 
 ## Home page tagline
 
-The **tagline** and **subtitle** shown on the public home page, entered
-separately for each language. Leave a field empty to keep the default text
-in that language.
+The homepage tagline and subtitle are no longer edited here: they joined
+the rest of the page's content, in [Homepage](/en/guide/admin/page-accueil).
 
 ## Receipt customisation
 

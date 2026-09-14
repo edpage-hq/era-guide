@@ -10,6 +10,9 @@ family (channel **Online**) or was entered by the cashier for a family
 visiting in person (channel **Cashier**). This is the page where you
 decide to accept or reject each application.
 
+Families reach the public form through the **Enrol my child** button on
+the school's homepage.
+
 ::: tip
 Viewing the queue is always available. Assigning a class (approving an
 application) depends on the Admissions module being enabled for your

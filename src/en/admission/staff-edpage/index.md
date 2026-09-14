@@ -6,9 +6,14 @@ layout: doc
 
 The internal Era Admission panel is the tool reserved for the edPage
 team to manage the lifecycle of schools signed up online: granting a
-license, ending a demo early, or purging an expired school. It has
-nothing to do with a client school's own user account — it's an
-entirely separate access.
+license, ending a demo early, or purging an expired school. It's also
+where the team edits Era Admission's **landing page** and handles the
+**contact requests** it receives. It has nothing to do with a client
+school's own user account — it's an entirely separate access.
+
+The menu at the top of the panel leads to its three screens: **Schools**,
+**Landing page** and **Contact requests**. **View landing page** opens the
+public page in a new tab.
 
 ## Logging into the panel
 
@@ -92,3 +97,61 @@ purged automatically once its grace period elapses. Use this manual
 action only to purge a school ahead of that automatic deadline — for
 example at the school's explicit request to delete its data without
 waiting.
+
+## Editing the landing page
+
+The landing page is the public page shown at Era Admission's main
+address (the central domain, not a school's subdomain). It presents the
+offer to schools and leads to the free signup or to a proposal request.
+No price appears on it: prices stay in the personalised proposal sent to
+each school.
+
+The **Landing page** screen lists the parts of the page, in display
+order:
+
+| Part                           | Editable content                     | Shown                                         |
+| ------------------------------ | ------------------------------------ | --------------------------------------------- |
+| **Header**                     | Headline title and text              | Always                                        |
+| **Free offer**                 | Title and text about ERA Admissions  | If **Show** is ticked                         |
+| **Modules**                    | Title, text and one card per module  | If **Show** is ticked and there is a card     |
+| **Formulas**                   | Title, text and one card per formula | If **Show** is ticked and there is a card     |
+| **Onboarding**                 | Title, text and one card per step    | If **Show** is ticked and there is a card     |
+| **Frequently asked questions** | Title, questions and answers         | If **Show** is ticked and there is a question |
+| **Contact**                    | Title and text above the form        | Always                                        |
+
+The header buttons (**Create my free space** and **Request a proposal**)
+and the contact form's fields aren't editable.
+
+### Default texts
+
+Each text is entered in French and in English. A field left empty shows
+its language's default text, visible greyed out in the field. You only
+need to fill in what you want to change. If you write in a single
+language, that text is reused for the other.
+
+At first deployment, the modules, formulas, steps and FAQ are already
+filled in from the commercial proposal. Edit or delete them freely.
+
+### Managing cards and questions
+
+- **Add a card** or **Add a question** opens a form; the title (or the
+  question and answer) is required in at least one language.
+- The **Move up** and **Move down** arrows change the display order. For
+  **Onboarding**, that order is also the step numbering on the page.
+- **Edit** reopens the item; **Delete** removes it permanently.
+
+Each block shows its state: **Shown**, **Hidden** (unticked) or **Empty,
+not shown** (no card or question). Saving is immediate.
+
+## Handling contact requests
+
+The landing page's form sends its requests to the **Contact requests**
+screen. The number of requests still to handle shows as a badge next to
+its name, in the panel's menu.
+
+Each request shows the school, the person's name, the date, the language
+they were browsing the landing page in, their email and phone (clickable)
+and their message. Requests **To handle** come first, newest first.
+
+Once you have got back to the school, click **Mark as handled**. **Mark
+as to handle** undoes it.

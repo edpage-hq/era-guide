@@ -36,7 +36,7 @@ cours. Supprimer une année scolaire est définitif et irréversible.
 ## Sites
 
 Si votre établissement a plusieurs campus, **Structure scolaire → Sites**
-vous permet de les gérer. Un site n'a que deux champs : **Nom** et
+vous permet de les gérer. Un site a deux champs : **Nom** et
 **Adresse**. Chaque département, classe, grille de frais et employé est
 ensuite rattaché à un site — si vous n'avez qu'un seul campus, créez un
 unique site et rattachez-y tout le reste.
@@ -44,6 +44,23 @@ unique site et rattachez-y tout le reste.
 Pour créer un site : allez dans **Structure scolaire → Sites**, cliquez sur
 **Nouveau site**, renseignez le nom (et l'adresse, facultative), puis
 **Enregistrer**.
+
+### Logo du site
+
+Une fois le site créé, sa page **Modifier** propose un **logo du site**,
+sous le formulaire nom/adresse. Ce logo s'imprime sur les bulletins des
+classes rattachées à ce site, à la place du logo de l'établissement. Les
+sites qui n'ont pas de logo propre continuent d'utiliser celui des
+[paramètres de l'application](/guide/admin/parametres-application) — vous
+n'avez donc rien à faire si tous vos campus partagent la même identité.
+
+Le logo ne sert qu'aux bulletins : le menu, la page d'accueil publique et
+les reçus de paiement gardent le logo de l'établissement.
+
+Formats acceptés : PNG, JPG, WebP ou SVG, 2 Mo maximum. Le bouton
+**Retirer** supprime le logo du site et ramène celui de l'établissement.
+Les bulletins déjà publiés ne sont pas réécrits : le changement s'applique
+aux bulletins générés ensuite.
 
 ## Départements
 

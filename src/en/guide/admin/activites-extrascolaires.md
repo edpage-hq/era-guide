@@ -11,7 +11,7 @@ administration's.
 
 ## Create an activity
 
-**Extracurricular Activities → Extracurricular Activities** lists the
+**School setup → Extracurricular Activities** lists the
 instance's activity catalog.
 
 To create an activity:
@@ -22,7 +22,7 @@ To create an activity:
 
 ## Schedule a session
 
-**Extracurricular Activities → Extracurricular Sessions** schedules
+**School setup → Extracurricular Sessions** schedules
 recurring slots for an activity, by site and level, with a designated
 supervisor.
 

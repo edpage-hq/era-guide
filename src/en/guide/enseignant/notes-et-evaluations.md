@@ -11,7 +11,7 @@ how to record your observations there.
 
 ## Create an evaluation
 
-1. Open **Grades → Evaluations** in the menu.
+1. Open **Teaching → Evaluations** in the menu.
 2. Click **New evaluation**.
 3. In the **Context** section, choose the **Class**, **Subject**,
    **Academic period** and **Evaluation type** — all four lists only offer
@@ -49,7 +49,7 @@ action runs.
 Some departments — typically nursery and pre-school — are graded by
 competency rather than by numeric score: the teacher is assigned to the
 whole class there, with no separate subject, and the administrator defines
-a list of competencies to observe (admin menu **Grades → Competencies**).
+a list of competencies to observe (admin menu **School setup → Competencies**).
 If one of your classes belongs to such a department, a **Competency
 observations** page is available for it.
 

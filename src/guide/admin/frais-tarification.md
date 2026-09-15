@@ -11,7 +11,7 @@ caisse — vous n'intervenez ici que sur la tarification et les remises.
 
 ## Grilles de frais
 
-**Paiements → Grilles de frais** définit, pour un site, un département et
+**Paramétrage scolaire → Grilles de frais** définit, pour un site, un département et
 une année scolaire donnés, la liste des frais dus par les élèves de ce
 département sur ce site et cette année. Un élève sans grille de frais
 correspondant à son site/département/année n'a aucun montant calculé.
@@ -38,7 +38,7 @@ ses articles.
 ## Remises
 
 Les remises se gèrent non pas sur la grille de frais elle-même, mais sur la
-facturation d'un élève précis : **Paiements → Facturation**, recherchez
+facturation d'un élève précis : **Finances → Facturation**, recherchez
 l'élève, cliquez sur **Voir** pour ouvrir son dossier de facturation.
 
 Sur cet écran, vous seul (en tant qu'administrateur — la caisse ne peut

@@ -12,7 +12,7 @@ sans affectation enseignant, vous ne pouvez ajouter aucun créneau.
 
 ## Construire l'emploi du temps d'une classe
 
-Depuis **Structure scolaire → Classes**, cliquez sur **Emploi du temps**
+Depuis **Paramétrage scolaire → Classes**, cliquez sur **Emploi du temps**
 sur la ligne de la classe concernée.
 
 Pour ajouter un créneau :

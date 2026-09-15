@@ -6,14 +6,14 @@ layout: doc
 
 This section covers two distinct things that shouldn't be confused: the
 **user account** (sign-in credentials + role, under **Users**) and the
-**employee record** (position, site, contracts, under the **Employees**
-section). A teacher, for example, needs both — an account to sign in,
+**employee record** (position, site, contracts, in the **Staff**
+group). A teacher, for example, needs both — an account to sign in,
 a record for their position and contracts — but these are two separate
 screens.
 
 ## Create a user account and assign a role
 
-**Users** (near the top of the menu) lists every account on the instance,
+**Users** (in the menu's **Administration** group) lists every account on the instance,
 with a search by name/email, a filter by role, and each account's
 verified/unverified and active/inactive status.
 
@@ -38,7 +38,7 @@ From the list, each account offers:
 
 ## Manage staff records and contracts
 
-The **Employees** section lists employee records — position, site, hire
+The **Employees** page (in the **Staff** group) lists employee records — position, site, hire
 date, and status — distinct from user accounts.
 
 To create an employee record:
@@ -81,7 +81,7 @@ Each listed contract then offers **View document** (if there is one) and
 
 ## Assign teachers to classes and subjects
 
-**Grades → Teacher Assignments** is what authorizes a teacher to enter
+**School setup → Teacher Assignments** is what authorizes a teacher to enter
 grades or observations for a given class — without an assignment, they
 have access to nothing.
 
@@ -113,7 +113,7 @@ section):
 
 Every other administrator on the instance is then notified.
 
-**Reviewing a request** — the **Employees → Staff transfers** section
+**Reviewing a request** — the **Staff → Staff transfers** section
 lists requests, with a filter by status (Pending, Approved, Rejected).
 Open a request via **Review** to see the employee, the origin and
 destination sites, the reason, then:

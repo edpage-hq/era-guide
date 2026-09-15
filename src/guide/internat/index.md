@@ -7,12 +7,12 @@ layout: doc
 En tant que responsable de l'internat, vous avez deux missions dans ERA :
 gérer les lits (les créer, les modifier, et affecter un élève interne à
 chacun) et enregistrer chaque jour les présences en internat, le soir et le
-matin. Le menu de gauche vous donne accès à deux pages, sous la section
-« Internat » : **Internat — Lits** et **Présences internat**.
+matin. Le menu de gauche vous donne accès à deux pages, dans le groupe
+« Services aux élèves » : **Lits de l'internat** et **Présences internat**.
 
 ## Gérer les lits
 
-La page **Internat — Lits** liste tous les lits de l'internat, avec le
+La page **Lits de l'internat** liste tous les lits de l'internat, avec le
 site, la chambre, le lit et l'élève qui l'occupe (ou « Non affecté » s'il
 est libre). Vous pouvez filtrer la liste par site avec le menu déroulant
 en haut de la page, ou rechercher un lit par code de chambre ou de lit.
@@ -21,7 +21,7 @@ l'occupant.
 
 ### Créer un lit
 
-1. Cliquez sur **Nouveau lit** en haut de la page **Internat — Lits**.
+1. Cliquez sur **Nouveau lit** en haut de la page **Lits de l'internat**.
 2. Choisissez le **Site** auquel appartient ce lit.
 3. Renseignez la **Chambre** (le code de la chambre) et le **Lit** (le code
    du lit dans cette chambre).
@@ -36,7 +36,7 @@ affecté à ce lit).
 
 ### Modifier un lit ou réaffecter son occupant
 
-1. Depuis la page **Internat — Lits**, cliquez sur **Modifier** sur la
+1. Depuis la page **Lits de l'internat**, cliquez sur **Modifier** sur la
    ligne du lit concerné.
 2. Mettez à jour le site, la chambre, le lit ou l'occupant selon les
    besoins. Pour libérer un lit, choisissez à nouveau **Non affecté** dans
@@ -46,7 +46,7 @@ affecté à ce lit).
 
 ### Supprimer un lit
 
-Depuis la page **Internat — Lits**, cliquez sur **Supprimer** sur la ligne
+Depuis la page **Lits de l'internat**, cliquez sur **Supprimer** sur la ligne
 du lit concerné, puis confirmez dans la fenêtre qui s'affiche. Un lit
 occupé ne peut pas être supprimé : libérez d'abord son occupant (en
 modifiant le lit et en repassant l'**Occupant** sur « Non affecté »)

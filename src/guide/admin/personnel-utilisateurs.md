@@ -7,13 +7,13 @@ layout: doc
 Cette section couvre deux choses distinctes qu'il ne faut pas confondre :
 le **compte utilisateur** (identifiants de connexion + rôle, dans
 **Utilisateurs**) et la **fiche employé** (poste, site, contrats, dans la
-section **Employés**). Un enseignant, par exemple, a besoin
+groupe **Personnel**). Un enseignant, par exemple, a besoin
 des deux — un compte pour se connecter, une fiche pour son poste et ses
 contrats — mais ce sont deux écrans séparés.
 
 ## Créer un compte utilisateur et lui assigner un rôle
 
-**Utilisateurs** (en haut du menu) liste tous les comptes de l'instance,
+**Utilisateurs** (groupe **Administration** du menu) liste tous les comptes de l'instance,
 avec une recherche par nom/e-mail, un filtre par rôle, et le statut
 vérifié/non vérifié et actif/inactif de chacun.
 
@@ -39,7 +39,7 @@ Depuis la liste, chaque compte propose :
 
 ## Gérer les fiches et contrats du personnel
 
-La section **Employés** liste les fiches employé — poste, site, date
+La page **Employés** (groupe **Personnel**) liste les fiches employé — poste, site, date
 d'embauche et statut — distinctes des comptes utilisateurs.
 
 Pour créer une fiche employé :
@@ -82,7 +82,7 @@ et **Supprimer** (définitif, supprime aussi le document).
 
 ## Affecter les enseignants à des classes et des matières
 
-**Notes → Affectations enseignants** est ce qui autorise un enseignant à
+**Paramétrage scolaire → Affectations enseignants** est ce qui autorise un enseignant à
 saisir des notes ou des observations pour une classe donnée : sans
 affectation, il n'a accès à rien.
 
@@ -114,7 +114,7 @@ soumis la demande).
 
 Tous les autres administrateurs de l'instance sont alors notifiés.
 
-**Examiner une demande** — section **Employés → Mutations de personnel**
+**Examiner une demande** — section **Personnel → Mutations de personnel**
 liste les demandes, avec un filtre par statut (En attente, Approuvé,
 Refusé). Ouvrez une demande via **Examiner** pour voir l'employé, les
 sites d'origine et de destination, le motif, puis :

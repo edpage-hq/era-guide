@@ -11,7 +11,7 @@ accessible à tout enseignant.
 ## Le registre de classe (professeur principal)
 
 Si vous êtes désigné professeur principal d'une ou plusieurs classes, le
-menu **Notes → Ma classe** vous donne une vue consolidée de chacune d'elles.
+menu **Enseignement → Ma classe** vous donne une vue consolidée de chacune d'elles.
 
 Pour chaque classe, un tableau récapitule, par élève :
 
@@ -32,7 +32,7 @@ l'indique et ne propose rien d'autre.
 
 ## Consulter votre emploi du temps
 
-Le menu **Emploi du temps → Mon emploi du temps** affiche vos créneaux de
+Le menu **Enseignement → Mon emploi du temps** affiche vos créneaux de
 cours de la semaine : jour, heure de début, heure de fin, classe et
 matière. Le bouton **Exporter (iCal)** télécharge votre emploi du temps
 dans un fichier que vous pouvez importer dans votre application de

@@ -11,7 +11,7 @@ qui déclenchez la génération et la mise à disposition des bulletins.
 
 ## Publier les bulletins d'une classe
 
-Depuis **Structure scolaire → Classes**, cliquez sur **Bulletins** sur la
+Depuis **Paramétrage scolaire → Classes**, cliquez sur **Bulletins** sur la
 ligne de la classe concernée.
 
 Pour publier :

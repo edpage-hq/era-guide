@@ -68,8 +68,13 @@ observations** page is available for it.
 2. Choose the **academic period** from the selector at the top of the page
    — the list of students and competencies reloads automatically.
 3. For each student and each competency, choose a level: **Not acquired**,
-   **In progress** or **Acquired**, and optionally add a comment.
+   **In progress** or **Acquired**, and optionally add a comment. Each
+   student has their own card, with one line per competency.
 4. Click **Save**.
+
+A level is required for **every** competency of **every** student: if one
+is missing, nothing is saved, a message says so above the list and the
+levels still to fill in are outlined in red.
 
 If the class's department has no competencies defined yet, the page shows
 "This department has no competencies to observe" — an administrator needs

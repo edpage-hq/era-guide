@@ -64,9 +64,17 @@ bed has been assigned yet.
    or the period automatically reloads the list with any attendance
    already recorded for that choice.
 4. For each student in the list (shown with their site, room, and bed),
-   choose their status from the corresponding dropdown: **Present** or
-   **Absent**.
+   tap **Present** or **Absent**.
 5. Once every row has been checked, click **Save**.
+
+::: tip A roll call built for phones
+Each student has a **Present** / **Absent** switch; everyone starts as
+**Present**, and the **Everyone present** button resets the whole list to that
+status. The counters above the list update on every tap, and the bottom
+bar shows "Unsaved changes" until you click **Save** — leaving the page
+or changing the date at that point asks for confirmation. Attendance
+can't be recorded for a future date.
+:::
 
 You can go back to a date you've already recorded at any time to correct
 a status: the values already saved for that date and period are

@@ -25,9 +25,18 @@ it after confirmation — this cannot be undone.
 
 **Student services → Cafeteria attendance** shows, for the date selected at the
 top of the page (the current day by default), the list of students
-currently subscribed to the cafeteria. For each one, set the **Status** —
-**Ate** or **Absent** — then click **Save** to record the whole day's
-attendance at once. If no student is subscribed, the page says so.
+currently subscribed to the cafeteria. For each one, tap **Ate** or
+**Absent**, then click **Save** to record the whole day's attendance at
+once. If no student is subscribed, the page says so.
+
+::: tip A roll call built for phones
+Each student has a **Ate** / **Absent** switch; everyone starts as
+**Ate**, and the **Everyone ate** button resets the whole list to that
+status. The counters above the list update on every tap, and the bottom
+bar shows "Unsaved changes" until you click **Save** — leaving the page
+or changing the date at that point asks for confirmation. Attendance
+can't be recorded for a future date.
+:::
 
 ## Assign students to transport routes
 
@@ -45,8 +54,10 @@ student from their route after confirmation.
    their site. Click **Take attendance** on the relevant route.
 2. Choose the **date** and the **direction** of the trip — **Pickup** or
    **Drop-off** — at the top of the page.
-3. For each student assigned to the route, set the **Status**: **Present**
-   or **Absent**.
+3. For each student assigned to the route, tap **Present** or
+   **Absent** — the **Everyone present** button resets the whole list to
+   present.
 4. Click **Save**.
 
-If no student is assigned to the route, the page says so.
+If no student is assigned to the route, the page says so. This roll call
+works like the cafeteria one (see the tip above).

@@ -67,9 +67,18 @@ qu'aucun lit n'est encore affecté.
    moment recharge automatiquement la liste avec les présences déjà
    saisies pour ce choix, s'il y en a.
 4. Pour chaque élève de la liste (avec son site, sa chambre et son lit),
-   choisissez son statut dans le menu déroulant correspondant : **Présent**
-   ou **Absent**.
+   touchez **Présent** ou **Absent**.
 5. Une fois toutes les lignes vérifiées, cliquez sur **Enregistrer**.
+
+::: tip Un pointage pensé pour le téléphone
+Chaque élève a son bouton **Présent** / **Absent** ; tout le monde est
+**Présent** par défaut, et le bouton **Tous présents** remet toute la liste
+à ce statut. Les compteurs en haut de liste se mettent à jour à chaque
+clic, et la barre du bas signale « Modifications non enregistrées » tant
+que vous n'avez pas cliqué sur **Enregistrer** — quitter la page ou
+changer de date à ce moment-là demande confirmation. Un pointage ne peut
+pas être saisi pour une date future.
+:::
 
 Vous pouvez revenir sur une date déjà saisie à tout moment pour corriger
 un statut : les valeurs déjà enregistrées pour cette date et ce moment

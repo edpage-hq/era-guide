@@ -12,7 +12,7 @@ periods → competencies (if needed).
 
 ## Academic years
 
-**School Structure → Academic Years** lists your instance's academic
+**School setup → Academic Years** lists your instance's academic
 years, with the number of classes in each. Only one year is "Current" at
 a time — it's the one that appears by default on the dashboard and on new
 forms.
@@ -34,13 +34,13 @@ Deleting an academic year is permanent and irreversible.
 
 ## Sites
 
-If your school has multiple campuses, **School Structure → Sites** lets you
+If your school has multiple campuses, **School setup → Sites** lets you
 manage them. A site only has two fields: **Name** and **Address**. Every
 department, class, fee structure, and employee is then attached to a
 site — if you only have one campus, create a single site and attach
 everything else to it.
 
-To create a site: go to **School Structure → Sites**, click **New site**,
+To create a site: go to **School setup → Sites**, click **New site**,
 fill in the name (and the optional address), then **Save**.
 
 ### Site logo
@@ -68,7 +68,7 @@ applies to documents produced afterwards.
 ## Departments
 
 A department corresponds to a level or track (e.g. "Preschool", "Middle
-School", "IB Senior Year"). **School Structure → Departments** lists the
+School", "IB Senior Year"). **School setup → Departments** lists the
 instance's departments along with the sites where each is active.
 
 To create a department:
@@ -86,7 +86,7 @@ To create a department:
 
 ## Classes
 
-**School Structure → Classes** lists classes, with filters by site,
+**School setup → Classes** lists classes, with filters by site,
 department, and academic year, and each class's enrolled headcount (out of
 its capacity, if you set one).
 
@@ -119,17 +119,17 @@ From the class list, each row also offers quick links to that class's
 
 ## Subjects
 
-**Grades → Subjects** is the instance's global subject catalog (e.g.
+**School setup → Subjects** is the instance's global subject catalog (e.g.
 "Mathematics", "English"). A subject only has a name; attaching it to a
 department (see below) is what defines its coefficient and its grading
 scale.
 
-To create a subject: **Grades → Subjects**, **New subject**, fill in the
+To create a subject: **School setup → Subjects**, **New subject**, fill in the
 name, **Save**.
 
 ## Subjects by department
 
-**Grades → Subjects by Department** attaches a catalog subject to a
+**School setup → Subjects by Department** attaches a catalog subject to a
 department, with the grading rules specific to that department.
 
 To create an assignment:
@@ -148,17 +148,17 @@ To create an assignment:
 
 ## Evaluation types
 
-**Grades → Evaluation Types** defines the evaluation categories used by
+**School setup → Evaluation Types** defines the evaluation categories used by
 teachers (homework, exam, quiz...) and the weight of each in a subject's
 average calculation.
 
-To create a type: **Grades → Evaluation Types**, **New evaluation type**,
+To create a type: **School setup → Evaluation Types**, **New evaluation type**,
 fill in the **Name** and the **Weight** (e.g. 1 for homework, 2 for an
 exam), **Save**.
 
 ## Academic periods
 
-**Grades → Academic Periods** defines the grading periods (terms,
+**School setup → Academic Periods** defines the grading periods (terms,
 semesters...) of an academic year — they're used both for grade entry by
 teachers and for publishing report cards.
 
@@ -178,10 +178,10 @@ To create a period:
 
 ## Competencies
 
-**Grades → Competencies** only applies to qualitative departments (nursery,
+**School setup → Competencies** only applies to qualitative departments (nursery,
 preschool): instead of numeric grades, teachers observe competencies there
 (e.g. "Recognizes colors").
 
-To create a competency: **Grades → Competencies**, **New competency**,
+To create a competency: **School setup → Competencies**, **New competency**,
 choose the qualitative **Department** concerned, fill in the **Name**,
 **Save**.

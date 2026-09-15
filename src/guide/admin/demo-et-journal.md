@@ -30,7 +30,7 @@ l'accès repasse en lecture seule jusqu'à l'achat d'une licence.
 
 ## Consulter le journal d'activité
 
-**Journal d'activité** (en haut du menu) est un historique de qui a créé,
+**Journal d'activité** (groupe **Administration** du menu) est un historique de qui a créé,
 modifié ou supprimé quoi dans l'application, et quand.
 
 Vous pouvez filtrer la liste par :

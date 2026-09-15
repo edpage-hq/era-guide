@@ -12,7 +12,7 @@ sont créées par l'administrateur — voir
 
 ## Faire l'appel à une séance
 
-1. Ouvrez **Vie scolaire → Présences activités périscolaires**. La liste
+1. Ouvrez **Vie scolaire → Présences périscolaires**. La liste
    affiche les séances planifiées, avec l'activité, le site, le
    département et le jour/horaire de la séance.
 2. Cliquez sur **Faire l'appel** sur la séance concernée.

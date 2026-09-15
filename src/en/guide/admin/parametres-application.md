@@ -4,7 +4,8 @@ layout: doc
 
 # App settings
 
-**App settings**, at the top of the left-hand menu, groups everything that
+**App settings**, in the **Administration** group of the left-hand menu,
+groups everything that
 customises your ERA instance: its visual identity, what gets printed on
 receipts, and two settings that genuinely change how the app behaves for
 everyone else.

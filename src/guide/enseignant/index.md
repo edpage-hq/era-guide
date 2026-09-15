@@ -6,7 +6,7 @@ layout: doc
 
 En tant qu'enseignant, vous ne voyez que vos propres classes et matières :
 celles pour lesquelles l'administrateur vous a explicitement affecté (côté
-administration, menu **Notes → Affectations enseignants**). Si une classe ou
+administration, menu **Paramétrage scolaire → Affectations enseignants**). Si une classe ou
 une matière n'apparaît pas dans vos listes déroulantes, c'est qu'aucune
 affectation ne vous relie encore à elle — signalez-le à l'administrateur.
 

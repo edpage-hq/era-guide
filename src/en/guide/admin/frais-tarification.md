@@ -11,7 +11,7 @@ pricing and discounts.
 
 ## Fee structures
 
-**Payments → Fee Structures** defines, for a given site, department, and
+**School setup → Fee Structures** defines, for a given site, department, and
 academic year, the list of fees owed by students in that department, at
 that site, for that year. A student with no fee structure matching their
 site/department/year has no amount calculated.
@@ -37,7 +37,7 @@ Deleting a fee structure also permanently deletes all its items.
 ## Discounts
 
 Discounts aren't managed on the fee structure itself, but on a specific
-student's billing: **Payments → Billing**, search for the student, click
+student's billing: **Finances → Billing**, search for the student, click
 **View** to open their billing record.
 
 On that screen, you alone (as an administrator — the cashier can only

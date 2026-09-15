@@ -11,7 +11,7 @@ without a teacher assignment, you can't add any slot.
 
 ## Build a class's timetable
 
-From **School Structure → Classes**, click **Timetable** on the row for
+From **School setup → Classes**, click **Timetable** on the row for
 the class you want.
 
 To add a slot:

@@ -10,7 +10,7 @@ teacher.
 
 ## The homeroom class register
 
-If you are designated homeroom teacher for one or more classes, **Grades →
+If you are designated homeroom teacher for one or more classes, **Teaching →
 My homeroom class** gives you a consolidated view of each of them.
 
 For each class, a table summarizes, per student:
@@ -32,7 +32,7 @@ so and offers nothing else.
 
 ## View your schedule
 
-**Schedule → My schedule** shows your class sessions for the week: day,
+**Teaching → My schedule** shows your class sessions for the week: day,
 start time, end time, class and subject. The **Export (iCal)** button
 downloads your schedule as a file you can import into your personal
 calendar app (Google Calendar, Outlook, Apple Calendar…).

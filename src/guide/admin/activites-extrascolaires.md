@@ -11,7 +11,7 @@ vie scolaire, pas de l'administration.
 
 ## Créer une activité
 
-**Activités périscolaires → Activités périscolaires** liste le catalogue
+**Paramétrage scolaire → Activités périscolaires** liste le catalogue
 d'activités de l'instance.
 
 Pour créer une activité :
@@ -22,7 +22,7 @@ Pour créer une activité :
 
 ## Planifier une séance
 
-**Activités périscolaires → Séances périscolaires** planifie des créneaux
+**Paramétrage scolaire → Séances périscolaires** planifie des créneaux
 récurrents pour une activité, par site et niveau, avec un encadrant
 désigné.
 

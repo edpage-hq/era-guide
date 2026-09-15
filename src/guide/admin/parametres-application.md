@@ -4,7 +4,8 @@ layout: doc
 
 # Paramètres de l'application
 
-**Paramètres de l'application**, en haut du menu de gauche, regroupe tout
+**Paramètres de l'application**, dans le groupe **Administration** du menu
+de gauche, regroupe tout
 ce qui personnalise votre instance d'ERA : son identité visuelle, ce qui
 s'imprime sur les reçus, et deux réglages qui changent réellement le
 comportement de l'app pour les autres utilisateurs.

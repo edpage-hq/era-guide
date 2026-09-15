@@ -29,7 +29,7 @@ to read-only until you purchase a license.
 
 ## Review the activity log
 
-**Activity Log** (near the top of the menu) is a history of who created,
+**Activity Log** (in the menu's **Administration** group) is a history of who created,
 updated, or deleted what in the application, and when.
 
 You can filter the list by:

@@ -11,7 +11,7 @@ la dernière section explique comment y saisir vos observations.
 
 ## Créer une évaluation
 
-1. Ouvrez **Notes → Évaluations** dans le menu.
+1. Ouvrez **Enseignement → Évaluations** dans le menu.
 2. Cliquez sur **Nouvelle évaluation**.
 3. Dans la section **Contexte**, choisissez la **Classe**, la **Matière**,
    la **Période scolaire** et le **Type d'évaluation** — les quatre listes
@@ -51,7 +51,7 @@ demande confirmation avant que l'action, irréversible, ne soit exécutée.
 Certains départements — typiquement crèche et maternelle — sont notés par
 compétences plutôt que par notes chiffrées : l'enseignant y est affecté à
 toute la classe, sans matière distincte, et l'administrateur y définit une
-liste de compétences à observer (menu admin **Notes → Compétences**). Si
+liste de compétences à observer (menu admin **Paramétrage scolaire → Compétences**). Si
 l'une de vos classes relève d'un tel département, une page **Observations
 de compétences** est disponible pour elle.
 

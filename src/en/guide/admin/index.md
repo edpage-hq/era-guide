@@ -11,24 +11,31 @@ cashier...) work within a scope you've set up beforehand.
 
 ## Where to find the admin tools
 
-There isn't a single "Administration" menu: depending on what you want to
-do, you'll find it in one of the sections of the left-hand menu:
+The left-hand menu is organised by domain. The screens you use day to day
+are at the top:
 
-- **Users** and **Activity Log** appear near the top of the menu, just
-  below the dashboard.
-- **School Structure** groups academic years, sites, departments, classes,
-  and students.
-- **Grades** groups subjects, evaluation types, academic periods, subjects
-  by department, competencies, and teacher assignments.
-- **Payments** contains fee structures and billing.
-- Employees and staff transfers appear under the **Employees** section.
-- **Extracurricular Activities** groups the activity catalog and its
-  sessions.
-- **App Settings** (near the top of the menu) customises your instance and
-  controls two behaviours that affect other users — see
+- **Students & admissions**: students, new applications, the applications
+  queue and site transfers.
+- **Teaching** and **School life**: timetables, attendance, discipline and
+  extracurricular attendance.
+- **Student services**: cafeteria, transport, boarding and infirmary. This
+  group starts collapsed for an administrator.
+- **Finances**: billing and expenses.
+- **Staff**: employees, leave requests and staff transfers.
+
+The setup screens, opened less often, sit in two groups that start
+collapsed:
+
+- **School setup**: academic years and periods, sites, departments,
+  classes, subjects, subjects by department, teacher assignments,
+  evaluation types, competencies, fee structures, transport routes,
+  extracurricular activities and sessions.
+- **Administration**: users, activity log,
+  [Homepage](/en/guide/admin/page-accueil) and
   [App settings](/en/guide/admin/parametres-application).
-- **Homepage**, just above it, edits the public page families see on the
-  school's address — see [Homepage](/en/guide/admin/page-accueil).
+
+Click a group's name to expand or collapse it: ERA remembers your choice.
+The group of the page you're on always opens.
 
 ## What you can do
 

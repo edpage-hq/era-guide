@@ -26,7 +26,7 @@ per student for a given academic period.
 If you are the homeroom teacher of a class, you also enter an
 end-of-period general appreciation, separate from the per-subject ones.
 
-1. Open **Grades → My homeroom class**, then click **End-of-period
+1. Open **Teaching → My homeroom class**, then click **End-of-period
    appreciations** next to the relevant class.
 2. Choose the **academic period** from the selector at the top of the
    page.
@@ -41,7 +41,7 @@ end-of-period general appreciation, separate from the per-subject ones.
 The lesson log tracks, session by session, what was covered in class and
 the homework assigned, for all your class/subject assignments.
 
-1. Open **Grades → Lesson log**, then click **New entry**.
+1. Open **Teaching → Lesson log**, then click **New entry**.
 2. Choose the **Class** and **Subject**, then fill in the **Date**.
 3. Describe the **Content covered** (required) and, if relevant, the
    **Homework** assigned.

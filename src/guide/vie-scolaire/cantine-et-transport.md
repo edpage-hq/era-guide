@@ -12,7 +12,7 @@ circuits existants et pointez leur présence à la montée et à la descente.
 
 ## Gérer les menus de cantine
 
-1. Ouvrez **Cantine → Menus de cantine**, puis cliquez sur **Nouveau
+1. Ouvrez **Services aux élèves → Menus de cantine**, puis cliquez sur **Nouveau
    menu**.
 2. Choisissez le **Site** et la **Date** concernés.
 3. Décrivez le contenu dans **Menu**.
@@ -24,7 +24,7 @@ définitivement après confirmation — action irréversible.
 
 ## Pointer les présences à la cantine
 
-**Cantine → Pointage cantine** affiche, pour la date sélectionnée en haut
+**Services aux élèves → Pointage cantine** affiche, pour la date sélectionnée en haut
 de page (le jour en cours par défaut), la liste des élèves actuellement
 abonnés à la cantine. Pour chacun, réglez le **Statut** — **A mangé** ou
 **Absent** — puis cliquez sur **Enregistrer** pour valider tout le
@@ -33,7 +33,7 @@ l'indique.
 
 ## Affecter des élèves aux circuits de transport
 
-1. Ouvrez **Transport → Affectations aux circuits**, puis cliquez sur
+1. Ouvrez **Services aux élèves → Affectations aux circuits**, puis cliquez sur
    **Nouvelle affectation**.
 2. Choisissez l'**Élève** (seuls les élèves pas encore affectés à un
    circuit sont proposés) puis le **Circuit** de transport.
@@ -44,7 +44,7 @@ La liste des affectations se filtre par circuit. **Retirer** désaffecte un
 
 ## Pointer les présences au transport
 
-1. Ouvrez **Transport → Pointage transport**, qui liste les circuits avec
+1. Ouvrez **Services aux élèves → Pointage transport**, qui liste les circuits avec
    leur site. Cliquez sur **Pointer** sur le circuit concerné.
 2. Choisissez la **date** et le **sens** du trajet — **Montée** ou
    **Descente** — en haut de page.

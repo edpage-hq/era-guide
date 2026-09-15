@@ -6,7 +6,7 @@ layout: doc
 
 As a teacher, you only see your own classes and subjects: the ones the
 administrator has explicitly assigned to you (on the administration side,
-**Grades → Teacher assignments**). If a class or subject doesn't appear in
+**School setup → Teacher assignments**). If a class or subject doesn't appear in
 your dropdowns, no assignment links you to it yet — flag it to your
 administrator.
 

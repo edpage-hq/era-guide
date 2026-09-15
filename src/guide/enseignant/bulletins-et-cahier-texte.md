@@ -27,7 +27,7 @@ Si vous êtes professeur principal d'une classe, vous saisissez en plus une
 appréciation générale de fin de période, distincte des appréciations par
 matière.
 
-1. Ouvrez **Notes → Ma classe**, puis cliquez sur **Appréciations de fin de
+1. Ouvrez **Enseignement → Ma classe**, puis cliquez sur **Appréciations de fin de
    période** à côté de la classe concernée.
 2. Choisissez la **période scolaire** dans le sélecteur en haut de page.
 3. Pour chaque élève, renseignez l'**Appréciation générale** et la
@@ -41,7 +41,7 @@ matière.
 Le cahier de textes trace, séance par séance, ce qui a été fait en cours et
 les devoirs donnés, pour toutes vos affectations classe/matière.
 
-1. Ouvrez **Notes → Cahier de texte**, puis cliquez sur **Nouvelle entrée**.
+1. Ouvrez **Enseignement → Cahier de texte**, puis cliquez sur **Nouvelle entrée**.
 2. Choisissez la **Classe** et la **Matière**, puis renseignez la **Date**.
 3. Décrivez le **Contenu du cours** (obligatoire) et, si besoin, les
    **Devoirs** donnés.

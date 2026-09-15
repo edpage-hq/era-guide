@@ -13,7 +13,7 @@ compétences (si besoin).
 
 ## Années scolaires
 
-**Structure scolaire → Années scolaires** liste les années scolaires de
+**Paramétrage scolaire → Années scolaires** liste les années scolaires de
 votre instance, avec le nombre de classes de chacune. Une seule année est
 « En cours » à la fois — c'est celle qui apparaît par défaut dans le tableau
 de bord et sur les nouveaux formulaires.
@@ -35,13 +35,13 @@ cours. Supprimer une année scolaire est définitif et irréversible.
 
 ## Sites
 
-Si votre établissement a plusieurs campus, **Structure scolaire → Sites**
+Si votre établissement a plusieurs campus, **Paramétrage scolaire → Sites**
 vous permet de les gérer. Un site a deux champs : **Nom** et
 **Adresse**. Chaque département, classe, grille de frais et employé est
 ensuite rattaché à un site — si vous n'avez qu'un seul campus, créez un
 unique site et rattachez-y tout le reste.
 
-Pour créer un site : allez dans **Structure scolaire → Sites**, cliquez sur
+Pour créer un site : allez dans **Paramétrage scolaire → Sites**, cliquez sur
 **Nouveau site**, renseignez le nom (et l'adresse, facultative), puis
 **Enregistrer**.
 
@@ -70,7 +70,7 @@ s'applique aux documents produits ensuite.
 ## Départements
 
 Un département correspond à un niveau ou une filière (ex. « Maternelle »,
-« Collège », « Terminale BI »). **Structure scolaire → Départements** liste
+« Collège », « Terminale BI »). **Paramétrage scolaire → Départements** liste
 les départements de l'instance avec les sites où chacun est actif.
 
 Pour créer un département :
@@ -88,7 +88,7 @@ Pour créer un département :
 
 ## Classes
 
-**Structure scolaire → Classes** liste les classes, avec des filtres par
+**Paramétrage scolaire → Classes** liste les classes, avec des filtres par
 site, département et année scolaire, et le nombre d'élèves inscrits (sur
 l'effectif maximum si vous en avez défini un).
 
@@ -122,17 +122,17 @@ dédiés) — pas besoin de repasser par le menu.
 
 ## Matières
 
-**Notes → Matières** est le catalogue global des matières de l'instance
+**Paramétrage scolaire → Matières** est le catalogue global des matières de l'instance
 (ex. « Mathématiques », « Anglais »). Une matière n'a qu'un nom ; c'est son
 rattachement à un département (voir ci-dessous) qui définit son coefficient
 et son barème.
 
-Pour créer une matière : **Notes → Matières**, **Nouvelle matière**,
+Pour créer une matière : **Paramétrage scolaire → Matières**, **Nouvelle matière**,
 renseignez le nom, **Enregistrer**.
 
 ## Matières par département
 
-**Notes → Matières par département** rattache une matière du catalogue à un
+**Paramétrage scolaire → Matières par département** rattache une matière du catalogue à un
 département, avec les règles de notation propres à ce département.
 
 Pour créer un rattachement :
@@ -151,17 +151,17 @@ Pour créer un rattachement :
 
 ## Types d'évaluation
 
-**Notes → Types d'évaluation** définit les catégories d'évaluation
+**Paramétrage scolaire → Types d'évaluation** définit les catégories d'évaluation
 utilisées par les enseignants (devoir, composition, interrogation...) et le
 poids de chacune dans le calcul de la moyenne d'une matière.
 
-Pour créer un type : **Notes → Types d'évaluation**, **Nouveau type
+Pour créer un type : **Paramétrage scolaire → Types d'évaluation**, **Nouveau type
 d'évaluation**, renseignez le **Nom** et le **Poids** (ex. 1 pour un devoir,
 2 pour une composition), **Enregistrer**.
 
 ## Périodes scolaires
 
-**Notes → Périodes scolaires** définit les périodes de notation
+**Paramétrage scolaire → Périodes scolaires** définit les périodes de notation
 (trimestres, semestres...) d'une année scolaire — elles servent à la fois
 à la saisie des notes par les enseignants et à la publication des
 bulletins.
@@ -182,10 +182,10 @@ Pour créer une période :
 
 ## Compétences
 
-**Notes → Compétences** ne concerne que les départements qualitatifs
+**Paramétrage scolaire → Compétences** ne concerne que les départements qualitatifs
 (crèche, maternelle) : au lieu de notes chiffrées, les enseignants y
 observent des compétences (ex. « Reconnaît les couleurs »).
 
-Pour créer une compétence : **Notes → Compétences**, **Nouvelle
+Pour créer une compétence : **Paramétrage scolaire → Compétences**, **Nouvelle
 compétence**, choisissez le **Département** qualitatif concerné, renseignez
 le **Nom**, **Enregistrer**.

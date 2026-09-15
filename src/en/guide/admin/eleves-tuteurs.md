@@ -10,7 +10,7 @@ access to the student portal, and their specialty subjects.
 
 ## Student records
 
-**School Structure → Students** lists the instance's students, with a
+**Students & admissions → Students** lists the instance's students, with a
 search by name and a filter by class (including "Unassigned" for students
 with no class in the current year).
 

@@ -12,26 +12,32 @@ dans un périmètre que vous avez préalablement mis en place.
 
 ## Où trouver les outils d'administration
 
-Il n'y a pas un menu unique « Administration » : selon ce que vous voulez
-faire, vous le trouvez dans une des sections du menu de gauche :
+Le menu de gauche est organisé par domaine. Les écrans que vous utilisez
+au quotidien sont en haut :
 
-- **Utilisateurs** et **Journal d'activité** apparaissent en haut du menu,
-  juste sous le tableau de bord.
-- **Structure scolaire** regroupe années scolaires, sites, départements,
-  classes et élèves.
-- **Notes** regroupe matières, types d'évaluation, périodes scolaires,
-  matières par département, compétences et affectations enseignants.
-- **Paiements** contient les grilles de frais et la facturation.
-- Les employés et les mutations de personnel apparaissent dans la section
-  **Employés**.
-- **Activités périscolaires** regroupe le catalogue d'activités et leurs
-  séances.
-- **Paramètres de l'application** (en haut du menu) personnalise votre
-  instance et règle deux comportements qui affectent les autres
-  utilisateurs — voir [Paramètres de l'application](/guide/admin/parametres-application).
-- **Page d'accueil**, juste au-dessus, modifie la page publique que voient
-  les familles sur l'adresse de l'établissement — voir
-  [Page d'accueil](/guide/admin/page-accueil).
+- **Élèves et admissions** : les élèves, les nouveaux dossiers, les
+  dossiers à traiter et la mobilité inter-site.
+- **Enseignement** et **Vie scolaire** : les emplois du temps, les
+  présences, la discipline et les présences périscolaires.
+- **Services aux élèves** : la cantine, le transport, l'internat et
+  l'infirmerie. Ce groupe est replié par défaut pour un administrateur.
+- **Finances** : la facturation et les dépenses.
+- **Personnel** : les employés, les demandes de congé et les mutations de
+  personnel.
+
+Les écrans de mise en place, que l'on ouvre plus rarement, sont dans deux
+groupes repliés par défaut :
+
+- **Paramétrage scolaire** : années et périodes scolaires, sites,
+  départements, classes, matières, matières par département, affectations
+  enseignants, types d'évaluation, compétences, grilles de frais, circuits
+  de transport, activités et séances périscolaires.
+- **Administration** : utilisateurs, journal d'activité,
+  [Page d'accueil](/guide/admin/page-accueil) et
+  [Paramètres de l'application](/guide/admin/parametres-application).
+
+Cliquez sur le nom d'un groupe pour le déplier ou le replier : ERA retient
+votre choix. Le groupe de la page que vous consultez s'ouvre toujours.
 
 ## Ce que vous pouvez faire
 

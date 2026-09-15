@@ -11,7 +11,7 @@ generating and releasing the report cards.
 
 ## Publish a class's report cards
 
-From **School Structure → Classes**, click **Bulletins** on the row for
+From **School setup → Classes**, click **Bulletins** on the row for
 the class you want.
 
 To publish:

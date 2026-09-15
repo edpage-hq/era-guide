@@ -14,7 +14,7 @@ compétences (si besoin).
 ## Années scolaires
 
 **Paramétrage scolaire → Années scolaires** liste les années scolaires de
-votre instance, avec le nombre de classes de chacune. Une seule année est
+votre établissement, avec le nombre de classes de chacune. Une seule année est
 « En cours » à la fois — c'est celle qui apparaît par défaut dans le tableau
 de bord et sur les nouveaux formulaires.
 
@@ -71,7 +71,7 @@ s'applique aux documents produits ensuite.
 
 Un département correspond à un niveau ou une filière (ex. « Maternelle »,
 « Collège », « Terminale BI »). **Paramétrage scolaire → Départements** liste
-les départements de l'instance avec les sites où chacun est actif.
+les départements de l'établissement avec les sites où chacun est actif.
 
 Pour créer un département :
 
@@ -110,11 +110,11 @@ Section « Structure » :
 
 Section « Options » (facultatifs) :
 
-| Champ                | Détail                                                                                                              |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Effectif             | limite de places ; laissez vide pour « Pas de limite »                                                              |
-| Professeur principal | choisi parmi les enseignants existants                                                                              |
-| Modèle de bulletin   | Classique, Compact ou Traditionnel (à la française) ; laissez vide pour utiliser le modèle par défaut de l'instance |
+| Champ                | Détail                                                                                                                   |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Effectif             | limite de places ; laissez vide pour « Pas de limite »                                                                   |
+| Professeur principal | choisi parmi les enseignants existants                                                                                   |
+| Modèle de bulletin   | Classique, Compact ou Traditionnel (à la française) ; laissez vide pour utiliser le modèle par défaut de l'établissement |
 
 Depuis la liste des classes, chaque ligne propose aussi des accès rapides
 vers **Emploi du temps** et **Bulletins** de cette classe (voir les guides
@@ -122,7 +122,7 @@ dédiés) — pas besoin de repasser par le menu.
 
 ## Matières
 
-**Paramétrage scolaire → Matières** est le catalogue global des matières de l'instance
+**Paramétrage scolaire → Matières** est le catalogue global des matières de l'établissement
 (ex. « Mathématiques », « Anglais »). Une matière n'a qu'un nom ; c'est son
 rattachement à un département (voir ci-dessous) qui définit son coefficient
 et son barème.

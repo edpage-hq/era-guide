@@ -12,7 +12,7 @@ administration's.
 ## Create an activity
 
 **School setup → Extracurricular Activities** lists the
-instance's activity catalog.
+school's activity catalog.
 
 To create an activity:
 

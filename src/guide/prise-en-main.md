@@ -75,7 +75,10 @@ soit votre rôle :
 - **Profil** — modifier votre nom, votre adresse e-mail et votre photo de
   profil. Si vous changez d'adresse e-mail, un message « Votre adresse
   e-mail n'est pas vérifiée » apparaît jusqu'à ce que vous cliquiez sur le
-  lien reçu par e-mail.
+  lien reçu par e-mail. Un compte parent ou élève peut aussi y être
+  supprimé. Un compte du personnel, lui, est rattaché à des données de
+  l'établissement (emploi du temps, notes, dépenses) : sa suppression se
+  demande à l'administration.
 - **Sécurité** — changer votre mot de passe, activer l'authentification à
   deux facteurs, gérer vos clés d'accès (connexion sans mot de passe) et
   consulter vos sessions actives.

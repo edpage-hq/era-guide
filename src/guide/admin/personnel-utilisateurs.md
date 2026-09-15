@@ -13,7 +13,7 @@ contrats — mais ce sont deux écrans séparés.
 
 ## Créer un compte utilisateur et lui assigner un rôle
 
-**Utilisateurs** (groupe **Administration** du menu) liste tous les comptes de l'instance,
+**Utilisateurs** (groupe **Administration** du menu) liste tous les comptes de l'établissement,
 avec une recherche par nom/e-mail, un filtre par rôle, et le statut
 vérifié/non vérifié et actif/inactif de chacun.
 
@@ -112,7 +112,7 @@ soumis la demande).
 2. Choisissez le **Site de destination** et indiquez un **Motif**.
 3. Cliquez sur **Soumettre la demande**.
 
-Tous les autres administrateurs de l'instance sont alors notifiés.
+Tous les autres administrateurs de l'établissement sont alors notifiés.
 
 **Examiner une demande** — section **Personnel → Mutations de personnel**
 liste les demandes, avec un filtre par statut (En attente, Approuvé,

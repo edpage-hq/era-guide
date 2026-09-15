@@ -44,4 +44,4 @@ Le modèle visuel utilisé (Classique, Compact ou Traditionnel à la
 française) se choisit par classe, dans le formulaire de la classe — voir
 [Structure de l'établissement](/guide/admin/structure-etablissement#classes).
 Si aucun modèle n'est choisi pour une classe, le modèle par défaut de
-l'instance s'applique.
+l'établissement s'applique.

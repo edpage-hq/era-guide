@@ -12,7 +12,7 @@ periods → competencies (if needed).
 
 ## Academic years
 
-**School setup → Academic Years** lists your instance's academic
+**School setup → Academic Years** lists your school's academic
 years, with the number of classes in each. Only one year is "Current" at
 a time — it's the one that appears by default on the dashboard and on new
 forms.
@@ -46,7 +46,7 @@ fill in the name (and the optional address), then **Save**.
 ### Site logo
 
 Once the site exists, its **Edit** page offers a **site logo**, below the
-name/address form. That logo is printed, in place of the instance logo, on:
+name/address form. That logo is printed, in place of the school logo, on:
 
 - the **bulletins** of the classes attached to this site;
 - the **payment receipts** of students enrolled in one of this site's
@@ -56,12 +56,12 @@ Sites with no logo of their own keep using the one from the
 [application settings](/en/guide/admin/parametres-application) — so there's
 nothing to do if all your campuses share one identity.
 
-Only the logo changes: the menu and the public home page keep the instance
+Only the logo changes: the menu and the public home page keep the school
 logo, and the address, phone and email printed on receipts are still the
 ones from the application settings.
 
 Accepted formats: PNG, JPG, WebP or SVG, 2 MB maximum. The **Remove**
-button deletes the site's logo and brings back the instance one.
+button deletes the site's logo and brings back the school one.
 Already-generated bulletins and receipts aren't rewritten: the change
 applies to documents produced afterwards.
 
@@ -69,7 +69,7 @@ applies to documents produced afterwards.
 
 A department corresponds to a level or track (e.g. "Preschool", "Middle
 School", "IB Senior Year"). **School setup → Departments** lists the
-instance's departments along with the sites where each is active.
+school's departments along with the sites where each is active.
 
 To create a department:
 
@@ -119,7 +119,7 @@ From the class list, each row also offers quick links to that class's
 
 ## Subjects
 
-**School setup → Subjects** is the instance's global subject catalog (e.g.
+**School setup → Subjects** is the school's global subject catalog (e.g.
 "Mathematics", "English"). A subject only has a name; attaching it to a
 department (see below) is what defines its coefficient and its grading
 scale.

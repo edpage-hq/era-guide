@@ -16,14 +16,18 @@ parent portal.
    taken").
 2. Click **Take attendance** on the row for the relevant class.
 3. The page defaults to the current day; change the date at the top of the
-   page if you need to complete or correct attendance for another day.
-4. For each student, set the **Status**: **Present**, **Absent** or
-   **Late**.
-   - If you choose **Late**, enter the number of **Minutes late**.
-   - Check **Justified** if the absence or lateness is already covered by
-     a known reason, and add a free-text **Note** if needed (for example
+   page if you need to complete or correct attendance for a past day.
+   Attendance can't be taken for a day that hasn't come yet.
+4. Every student starts as **Present**: one click on **Absent** or
+   **Late** is enough for those who aren't. The counters next to the date
+   update as you go, and **Everyone present** resets the whole class to
+   **Present**.
+   - For a **Late** student, enter the number of minutes.
+   - For an absent or late student, check **Justified** if the reason is
+     already known, and add a free-text note if needed (for example
      "medical certificate provided").
-5. Click **Save** — the whole class's attendance is saved at once.
+5. Click **Save roll call** in the bottom bar: the whole class's attendance
+   is saved at once. If you leave the page first, ERA asks you to confirm.
 
 ## Process absence justifications
 

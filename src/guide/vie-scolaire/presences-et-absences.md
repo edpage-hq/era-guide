@@ -15,16 +15,19 @@ espace parent.
    déjà été pointés sur le total inscrit (par exemple « 18/24 fait »).
 2. Cliquez sur **Faire l'appel** sur la ligne de la classe concernée.
 3. Par défaut, la page affiche le jour en cours ; changez la date en haut
-   de page si vous devez compléter ou corriger l'appel d'un autre jour.
-4. Pour chaque élève, réglez le **Statut** : **Présent**, **Absent** ou
-   **Retard**.
-   - Si vous choisissez **Retard**, indiquez le nombre de **Minutes de
-     retard**.
-   - Cochez **Justifié** si l'absence ou le retard est déjà couvert par un
-     motif connu, et ajoutez une **Note** libre si besoin (par exemple
+   de page si vous devez compléter ou corriger l'appel d'un jour passé.
+   L'appel d'un jour à venir n'est pas possible.
+4. Tous les élèves sont **Présent** par défaut : il suffit d'un clic sur
+   **Absent** ou **Retard** pour ceux qui ne le sont pas. Les compteurs à
+   côté de la date se mettent à jour au fur et à mesure, et **Tous
+   présents** remet toute la classe à **Présent**.
+   - Pour un élève en **Retard**, indiquez le nombre de minutes.
+   - Pour un élève absent ou en retard, cochez **Justifié** si le motif
+     est déjà connu, et ajoutez une note libre si besoin (par exemple
      « certificat médical fourni »).
-5. Cliquez sur **Enregistrer** — tout l'appel de la classe est enregistré
-   en une fois.
+5. Cliquez sur **Enregistrer l'appel** dans la barre du bas : tout l'appel
+   de la classe est enregistré en une fois. Si vous quittez la page avant,
+   ERA vous demande de confirmer.
 
 ## Traiter les justificatifs d'absence
 

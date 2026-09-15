@@ -71,8 +71,13 @@ de compétences** est disponible pour elle.
    la liste des élèves et compétences se recharge automatiquement.
 3. Pour chaque élève et chaque compétence, choisissez un niveau : **Non
    acquis**, **En cours d'acquisition** ou **Acquis**, et ajoutez
-   éventuellement un commentaire.
+   éventuellement un commentaire. Chaque élève a sa fiche, avec une ligne
+   par compétence.
 4. Cliquez sur **Enregistrer**.
+
+Un niveau est obligatoire pour **chaque** compétence de **chaque** élève :
+s'il en manque un, rien n'est enregistré, un message l'indique en haut de
+la liste et les niveaux à compléter sont encadrés en rouge.
 
 Si le département de la classe n'a encore aucune compétence définie, la
 page affiche « Ce département n'a aucune compétence à observer » — il faut

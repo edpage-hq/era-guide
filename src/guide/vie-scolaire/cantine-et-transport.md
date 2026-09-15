@@ -26,10 +26,19 @@ définitivement après confirmation — action irréversible.
 
 **Services aux élèves → Pointage cantine** affiche, pour la date sélectionnée en haut
 de page (le jour en cours par défaut), la liste des élèves actuellement
-abonnés à la cantine. Pour chacun, réglez le **Statut** — **A mangé** ou
-**Absent** — puis cliquez sur **Enregistrer** pour valider tout le
-pointage du jour en une fois. Si aucun élève n'est abonné, la page
-l'indique.
+abonnés à la cantine. Pour chacun, touchez **A mangé** ou **Absent**,
+puis cliquez sur **Enregistrer** pour valider tout le pointage du jour en
+une fois. Si aucun élève n'est abonné, la page l'indique.
+
+::: tip Un pointage pensé pour le téléphone
+Chaque élève a son bouton **A mangé** / **Absent** ; tout le monde est
+**A mangé** par défaut, et le bouton **Tous ont mangé** remet toute la liste
+à ce statut. Les compteurs en haut de liste se mettent à jour à chaque
+clic, et la barre du bas signale « Modifications non enregistrées » tant
+que vous n'avez pas cliqué sur **Enregistrer** — quitter la page ou
+changer de date à ce moment-là demande confirmation. Un pointage ne peut
+pas être saisi pour une date future.
+:::
 
 ## Affecter des élèves aux circuits de transport
 
@@ -48,8 +57,10 @@ La liste des affectations se filtre par circuit. **Retirer** désaffecte un
    leur site. Cliquez sur **Pointer** sur le circuit concerné.
 2. Choisissez la **date** et le **sens** du trajet — **Montée** ou
    **Descente** — en haut de page.
-3. Pour chaque élève affecté au circuit, réglez le **Statut** : **Présent**
-   ou **Absent**.
+3. Pour chaque élève affecté au circuit, touchez **Présent** ou
+   **Absent** — le bouton **Tous présents** remet toute la liste à
+   présent.
 4. Cliquez sur **Enregistrer**.
 
-Si aucun élève n'est affecté au circuit, la page l'indique.
+Si aucun élève n'est affecté au circuit, la page l'indique. Le pointage
+fonctionne comme celui de la cantine (voir l'encadré ci-dessus).

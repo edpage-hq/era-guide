@@ -10,9 +10,18 @@ suivi scolaire et télécharger tous les documents qui les concernent.
 ## Voir vos enfants
 
 La page **Mes enfants** (menu de gauche) liste tous les enfants rattachés
-à votre compte, chacun sous forme de carte indiquant sa classe, sa moyenne
-annuelle et son solde de paiement. Cliquez sur une carte pour ouvrir la
-fiche complète de cet enfant.
+à votre compte, chacun sous forme de carte. Chaque carte indique :
+
+- sa classe ;
+- en orange, le nombre d'**absences à justifier** : les absences non
+  justifiées pour lesquelles vous n'avez pas encore envoyé de justificatif
+  (voir [Démarches](/guide/parent/demarches)) ;
+- la **prochaine échéance** de son échéancier, avec son montant et sa date,
+  en rouge si elle est **en retard** ;
+- sa **moyenne annuelle** et son **solde** ;
+- ses **dernières notes**, avec la matière et la date.
+
+Cliquez sur une carte pour ouvrir la fiche complète de cet enfant.
 
 Si aucun enfant n'apparaît encore, votre établissement doit d'abord
 rattacher votre compte à celui de votre enfant — ou vous pouvez le faire

@@ -20,8 +20,51 @@ Si l'authentification à deux facteurs est activée sur votre compte, un
 code supplémentaire vous sera demandé après le mot de passe (voir
 « Authentification à deux facteurs » plus bas).
 
-Une fois connecté, vous arrivez sur votre tableau de bord — son contenu
-dépend de votre rôle.
+Une fois connecté, vous arrivez sur votre tableau de bord (voir
+ci-dessous). Les parents et les élèves arrivent directement sur leur propre
+espace : **Mes enfants** pour un parent, l'espace élève pour un élève.
+
+## Votre tableau de bord
+
+Le tableau de bord rassemble ce qui vous concerne aujourd'hui, en deux
+parties :
+
+- **À traiter** : ce qui attend une action de votre part, avec le nombre
+  d'éléments concernés. Cliquez sur une ligne pour ouvrir l'écran où les
+  traiter. Une ligne disparaît dès qu'il n'y a plus rien à faire ; quand
+  tout est à jour, le bloc affiche « Rien ne vous attend pour le moment ».
+- **Les blocs du jour** : ce qui se passe aujourd'hui pour votre rôle.
+
+Si vous avez plusieurs rôles, le tableau de bord réunit les éléments de
+chacun.
+
+| Rôle           | À traiter                                                                                                                | Blocs du jour                                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Enseignant     | Évaluations passées dont les notes sont à saisir ; justificatifs d'absence de vos classes                                | **Mes cours aujourd'hui** : vos cours du jour, le cours en cours mis en évidence, et pour chaque classe **Appel fait** ou le bouton **Faire l'appel** |
+| Vie scolaire   | Classes sans appel aujourd'hui ; justificatifs d'absence à examiner                                                      | **Vie scolaire aujourd'hui** (absents, retards, absences non justifiées, incidents des 7 derniers jours) ; **Prochains conseils de discipline**       |
+| Secrétariat    | Candidatures en attente ; demandes de transfert de site                                                                  | **Prochains conseils de discipline**                                                                                                                  |
+| Caisse         | Vos dépenses en attente de validation                                                                                    | **Caisse aujourd'hui** (total encaissé, derniers paiements) ; **Échéances dépassées**                                                                 |
+| Internat       | —                                                                                                                        | **Internat aujourd'hui** : lits occupés, appel du matin et appel du soir                                                                              |
+| Infirmerie     | —                                                                                                                        | **Infirmerie aujourd'hui** : passages du jour et derniers passages                                                                                    |
+| Administrateur | Candidatures, transferts de site, justificatifs d'absence, dépenses à valider, demandes de congé, mutations du personnel | **Échéances dépassées**, puis le pilotage : voir [Tableau de bord](/guide/admin/tableau-de-bord)                                                      |
+
+::: info Quelles classes doivent faire l'appel aujourd'hui ?
+Une classe est attendue les jours où elle a un cours à l'emploi du temps.
+Si l'établissement n'a pas encore saisi d'emploi du temps, toutes les
+classes qui ont des élèves sont attendues du lundi au vendredi.
+:::
+
+### Échéances dépassées
+
+Ce bloc, visible par la caisse et l'administration, liste les familles en
+retard sur leur échéancier : le montant total en retard, le nombre de
+familles, puis les cinq retards les plus importants avec la date depuis
+laquelle chacun court. Cliquez sur une famille pour ouvrir son dossier
+financier, ou sur **Voir tous les retards** pour la liste complète dans
+**Facturation**.
+
+Une échéance est en retard à partir du lendemain de sa date d'échéance,
+tant que les paiements reçus ne la couvrent pas.
 
 ## Paramètres du compte
 

@@ -5,9 +5,16 @@ layout: doc
 # Tableau de bord
 
 Le tableau de bord est la page d'accueil de tout compte connecté, mais son
-contenu dépend de votre rôle. Pour un administrateur, il affiche en plus le
-**pilotage** : la photographie chiffrée de l'établissement à l'instant où
-vous ouvrez la page.
+contenu dépend de votre rôle. Pour un administrateur, il affiche :
+
+- le bloc **À traiter**, qui regroupe tout ce qui attend votre décision :
+  candidatures, transferts de site, justificatifs d'absence, dépenses à
+  valider, demandes de congé et mutations du personnel ;
+- le bloc **Échéances dépassées**, qui liste les familles en retard sur
+  leur échéancier (voir
+  [Bien démarrer](/guide/prise-en-main#echeances-depassees)) ;
+- le **pilotage** : la photographie chiffrée de l'établissement à l'instant
+  où vous ouvrez la page.
 
 Le pilotage est un pôle à part entière. S'il n'a pas été licencié pour
 votre établissement, vous arrivez bien sur le tableau de bord, mais sans
@@ -20,11 +27,15 @@ marquée comme actuelle dans
 [Structure de l'établissement](/guide/admin/structure-etablissement).
 
 Si aucune année n'est marquée comme courante, le tableau de bord vous le
-dit au lieu d'afficher des chiffres : rien ne peut être calculé tant que
+dit au lieu d'afficher des chiffres, avec un bouton **Définir l'année
+courante** qui mène à l'écran concerné : rien ne peut être calculé tant que
 l'année de référence n'est pas définie. C'est le premier réflexe à avoir si
 la page semble vide en début d'exercice.
 
 ## Les indicateurs
+
+Les indicateurs sont regroupés en deux blocs, **Scolarité** et
+**Finances**.
 
 | Indicateur             | Ce qu'il mesure                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------ |
@@ -49,10 +60,10 @@ Deux précisions qui évitent les mauvaises lectures :
 
 ## Lire les chiffres site par site
 
-Sous les indicateurs, le bloc **Par site** reprend les mêmes mesures pour
-chaque site de l'établissement, ce qui permet de comparer deux campus sans
-changer de page. Le sélecteur **Tous les sites** filtre l'ensemble du
-tableau de bord sur un site précis.
+Si l'établissement compte plusieurs sites, le bloc **Par site** reprend
+sous les indicateurs les mêmes mesures pour chacun d'eux, ce qui permet de
+comparer deux campus sans changer de page. Avec un seul site, ce bloc
+n'apparaît pas : il répéterait les chiffres du dessus.
 
 Sur téléphone, ce tableau s'affiche sous forme d'une fiche par site plutôt
 qu'en colonnes, pour rester lisible.

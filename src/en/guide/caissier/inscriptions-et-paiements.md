@@ -44,7 +44,9 @@ as soon as you're back online.
 Once an application is approved by the registrar's office, the student
 appears under **Billing**. The list can be filtered by student name and
 academic year, and shows each student's total due, total paid, and
-remaining balance. Click **View** to open a student's full financial
+remaining balance. The **Overdue** button keeps only the students behind
+on their payment plan; for each of them, the overdue amount shows in red
+under the balance. Click **View** to open a student's full financial
 record.
 
 The detail page shows four key figures: **Total due**, **Discount**,
@@ -101,7 +103,9 @@ waiting for a single payment:
 3. Click **Save payment plan**.
 
 Each installment then shows a status: **Upcoming**, **Paid**, or
-**Overdue**, based on the due date and payments already received.
+**Overdue**, based on the due date and payments already received. An
+installment becomes overdue the day after its due date if payments don't
+cover it yet.
 Setting up a new plan automatically replaces the previous one, if there
 was one. To delete a plan without replacing it, click **Delete** above
 the installments table and confirm.

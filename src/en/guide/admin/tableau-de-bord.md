@@ -5,9 +5,16 @@ layout: doc
 # Dashboard
 
 The dashboard is the landing page for every signed-in account, but what it
-shows depends on your role. For an administrator it also carries the
-**management overview**: the school's figures as of the moment you open the
-page.
+shows depends on your role. For an administrator it shows:
+
+- the **To do** block, gathering everything awaiting your decision:
+  applications, site transfers, absence justifications, expenses to
+  approve, leave requests and staff transfers;
+- the **Overdue installments** block, listing the families behind on their
+  payment plan (see
+  [Getting started](/en/guide/prise-en-main#overdue-installments));
+- the **management overview**: the school's figures as of the moment you
+  open the page.
 
 That overview is a module in its own right. If it hasn't been licensed for
 your school, you still land on the dashboard — just without the indicators
@@ -19,10 +26,12 @@ Every indicator is read for the **current academic year** — the one marked
 as current in [School structure](/en/guide/admin/structure-etablissement).
 
 If no year is marked as current, the dashboard says so instead of showing
-figures: nothing can be computed until the reference year is set. That's
+figures, with a **Set the current year** button leading to the right screen: nothing can be computed until the reference year is set. That's
 the first thing to check if the page looks empty at the start of a term.
 
 ## The indicators
+
+The indicators are grouped into two blocks, **Schooling** and **Finances**.
 
 | Indicator          | What it measures                                                                     |
 | ------------------ | ------------------------------------------------------------------------------------ |
@@ -47,10 +56,10 @@ Two points that prevent misreadings:
 
 ## Reading the figures site by site
 
-Below the indicators, the **By site** block repeats the same measures for
-each of the school's sites, so two campuses can be compared without
-leaving the page. The **All sites** selector filters the whole dashboard
-down to one site.
+When the school has several sites, the **By site** block below the
+indicators repeats the same measures for each of them, so two campuses can
+be compared without leaving the page. With a single site the block isn't
+shown: it would repeat the figures above.
 
 On a phone this table renders as one card per site rather than columns, to
 stay readable.

@@ -7,9 +7,8 @@ layout: doc
 As the boarding manager, you have two responsibilities in ERA: managing
 beds (creating and editing them, and assigning a boarding student to
 each) and recording boarding attendance every day, both in the evening
-and in the morning. The left-hand menu gives you access to two pages,
-in the "Student services" group: **Boarding beds** and **Boarding
-attendance**.
+and in the morning. The **Student services** space gives you access to two pages: **Boarding beds**
+and **Boarding attendance**.
 
 ## Managing beds
 

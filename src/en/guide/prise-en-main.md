@@ -7,7 +7,7 @@ layout: doc
 This page applies to every role: signing in, your profile, security,
 notifications and language work the same way whether you're an
 administrator, a teacher, a parent or a student. The role-specific guides
-(left-hand menu) don't repeat this information.
+don't repeat this information.
 
 ## Signing in
 
@@ -22,6 +22,36 @@ below).
 Once signed in, you land on your dashboard (see below). Parents and
 students go straight to their own area instead: **My children** for a
 parent, the student area for a student.
+
+## Finding your way around
+
+Every page shares the same layout, designed like a folder holding its
+sheets:
+
+- **Spaces**, in the dark blue column on the left: Home, Students &
+  admissions, Teaching, School life, Student services, Finances, Staff, and
+  at the bottom School setup and Administration. The column uses short
+  names (**Students**, **Services**, **Setup**, **Admin**); the full name
+  is shown at the top of the page. You only see the spaces your role gives
+  access to.
+- **Tabs**, at the top of the page: the pages of the open space. For
+  example, the **School life** space offers Attendance, Absence
+  justifications, Discipline incidents, Disciplinary councils and
+  Extracurricular attendance. In this guide, a path such as **School life →
+  Attendance** means the space, then the tab.
+- **The masthead** under the tabs: the page's title, its description and
+  its main actions (for example **New user**). On a detail page, the parent
+  pages are shown above the title so you can go back to them.
+- **The school calendar**, top right on a computer or tablet: the current academic year, the
+  period (for example **Term 1**) and a ruler showing the current week of
+  the period. It updates on its own from the dates of the academic years
+  and periods.
+- **Your avatar**, at the bottom of the spaces column, opens your
+  **Settings** and sign-out.
+
+On a phone, spaces move to a bar at the bottom of the screen. When there
+are more than five, the **More** button lists them all with their pages.
+The space's tabs appear under the top bar, and your avatar is top right.
 
 ## Your dashboard
 
@@ -64,7 +94,8 @@ payments received don't cover it.
 
 ## Account settings
 
-The **Settings** menu (from your avatar, at the top of the screen) groups
+The **Settings** menu (from your avatar, at the bottom of the spaces
+column, or top right on a phone) groups
 everything related to your personal account, regardless of your role:
 
 - **Profile** — change your name, email address and profile picture. If

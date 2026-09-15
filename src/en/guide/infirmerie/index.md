@@ -6,8 +6,8 @@ layout: doc
 
 As the person in charge of the infirmary, you record in ERA every
 student visit to the infirmary: the reason, the care given, and the
-outcome (returned to class or sent home). The left-hand menu gives you
-access to one page, **Infirmary visits**, which lists every visit and
+outcome (returned to class or sent home). The **Student services** space gives
+you access to one page, **Infirmary visits**, which lists every visit and
 lets you create, view, or edit them.
 
 ## Viewing visits

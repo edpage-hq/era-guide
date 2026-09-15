@@ -7,8 +7,8 @@ layout: doc
 The cashier's office manages a student's financial enrollment once
 their application has been approved by the registrar's office: fees
 due, payments collected, discounts granted, and payment plans. It also
-tracks the school's expenses and produces accounting exports. The
-left-hand menu gives you access to three pages:
+tracks the school's expenses and produces accounting exports. Your pages
+are in the **Students & admissions** and **Finances** spaces:
 
 - **[Enrollment and payments](/en/guide/caissier/inscriptions-et-paiements)**
   — enter a new application for a family visiting in person, track fees

@@ -12,21 +12,23 @@ dans un périmètre que vous avez préalablement mis en place.
 
 ## Où trouver les outils d'administration
 
-Le menu de gauche est organisé par domaine. Les écrans que vous utilisez
-au quotidien sont en haut :
+La colonne des espaces, à gauche, est organisée par domaine ; chaque
+espace présente ses pages en onglets en haut de l'écran (voir
+[Se repérer dans l'application](/guide/prise-en-main#se-reperer-dans-l-application)).
+Les écrans que vous utilisez au quotidien sont en haut :
 
 - **Élèves et admissions** : les élèves, les nouveaux dossiers, les
   dossiers à traiter et la mobilité inter-site.
 - **Enseignement** et **Vie scolaire** : les emplois du temps, les
   présences, la discipline et les présences périscolaires.
 - **Services aux élèves** : la cantine, le transport, l'internat et
-  l'infirmerie. Ce groupe est replié par défaut pour un administrateur.
+  l'infirmerie.
 - **Finances** : la facturation et les dépenses.
 - **Personnel** : les employés, les demandes de congé et les mutations de
   personnel.
 
 Les écrans de mise en place, que l'on ouvre plus rarement, sont dans deux
-groupes repliés par défaut :
+espaces à part, en bas de la colonne :
 
 - **Paramétrage scolaire** : années et périodes scolaires, sites,
   départements, classes, matières, matières par département, affectations
@@ -36,8 +38,8 @@ groupes repliés par défaut :
   [Page d'accueil](/guide/admin/page-accueil) et
   [Paramètres de l'application](/guide/admin/parametres-application).
 
-Cliquez sur le nom d'un groupe pour le déplier ou le replier : ERA retient
-votre choix. Le groupe de la page que vous consultez s'ouvre toujours.
+L'espace **Paramétrage scolaire** compte beaucoup de pages : faites défiler ses
+onglets horizontalement pour les voir toutes.
 
 ## Ce que vous pouvez faire
 

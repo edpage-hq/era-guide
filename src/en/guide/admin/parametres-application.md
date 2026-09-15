@@ -4,8 +4,7 @@ layout: doc
 
 # App settings
 
-**App settings**, in the **Administration** group of the left-hand menu,
-groups everything that
+**App settings**, in the **Administration** space, groups everything that
 customises your ERA school space: its visual identity, what gets printed on
 receipts, and two settings that genuinely change how the app behaves for
 everyone else.
@@ -30,13 +29,14 @@ out — worth trying before hand-correcting a shade.
 
 Two separate logos, and the difference matters:
 
-- The **full logo** appears in the expanded menu and on the home page. It's
+- The **full logo** appears on the home page and the sign-in pages. It's
   also the one printed on the bulletins and payment receipts of any site
   that has no logo of its own (see
   [School structure](/en/guide/admin/structure-etablissement)).
-- The **icon logo** appears in the collapsed menu. If you leave it empty,
-  the full logo is used instead — which usually becomes unreadable once
-  scaled down. Prepare a square version.
+- The **icon logo** appears at the top of the spaces column, on a dark blue
+  background. If you leave it empty, the full logo is used instead — which
+  usually becomes unreadable once scaled down. Prepare a square version
+  that reads well on a dark background.
 
 ## Home page tagline
 

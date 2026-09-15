@@ -9,7 +9,7 @@ record and download every document about them.
 
 ## Seeing your children
 
-The **My children** page (left-hand menu) lists every child linked to
+The **My children** page (**Home** space) lists every child linked to
 your account, each as a card. Each card shows:
 
 - their class;
@@ -30,7 +30,7 @@ feature is enabled (see below).
 ## Linking a child to your account
 
 If your school has enabled self-service linking, a **Link a child** entry
-appears in the left-hand menu. To link a child who is already enrolled to
+appears as a tab next to **My children**. To link a child who is already enrolled to
 your account:
 
 1. Open **Link a child**.

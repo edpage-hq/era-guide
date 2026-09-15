@@ -15,7 +15,7 @@ student — fees, payments, discounts, and payment plan — under
 When a family visits in person instead of filling in the online form,
 you're the one who submits their application.
 
-1. Open **New application** in the left-hand menu.
+1. Open **Students & admissions → New application**.
 2. Enter the student's **First name**, **Last name**, and **Date of
    birth**, then the desired **Site** and **Department**.
 3. Add at least one **Parent / guardian**: first name, last name,

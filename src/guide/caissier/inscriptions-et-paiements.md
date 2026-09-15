@@ -45,7 +45,9 @@ synchronisation, avec un bouton **Synchroniser maintenant** dès que vous
 Une fois qu'un dossier est validé par le secrétariat, l'élève apparaît
 dans **Facturation**. La liste est filtrable par nom d'élève et par
 année scolaire, et affiche pour chacun le total dû, le total payé et le
-solde restant. Cliquez sur **Voir** pour ouvrir le dossier financier
+solde restant. Le bouton **En retard** ne garde que les élèves en retard
+sur leur échéancier ; pour chacun, le montant en retard s'affiche en rouge
+sous le solde. Cliquez sur **Voir** pour ouvrir le dossier financier
 complet d'un élève.
 
 La page de détail affiche quatre chiffres clés : **Total dû**,
@@ -107,7 +109,9 @@ d'attendre un paiement unique :
 3. Cliquez sur **Enregistrer le plan de paiement**.
 
 Chaque tranche affiche ensuite un statut : **À venir**, **Payée** ou
-**En retard**, selon la date d'échéance et les paiements déjà reçus.
+**En retard**, selon la date d'échéance et les paiements déjà reçus. Une
+tranche passe en retard le lendemain de sa date d'échéance si les
+paiements ne la couvrent pas encore.
 Mettre en place un nouveau plan remplace automatiquement l'ancien s'il en
 existait un. Pour supprimer un plan sans le remplacer, cliquez sur
 **Supprimer** au-dessus du tableau des tranches et confirmez.

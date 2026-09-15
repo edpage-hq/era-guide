@@ -19,8 +19,48 @@ If two-factor authentication is enabled on your account, you'll be asked
 for an extra code after your password (see "Two-factor authentication"
 below).
 
-Once signed in, you land on your dashboard — its content depends on your
-role.
+Once signed in, you land on your dashboard (see below). Parents and
+students go straight to their own area instead: **My children** for a
+parent, the student area for a student.
+
+## Your dashboard
+
+The dashboard gathers what concerns you today, in two parts:
+
+- **To do**: what is waiting on you, with how many items are involved.
+  Click a line to open the screen where you handle them. A line disappears
+  as soon as there is nothing left to do; when everything is up to date,
+  the block says "Nothing is waiting for you right now".
+- **Today's blocks**: what is happening today for your role.
+
+If you hold several roles, the dashboard brings together the items of each.
+
+| Role          | To do                                                                                                      | Today's blocks                                                                                                                                  |
+| ------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Teacher       | Past evaluations with grades to enter; absence justifications from your classes                            | **My lessons today**: your lessons of the day, the one in progress highlighted, and for each class **Roll call done** or **Take the roll call** |
+| School life   | Classes without a roll call today; absence justifications to review                                        | **School life today** (absent, late, unjustified absences, incidents in the last 7 days); **Upcoming disciplinary councils**                    |
+| Front desk    | Pending applications; site transfer requests                                                               | **Upcoming disciplinary councils**                                                                                                              |
+| Cash desk     | Your expenses awaiting approval                                                                            | **Cash desk today** (total collected, latest payments); **Overdue installments**                                                                |
+| Boarding      | —                                                                                                          | **Boarding today**: beds occupied, morning and evening roll calls                                                                               |
+| Infirmary     | —                                                                                                          | **Infirmary today**: today's visits and the latest ones                                                                                         |
+| Administrator | Applications, site transfers, absence justifications, expenses to approve, leave requests, staff transfers | **Overdue installments**, then the management overview: see [Dashboard](/en/guide/admin/tableau-de-bord)                                        |
+
+::: info Which classes should take the roll call today?
+A class is expected on the days it has a lesson in the timetable. If the
+school hasn't entered a timetable yet, every class with students is
+expected Monday to Friday.
+:::
+
+### Overdue installments
+
+This block, shown to the cash desk and administrators, lists the families
+behind on their payment plan: the total overdue amount, the number of
+families, then the five largest arrears with the date each one started.
+Click a family to open its financial record, or **See all overdue
+accounts** for the full list in **Billing**.
+
+An installment is overdue from the day after its due date, as long as the
+payments received don't cover it.
 
 ## Account settings
 

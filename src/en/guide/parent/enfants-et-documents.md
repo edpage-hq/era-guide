@@ -10,8 +10,18 @@ record and download every document about them.
 ## Seeing your children
 
 The **My children** page (left-hand menu) lists every child linked to
-your account, each as a card showing their class, annual average and
-payment balance. Click a card to open that child's full record.
+your account, each as a card. Each card shows:
+
+- their class;
+- in orange, the number of **absences to justify**: unjustified absences
+  you haven't sent a justification for yet (see
+  [Requests](/en/guide/parent/demarches));
+- the **next installment** of their payment plan, with its amount and date,
+  in red when it is **overdue**;
+- their **annual average** and **balance**;
+- their **latest grades**, with subject and date.
+
+Click a card to open that child's full record.
 
 If no child shows up yet, your school needs to link your account to your
 child's record first — or you may be able to do it yourself if this

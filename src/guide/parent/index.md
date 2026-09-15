@@ -7,8 +7,9 @@ layout: doc
 En tant que parent ou tuteur, vous disposez d'un espace dédié pour suivre
 la scolarité de vos enfants : notes, présences, documents à télécharger,
 paiements et démarches. Une fois connecté, vous arrivez sur la page **Mes
-enfants**, qui affiche une carte par enfant rattaché à votre compte avec sa
-classe, sa moyenne et son solde de paiement. Cliquez sur une carte pour
+enfants**, qui affiche une carte par enfant rattaché à votre compte : sa
+classe, les absences à justifier, la prochaine échéance de paiement, sa
+moyenne, son solde et ses dernières notes. Cliquez sur une carte pour
 ouvrir le suivi complet de cet enfant.
 
 Ce guide couvre les trois choses que vous pouvez faire depuis ce portail :

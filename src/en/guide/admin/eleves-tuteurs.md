@@ -14,6 +14,14 @@ access to the student portal, and their specialty subjects.
 search by name and a filter by class (including "Unassigned" for students
 with no class in the current year).
 
+Click a student's row to open their **preview**, to the right of the list
+on a large screen, or at the bottom of the screen on a phone. Without
+leaving the list, it gathers: the class and site, the linked parents or
+guardians with their email address, the year's fees (total paid and
+balance), attendance (absences, unjustified absences, lates) and the last
+three grades. Three buttons lead straight on: **Edit**,
+**Parents / guardians** and **Billing**.
+
 To create a student:
 
 1. Click **New student**.

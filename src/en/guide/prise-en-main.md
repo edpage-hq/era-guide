@@ -55,13 +55,27 @@ The space's tabs appear under the top bar, and your avatar is top right.
 
 ## Your dashboard
 
-The dashboard gathers what concerns you today, in two parts:
+The dashboard gathers what concerns you today.
+
+In the ink band, the **term ruler** shows the period in progress, the week
+you are in and its start and end dates. Just below, overlapping the band,
+**today's figures** give you the essentials at a glance (enrolled students,
+absence rate, amount collected, overdue installments). They only appear if
+your role gives access to them.
+
+The rest of the page reads in two columns:
 
 - **To do**: what is waiting on you, with how many items are involved.
   Click a line to open the screen where you handle them. A line disappears
   as soon as there is nothing left to do; when everything is up to date,
   the block says "Nothing is waiting for you right now".
-- **Today's blocks**: what is happening today for your role.
+- **Today's blocks**, on the right: what is happening in the school today
+  for your role. On a large screen, this column stays in view as you scroll
+  the rest.
+
+On a phone, a teacher first sees a **Right now** card, with the lesson in
+progress — or the next one if there is none — and the **Take attendance**
+button.
 
 If you hold several roles, the dashboard brings together the items of each.
 

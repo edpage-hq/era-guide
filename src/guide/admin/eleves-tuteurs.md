@@ -14,6 +14,14 @@ personnel au portail élève, et ses matières de spécialité.
 recherche par nom et un filtre par classe (y compris « Non affecté » pour
 les élèves sans classe sur l'année en cours).
 
+Cliquez sur la ligne d'un élève pour ouvrir son **aperçu**, à droite de la
+liste sur un grand écran, ou en bas de l'écran sur téléphone. L'aperçu
+rassemble, sans quitter la liste : la classe et le site, les parents ou
+tuteurs rattachés avec leur adresse e-mail, la scolarité de l'année (total
+payé et solde), l'assiduité (absences, absences non justifiées, retards) et
+les trois dernières notes. Trois boutons y mènent directement :
+**Modifier**, **Parents / tuteurs** et **Facturation**.
+
 Pour créer un élève :
 
 1. Cliquez sur **Nouvel élève**.

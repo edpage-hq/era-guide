@@ -4,8 +4,7 @@ layout: doc
 
 # Paramètres de l'application
 
-**Paramètres de l'application**, dans le groupe **Administration** du menu
-de gauche, regroupe tout
+**Paramètres de l'application**, dans l'espace **Administration**, regroupe tout
 ce qui personnalise votre espace ERA : son identité visuelle, ce qui
 s'imprime sur les reçus, et deux réglages qui changent réellement le
 comportement de l'app pour les autres utilisateurs.
@@ -31,14 +30,14 @@ teinte à la main.
 
 Deux logos distincts, et la différence compte :
 
-- Le **logo complet** s'affiche dans le menu déployé et sur la page
-  d'accueil. C'est aussi celui qui apparaît sur les bulletins et les reçus
+- Le **logo complet** s'affiche sur la page d'accueil et sur les pages de
+  connexion. C'est aussi celui qui apparaît sur les bulletins et les reçus
   de paiement des sites qui n'ont pas de logo propre (voir
   [Structure de l'établissement](/guide/admin/structure-etablissement)).
-- Le **logo icône** s'affiche dans le menu réduit. Si vous ne le
-  renseignez pas, le logo complet est utilisé à sa place — ce qui donne
-  souvent un résultat illisible une fois réduit. Prévoyez une version
-  carrée.
+- Le **logo icône** s'affiche en haut de la colonne des espaces, sur fond
+  bleu foncé. Si vous ne le renseignez pas, le logo complet est utilisé à
+  sa place — ce qui donne souvent un résultat illisible une fois réduit.
+  Prévoyez une version carrée, lisible sur fond sombre.
 
 ## Accroche d'accueil
 

@@ -15,7 +15,7 @@ Quand une famille se présente directement à la caisse plutôt que de
 remplir le formulaire en ligne, c'est vous qui déposez son dossier de
 candidature.
 
-1. Ouvrez **Nouveau dossier** dans le menu de gauche.
+1. Ouvrez **Élèves et admissions → Nouveau dossier**.
 2. Renseignez le **Prénom**, le **Nom** et la **Date de naissance** de
    l'élève, puis le **Site** et le **Département** souhaités.
 3. Ajoutez au moins un **Parent / tuteur** : prénom, nom, e-mail,

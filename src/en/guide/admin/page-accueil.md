@@ -5,8 +5,7 @@ layout: doc
 # Homepage
 
 The homepage is what families and visitors see when they reach your
-school's address, before signing in. It is configured from **Homepage**,
-in the **Administration** group of the left-hand menu.
+school's address, before signing in. It is configured from **Administration → Homepage**.
 
 It can contain four parts:
 

@@ -9,7 +9,7 @@ the applications submitted by families — online through the public
 form, or entered directly by the cashier for a family visiting in
 person — and decide whether to approve or reject them. You also handle
 requests to transfer an already-enrolled student from one site to
-another. The left-hand menu gives you access to two pages:
+another. The **Students & admissions** space gives you access to two pages:
 
 - **[Applications to review](/en/guide/secretariat/candidatures)** — the
   queue of applications received, with their attached documents and the

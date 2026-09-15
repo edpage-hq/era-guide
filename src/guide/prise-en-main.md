@@ -7,7 +7,7 @@ layout: doc
 Cette page est commune à tous les rôles : connexion, profil, sécurité,
 notifications et langue fonctionnent de la même façon, que vous soyez
 administrateur, enseignant, parent ou élève. Les guides propres à chaque
-rôle (menu de gauche) ne répètent pas ces informations.
+rôle ne répètent pas ces informations.
 
 ## Se connecter
 
@@ -23,6 +23,38 @@ code supplémentaire vous sera demandé après le mot de passe (voir
 Une fois connecté, vous arrivez sur votre tableau de bord (voir
 ci-dessous). Les parents et les élèves arrivent directement sur leur propre
 espace : **Mes enfants** pour un parent, l'espace élève pour un élève.
+
+## Se repérer dans l'application
+
+Toutes les pages partagent la même organisation, pensée comme une chemise
+qui tient ses feuilles :
+
+- **Les espaces**, dans la colonne bleu foncé à gauche : Accueil, Élèves et
+  admissions, Enseignement, Vie scolaire, Services aux élèves, Finances,
+  Personnel, et en bas Paramétrage scolaire et Administration. La colonne
+  les nomme en abrégé (**Élèves**, **Cours**, **Services**,
+  **Paramétrage**, **Admin**) ; leur nom complet s'affiche en haut de la
+  page. Vous ne voyez que les espaces auxquels votre rôle donne accès.
+- **Les onglets**, en haut de la page : les pages de l'espace ouvert. Par
+  exemple, l'espace **Vie scolaire** propose Présences, Justifications
+  d'absence, Incidents disciplinaires, Conseils de discipline et Présences
+  périscolaires. Dans ce guide, un chemin comme **Vie scolaire →
+  Présences** désigne l'espace puis l'onglet.
+- **Le bandeau** sous les onglets : le titre de la page, sa description et
+  ses actions principales (par exemple **Nouvel utilisateur**). Sur une
+  page de détail, les pages parentes s'affichent au-dessus du titre et
+  permettent d'y revenir.
+- **Le calendrier scolaire**, en haut à droite sur ordinateur et tablette : l'année scolaire en cours,
+  la période (par exemple **Trimestre 1**) et une réglette qui montre la
+  semaine en cours dans la période. Il se met à jour tout seul à partir des
+  dates des années et périodes scolaires.
+- **Votre avatar**, en bas de la colonne des espaces, ouvre vos
+  **Paramètres** et la déconnexion.
+
+Sur téléphone, les espaces passent dans une barre en bas de l'écran. S'il
+y en a plus de cinq, le bouton **Plus** les liste tous avec leurs pages.
+Les onglets de l'espace s'affichent sous la barre du haut, et votre avatar
+est en haut à droite.
 
 ## Votre tableau de bord
 
@@ -68,8 +100,8 @@ tant que les paiements reçus ne la couvrent pas.
 
 ## Paramètres du compte
 
-Le menu **Paramètres** (accessible depuis votre avatar, en haut de
-l'écran) regroupe tout ce qui concerne votre compte personnel, quel que
+Le menu **Paramètres** (accessible depuis votre avatar, en bas de la
+colonne des espaces, ou en haut à droite sur téléphone) regroupe tout ce qui concerne votre compte personnel, quel que
 soit votre rôle :
 
 - **Profil** — modifier votre nom, votre adresse e-mail et votre photo de

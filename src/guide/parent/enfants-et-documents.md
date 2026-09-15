@@ -9,7 +9,7 @@ suivi scolaire et télécharger tous les documents qui les concernent.
 
 ## Voir vos enfants
 
-La page **Mes enfants** (menu de gauche) liste tous les enfants rattachés
+La page **Mes enfants** (espace **Accueil**) liste tous les enfants rattachés
 à votre compte, chacun sous forme de carte. Chaque carte indique :
 
 - sa classe ;
@@ -30,7 +30,7 @@ vous-même si cette fonctionnalité est activée (voir ci-dessous).
 ## Rattacher un enfant à votre compte
 
 Si votre établissement a activé le rattachement en libre-service, un menu
-**Rattacher un enfant** apparaît dans le menu de gauche. Pour lier un
+**Rattacher un enfant** apparaît en onglet à côté de **Mes enfants**. Pour lier un
 enfant déjà inscrit à votre compte :
 
 1. Ouvrez **Rattacher un enfant**.

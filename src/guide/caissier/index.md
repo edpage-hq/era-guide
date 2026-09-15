@@ -7,8 +7,8 @@ layout: doc
 La caisse gère l'inscription financière des élèves une fois leur dossier
 validé par le secrétariat : les frais dus, les paiements encaissés, les
 remises accordées et les échéanciers de paiement. Elle suit aussi les
-dépenses de l'établissement et produit les exports comptables. Le menu de
-gauche vous donne accès à trois pages :
+dépenses de l'établissement et produit les exports comptables. Vos pages se
+trouvent dans les espaces **Élèves et admissions** et **Finances** :
 
 - **[Inscriptions et paiements](/guide/caissier/inscriptions-et-paiements)**
   — saisir un nouveau dossier pour une famille présente sur site, suivre

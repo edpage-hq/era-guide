@@ -7,8 +7,8 @@ layout: doc
 En tant que responsable de l'internat, vous avez deux missions dans ERA :
 gérer les lits (les créer, les modifier, et affecter un élève interne à
 chacun) et enregistrer chaque jour les présences en internat, le soir et le
-matin. Le menu de gauche vous donne accès à deux pages, dans le groupe
-« Services aux élèves » : **Lits de l'internat** et **Présences internat**.
+matin. L'espace **Services aux élèves** vous donne accès à deux pages : **Lits de
+l'internat** et **Présences internat**.
 
 ## Gérer les lits
 

@@ -6,8 +6,8 @@ layout: doc
 
 En tant que responsable de l'infirmerie, vous enregistrez dans ERA chaque
 passage d'un élève à l'infirmerie : le motif, les soins donnés et l'issue
-(retour en classe ou renvoi à la maison). Le menu de gauche vous donne
-accès à une page, **Passages à l'infirmerie**, qui liste tous les passages
+(retour en classe ou renvoi à la maison). L'espace **Services aux élèves** vous
+donne accès à une page, **Passages à l'infirmerie**, qui liste tous les passages
 et permet d'en créer, consulter ou modifier.
 
 ## Consulter les passages

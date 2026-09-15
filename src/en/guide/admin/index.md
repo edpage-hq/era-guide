@@ -11,20 +11,21 @@ cashier...) work within a scope you've set up beforehand.
 
 ## Where to find the admin tools
 
-The left-hand menu is organised by domain. The screens you use day to day
-are at the top:
+The spaces column, on the left, is organised by domain; each space shows
+its pages as tabs at the top of the screen (see
+[Finding your way around](/en/guide/prise-en-main#finding-your-way-around)).
+The screens you use day to day are at the top:
 
 - **Students & admissions**: students, new applications, the applications
   queue and site transfers.
 - **Teaching** and **School life**: timetables, attendance, discipline and
   extracurricular attendance.
-- **Student services**: cafeteria, transport, boarding and infirmary. This
-  group starts collapsed for an administrator.
+- **Student services**: cafeteria, transport, boarding and infirmary.
 - **Finances**: billing and expenses.
 - **Staff**: employees, leave requests and staff transfers.
 
-The setup screens, opened less often, sit in two groups that start
-collapsed:
+The setup screens, opened less often, sit in two separate spaces at the
+bottom of the column:
 
 - **School setup**: academic years and periods, sites, departments,
   classes, subjects, subjects by department, teacher assignments,
@@ -34,8 +35,8 @@ collapsed:
   [Homepage](/en/guide/admin/page-accueil) and
   [App settings](/en/guide/admin/parametres-application).
 
-Click a group's name to expand or collapse it: ERA remembers your choice.
-The group of the page you're on always opens.
+The **School setup** space holds many pages: scroll its tabs sideways to see them
+all.
 
 ## What you can do
 

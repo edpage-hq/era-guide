@@ -6,8 +6,7 @@ layout: doc
 
 La page d'accueil est ce que voient les familles et les visiteurs en
 arrivant sur l'adresse de votre établissement, avant de se connecter. Elle
-se configure depuis **Page d'accueil**, dans le groupe **Administration**
-du menu de gauche.
+se configure depuis **Administration → Page d'accueil**.
 
 Elle peut contenir quatre parties :
 

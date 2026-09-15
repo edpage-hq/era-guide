@@ -9,7 +9,7 @@ examinez les dossiers déposés par les familles — en ligne via le
 formulaire public, ou saisis directement par la caisse pour une famille
 présente sur site — et qui décidez de les valider ou de les refuser.
 Vous gérez également les demandes de transfert d'un élève déjà inscrit
-d'un site à un autre. Le menu de gauche vous donne accès à deux pages :
+d'un site à un autre. L'espace **Élèves et admissions** vous donne accès à deux pages :
 
 - **[Dossiers à traiter](/guide/secretariat/candidatures)** — la file
   d'attente des candidatures reçues, avec les documents joints et la

@@ -29,13 +29,24 @@ subject, period and date. Clicking a row opens a detail panel.
 ## Enter grades
 
 1. From the evaluations list, click **Grades** on the row for the relevant
-   evaluation.
-2. For each student, enter their **Score** (between 0 and the evaluation's
-   max score) and, if applicable, a **Bonus/malus**.
-3. Set the student's **Status**: **Graded**, **Absent** or **Excused**.
-   The read-only **Current subject average** column shows each student's
-   average in the subject before you save.
-4. Click **Save** — every row is saved at once.
+   evaluation. At the top of the page, the **Out of…** chip shows the
+   scale, which is also shown inside every score field.
+2. For each student, enter their **Score** and, if applicable, a
+   **Bonus/malus**. Decimals can be typed with a comma or a dot. The
+   **Enter** key moves straight to the next student's score, like a
+   spreadsheet.
+3. One click changes the **Status**: **Graded**, **Absent** or **Excused**.
+   An absent or excused student has no score: their fields are disabled.
+   The **Current subject average** column shows each student's average in
+   the subject before you save.
+4. The bar at the bottom shows how many grades are entered (for example
+   "24/30 grades entered") and flags unsaved changes. Click **Save**: every
+   row is saved at once.
+
+Every **Graded** student needs a score. If any is missing, nothing is
+saved: the bottom bar shows how many fields to fix and the page takes you
+to the first one. If you leave the page before saving, ERA asks you to
+confirm so you don't lose what you entered.
 
 ## Edit or delete an evaluation
 

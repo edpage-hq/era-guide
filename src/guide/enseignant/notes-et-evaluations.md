@@ -30,14 +30,25 @@ sur une ligne ouvre un panneau de détail.
 ## Saisir les notes
 
 1. Depuis la liste des évaluations, cliquez sur **Notes** sur la ligne de
-   l'évaluation concernée.
-2. Pour chaque élève, saisissez sa **Note** (entre 0 et la note maximale de
-   l'évaluation) et, le cas échéant, un **Bonus/malus**.
-3. Réglez le **Statut** de l'élève : **Noté**, **Absent** ou **Dispensé**.
-   La colonne **Moyenne de matière actuelle**, en lecture seule, vous
-   indique la moyenne de chaque élève dans la matière avant enregistrement.
-4. Cliquez sur **Enregistrer** — toutes les lignes sont enregistrées en une
+   l'évaluation concernée. En haut de la page, la pastille **Noté sur…**
+   rappelle le barème, également affiché dans chaque champ de note.
+2. Pour chaque élève, saisissez sa **Note** et, le cas échéant, un
+   **Bonus/malus**. Vous pouvez écrire les décimales avec une virgule
+   (« 12,5 »). La touche **Entrée** passe directement à la note de l'élève
+   suivant, comme dans un tableur.
+3. Un clic suffit pour changer le **Statut** : **Noté**, **Absent** ou
+   **Dispensé**. Un élève absent ou dispensé n'a pas de note : ses champs
+   se désactivent. La colonne **Moyenne de matière actuelle** indique la
+   moyenne de chaque élève dans la matière avant enregistrement.
+4. La barre du bas indique combien de notes sont saisies (par exemple
+   « 24/30 notes saisies ») et signale les modifications non enregistrées.
+   Cliquez sur **Enregistrer** : toutes les lignes sont enregistrées en une
    seule fois.
+
+Chaque élève **Noté** doit avoir une note. S'il en manque, rien n'est
+enregistré : la barre du bas indique le nombre de champs à corriger et la
+page vous amène au premier. Si vous quittez la page avant d'enregistrer,
+ERA vous demande de confirmer pour ne pas perdre votre saisie.
 
 ## Modifier ou supprimer une évaluation
 

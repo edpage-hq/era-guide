@@ -10,7 +10,7 @@ personnel au portail élève, et ses matières de spécialité.
 
 ## Dossiers élèves
 
-**Élèves et admissions → Élèves** liste les élèves de l'instance, avec une
+**Élèves et admissions → Élèves** liste les élèves de l'établissement, avec une
 recherche par nom et un filtre par classe (y compris « Non affecté » pour
 les élèves sans classe sur l'année en cours).
 

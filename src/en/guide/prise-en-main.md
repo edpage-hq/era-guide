@@ -69,7 +69,10 @@ everything related to your personal account, regardless of your role:
 
 - **Profile** — change your name, email address and profile picture. If
   you change your email, a "Your email address is not verified" message
-  appears until you click the link sent to that address.
+  appears until you click the link sent to that address. A parent or
+  student account can also be deleted there. A staff account is tied to
+  school records (timetable, grades, expenses), so deleting it is a
+  request to the administration.
 - **Security** — change your password, enable two-factor authentication,
   manage your passkeys (passwordless sign-in) and review your active
   sessions.

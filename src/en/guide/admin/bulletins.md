@@ -44,4 +44,4 @@ with:
 The visual template used (Classic, Compact, or Traditional French-style)
 is chosen per class, in the class's form — see
 [School structure](/en/guide/admin/structure-etablissement#classes). If no
-template is chosen for a class, the instance's default template applies.
+template is chosen for a class, the school's default template applies.

@@ -13,7 +13,7 @@ screens.
 
 ## Create a user account and assign a role
 
-**Users** (in the menu's **Administration** group) lists every account on the instance,
+**Users** (in the menu's **Administration** group) lists every account in the school,
 with a search by name/email, a filter by role, and each account's
 verified/unverified and active/inactive status.
 
@@ -111,7 +111,7 @@ section):
 2. Choose the **Destination site** and give a **Reason**.
 3. Click **Submit request**.
 
-Every other administrator on the instance is then notified.
+Every other administrator in the school is then notified.
 
 **Reviewing a request** — the **Staff → Staff transfers** section
 lists requests, with a filter by status (Pending, Approved, Rejected).

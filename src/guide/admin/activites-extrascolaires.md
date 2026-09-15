@@ -12,7 +12,7 @@ vie scolaire, pas de l'administration.
 ## Créer une activité
 
 **Paramétrage scolaire → Activités périscolaires** liste le catalogue
-d'activités de l'instance.
+d'activités de l'établissement.
 
 Pour créer une activité :
 

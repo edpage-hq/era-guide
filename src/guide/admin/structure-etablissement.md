@@ -33,6 +33,37 @@ Pour créer une année scolaire :
 Depuis la liste, le bouton **Définir comme actuelle** bascule l'année en
 cours. Supprimer une année scolaire est définitif et irréversible.
 
+### Clôturer une année ou une période
+
+Une fois l'année ou le trimestre terminé, clôturez-le pour éviter les
+saisies par inadvertance : un enseignant qui rouvre un vieux lien ne
+modifiera plus les notes d'un trimestre déjà remis aux familles.
+
+La colonne **État** de **Années scolaires** et de **Périodes scolaires**
+porte les actions :
+
+- **Clôturer** — disponible une fois la date de fin passée. Les notes,
+  présences, bulletins, cahiers de textes, observations de compétences et
+  incidents de la période passent en lecture seule, pour tout le monde.
+  Les écrans concernés affichent un message et leur bouton
+  **Enregistrer** est désactivé.
+- **Rouvrir** — pour une correction ponctuelle. Vous indiquez un motif et
+  une durée (48 heures par défaut, une semaine au maximum) : la période se
+  referme toute seule à l'échéance, personne n'a à y penser. Le motif et
+  l'auteur sont enregistrés dans le [journal d'activité](/guide/admin/demo-et-journal).
+- **Annuler la clôture** — si la clôture a été faite par erreur. La
+  période redevient modifiable sans limite de temps.
+
+Clôturer une année clôt tout ce qu'elle contient, y compris les jours
+situés entre deux trimestres (vacances, rattrapages). Une période rouverte
+reste modifiable même si son année est close.
+
+::: tip La caisse n'est jamais gelée
+La clôture ne concerne que le pédagogique. Les paiements, les remises et
+les dépenses restent possibles sur une année close : un établissement
+encaisse presque toujours des arriérés après la fin des cours.
+:::
+
 ## Sites
 
 Si votre établissement a plusieurs campus, **Paramétrage scolaire → Sites**

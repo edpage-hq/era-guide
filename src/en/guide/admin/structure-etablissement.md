@@ -32,6 +32,36 @@ To create an academic year:
 From the list, the **Set as current** button switches the current year.
 Deleting an academic year is permanent and irreversible.
 
+### Closing a year or a term
+
+Once a year or a term is over, close it to prevent inadvertent entries: a
+teacher reopening an old link will no longer change the grades of a term
+already handed to families.
+
+The **Status** column of **Academic Years** and **Academic Terms** carries
+the actions:
+
+- **Close** — available once the end date has passed. Grades, attendance,
+  bulletins, lesson logs, competency observations and incidents of the
+  period become read-only, for everyone. The screens concerned show a
+  message and their **Save** button is disabled.
+- **Reopen** — for a one-off correction. You give a reason and a duration
+  (48 hours by default, a week at most): the period closes again on its
+  own when the time is up, so nobody has to remember. The reason and the
+  author are recorded in the [activity log](/en/guide/admin/demo-et-journal).
+- **Cancel closure** — if it was closed by mistake. The period becomes
+  editable again with no time limit.
+
+Closing a year closes everything it contains, including the days between
+two terms (holidays, catch-up sessions). A reopened term stays editable
+even if its year is closed.
+
+::: tip The cash desk is never frozen
+Closing only covers teaching records. Payments, discounts and expenses
+stay possible on a closed year: a school almost always collects arrears
+after lessons are over.
+:::
+
 ## Sites
 
 If your school has multiple campuses, **School setup → Sites** lets you

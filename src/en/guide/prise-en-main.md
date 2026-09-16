@@ -42,10 +42,24 @@ sheets:
 - **The masthead** under the tabs: the page's title, its description and
   its main actions (for example **New user**). On a detail page, the parent
   pages are shown above the title so you can go back to them.
-- **The school calendar**, top right on a computer or tablet: the current academic year, the
-  period (for example **Term 1**) and a ruler showing the current week of
-  the period. It updates on its own from the dates of the academic years
-  and periods.
+- **The year and term you are viewing**, top right on a computer or
+  tablet: the academic year, the term (for example **Term 1**) and, if the
+  school has several sites, the site. ERA starts on the current year and
+  today's term, worked out from the dates you entered.
+
+  Click it to view another year or term. The choice applies to every page:
+  lists, filters and dashboards follow it, and it stays with you from one
+  screen to the next. The other way round, picking a past year on a screen
+  (the billing filter, say) updates that choice everywhere.
+
+  ::: warning Viewing is not writing
+  This picker **never** changes the year the app writes into. An
+  enrollment, an approved application or a transfer always land in the year
+  flagged as current, even while you are viewing a past year. Whenever you
+  are away from today's year and term, an amber banner says so at the top
+  of the screen, with a **Back to today** link.
+  :::
+
 - **Your avatar**, at the bottom of the spaces column, opens your
   **Settings** and sign-out.
 

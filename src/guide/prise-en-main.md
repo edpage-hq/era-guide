@@ -44,10 +44,27 @@ qui tient ses feuilles :
   ses actions principales (par exemple **Nouvel utilisateur**). Sur une
   page de détail, les pages parentes s'affichent au-dessus du titre et
   permettent d'y revenir.
-- **Le calendrier scolaire**, en haut à droite sur ordinateur et tablette : l'année scolaire en cours,
-  la période (par exemple **Trimestre 1**) et une réglette qui montre la
-  semaine en cours dans la période. Il se met à jour tout seul à partir des
-  dates des années et périodes scolaires.
+- **L'année et la période consultées**, en haut à droite sur ordinateur et
+  tablette : l'année scolaire, la période (par exemple **Trimestre 1**) et,
+  si l'établissement a plusieurs sites, le site. Au départ, ERA se place
+  sur l'année en cours et la période du jour, calculées à partir des dates
+  saisies.
+
+  Cliquez dessus pour consulter une autre année ou une autre période. Ce
+  choix vaut pour toutes les pages : les listes, les filtres et les
+  tableaux de bord s'y adaptent, et il vous suit d'un écran à l'autre. À
+  l'inverse, choisir une année passée sur un écran (par exemple le filtre
+  de la facturation) met à jour ce choix partout.
+
+  ::: warning Consulter n'est pas saisir
+  Ce sélecteur ne change **jamais** l'année dans laquelle l'application
+  écrit. Une inscription, une candidature approuvée ou un transfert
+  atterrissent toujours dans l'année marquée comme courante, même si vous
+  consultez une année passée. Tant que vous n'êtes pas sur l'année et la
+  période du jour, un bandeau orange vous le rappelle en haut de l'écran,
+  avec un lien **Revenir à aujourd'hui**.
+  :::
+
 - **Votre avatar**, en bas de la colonne des espaces, ouvre vos
   **Paramètres** et la déconnexion.
 

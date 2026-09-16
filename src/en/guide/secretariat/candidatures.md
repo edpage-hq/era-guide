@@ -56,16 +56,29 @@ If no documents were attached, the page states this clearly.
 
 1. Open the application from **Review**.
 2. In the **Assign to a class** section, choose a **class** from the
-   list. Each class shows its current occupancy (for example `24/30`,
-   or `∞` if it has no maximum capacity set).
+   list. Each class shows its academic year and its current occupancy
+   (for example `24/30`, or `∞` if it has no maximum capacity set).
+   Classes of the next year, once prepared, are offered too: an
+   application approved in June can go straight into the class of the
+   new school year.
 3. If the class has reached its capacity, you can't select it normally:
    check **Force assignment even if the class has reached its
    capacity** to assign it anyway.
 4. Click **Approve**.
 
-The student is then enrolled in the chosen class, and their financial
+The student is then enrolled in the chosen class, for that class's year,
+and their financial
 record becomes visible to the cashier under **Billing** — see
 [Enrollment and payments](/en/guide/caissier/inscriptions-et-paiements).
+
+### A student already on file
+
+If ERA already knows a student with the same first name, last name and
+date of birth (a former student coming back, for example), the **Assign to
+a class** section says so, with their last class. Approving then enrolls
+that existing student instead of creating a second record: their history
+stays in one place. If they are already enrolled for the chosen class's
+year, approval is refused.
 
 ## Rejecting an application
 

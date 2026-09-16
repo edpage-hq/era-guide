@@ -71,6 +71,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'School structure', link: 'admin/structure-etablissement' },
         { text: 'Staff and user accounts', link: 'admin/personnel-utilisateurs' },
         { text: 'Students and guardians', link: 'admin/eleves-tuteurs' },
+        { text: 'Year-end decisions', link: 'admin/decisions-fin-annee' },
         { text: 'Fees and pricing', link: 'admin/frais-tarification' },
         { text: 'Timetables', link: 'admin/emplois-du-temps' },
         { text: 'Report cards', link: 'admin/bulletins' },

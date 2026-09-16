@@ -57,16 +57,29 @@ Si aucun document n'a été joint, la page l'indique clairement.
 
 1. Ouvrez le dossier depuis **Examiner**.
 2. Dans le bloc **Affecter à une classe**, choisissez la **classe** dans
-   la liste. Chaque classe affiche son occupation actuelle (par exemple
-   `24/30`, ou `∞` si elle n'a pas de capacité maximale définie).
+   la liste. Chaque classe affiche son année scolaire et son occupation
+   actuelle (par exemple `24/30`, ou `∞` si elle n'a pas de capacité
+   maximale définie). Les classes de l'année suivante, si elle est déjà
+   préparée, sont proposées aussi : un dossier validé en juin peut entrer
+   directement dans la classe de la rentrée.
 3. Si la classe a atteint sa capacité, vous ne pouvez pas la sélectionner
    normalement : cochez **Forcer l'affectation même si la classe a
    atteint sa capacité** pour l'assigner malgré tout.
 4. Cliquez sur **Valider**.
 
-L'élève est alors inscrit dans la classe choisie et son dossier financier
+L'élève est alors inscrit dans la classe choisie, pour l'année de cette
+classe, et son dossier financier
 devient visible pour la caisse dans **Facturation** — voir
 [Inscriptions et paiements](/guide/caissier/inscriptions-et-paiements).
+
+### Un élève déjà connu
+
+Si ERA connaît déjà un élève avec les mêmes prénom, nom et date de
+naissance (un ancien élève qui revient, par exemple), le bloc **Affecter à
+une classe** l'indique avec sa dernière classe. La validation inscrit alors
+cet élève existant, sans créer de second dossier : son historique reste au
+même endroit. S'il est déjà inscrit pour l'année de la classe choisie, la
+validation est refusée.
 
 ## Refuser un dossier
 

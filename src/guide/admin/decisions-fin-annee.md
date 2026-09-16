@@ -7,7 +7,8 @@ layout: doc
 À la fin de l'année, chaque élève passe en classe supérieure, redouble ou
 quitte l'établissement. ERA propose une décision pour chaque élève à partir
 de ses résultats ; **l'administrateur seul** la valide ou la change. Ces
-décisions servent ensuite à réinscrire les élèves dans l'année suivante.
+décisions servent ensuite à [réinscrire les élèves](/guide/admin/reinscriptions)
+dans l'année suivante.
 
 ## Avant de commencer
 
@@ -47,6 +48,9 @@ Trois façons d'enregistrer les décisions :
   de classe ».
 
 **Annuler la décision** remet l'élève « à décider ».
+
+Une fois l'élève réinscrit dans l'année suivante, sa décision ne peut plus
+être modifiée ni annulée : la ligne affiche « Réinscrit en … ».
 
 Chaque décision garde la moyenne annuelle sur laquelle elle a été prise,
 son auteur et sa date.

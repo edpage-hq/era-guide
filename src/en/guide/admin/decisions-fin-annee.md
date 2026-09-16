@@ -7,7 +7,7 @@ layout: doc
 At the end of the year, each student moves up, repeats the year or leaves
 the school. ERA proposes a decision for each student from their results;
 **the administrator alone** accepts or changes it. These decisions are then
-used to re-enroll students into the next year.
+used to [re-enroll students](/en/guide/admin/reinscriptions) into the next year.
 
 ## Before you start
 
@@ -43,6 +43,9 @@ Three ways to record decisions:
   a **Note**, e.g. "Moved up by the class council".
 
 **Cancel decision** puts the student back to "to decide".
+
+Once the student is re-enrolled into the next year, their decision can no
+longer be changed or cancelled: the row shows "Re-enrolled in …".
 
 Each decision keeps the annual average it was taken on, its author and its
 date.

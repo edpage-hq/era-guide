@@ -87,6 +87,7 @@ function sidebarGuide(): SidebarItemType[] {
       items: [
         { text: 'Applications', link: 'secretariat/candidatures' },
         { text: 'Site transfers', link: 'secretariat/transferts-sites' },
+        { text: 'Class changes', link: 'secretariat/changements-de-classe' },
       ],
     },
     {

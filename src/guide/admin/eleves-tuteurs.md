@@ -31,14 +31,25 @@ Pour créer un élève :
    « Non affecté » pour créer le dossier sans inscription immédiate.
 4. Cliquez sur **Enregistrer**.
 
-En modifiant un élève, vous retrouvez les mêmes champs, ainsi que deux
-tableaux en lecture seule si l'élève a de l'historique :
+En modifiant un élève, vous retrouvez les mêmes champs, à une différence
+près pour la classe. Un élève **sans classe** sur l'année en cours peut y
+être inscrit directement. Un élève **déjà inscrit** voit sa classe affichée
+avec un bouton **Changer de classe** : le déplacement passe par un
+[changement de classe](/guide/secretariat/changements-de-classe), qui
+vérifie le site et la capacité et garde une trace du motif. La fiche ne
+retire jamais un élève de sa classe, puisque son inscription porte ses
+paiements et ses bulletins.
+
+La fiche affiche aussi deux tableaux en lecture seule si l'élève a de
+l'historique :
 
 - **Historique des inscriptions** — les classes suivies sur les années
   scolaires précédentes.
-- **Historique de référentiel** — les changements de référentiel
-  pédagogique (français ↔ togolais) subis par l'élève, avec la date et
-  l'auteur du changement.
+- **Historique de référentiel** — chaque passage de l'élève d'une classe à
+  une autre en cours d'année (changement de classe, transfert de site), avec
+  la date, l'auteur, et le département et le site de chaque classe : un
+  changement de référentiel pédagogique (français ↔ togolais) s'y lit donc
+  aussi.
 
 Depuis la fiche d'un élève, trois boutons ouvrent des écrans dédiés :
 **Matières de spécialité**, **Tuteurs** et **Compte élève** (détaillés

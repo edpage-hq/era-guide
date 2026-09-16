@@ -140,12 +140,13 @@ Pour créer un département :
 2. Renseignez les champs ci-dessous.
 3. Cliquez sur **Enregistrer**.
 
-| Champ          | Détail                                                                              |
-| -------------- | ----------------------------------------------------------------------------------- |
-| Nom            | —                                                                                   |
-| Type           | Crèche, Maternelle, Élémentaire, Collège, Lycée, BI ou Université                   |
-| Référentiel    | Français ou Togolais — détermine les règles de notation appliquées à ce département |
-| Disponible sur | cochez un ou plusieurs sites où ce département est actif                            |
+| Champ              | Détail                                                                                                                                                               |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nom                | —                                                                                                                                                                    |
+| Type               | Crèche, Maternelle, Élémentaire, Collège, Lycée, BI ou Université                                                                                                    |
+| Référentiel        | Français ou Togolais — détermine les règles de notation appliquées à ce département                                                                                  |
+| Moyenne de passage | moyenne annuelle à partir de laquelle ERA propose le passage en classe supérieure (10 par défaut), voir [Décisions de fin d'année](/guide/admin/decisions-fin-annee) |
+| Disponible sur     | cochez un ou plusieurs sites où ce département est actif                                                                                                             |
 
 ## Niveaux
 

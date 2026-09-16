@@ -134,12 +134,13 @@ To create a department:
 2. Fill in the fields below.
 3. Click **Save**.
 
-| Field        | Detail                                                                        |
-| ------------ | ----------------------------------------------------------------------------- |
-| Name         | —                                                                             |
-| Type         | Nursery, Preschool, Elementary, Middle school, High school, IB, or University |
-| Curriculum   | French or Togolese — determines the grading rules applied to this department  |
-| Available at | check one or more sites where this department is active                       |
+| Field        | Detail                                                                                                                          |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| Name         | —                                                                                                                               |
+| Type         | Nursery, Preschool, Elementary, Middle school, High school, IB, or University                                                   |
+| Curriculum   | French or Togolese — determines the grading rules applied to this department                                                    |
+| Pass mark    | annual average from which ERA proposes moving up (10 by default), see [Year-end decisions](/en/guide/admin/decisions-fin-annee) |
+| Available at | check one or more sites where this department is active                                                                         |
 
 ## Levels
 

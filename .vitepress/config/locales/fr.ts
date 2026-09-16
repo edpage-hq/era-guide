@@ -102,6 +102,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: "Structure de l'établissement", link: 'admin/structure-etablissement' },
         { text: 'Personnel et comptes utilisateurs', link: 'admin/personnel-utilisateurs' },
         { text: 'Élèves et tuteurs', link: 'admin/eleves-tuteurs' },
+        { text: "Décisions de fin d'année", link: 'admin/decisions-fin-annee' },
         { text: 'Frais et tarification', link: 'admin/frais-tarification' },
         { text: 'Emplois du temps', link: 'admin/emplois-du-temps' },
         { text: 'Bulletins', link: 'admin/bulletins' },

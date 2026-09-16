@@ -31,14 +31,23 @@ To create a student:
    unassigned to create the record without an immediate enrollment.
 4. Click **Save**.
 
-Editing a student shows the same fields, plus two read-only tables if the
-student has history:
+Editing a student shows the same fields, with one difference for the
+class. A student with **no class** this academic year can be enrolled
+directly. An **already enrolled** student shows their class with a
+**Change class** button: moving them goes through a
+[class change](/en/guide/secretariat/changements-de-classe), which checks
+the site and capacity and records the reason. The form never takes a
+student out of their class, since their enrollment carries their payments
+and bulletins.
+
+The record also shows two read-only tables if the student has history:
 
 - **Enrollment history** — the classes attended in previous academic
   years.
-- **Curriculum history** — changes of pedagogical curriculum (French ↔
-  Togolese) the student went through, with the date and who made the
-  change.
+- **Curriculum history** — every move of the student from one class to
+  another during a year (class change, site transfer), with the date, who
+  made it, and each class's department and site — so a change of
+  pedagogical curriculum (French ↔ Togolese) shows there too.
 
 From a student's record, three buttons open dedicated screens: **Specialty
 subjects**, **Guardians**, and **Student account** (detailed below).

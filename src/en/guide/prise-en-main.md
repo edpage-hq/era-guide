@@ -120,6 +120,18 @@ accounts** for the full list in **Billing**.
 An installment is overdue from the day after its due date, as long as the
 payments received don't cover it.
 
+## Finding this guide from the app
+
+This guide opens straight from ERA, in two places:
+
+- **Your account menu** (your avatar) → **User guide**.
+- **The "Need a hand?" block** at the bottom of your dashboard, or of your
+  own area for a parent or a student.
+
+Both open the section written for **your role**: a teacher lands on the
+teacher pages, a cashier on the cash desk ones. The **Guide contents**
+link opens the full table of contents. The language follows the app's.
+
 ## Account settings
 
 The **Settings** menu (from your avatar, at the bottom of the spaces

@@ -7,8 +7,8 @@ layout: doc
 Cette section regroupe toute la configuration de base d'ERA : c'est ce que
 vous mettez en place en début d'année, avant que le personnel et les élèves
 puissent commencer à travailler dans l'app. L'ordre logique est
-généralement : année scolaire → sites → départements → classes → matières →
-matières par département → types d'évaluation → périodes scolaires →
+généralement : année scolaire → sites → départements → niveaux → classes →
+matières → matières par département → types d'évaluation → périodes scolaires →
 compétences (si besoin).
 
 ## Années scolaires
@@ -64,6 +64,36 @@ les dépenses restent possibles sur une année close : un établissement
 encaisse presque toujours des arriérés après la fin des cours.
 :::
 
+### Préparer l'année suivante
+
+Avant la rentrée, inutile de recréer toutes les classes et les grilles de
+frais à la main : reprenez-les d'une année précédente.
+
+1. Créez la nouvelle année scolaire (ex. « 2027-2028 »), sans la définir
+   comme actuelle.
+2. Sur sa ligne, cliquez sur **Préparer**.
+3. Dans **Reprendre depuis**, choisissez l'année à copier : l'année
+   précédente est proposée par défaut.
+4. Vérifiez l'aperçu des classes et des grilles de frais, cochez ce que
+   vous voulez copier.
+5. Cliquez sur **Copier dans 2027-2028**.
+
+Sont copiés : le nom, le site, le département, le niveau, la série,
+l'effectif et le modèle de bulletin de chaque classe, et les grilles de
+frais avec tous leurs frais. Vous ajustez ensuite les montants ou les
+classes qui changent.
+
+Ne sont **pas** copiés : les élèves, les professeurs principaux, les
+affectations d'enseignants et les emplois du temps, qui changent d'une
+année à l'autre.
+
+Ce que la nouvelle année contient déjà est laissé tel quel et marqué
+**Déjà présente** : une classe du même nom sur le même site, une grille de
+frais pour le même site et le même département. Vous pouvez donc relancer
+la copie sans créer de doublon. L'année en cours ne change pas : c'est vous
+qui basculez avec **Définir comme actuelle** le moment venu. Une année
+clôturée ne peut pas être préparée.
+
 ## Sites
 
 Si votre établissement a plusieurs campus, **Paramétrage scolaire → Sites**
@@ -117,6 +147,42 @@ Pour créer un département :
 | Référentiel    | Français ou Togolais — détermine les règles de notation appliquées à ce département |
 | Disponible sur | cochez un ou plusieurs sites où ce département est actif                            |
 
+## Niveaux
+
+Un niveau, c'est ce qu'une classe enseigne, quelle que soit l'année : « 6e »,
+« 1ère », « Terminale ». Plusieurs classes parallèles partagent le même niveau
+(1ère C et 1ère D sont toutes deux en « 1ère »). Les niveaux préparent le
+passage en classe supérieure : ils disent où vont les élèves admis.
+
+**Paramétrage scolaire → Niveaux** présente les niveaux département par
+département, dans leur ordre. Les flèches **↑** et **↓** changent cet ordre.
+Chaque niveau affiche son niveau suivant et le nombre de classes qui
+l'utilisent.
+
+Pour créer un niveau :
+
+1. Cliquez sur **Nouveau niveau**.
+2. Renseignez les champs ci-dessous.
+3. Cliquez sur **Enregistrer**. Le niveau s'ajoute à la fin de son département.
+
+| Champ                             | Détail                                                                                                  |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Département                       | —                                                                                                       |
+| Nom                               | ex. « 6e », « 1ère », « Terminale » ; unique dans le département                                        |
+| Niveau suivant                    | le niveau où vont les élèves admis ; il peut être dans un autre département (3e → Lycée · 2nde)         |
+| Dernier niveau de l'établissement | les élèves admis quittent l'établissement après ce niveau ; il n'a donc pas de niveau suivant           |
+| Année d'examen                    | le passage dépend d'un examen national (CM2, 3e, Terminale) : aucune décision ne sera proposée d'office |
+
+Un niveau sans niveau suivant et qui n'est pas le dernier affiche
+**Niveau suivant non défini** : pensez à le compléter. Un niveau utilisé par
+des classes ne peut être ni supprimé, ni déplacé dans un autre département.
+
+::: tip Créez les niveaux dans n'importe quel ordre
+Le niveau suivant se choisit parmi les niveaux existants : commencez par le
+plus haut (Terminale, puis 1ère, puis 2nde) pour pouvoir relier chacun au
+suivant au fur et à mesure, puis rangez-les avec les flèches.
+:::
+
 ## Classes
 
 **Paramétrage scolaire → Classes** liste les classes, avec des filtres par
@@ -132,12 +198,14 @@ Pour créer une classe :
 
 Section « Structure » :
 
-| Champ          | Détail |
-| -------------- | ------ |
-| Nom            | —      |
-| Site           | —      |
-| Département    | —      |
-| Année scolaire | —      |
+| Champ          | Détail                                                                            |
+| -------------- | --------------------------------------------------------------------------------- |
+| Nom            | —                                                                                 |
+| Site           | —                                                                                 |
+| Département    | —                                                                                 |
+| Niveau         | facultatif ; au choix parmi les niveaux du département, voir [Niveaux](#niveaux)  |
+| Série          | facultatif ; ex. « C », « D », « A4 », pour distinguer des classes du même niveau |
+| Année scolaire | —                                                                                 |
 
 Section « Options » (facultatifs) :
 

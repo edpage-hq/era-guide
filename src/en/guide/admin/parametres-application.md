@@ -38,6 +38,21 @@ Two separate logos, and the difference matters:
   usually becomes unreadable once scaled down. Prepare a square version
   that reads well on a dark background.
 
+## Sign-in pages
+
+The **Sign-in pages** section controls what families and staff see before
+they type anything.
+
+- **Background image** — a photo of the school, shown behind the dark blue
+  panel on a computer, and as a band above the form on a phone. JPG, PNG or
+  WebP, 4 MB at most. ERA washes it with blue so the text stays readable
+  whatever the picture. Without one, the panel stays plain. **Remove**
+  takes it away.
+- **Show the logo in a white tile** — turn this on when your logo blends
+  into the dark blue frame: it is then shown on a small white tile, both on
+  the sign-in pages and inside the app. This setting only applies to **your**
+  logo: ERA's own is recolored automatically and always shown bare.
+
 ## Home page tagline
 
 The homepage tagline and subtitle are no longer edited here: they joined

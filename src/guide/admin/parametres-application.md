@@ -39,6 +39,19 @@ Deux logos distincts, et la différence compte :
   sa place — ce qui donne souvent un résultat illisible une fois réduit.
   Prévoyez une version carrée, lisible sur fond sombre.
 
+Le logo sert aussi d'**icône de l'application** : celle de l'onglet du
+navigateur, celle qui apparaît sur l'écran d'accueil d'un téléphone quand
+un utilisateur y ajoute ERA, et celle des notifications. Ces icônes sont
+créées automatiquement à partir du logo icône (ou, à défaut, du logo
+complet) dès que vous l'enregistrez, et retirées si vous le supprimez. Sans
+logo, ce sont celles d'ERA.
+
+Pour ce rôle, un logo **PNG, JPG ou WebP** donne le meilleur résultat. Un
+logo SVG est utilisé tel quel dans l'onglet, mais les iPhone ne savent pas
+l'afficher sur leur écran d'accueil. Et plus le logo est détaillé, moins il
+reste lisible à la taille d'une icône d'onglet : un emblème simple s'y prête
+mieux qu'une photo.
+
 ## Pages de connexion
 
 La section **Pages de connexion** règle ce que voient les familles et le

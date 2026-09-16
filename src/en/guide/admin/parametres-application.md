@@ -38,6 +38,17 @@ Two separate logos, and the difference matters:
   usually becomes unreadable once scaled down. Prepare a square version
   that reads well on a dark background.
 
+The logo is also the **app icon**: the one in the browser tab, the one on
+a phone's home screen when someone adds ERA to it, and the one on
+notifications. These icons are created automatically from the icon logo
+(or the full logo if there is none) as soon as you save it, and removed if
+you delete it. With no logo, ERA's own are used.
+
+For this purpose a **PNG, JPG or WebP** logo works best. An SVG logo is
+used as-is in the browser tab, but iPhones cannot show it on their home
+screen. And the more detailed a logo, the less legible it stays at the
+size of a tab icon: a simple emblem suits it better than a photograph.
+
 ## Sign-in pages
 
 The **Sign-in pages** section controls what families and staff see before

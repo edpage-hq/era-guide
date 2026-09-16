@@ -58,14 +58,28 @@ est en haut à droite.
 
 ## Votre tableau de bord
 
-Le tableau de bord rassemble ce qui vous concerne aujourd'hui, en deux
-parties :
+Le tableau de bord rassemble ce qui vous concerne aujourd'hui.
+
+Dans le bandeau bleu, la **réglette du trimestre** montre la période en
+cours, la semaine où vous en êtes et les dates de début et de fin. Juste
+en dessous, à cheval sur le bandeau, les **chiffres du jour** donnent
+l'essentiel en un coup d'œil (élèves inscrits, taux d'absentéisme, montant
+encaissé, échéances dépassées). Ils n'apparaissent que si votre rôle y
+donne accès.
+
+Le reste de la page se lit en deux colonnes :
 
 - **À traiter** : ce qui attend une action de votre part, avec le nombre
   d'éléments concernés. Cliquez sur une ligne pour ouvrir l'écran où les
   traiter. Une ligne disparaît dès qu'il n'y a plus rien à faire ; quand
   tout est à jour, le bloc affiche « Rien ne vous attend pour le moment ».
-- **Les blocs du jour** : ce qui se passe aujourd'hui pour votre rôle.
+- **Les blocs du jour**, à droite : ce qui se passe aujourd'hui dans
+  l'établissement pour votre rôle. Sur un grand écran, cette colonne reste
+  visible pendant que vous faites défiler le reste.
+
+Sur téléphone, un enseignant voit d'abord une carte **Maintenant**, avec le
+cours en cours — ou le suivant s'il n'y en a pas — et le bouton
+**Faire l'appel**.
 
 Si vous avez plusieurs rôles, le tableau de bord réunit les éléments de
 chacun.

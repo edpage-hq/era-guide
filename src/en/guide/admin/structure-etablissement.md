@@ -7,7 +7,7 @@ layout: doc
 This section groups all of ERA's base configuration: this is what you set
 up at the start of the year, before staff and students can start working
 in the app. The usual order is: academic year → sites → departments →
-classes → subjects → subjects by department → evaluation types → academic
+levels → classes → subjects → subjects by department → evaluation types → academic
 periods → competencies (if needed).
 
 ## Academic years
@@ -62,6 +62,33 @@ stay possible on a closed year: a school almost always collects arrears
 after lessons are over.
 :::
 
+### Preparing the next year
+
+Before the new school year, there is no need to recreate every class and
+fee structure by hand: carry them over from an earlier year.
+
+1. Create the new academic year (e.g. "2027-2028") without setting it as
+   current.
+2. On its row, click **Prepare**.
+3. In **Copy from**, choose the year to copy: the previous year is
+   selected by default.
+4. Check the preview of classes and fee structures, and tick what you want
+   to copy.
+5. Click **Copy into 2027-2028**.
+
+Copied: each class's name, site, department, level, series, capacity and
+bulletin template, and fee structures with all their fees. You then adjust
+the amounts or classes that change.
+
+**Not** copied: students, homeroom teachers, teacher assignments and
+timetables, which change from one year to the next.
+
+Anything the new year already has is left as it is and marked **Already
+there**: a class with the same name on the same site, a fee structure for
+the same site and department. You can therefore run the copy again without
+creating duplicates. The current year does not change: you switch it with
+**Set as current** when the time comes. A closed year cannot be prepared.
+
 ## Sites
 
 If your school has multiple campuses, **School setup → Sites** lets you
@@ -114,6 +141,40 @@ To create a department:
 | Curriculum   | French or Togolese — determines the grading rules applied to this department  |
 | Available at | check one or more sites where this department is active                       |
 
+## Levels
+
+A level is what a class teaches, whatever the year: "Grade 6", "Year 12".
+Several parallel classes share one level. Levels prepare moving students
+up: they say where students who pass go next.
+
+**School setup → Levels** shows levels department by department, in
+order. The **↑** and **↓** arrows change that order. Each level shows its
+next level and how many classes use it.
+
+To create a level:
+
+1. Click **New level**.
+2. Fill in the fields below.
+3. Click **Save**. The level is added at the end of its department.
+
+| Field                    | Detail                                                                           |
+| ------------------------ | -------------------------------------------------------------------------------- |
+| Department               | —                                                                                |
+| Name                     | unique within the department                                                     |
+| Next level               | where students who pass go; it can be in another department                      |
+| Last level of the school | students who pass leave the school after this level, so it has no next level     |
+| Exam year                | moving up depends on a national exam: no decision will be proposed automatically |
+
+A level with no next level that isn't the last one shows **Next level not
+set**: remember to fill it in. A level used by classes can be neither
+deleted nor moved to another department.
+
+::: tip Create levels in any order
+The next level is picked from existing levels: start with the highest one
+so you can link each level to the next as you go, then order them with the
+arrows.
+:::
+
 ## Classes
 
 **School setup → Classes** lists classes, with filters by site,
@@ -129,12 +190,14 @@ To create a class:
 
 "Structure" section:
 
-| Field         | Detail |
-| ------------- | ------ |
-| Name          | —      |
-| Site          | —      |
-| Department    | —      |
-| Academic year | —      |
+| Field         | Detail                                                                 |
+| ------------- | ---------------------------------------------------------------------- |
+| Name          | —                                                                      |
+| Site          | —                                                                      |
+| Department    | —                                                                      |
+| Level         | optional; one of the department's levels, see [Levels](#levels)        |
+| Series        | optional; e.g. "C", "D", "A4", to tell classes of the same level apart |
+| Academic year | —                                                                      |
 
 "Options" section (all optional):
 

@@ -81,6 +81,24 @@ cet élève existant, sans créer de second dossier : son historique reste au
 même endroit. S'il est déjà inscrit pour l'année de la classe choisie, la
 validation est refusée.
 
+### Les comptes des parents
+
+À la validation, chaque parent du dossier reçoit un compte ERA, identifié
+par son adresse e-mail (majuscules et minuscules ne comptent pas). Un
+parent qui a déjà un compte avec cette adresse, pour un autre enfant par
+exemple, le garde : l'enfant s'y ajoute, sans nouvel e-mail.
+
+Si un compte parent existe déjà **au même nom mais avec une autre
+adresse**, le bloc **Affecter à une classe** le signale, avec les enfants
+rattachés à ce compte. Choisissez alors :
+
+- **Créer un compte avec …** (choix par défaut) : c'est un homonyme, ou le
+  parent veut un compte séparé ;
+- **Rattacher l'enfant au compte existant …** : c'est le même parent. Il
+  retrouve tous ses enfants dans le même espace, sans second compte.
+
+En cas de doute, vérifiez auprès de la famille avant de valider.
+
 ## Refuser un dossier
 
 1. Ouvrez le dossier depuis **Examiner**.

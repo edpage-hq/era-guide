@@ -79,7 +79,8 @@ naissance (un ancien élève qui revient, par exemple), le bloc **Affecter à
 une classe** l'indique avec sa dernière classe. La validation inscrit alors
 cet élève existant, sans créer de second dossier : son historique reste au
 même endroit. S'il est déjà inscrit pour l'année de la classe choisie, la
-validation est refusée.
+validation est refusée. Ses matières de spécialité sont reprises si la
+nouvelle classe les propose toujours au choix.
 
 ### Les comptes des parents
 

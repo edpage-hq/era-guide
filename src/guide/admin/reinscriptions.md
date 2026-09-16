@@ -51,6 +51,17 @@ Ne sont pas réinscrits :
   la main : ils ne sont jamais déplacés. Vous pouvez donc relancer la
   réinscription sans risque.
 
+## Ce qui suit l'élève
+
+- Ses **matières de spécialité** sont reprises dans sa nouvelle inscription
+  si la classe d'arrivée les propose toujours au choix. Son coefficient
+  personnel est gardé dans le même département ; dans un autre département,
+  c'est le coefficient de ce département qui s'applique.
+- Ses **frais optionnels** (cantine, transport…) ne sont pas repris : la
+  famille les choisit de nouveau chaque année. La caisse voit ceux de l'an
+  dernier et peut les reprendre en un clic, voir
+  [Inscriptions et paiements](/guide/caissier/inscriptions-et-paiements#definir-les-frais-dus).
+
 ## Impayés
 
 Chaque élève qui doit encore de l'argent sur l'année écoulée est marqué

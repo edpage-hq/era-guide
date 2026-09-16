@@ -62,6 +62,13 @@ optionnels (par exemple la cantine ou le transport) sont proposés sous
 forme de cases à cocher — cochez celles qui s'appliquent à cet élève,
 puis cliquez sur **Enregistrer les modifications**.
 
+Pour un élève déjà inscrit l'année précédente, un encadré rappelle ses
+options de cette année-là (**Options de 2026-2027 : Cantine, …**). Le bouton
+**Reprendre ces options** coche les mêmes articles dans la grille de cette
+année ; une option absente de la nouvelle grille est signalée. Rien n'est
+facturé tant que vous n'avez pas cliqué sur **Enregistrer les
+modifications** : vérifiez d'abord avec la famille.
+
 Si aucune grille de frais n'est configurée pour ce site, ce département
 et cette année scolaire, la page vous l'indique — dans ce cas, demandez à
 un administrateur de la créer avant de pouvoir facturer l'élève.

@@ -59,7 +59,7 @@ pnpm docs:build   # fails on broken links/markdown
 | Staging    | _fill in once this project's staging environment exists_    |            |
 | Production | _fill in once this project's production environment exists_ |            |
 
-`pnpm docs:deploy` builds the site and publishes `.vitepress/build` to the `gh-pages` branch via [gh-pages](https://github.com/tschaub/gh-pages). Adjust `VITE_BASE` to match how the site is actually served (root domain vs. GitHub Pages project path) before deploying.
+`pnpm docs:deploy` builds the site and publishes `.vitepress/build` to the `gh-pages` branch via [gh-pages](https://github.com/tschaub/gh-pages), served at <https://edpage-hq.github.io/era-guide/>. The script sets `VITE_BASE=/era-guide/` and `VITE_SITE_URL` itself: that is a GitHub Pages project path, and a build made with the default `/` base publishes pages whose stylesheets and scripts all 404. Change both values in the script if the guide moves to its own domain.
 
 ## Contacts
 

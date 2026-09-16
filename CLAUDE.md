@@ -57,7 +57,7 @@ French is the root locale (no `/en/` prefix); English lives under `/en/`.
 pnpm docs:dev       # dev server
 pnpm docs:build     # production build — fails on broken links/missing assets
 pnpm docs:preview   # preview the production build
-pnpm docs:deploy    # build + publish .vitepress/build to gh-pages
+pnpm docs:deploy    # build + publish to gh-pages — sets VITE_BASE=/era-guide/ itself, see below
 pnpm lint           # ESLint + Prettier + markdownlint (must pass before merge)
 pnpm lint:md        # markdownlint only
 pnpm format         # Prettier --write
@@ -73,7 +73,7 @@ Node/pnpm versions are pinned via `engines` in `package.json` and `.nvmrc` (Node
 
 Loaded via `dotenv/config` at the top of `.vitepress/config/index.ts`, read from `process.env` (see `.env.example`):
 
-- `VITE_BASE` — public base path (`/docs/` locally; adjust for the actual deployment target)
+- `VITE_BASE` — public base path (`/docs/` locally). The live site is a GitHub Pages project path, so `pnpm docs:deploy` forces `/era-guide/`; never publish with a bare `pnpm docs:build` + `gh-pages`, which uses `/` and ships a site with every asset 404ing (it happened: seven deploys in a row, 2026-09-15/16).
 - `VITE_SITE_URL` — canonical URL used in Open Graph meta tags
 
 ## Conventions

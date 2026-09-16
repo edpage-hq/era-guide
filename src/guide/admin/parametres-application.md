@@ -39,6 +39,22 @@ Deux logos distincts, et la différence compte :
   sa place — ce qui donne souvent un résultat illisible une fois réduit.
   Prévoyez une version carrée, lisible sur fond sombre.
 
+## Pages de connexion
+
+La section **Pages de connexion** règle ce que voient les familles et le
+personnel avant de saisir quoi que ce soit.
+
+- **Image de fond** — une photo de l'établissement, affichée derrière le
+  panneau bleu foncé sur ordinateur, et en bandeau au-dessus du formulaire
+  sur téléphone. Formats JPG, PNG ou WebP, 4 Mo au maximum. ERA la recouvre
+  d'un voile bleu pour que le texte reste lisible quelle que soit la photo.
+  Sans image, le panneau reste uni. **Supprimer** la retire.
+- **Afficher le logo dans une pastille blanche** — à activer si votre logo
+  se confond avec le bleu foncé du cadre : il s'affiche alors sur une petite
+  tuile blanche, sur les pages de connexion comme dans l'application. Ce
+  réglage ne s'applique qu'à **votre** logo : celui d'ERA est recoloré
+  automatiquement et reste affiché nu.
+
 ## Accroche d'accueil
 
 L'accroche et le sous-titre de la page d'accueil ne se modifient plus ici :

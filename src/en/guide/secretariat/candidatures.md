@@ -80,6 +80,24 @@ that existing student instead of creating a second record: their history
 stays in one place. If they are already enrolled for the chosen class's
 year, approval is refused.
 
+### Parent accounts
+
+On approval, each parent on the application gets an ERA account,
+identified by their email address (upper and lower case don't matter). A
+parent who already has an account with that address, for another child
+for example, keeps it: the child is added to it, with no new email.
+
+If a parent account already exists **with the same name but another
+address**, the **Assign to a class** section says so, with the children
+linked to that account. Then choose:
+
+- **Create an account with …** (the default): it's a namesake, or the
+  parent wants a separate account;
+- **Link the child to the existing account …**: it's the same parent.
+  They find all their children in one place, without a second account.
+
+When in doubt, check with the family before approving.
+
 ## Rejecting an application
 
 1. Open the application from **Review**.

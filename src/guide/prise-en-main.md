@@ -129,6 +129,19 @@ financier, ou sur **Voir tous les retards** pour la liste complète dans
 Une échéance est en retard à partir du lendemain de sa date d'échéance,
 tant que les paiements reçus ne la couvrent pas.
 
+## Retrouver ce guide depuis l'application
+
+Ce guide s'ouvre directement depuis ERA, à deux endroits :
+
+- **Votre menu de compte** (votre avatar) → **Guide d'utilisation**.
+- **Le bloc « Besoin d'aide ? »** en bas de votre tableau de bord, ou de
+  votre espace pour un parent ou un élève.
+
+Les deux ouvrent la section écrite pour **votre rôle** : un enseignant
+arrive sur les pages enseignant, un caissier sur les pages caisse. Le lien
+**Sommaire du guide** mène à la table des matières complète. La langue
+suit celle de l'application.
+
 ## Paramètres du compte
 
 Le menu **Paramètres** (accessible depuis votre avatar, en bas de la

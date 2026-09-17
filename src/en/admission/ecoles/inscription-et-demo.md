@@ -29,8 +29,12 @@ Submitting it automatically creates two things:
   else (users, structure, admissions...).
 
 A confirmation page reminds you of your space's address and lets you log
-in right away. Keep that address — it's the one your team will use day
-to day.
+in right away. That address is also emailed to you, at the address you
+signed up with: keep that message. It's the one your team will use day to
+day, and it is where — and only where — a forgotten password is reset.
+
+There is no account other than yours, and no password is sent to you: you
+log in with the email address and password you chose on the form.
 
 ## What the free tier covers
 

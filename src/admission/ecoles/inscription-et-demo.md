@@ -31,8 +31,14 @@ formulaire très court :
   le reste (utilisateurs, structure, admissions...).
 
 Une page de confirmation vous rappelle l'adresse de votre espace et vous
-permet de vous connecter directement. Gardez cette adresse : c'est celle
-que votre équipe utilisera au quotidien.
+permet de vous connecter directement. Cette adresse vous est aussi
+envoyée par e-mail, à l'adresse utilisée pour l'inscription : conservez ce
+message. C'est l'adresse que votre équipe utilisera au quotidien, et c'est
+là, et nulle part ailleurs, que se réinitialise un mot de passe oublié.
+
+Il n'y a pas d'autre compte que le vôtre, ni de mot de passe envoyé : vous
+vous connectez avec l'adresse e-mail et le mot de passe choisis au
+formulaire.
 
 ## Ce que couvre l'offre gratuite
 

@@ -60,6 +60,12 @@ listed directly, and optional items (for example cafeteria or
 transport) are offered as checkboxes — check the ones that apply to
 this student, then click **Save changes**.
 
+For a student enrolled the previous year, a box recalls that year's
+options (**Options in 2026-2027: Cafeteria, …**). The **Use these options
+again** button ticks the same items on this year's fee structure; an option
+missing from the new structure is flagged. Nothing is billed until you
+click **Save changes**: check with the family first.
+
 If no fee structure is configured for this site, department, and
 academic year, the page tells you so — in that case, ask an
 administrator to create one before you can bill the student.

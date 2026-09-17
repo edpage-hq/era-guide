@@ -78,7 +78,8 @@ date of birth (a former student coming back, for example), the **Assign to
 a class** section says so, with their last class. Approving then enrolls
 that existing student instead of creating a second record: their history
 stays in one place. If they are already enrolled for the chosen class's
-year, approval is refused.
+year, approval is refused. Their specialty subjects are carried over when
+the new class still offers them as a choice.
 
 ### Parent accounts
 

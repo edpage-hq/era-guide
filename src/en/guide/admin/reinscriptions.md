@@ -47,6 +47,17 @@ Not re-enrolled:
 - students **already enrolled** in the new year, e.g. placed by hand: they
   are never moved. Running the re-enrollment again is therefore safe.
 
+## What follows the student
+
+- Their **specialty subjects** are carried into the new enrollment when the
+  new class still offers them as a choice. Their personal coefficient is
+  kept within the same department; in another department, that
+  department's coefficient applies.
+- Their **optional fees** (cafeteria, transport…) are not carried over: the
+  family chooses them again every year. The cashier sees last year's and
+  can pick them again in one click, see
+  [Enrollments and payments](/en/guide/caissier/inscriptions-et-paiements#setting-the-fees-due).
+
 ## Unpaid balances
 
 Each student who still owes money for the past year is marked **Unpaid**

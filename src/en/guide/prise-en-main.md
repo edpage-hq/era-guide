@@ -120,6 +120,22 @@ accounts** for the full list in **Billing**.
 An installment is overdue from the day after its due date, as long as the
 payments received don't cover it.
 
+## Asking for help on the page you are on
+
+The **?** button at the top right opens the "What can I do here?" panel.
+It answers for the page in front of you, not in general: what that page is
+for, and the actions it allows — only the ones your role is entitled to.
+Each action links to the matching page of this guide when you want the
+long version.
+
+On some pages the panel also offers a **guided tour**: the app walks
+through itself, one box at a time, highlighting the areas it describes.
+You can stop it whenever you like and start it again later — the button
+then reads "Replay the guided tour".
+
+Not every page has its sheet yet. Where none exists, the panel simply
+points you at this guide.
+
 ## Finding this guide from the app
 
 This guide opens straight from ERA, in two places:

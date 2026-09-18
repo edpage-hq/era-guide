@@ -21,20 +21,32 @@ formulaire très court :
 3. Une adresse e-mail.
 4. Un mot de passe.
 
-À la validation, deux choses sont créées automatiquement :
+À la validation, **rien n'est encore créé** : un e-mail part vers
+l'adresse que vous venez de saisir, avec un lien à suivre. C'est ce lien,
+et lui seul, qui ouvre l'espace de votre établissement. Cette étape évite
+qu'une adresse mal saisie ne vous prive de votre propre espace : l'adresse
+e-mail est en effet le seul moyen d'y revenir en cas de mot de passe
+oublié.
+
+Le lien reste valable deux jours. Si vous ne recevez rien, regardez dans
+les indésirables, puis remplissez à nouveau le formulaire : le dernier
+lien envoyé remplace le précédent. Un lien périmé ou déjà utilisé vous
+ramène simplement au formulaire, qui vous le signale.
+
+Une fois le lien suivi, deux choses sont créées automatiquement :
 
 - **Un espace dédié à votre établissement**, accessible à sa propre
   adresse (un sous-domaine construit à partir du nom de l'établissement,
   par exemple `college-sainte-marie.<domaine-era>`).
 - **Votre compte administrateur**, avec l'adresse e-mail et le mot de
-  passe que vous venez de choisir — c'est le compte qui gère ensuite tout
+  passe que vous aviez choisis — c'est le compte qui gère ensuite tout
   le reste (utilisateurs, structure, admissions...).
 
 Une page de confirmation vous rappelle l'adresse de votre espace et vous
 permet de vous connecter directement. Cette adresse vous est aussi
-envoyée par e-mail, à l'adresse utilisée pour l'inscription : conservez ce
-message. C'est l'adresse que votre équipe utilisera au quotidien, et c'est
-là, et nulle part ailleurs, que se réinitialise un mot de passe oublié.
+envoyée par e-mail : conservez ce message. C'est l'adresse que votre
+équipe utilisera au quotidien, et c'est là, et nulle part ailleurs, que se
+réinitialise un mot de passe oublié.
 
 Il n'y a pas d'autre compte que le vôtre, ni de mot de passe envoyé : vous
 vous connectez avec l'adresse e-mail et le mot de passe choisis au
@@ -80,6 +92,11 @@ En résumé, ce qu'il faut retenir avant de vous décider :
   pas depuis votre tableau de bord.
 
 ## Ce qui se passe à la fin de la démo
+
+Vous n'avez pas à surveiller le calendrier : une semaine avant l'échéance,
+un e-mail prévient les comptes administrateurs de l'établissement, avec la
+date exacte. Un second message part le jour où la démo se termine ; il
+indique la date à laquelle les données seront supprimées.
 
 Si aucune licence n'a été achetée avant la fin de la période de
 démonstration, l'accès à votre espace passe automatiquement en **lecture

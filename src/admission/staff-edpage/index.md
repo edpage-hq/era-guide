@@ -13,8 +13,9 @@ n'a aucun rapport avec un compte utilisateur d'un établissement client —
 c'est un accès entièrement séparé.
 
 Le menu en haut du panel mène à ses trois écrans : **Établissements**,
-**Vitrine** et **Demandes de contact**. **Voir la vitrine** ouvre la page
-publique dans un nouvel onglet.
+**Vitrine** et **Demandes de contact**. À droite, **Voir la vitrine**
+ouvre la page publique dans un nouvel onglet et **Mot de passe** mène au
+changement de votre propre mot de passe.
 
 ## Se connecter au panel
 
@@ -27,9 +28,23 @@ publique dans un nouvel onglet.
 3. Validez. Vous arrivez sur la liste des établissements.
 
 Le formulaire de connexion staff est volontairement limité (pas
-d'inscription libre, pas de double authentification, pas de
-réinitialisation de mot de passe en self-service) : les comptes staff
-sont créés à la main, pas via un flux public.
+d'inscription libre, pas de double authentification, pas de « mot de
+passe oublié ») : les comptes staff sont créés à la main, pas via un flux
+public.
+
+## Changer votre mot de passe
+
+Votre compte vous est remis avec un mot de passe provisoire. Changez-le
+dès la première connexion :
+
+1. Cliquez sur **Mot de passe**, en haut à droite du panel.
+2. Saisissez votre mot de passe actuel, puis le nouveau, deux fois.
+3. Validez : un message confirme le changement.
+
+Comme ce panel n'envoie aucun courriel de réinitialisation, un mot de
+passe oublié ne se récupère pas depuis l'écran de connexion : demandez à
+l'administrateur du serveur de vous en attribuer un nouveau, puis
+changez-le à nouveau ici après vous être connecté.
 
 ## Consulter la liste des établissements
 

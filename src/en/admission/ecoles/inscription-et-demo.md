@@ -19,19 +19,30 @@ space** on its home page, then fill in a very short form:
 3. An email address.
 4. A password.
 
-Submitting it automatically creates two things:
+Submitting it creates **nothing yet**: an email goes out to the address
+you just typed, with a link to follow. That link, and only that link,
+opens your school's space. This step is what keeps a mistyped address
+from costing you your own space — your email address is, after all, the
+only way back in if you forget your password.
+
+The link stays valid for two days. If nothing arrives, check your spam
+folder, then fill the form in again: the latest link replaces the
+previous one. An expired or already-used link simply returns you to the
+form, which says so.
+
+Once the link is followed, two things are created automatically:
 
 - **A dedicated space for your school**, reachable at its own address
   (a subdomain built from your school's name, e.g.
   `college-sainte-marie.<era-domain>`).
 - **Your administrator account**, with the email address and password
-  you just chose — this is the account that then manages everything
-  else (users, structure, admissions...).
+  you chose — this is the account that then manages everything else
+  (users, structure, admissions...).
 
 A confirmation page reminds you of your space's address and lets you log
-in right away. That address is also emailed to you, at the address you
-signed up with: keep that message. It's the one your team will use day to
-day, and it is where — and only where — a forgotten password is reset.
+in right away. That address is also emailed to you: keep that message.
+It's the one your team will use day to day, and it is where — and only
+where — a forgotten password is reset.
 
 There is no account other than yours, and no password is sent to you: you
 log in with the email address and password you chose on the form.
@@ -73,6 +84,11 @@ In short, what matters before you decide:
   your dashboard.
 
 ## What happens when the demo ends
+
+You don't have to watch the calendar: a week before the deadline, an
+email warns the school's administrator accounts, with the exact date. A
+second message goes out on the day the demo ends, naming the date the
+data will be deleted.
 
 If no license has been purchased by the time the demo period ends,
 access to your space automatically switches to **read-only**: you can

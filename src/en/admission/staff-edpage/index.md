@@ -12,8 +12,9 @@ where the team edits Era Admission's **landing page** and handles the
 school's own user account — it's an entirely separate access.
 
 The menu at the top of the panel leads to its three screens: **Schools**,
-**Landing page** and **Contact requests**. **View landing page** opens the
-public page in a new tab.
+**Landing page** and **Contact requests**. On the right, **View landing
+page** opens the public page in a new tab, and **Password** leads to
+changing your own password.
 
 ## Logging into the panel
 
@@ -25,8 +26,21 @@ public page in a new tab.
 3. Submit. You land on the schools list.
 
 The staff login form is deliberately minimal (no public signup, no
-two-factor authentication, no self-service password reset): staff
-accounts are created by hand, not through a public flow.
+two-factor authentication, no "forgot password"): staff accounts are
+created by hand, not through a public flow.
+
+## Changing your password
+
+Your account is handed to you with a temporary password. Change it on
+first login:
+
+1. Click **Password**, at the top right of the panel.
+2. Enter your current password, then the new one, twice.
+3. Submit: a message confirms the change.
+
+Since this panel sends no reset email, a forgotten password cannot be
+recovered from the login screen: ask the server administrator to set a
+new one, then change it again here once you are logged in.
 
 ## Viewing the schools list
 

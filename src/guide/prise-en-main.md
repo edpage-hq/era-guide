@@ -137,14 +137,17 @@ sert, et la liste des actions qu'elle permet — seulement celles auxquelles
 vous avez droit, avec votre rôle. Chaque action renvoie, si vous voulez le
 détail, vers la page correspondante de ce guide.
 
-Sur certaines pages, le panneau propose en plus une **visite guidée** :
+Sur les pages où une erreur coûte cher — préparer une année, saisir des
+notes, faire l'appel, encaisser un paiement — le panneau propose en plus
+une **visite guidée** :
 l'application se met en avant elle-même, encadré par encadré, en
 surlignant les zones dont elle parle. Vous pouvez l'arrêter à tout moment,
 et la relancer plus tard — le bouton indique alors « Revoir la visite
 guidée ».
 
-Toutes les pages n'ont pas encore leur fiche. Quand c'est le cas, le
-panneau vous propose simplement le guide.
+Les formulaires de création et de modification n'ont pas de fiche à eux :
+la page qui y mène l'explique déjà. Le panneau vous y propose simplement
+le guide.
 
 ## Retrouver ce guide depuis l'application
 

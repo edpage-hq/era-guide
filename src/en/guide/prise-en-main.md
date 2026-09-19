@@ -128,13 +128,16 @@ for, and the actions it allows — only the ones your role is entitled to.
 Each action links to the matching page of this guide when you want the
 long version.
 
-On some pages the panel also offers a **guided tour**: the app walks
+On the pages where a mistake costs the most — preparing a year, entering
+grades, taking the roll call, taking a payment — the panel also offers a
+**guided tour**: the app walks
 through itself, one box at a time, highlighting the areas it describes.
 You can stop it whenever you like and start it again later — the button
 then reads "Replay the guided tour".
 
-Not every page has its sheet yet. Where none exists, the panel simply
-points you at this guide.
+Create and edit forms have no sheet of their own: the page that leads to
+them already covers what they are for. There, the panel simply points you
+at this guide.
 
 ## Finding this guide from the app
 

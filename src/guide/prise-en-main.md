@@ -129,6 +129,23 @@ financier, ou sur **Voir tous les retards** pour la liste complète dans
 Une échéance est en retard à partir du lendemain de sa date d'échéance,
 tant que les paiements reçus ne la couvrent pas.
 
+## Demander de l'aide sur la page où vous êtes
+
+Le bouton **?** en haut à droite ouvre le panneau « Que puis-je faire
+ici ? ». Il répond pour la page affichée, pas en général : ce à quoi elle
+sert, et la liste des actions qu'elle permet — seulement celles auxquelles
+vous avez droit, avec votre rôle. Chaque action renvoie, si vous voulez le
+détail, vers la page correspondante de ce guide.
+
+Sur certaines pages, le panneau propose en plus une **visite guidée** :
+l'application se met en avant elle-même, encadré par encadré, en
+surlignant les zones dont elle parle. Vous pouvez l'arrêter à tout moment,
+et la relancer plus tard — le bouton indique alors « Revoir la visite
+guidée ».
+
+Toutes les pages n'ont pas encore leur fiche. Quand c'est le cas, le
+panneau vous propose simplement le guide.
+
 ## Retrouver ce guide depuis l'application
 
 Ce guide s'ouvre directement depuis ERA, à deux endroits :

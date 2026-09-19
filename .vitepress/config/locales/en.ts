@@ -80,6 +80,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Homepage', link: 'admin/page-accueil' },
         { text: 'App settings', link: 'admin/parametres-application' },
         { text: 'Full demo and activity log', link: 'admin/demo-et-journal' },
+        { text: 'Backups', link: 'admin/sauvegardes' },
       ],
     },
     {

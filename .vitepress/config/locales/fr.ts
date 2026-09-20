@@ -111,6 +111,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: "Page d'accueil", link: 'admin/page-accueil' },
         { text: "Paramètres de l'application", link: 'admin/parametres-application' },
         { text: "Démo complète et journal d'activité", link: 'admin/demo-et-journal' },
+        { text: 'Sauvegardes', link: 'admin/sauvegardes' },
       ],
     },
     {

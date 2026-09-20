@@ -55,6 +55,7 @@ all.
 | [Homepage](/en/guide/admin/page-accueil)                               | Configuring the school's public page: tagline, introduction, departments and FAQ                                                                                                                |
 | [App settings](/en/guide/admin/parametres-application)                 | Identity, colors, logos, receipt customisation, and the two settings that change how the app behaves                                                                                            |
 | [Full demo and activity log](/en/guide/admin/demo-et-journal)          | Activating the full demo (Era Admission tenants on the free tier) and reviewing the action history                                                                                              |
+| [Backups](/en/guide/admin/sauvegardes)                                 | The safety copies of your data: the nightly ones, the ones you ask for, and how to get hold of them                                                                                             |
 
 Settings that relate to your own account (profile, security,
 notifications, language) are shared by all roles — see

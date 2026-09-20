@@ -58,6 +58,7 @@ onglets horizontalement pour les voir toutes.
 | [Page d'accueil](/guide/admin/page-accueil)                              | Configurer la page publique de l'établissement : accroche, présentation, départements et foire aux questions                                                                                                              |
 | [Paramètres de l'application](/guide/admin/parametres-application)       | Identité, couleurs, logos, personnalisation des reçus, et les deux réglages qui changent le comportement de l'app                                                                                                         |
 | [Démo complète et journal d'activité](/guide/admin/demo-et-journal)      | Activer la démo complète (établissements Era Admission en version gratuite) et consulter l'historique des actions                                                                                                         |
+| [Sauvegardes](/guide/admin/sauvegardes)                                  | Les copies de sécurité de vos données : celles prises chaque nuit, celles que vous demandez, et comment les récupérer                                                                                                     |
 
 Les paramètres qui concernent votre propre compte (profil, sécurité,
 notifications, langue) sont communs à tous les rôles — voir

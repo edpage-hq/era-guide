@@ -28,15 +28,33 @@ rather than a fixed offer picked alone in a form.
 
 ERA is licensed module by module rather than as one block: you choose
 the ones that match your needs, or the full offer if you'd rather cover
-everything from the start. The modules cover, among others:
+everything from the start. Five pôles make up the core offer:
 
-- school structure and admissions (beyond the public application form
-  already included for free);
-- academic life (classes, timetables, assessments, attendance,
-  boarding, health...);
-- finances (tuition fees, payments, expenses);
-- family relations (parent portal, student portal);
-- the reporting dashboard.
+- **Structure & admissions**, the required foundation: sites, classes,
+  enrolment and curriculum (beyond the public application form already
+  included for free);
+- **Academic life**: grades, report cards, timetables, attendance and
+  absences;
+- **Finances**: payments, invoicing, expenses and accounting export;
+- **Family relations**: parent portal and student portal;
+- **Management dashboard**: dashboards and statistics for leadership.
+
+On top of those come **higher education**, **document management** and
+complementary modules, priced on quote:
+
+- **School life**: incidents, discipline and disciplinary councils;
+- **Infirmary and health**: infirmary visits, care given and families
+  kept informed;
+- **Human resources**: staff records, contracts, leave;
+- **School catering**: menus and canteen attendance;
+- **School transport**: routes, student assignment, attendance;
+- **Pool and extracurricular activities**: activities, sessions,
+  attendance;
+- **Boarding**: beds, assignment, attendance.
+
+Each module only unlocks its own screens: a school licensing academic
+life without school life enters grades and timetables and takes the
+register, but does not record disciplinary incidents.
 
 The exact scope of each module and its price are communicated by the
 edPage team when it's set up — they can evolve and aren't meant to be

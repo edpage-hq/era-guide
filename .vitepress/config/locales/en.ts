@@ -112,6 +112,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Grades and evaluations', link: 'enseignant/notes-et-evaluations' },
         { text: 'Report cards and lesson log', link: 'enseignant/bulletins-et-cahier-texte' },
         { text: 'Homeroom and schedule', link: 'enseignant/registre-et-emploi-du-temps' },
+        { text: 'Course element marks (higher education)', link: 'enseignant/notes-superieur' },
       ],
     },
     {

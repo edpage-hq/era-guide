@@ -25,15 +25,16 @@ contactez votre administrateur.
 La page affiche pour chaque dossier le nom de l'élève, le site souhaité,
 le département souhaité, le canal et le statut :
 
-| Statut     | Signification                                   |
-| ---------- | ----------------------------------------------- |
-| En attente | Le dossier n'a pas encore été traité            |
-| Validé     | L'élève a été affecté à une classe              |
-| Refusé     | Le dossier a été refusé, avec un motif consigné |
+| Statut          | Signification                                                                |
+| --------------- | ---------------------------------------------------------------------------- |
+| En attente      | Le dossier n'a pas encore été traité                                         |
+| Admis           | Filière sélective : la commission a admis le candidat, il reste à l'inscrire |
+| Liste d'attente | Filière sélective : la commission l'a placé en liste d'attente               |
+| Validé          | L'élève a été affecté à une classe                                           |
+| Refusé          | Le dossier a été refusé, avec un motif consigné                              |
 
 Utilisez le champ de recherche pour retrouver un dossier par nom, et le
-filtre de statut pour n'afficher que les dossiers en attente, validés ou
-refusés. Cliquez sur **Examiner** sur la ligne d'un dossier pour l'ouvrir.
+filtre de statut pour n'afficher que les dossiers d'un statut donné. Cliquez sur **Examiner** sur la ligne d'un dossier pour l'ouvrir.
 
 ## Examiner un dossier
 
@@ -105,22 +106,35 @@ En cas de doute, vérifiez auprès de la famille avant de valider.
 Quand le département demandé est de type _Université_, le formulaire
 change :
 
-- le candidat choisit sa **filière** et son **niveau d'entrée** (L1, ou L3
-  pour une admission parallèle) ;
+- le candidat choisit sa **filière**, son **niveau d'entrée** (L1, ou L3
+  pour une admission parallèle) et l'**année universitaire** demandée ;
 - il donne **sa propre adresse e-mail** : son compte étudiant sera ouvert
   dessus ;
 - les **parents / tuteurs** deviennent facultatifs.
 
 Dans la file d'attente, la filière et le niveau apparaissent sous le
 département. Pour valider, la liste ne propose que les **promotions** de
-cette filière et de ce niveau ; si elle est vide, créez d'abord la
-promotion dans **Classes**.
+cette filière, de ce niveau et de l'année demandée ; si elle est vide,
+créez d'abord la promotion dans **Classes**.
 
 À la validation, ERA inscrit l'étudiant dans la promotion et ouvre son
 **compte étudiant** sur l'adresse donnée : il reçoit un lien pour choisir
 son mot de passe. Si cette adresse sert déjà à un parent ou à un membre du
 personnel, le dossier est validé sans ouvrir de compte, et un message vous
 le signale : liez alors un compte depuis la fiche de l'élève.
+
+### Une filière sélective
+
+Si la filière est **sélective**, le dossier passe d'abord par sa
+**commission d'admission** (voir
+[l'admission sélective](/guide/admin/enseignement-superieur#l-admission-selective)).
+Tant que la commission n'a pas admis le candidat, la fiche l'indique et ne
+propose pas de l'inscrire. Une fois le candidat **admis**, vous l'inscrivez
+comme tout autre dossier. Le tableau de bord vous signale les **candidats
+admis à inscrire**.
+
+Un candidat admis ou en liste d'attente qui se désiste peut être refusé
+depuis sa fiche. Un dossier déjà validé ne peut plus être refusé.
 
 ## Refuser un dossier
 

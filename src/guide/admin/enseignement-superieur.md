@@ -106,6 +106,51 @@ progresseront sur leurs crédits, validés par le jury de la filière.
 Les étudiants y entrent par une [candidature](/guide/secretariat/candidatures#une-candidature-a-l-universite)
 qui vise la filière et le niveau.
 
+## L'admission sélective
+
+Une filière peut recruter sur dossier : médecine, écoles d'ingénieurs,
+masters à capacité limitée. Dans sa fiche, cochez **Admission sélective**,
+puis :
+
+- fixez les **places par niveau d'entrée**, offertes chaque année (laissez
+  vide pour ne pas limiter un niveau) ;
+- désignez la **commission d'admission**. Comme les responsables de
+  filière, ses membres gardent leur rôle habituel et reçoivent en plus
+  **Supérieur → Admissions**, limité aux filières dont ils font partie.
+
+Les candidatures à cette filière passent alors devant la commission avant
+toute inscription. Le formulaire prévient le candidat que son dossier sera
+examiné.
+
+### Décider des candidatures
+
+**Supérieur → Admissions** liste les filières sélectives, niveau par
+niveau : places prises, dossiers à examiner, liste d'attente, pour l'année
+choisie en haut de la page. Le tableau de bord signale aussi aux membres de
+la commission les dossiers qui les attendent.
+
+Un niveau ouvre le bureau de la commission. Les dossiers à examiner
+viennent d'abord, dans l'ordre d'arrivée, puis les admis, la liste
+d'attente dans l'ordre de vos décisions, les inscrits et les refusés. Les
+pièces jointes s'ouvrent depuis la ligne du candidat.
+
+Le bouton **Décider** propose :
+
+- **Admettre** : le candidat prend une place. Quand toutes les places du
+  niveau sont prises, ERA refuse l'admission : placez-le en liste d'attente
+  ou augmentez le nombre de places ;
+- **Placer en liste d'attente** ;
+- **Refuser**, avec un motif ;
+- **Remettre à examiner**.
+
+Une note facultative accompagne la décision ; le secrétariat la voit, pas
+le candidat. Une décision reste modifiable jusqu'à l'inscription : si un
+admis se désiste, refusez-le avec le motif « désistement » et admettez le
+premier de la liste d'attente.
+
+Le secrétariat inscrit ensuite les admis dans une promotion de la filière,
+du niveau et de l'année demandés.
+
 ## L'inscription pédagogique
 
 Le bouton **Promotions** d'une filière liste ses promotions pour l'année

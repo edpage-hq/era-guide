@@ -25,11 +25,13 @@ administrator.
 The page shows, for each application, the student's name, the desired
 site, the desired department, the channel, and the status:
 
-| Status   | Meaning                                            |
-| -------- | -------------------------------------------------- |
-| Pending  | The application hasn't been processed yet          |
-| Approved | The student has been assigned to a class           |
-| Rejected | The application was rejected, with a reason logged |
+| Status     | Meaning                                                                   |
+| ---------- | ------------------------------------------------------------------------- |
+| Pending    | The application hasn't been processed yet                                 |
+| Admitted   | Selective programme: the committee admitted the candidate, still to enrol |
+| Waitlisted | Selective programme: the committee waitlisted the candidate               |
+| Approved   | The student has been assigned to a class                                  |
+| Rejected   | The application was rejected, with a reason logged                        |
 
 Use the search field to find an application by name, and the status
 filter to show only pending, approved, or rejected applications. Click
@@ -104,21 +106,35 @@ When in doubt, check with the family before approving.
 When the department applied to is of the _University_ type, the form
 changes:
 
-- the candidate picks their **programme** and **entry level** (L1, or L3
-  for a direct entry);
+- the candidate picks their **programme**, their **entry level** (L1, or
+  L3 for a direct entry) and the **academic year** applied for;
 - they give **their own email address**: their student account is opened
   on it;
 - **parents / guardians** become optional.
 
 In the queue, the programme and level show under the department. To
-approve, the list only offers the **promotions** of that programme and
-level; if it is empty, create the promotion first under **Classes**.
+approve, the list only offers the **promotions** of that programme, level
+and year applied for; if it is empty, create the promotion first under
+**Classes**.
 
 On approval, ERA enrols the student in the promotion and opens their
 **student account** on the address given: they receive a link to choose
 their password. If that address is already used by a parent or a staff
 member, the application is approved without opening an account, and a
 message tells you so: link an account from the student's record instead.
+
+### A selective programme
+
+If the programme is **selective**, the application first goes through its
+**admission committee** (see
+[selective admission](/en/guide/admin/enseignement-superieur#selective-admission)).
+Until the committee has admitted the candidate, the page says so and offers
+no enrolment. Once the candidate is **admitted**, you enrol them like any
+other application. The dashboard lists the **admitted candidates to
+enrol**.
+
+An admitted or waitlisted candidate who withdraws can be rejected from
+their page. An approved application can no longer be rejected.
 
 ## Rejecting an application
 

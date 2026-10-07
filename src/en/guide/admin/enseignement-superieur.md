@@ -103,6 +103,51 @@ on their credits, validated by the programme's jury.
 Students join it through an [application](/en/guide/secretariat/candidatures#a-university-application)
 naming the programme and the level.
 
+## Selective admission
+
+A programme can admit on application: medicine, engineering schools,
+masters with limited capacity. On its form, tick **Selective admission**,
+then:
+
+- set the **places per entry level**, offered every year (leave empty not
+  to limit a level);
+- name the **admission committee**. Like programme heads, its members keep
+  their usual role and also get **Higher education → Admissions**, limited
+  to the programmes they sit on.
+
+Applications to that programme then go before the committee before any
+enrolment. The form warns the candidate their application will be
+reviewed.
+
+### Deciding on applications
+
+**Higher education → Admissions** lists the selective programmes, level by
+level: places taken, applications to review, waitlist, for the year chosen
+at the top of the page. The dashboard also tells committee members what is
+waiting for them.
+
+A level opens the committee's desk. Applications to review come first, in
+the order they arrived, then the admitted, the waitlist in the order of
+your decisions, the enrolled and the rejected. Attachments open from the
+candidate's row.
+
+The **Decide** button offers:
+
+- **Admit**: the candidate takes a place. Once all the level's places are
+  taken, ERA refuses the admission: waitlist the candidate or raise the
+  number of places;
+- **Waitlist**;
+- **Reject**, with a reason;
+- **Back to review**.
+
+An optional note goes with the decision; the secretariat sees it, the
+candidate does not. A decision can be changed until enrolment: if an
+admitted candidate withdraws, reject them with "withdrawn" as the reason
+and admit the first one on the waitlist.
+
+The secretariat then enrols the admitted into a promotion of the
+programme, level and year applied for.
+
 ## Pedagogical registration
 
 A programme's **Promotions** button lists its promotions for the chosen

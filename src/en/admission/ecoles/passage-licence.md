@@ -33,7 +33,8 @@ everything from the start. Five pôles make up the core offer:
 - **Structure & admissions**, the required foundation: sites, classes,
   enrolment and curriculum (beyond the public application form already
   included for free);
-- **Academic life**: grades, report cards, timetables;
+- **Academic life**: grades, report cards, timetables, attendance and
+  absences;
 - **Finances**: payments, invoicing, expenses and accounting export;
 - **Family relations**: parent portal and student portal;
 - **Management dashboard**: dashboards and statistics for leadership.
@@ -41,8 +42,9 @@ everything from the start. Five pôles make up the core offer:
 On top of those come **higher education**, **document management** and
 complementary modules, priced on quote:
 
-- **School life and infirmary**: attendance and absences, discipline,
-  disciplinary councils, the infirmary;
+- **School life**: incidents, discipline and disciplinary councils;
+- **Infirmary and health**: infirmary visits, care given and families
+  kept informed;
 - **Human resources**: staff records, contracts, leave;
 - **School catering**: menus and canteen attendance;
 - **School transport**: routes, student assignment, attendance;
@@ -51,8 +53,8 @@ complementary modules, priced on quote:
 - **Boarding**: beds, assignment, attendance.
 
 Each module only unlocks its own screens: a school licensing academic
-life without school life enters grades and timetables, but does not take
-the register.
+life without school life enters grades and timetables and takes the
+register, but does not record disciplinary incidents.
 
 The exact scope of each module and its price are communicated by the
 edPage team when it's set up — they can evolve and aren't meant to be

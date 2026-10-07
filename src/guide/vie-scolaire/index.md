@@ -10,9 +10,10 @@ extrascolaires. Certaines de ces pages sont aussi accessibles aux
 enseignants ou au secrétariat pour la seule consultation ; ce guide décrit
 la vue vie scolaire, qui a accès à toutes les actions.
 
-Chacune de ces activités est un module de la licence : la vie scolaire
-(présences, discipline), la restauration scolaire, le transport scolaire
-et les activités périscolaires. Seules celles que votre établissement a
+Les présences et les absences font partie de la vie académique. Les autres
+activités sont des modules distincts de la licence : la vie scolaire
+(discipline), la restauration scolaire, le transport scolaire et les
+activités périscolaires. Seules celles que votre établissement a
 licenciées apparaissent dans votre menu.
 
 Ce guide couvre quatre activités :

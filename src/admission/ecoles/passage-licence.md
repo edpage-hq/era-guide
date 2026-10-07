@@ -35,7 +35,8 @@ préférez tout couvrir dès le départ. Cinq pôles forment l'offre de base :
 - **Structure & admissions**, le socle obligatoire : sites, classes,
   inscriptions et référentiel pédagogique (au-delà du simple formulaire
   public déjà inclus gratuitement) ;
-- **Vie académique** : notes, bulletins, emplois du temps ;
+- **Vie académique** : notes, bulletins, emplois du temps, présences et
+  absences ;
 - **Finances** : paiements, facturation, dépenses et export comptable ;
 - **Relation famille** : portail parent et portail élève ;
 - **Pilotage** : tableaux de bord et statistiques pour la direction.
@@ -43,8 +44,9 @@ préférez tout couvrir dès le départ. Cinq pôles forment l'offre de base :
 S'y ajoutent l'**enseignement supérieur**, la **gestion documentaire
 (GED)** et des modules complémentaires, chiffrés sur devis :
 
-- **Vie scolaire et infirmerie/santé** : présences et absences,
-  discipline, conseils de discipline, infirmerie ;
+- **Vie scolaire** : incidents, discipline et conseils de discipline ;
+- **Infirmerie et santé** : passages à l'infirmerie, soins et information
+  des familles ;
 - **Ressources humaines** : dossiers du personnel, contrats, congés ;
 - **Restauration scolaire** : menus et présences à la cantine ;
 - **Transport scolaire** : circuits, affectation des élèves, présences ;
@@ -53,8 +55,9 @@ S'y ajoutent l'**enseignement supérieur**, la **gestion documentaire
 - **Internat** : lits, affectation, présences.
 
 Chaque module ne débloque que ses propres écrans : un établissement qui
-licencie la vie académique sans la vie scolaire saisit ses notes et ses
-emplois du temps, mais ne fait pas l'appel.
+licencie la vie académique sans la vie scolaire saisit ses notes, ses
+emplois du temps et fait l'appel, mais ne consigne pas d'incidents
+disciplinaires.
 
 Le détail exact de ce que couvre chaque pôle et son tarif vous est
 communiqué par l'équipe edPage au moment de la mise en place — il peut

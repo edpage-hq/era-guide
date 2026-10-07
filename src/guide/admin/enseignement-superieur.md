@@ -64,11 +64,17 @@ niveau, puis période par période.
 Les crédits sont portés par les EC : ceux d'une UE sont la somme de ses EC,
 ils ne peuvent donc jamais se contredire.
 
+Une UE **optionnelle** est un choix, parmi quelques-unes ou librement dans
+l'offre de la période : ses crédits **complètent** ceux des UE obligatoires
+jusqu'au total de la période. Avec 24 crédits obligatoires, chaque étudiant
+choisit 6 crédits d'options pour arriver à 30.
+
 ::: tip Le compteur de crédits
-Chaque période affiche ses crédits face à ce qu'elle doit porter, par
-exemple **28 / 30 crédits**. Il passe au vert quand le compte y est. Les UE
-optionnelles sont comptées à part : elles s'ajoutent à l'offre sans entrer
-dans ce que tout étudiant doit valider.
+Chaque période affiche ses crédits face à ce qu'elle doit porter. Sans
+options, par exemple **28 / 30 crédits**. Avec des options,
+**24 / 30 crédits obligatoires**, suivi de ce qui reste à compléter et des
+crédits proposés : « 6 à compléter en options, sur 12 crédits proposés ». Le
+compteur passe au vert quand l'offre permet d'arriver au compte.
 :::
 
 Les flèches réordonnent les UE d'une période et les EC d'une UE.
@@ -115,8 +121,10 @@ maquette pour cette année est signalée.
 Chaque étudiant suit **toutes les UE obligatoires** de son niveau : rien à
 saisir pour elles, et une UE ajoutée à la maquette s'applique à toute la
 promotion. Ses **UE optionnelles** se choisissent avec le bouton
-**Options** de sa ligne : cochez celles qu'il suit, puis enregistrez. Leurs
-crédits s'ajoutent à ceux des UE obligatoires.
+**Options** de sa ligne : cochez celles qu'il suit, puis enregistrez. Elles
+complètent les crédits de chaque période : la fenêtre indique ce qui reste à
+choisir, et ERA refuse un choix qui dépasse le total. Dans la liste, une
+période complète s'affiche en vert, par exemple **30 / 30 crédits**.
 
 L'administrateur et les responsables de la filière tiennent ces
 inscriptions. Une fois l'année clôturée, elles ne changent plus.

@@ -2,7 +2,7 @@
 layout: doc
 ---
 
-# Higher education: programmes and curricula
+# Higher education: programmes, curricula and promotions
 
 If your school awards higher education degrees (bachelor, master,
 doctorate), ERA organises them along the LMD system: **programmes**, taught
@@ -61,11 +61,17 @@ period by period.
 Credits are carried by the elements: a unit's credits are the sum of its
 elements', so the two can never disagree.
 
+An **elective** unit is a choice, among a few or freely within the
+period's offer: its credits **complete** the mandatory units' up to the
+period's total. With 24 mandatory credits, each student picks 6 credits of
+electives to reach 30.
+
 ::: tip The credits counter
-Each period shows its credits against what it should carry, for instance
-**28 / 30 credits**. It turns green when it adds up. Elective units are
-counted apart: they add to the offer without entering what every student
-must earn.
+Each period shows its credits against what it should carry. Without
+electives, for instance **28 / 30 credits**. With electives,
+**24 / 30 mandatory credits**, followed by what is left to complete and the
+credits on offer: "6 to complete with electives, out of 12 credits on
+offer". The counter turns green when the offer can add up.
 :::
 
 The arrows reorder a period's units and a unit's elements.
@@ -89,3 +95,33 @@ A **promotion** (for instance "L1 Computing 2026-2027") is a class of a
 university department. When you create a class in such a department, ERA
 asks for the **programme** it follows, then its **level**, chosen among the
 programme's.
+
+A promotion has no bulletins, no year-end decisions and no bulk
+re-enrolment: those school screens leave it out. Its students will progress
+on their credits, validated by the programme's jury.
+
+Students join it through an [application](/en/guide/secretariat/candidatures#a-university-application)
+naming the programme and the level.
+
+## Pedagogical registration
+
+A programme's **Promotions** button lists its promotions for the chosen
+year, with their headcount. A promotion whose level has no curriculum yet
+for that year is flagged.
+
+**Pedagogical registration** opens a promotion's page:
+
+- at the top, its units period by period, mandatory and elective;
+- below, its students, with their credits for each period and the elective
+  units they chose.
+
+Every student takes **all the mandatory units** of their level: nothing to
+enter for them, and a unit added to the curriculum applies to the whole
+promotion. Their **elective units** are chosen with the **Electives**
+button on their row: tick the ones they take, then save. They complete each
+period's credits: the window shows what is left to choose, and ERA refuses
+a choice that goes past the total. In the list, a complete period shows in
+green, for instance **30 / 30 credits**.
+
+The administrator and the programme's heads keep these registrations. Once
+the year is closed, they no longer change.

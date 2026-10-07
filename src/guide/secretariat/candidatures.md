@@ -100,6 +100,28 @@ rattachés à ce compte. Choisissez alors :
 
 En cas de doute, vérifiez auprès de la famille avant de valider.
 
+## Une candidature à l'université
+
+Quand le département demandé est de type _Université_, le formulaire
+change :
+
+- le candidat choisit sa **filière** et son **niveau d'entrée** (L1, ou L3
+  pour une admission parallèle) ;
+- il donne **sa propre adresse e-mail** : son compte étudiant sera ouvert
+  dessus ;
+- les **parents / tuteurs** deviennent facultatifs.
+
+Dans la file d'attente, la filière et le niveau apparaissent sous le
+département. Pour valider, la liste ne propose que les **promotions** de
+cette filière et de ce niveau ; si elle est vide, créez d'abord la
+promotion dans **Classes**.
+
+À la validation, ERA inscrit l'étudiant dans la promotion et ouvre son
+**compte étudiant** sur l'adresse donnée : il reçoit un lien pour choisir
+son mot de passe. Si cette adresse sert déjà à un parent ou à un membre du
+personnel, le dossier est validé sans ouvrir de compte, et un message vous
+le signale : liez alors un compte depuis la fiche de l'élève.
+
 ## Refuser un dossier
 
 1. Ouvrez le dossier depuis **Examiner**.

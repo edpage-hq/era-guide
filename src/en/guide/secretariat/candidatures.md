@@ -99,6 +99,27 @@ linked to that account. Then choose:
 
 When in doubt, check with the family before approving.
 
+## A university application
+
+When the department applied to is of the _University_ type, the form
+changes:
+
+- the candidate picks their **programme** and **entry level** (L1, or L3
+  for a direct entry);
+- they give **their own email address**: their student account is opened
+  on it;
+- **parents / guardians** become optional.
+
+In the queue, the programme and level show under the department. To
+approve, the list only offers the **promotions** of that programme and
+level; if it is empty, create the promotion first under **Classes**.
+
+On approval, ERA enrols the student in the promotion and opens their
+**student account** on the address given: they receive a link to choose
+their password. If that address is already used by a parent or a staff
+member, the application is approved without opening an account, and a
+message tells you so: link an account from the student's record instead.
+
 ## Rejecting an application
 
 1. Open the application from **Review**.

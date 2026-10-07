@@ -107,6 +107,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Frais et tarification', link: 'admin/frais-tarification' },
         { text: 'Emplois du temps', link: 'admin/emplois-du-temps' },
         { text: 'Bulletins', link: 'admin/bulletins' },
+        { text: 'Enseignement supérieur', link: 'admin/enseignement-superieur' },
         { text: 'Activités extrascolaires', link: 'admin/activites-extrascolaires' },
         { text: "Page d'accueil", link: 'admin/page-accueil' },
         { text: "Paramètres de l'application", link: 'admin/parametres-application' },

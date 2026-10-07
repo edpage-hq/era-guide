@@ -4,11 +4,16 @@ layout: doc
 
 # Vie scolaire
 
-Le pôle vie scolaire suit le quotidien des élèves en dehors de la salle de
+L'équipe vie scolaire suit le quotidien des élèves en dehors de la salle de
 classe : présences, discipline, cantine, transport et activités
 extrascolaires. Certaines de ces pages sont aussi accessibles aux
 enseignants ou au secrétariat pour la seule consultation ; ce guide décrit
 la vue vie scolaire, qui a accès à toutes les actions.
+
+Chacune de ces activités est un module de la licence : la vie scolaire
+(présences, discipline), la restauration scolaire, le transport scolaire
+et les activités périscolaires. Seules celles que votre établissement a
+licenciées apparaissent dans votre menu.
 
 Ce guide couvre quatre activités :
 

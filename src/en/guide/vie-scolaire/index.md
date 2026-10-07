@@ -10,6 +10,11 @@ activities. Some of these pages are also accessible to teachers or the
 registrar's office for viewing only; this guide describes the school life
 view, which has access to every action.
 
+Each of these activities is a module of the licence: school life
+(attendance, discipline), school catering, school transport and
+extracurricular activities. Only the ones your school has licensed
+appear in your menu.
+
 This guide covers four activities:
 
 | Page                                                                          | What you do there                                                                                    |

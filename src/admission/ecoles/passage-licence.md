@@ -30,15 +30,31 @@ figée choisie seul dans un formulaire.
 
 ERA se licencie par pôle fonctionnel plutôt qu'en bloc : vous choisissez
 ceux qui correspondent à vos besoins, ou l'offre complète si vous
-préférez tout couvrir dès le départ. Les pôles couvrent, entre autres :
+préférez tout couvrir dès le départ. Cinq pôles forment l'offre de base :
 
-- la structure de l'établissement et les admissions (au-delà du simple
-  formulaire public déjà inclus gratuitement) ;
-- la vie académique (classes, emplois du temps, évaluations,
-  présences, internat, infirmerie...) ;
-- les finances (frais de scolarité, encaissements, dépenses) ;
-- les relations familles (portail parent, portail élève) ;
-- le tableau de bord de pilotage.
+- **Structure & admissions**, le socle obligatoire : sites, classes,
+  inscriptions et référentiel pédagogique (au-delà du simple formulaire
+  public déjà inclus gratuitement) ;
+- **Vie académique** : notes, bulletins, emplois du temps ;
+- **Finances** : paiements, facturation, dépenses et export comptable ;
+- **Relation famille** : portail parent et portail élève ;
+- **Pilotage** : tableaux de bord et statistiques pour la direction.
+
+S'y ajoutent l'**enseignement supérieur**, la **gestion documentaire
+(GED)** et des modules complémentaires, chiffrés sur devis :
+
+- **Vie scolaire et infirmerie/santé** : présences et absences,
+  discipline, conseils de discipline, infirmerie ;
+- **Ressources humaines** : dossiers du personnel, contrats, congés ;
+- **Restauration scolaire** : menus et présences à la cantine ;
+- **Transport scolaire** : circuits, affectation des élèves, présences ;
+- **Piscine et activités périscolaires** : activités, séances,
+  présences ;
+- **Internat** : lits, affectation, présences.
+
+Chaque module ne débloque que ses propres écrans : un établissement qui
+licencie la vie académique sans la vie scolaire saisit ses notes et ses
+emplois du temps, mais ne fait pas l'appel.
 
 Le détail exact de ce que couvre chaque pôle et son tarif vous est
 communiqué par l'équipe edPage au moment de la mise en place — il peut

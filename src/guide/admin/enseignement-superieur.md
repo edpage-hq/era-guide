@@ -2,7 +2,7 @@
 layout: doc
 ---
 
-# Enseignement supérieur : filières et maquettes
+# Enseignement supérieur : filières, maquettes et promotions
 
 Si votre établissement délivre des diplômes du supérieur (licence, master,
 doctorat), ERA organise ses formations selon le système LMD : des
@@ -92,3 +92,31 @@ Une **promotion** (par exemple « L1 Informatique 2026-2027 ») est une classe
 d'un département universitaire. Lorsque vous créez une classe dans un tel
 département, ERA demande la **filière** qu'elle suit, puis son **niveau**,
 choisi parmi ceux de la filière.
+
+Une promotion n'a ni bulletins, ni décisions de fin d'année, ni
+réinscription en masse : ces écrans du scolaire l'ignorent. Ses étudiants
+progresseront sur leurs crédits, validés par le jury de la filière.
+
+Les étudiants y entrent par une [candidature](/guide/secretariat/candidatures#une-candidature-a-l-universite)
+qui vise la filière et le niveau.
+
+## L'inscription pédagogique
+
+Le bouton **Promotions** d'une filière liste ses promotions pour l'année
+choisie, avec leur effectif. Une promotion dont le niveau n'a pas encore de
+maquette pour cette année est signalée.
+
+**Inscriptions pédagogiques** ouvre la page d'une promotion :
+
+- en haut, ses UE période par période, obligatoires et optionnelles ;
+- en dessous, ses étudiants, avec pour chaque période leurs crédits et les
+  UE optionnelles qu'ils ont choisies.
+
+Chaque étudiant suit **toutes les UE obligatoires** de son niveau : rien à
+saisir pour elles, et une UE ajoutée à la maquette s'applique à toute la
+promotion. Ses **UE optionnelles** se choisissent avec le bouton
+**Options** de sa ligne : cochez celles qu'il suit, puis enregistrez. Leurs
+crédits s'ajoutent à ceux des UE obligatoires.
+
+L'administrateur et les responsables de la filière tiennent ces
+inscriptions. Une fois l'année clôturée, elles ne changent plus.

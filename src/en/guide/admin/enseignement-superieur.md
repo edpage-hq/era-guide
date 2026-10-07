@@ -2,7 +2,7 @@
 layout: doc
 ---
 
-# Higher education: programmes and curricula
+# Higher education: programmes, curricula and promotions
 
 If your school awards higher education degrees (bachelor, master,
 doctorate), ERA organises them along the LMD system: **programmes**, taught
@@ -89,3 +89,31 @@ A **promotion** (for instance "L1 Computing 2026-2027") is a class of a
 university department. When you create a class in such a department, ERA
 asks for the **programme** it follows, then its **level**, chosen among the
 programme's.
+
+A promotion has no bulletins, no year-end decisions and no bulk
+re-enrolment: those school screens leave it out. Its students will progress
+on their credits, validated by the programme's jury.
+
+Students join it through an [application](/en/guide/secretariat/candidatures#a-university-application)
+naming the programme and the level.
+
+## Pedagogical registration
+
+A programme's **Promotions** button lists its promotions for the chosen
+year, with their headcount. A promotion whose level has no curriculum yet
+for that year is flagged.
+
+**Pedagogical registration** opens a promotion's page:
+
+- at the top, its units period by period, mandatory and elective;
+- below, its students, with their credits for each period and the elective
+  units they chose.
+
+Every student takes **all the mandatory units** of their level: nothing to
+enter for them, and a unit added to the curriculum applies to the whole
+promotion. Their **elective units** are chosen with the **Electives**
+button on their row: tick the ones they take, then save. Their credits come
+on top of the mandatory units'.
+
+The administrator and the programme's heads keep these registrations. Once
+the year is closed, they no longer change.

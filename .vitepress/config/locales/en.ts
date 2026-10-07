@@ -76,6 +76,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Fees and pricing', link: 'admin/frais-tarification' },
         { text: 'Timetables', link: 'admin/emplois-du-temps' },
         { text: 'Report cards', link: 'admin/bulletins' },
+        { text: 'Higher education', link: 'admin/enseignement-superieur' },
         { text: 'Extracurricular activities', link: 'admin/activites-extrascolaires' },
         { text: 'Homepage', link: 'admin/page-accueil' },
         { text: 'App settings', link: 'admin/parametres-application' },

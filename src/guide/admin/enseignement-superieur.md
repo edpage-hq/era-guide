@@ -143,6 +143,10 @@ Le bouton **Décider** propose :
 - **Refuser**, avec un motif ;
 - **Remettre à examiner**.
 
+Le candidat est prévenu par e-mail quand vous l'admettez, le placez en
+liste d'attente ou le refusez (sur son adresse, ou celle de ses tuteurs
+s'il n'en a pas donné). Le motif d'un refus ne lui est pas communiqué.
+
 Une note facultative accompagne la décision ; le secrétariat la voit, pas
 le candidat. Une décision reste modifiable jusqu'à l'inscription : si un
 admis se désiste, refusez-le avec le motif « désistement » et admettez le

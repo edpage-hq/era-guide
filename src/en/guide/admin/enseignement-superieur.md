@@ -140,6 +140,10 @@ The **Decide** button offers:
 - **Reject**, with a reason;
 - **Back to review**.
 
+The candidate is told by email when you admit, waitlist or reject them (at
+their address, or their guardians' if they gave none). The reason for a
+rejection is not passed on.
+
 An optional note goes with the decision; the secretariat sees it, the
 candidate does not. A decision can be changed until enrolment: if an
 admitted candidate withdraws, reject them with "withdrawn" as the reason

@@ -54,3 +54,11 @@ as for a new visit.
 From the **Infirmary visits** page, click **Delete** on the row for the
 visit in question, then confirm in the dialog that appears. This
 permanently deletes the record and cannot be undone.
+
+## Medical records
+
+If the school has activated document management, the **Documents** space
+gives you access to students' **medical records**: by default, only you (and the
+administrator) consult, file and validate them. Every time a medical record
+is opened, it is recorded in the activity log. See
+[Document management](/en/guide/gestion-documentaire/).

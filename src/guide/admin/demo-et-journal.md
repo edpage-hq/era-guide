@@ -39,8 +39,12 @@ Vous pouvez filtrer la liste par :
 | ------ | ------------------------------------------------------------------ |
 | Acteur | recherche par nom ou e-mail de la personne à l'origine de l'action |
 | Entité | type d'enregistrement concerné (élève, classe, paiement...)        |
-| Action | Créé, Modifié ou Supprimé                                          |
+| Action | Créé, Modifié, Supprimé ou Consulté                                |
 | Date   | une période « du » / « au »                                        |
+
+L'action **Consulté** n'apparaît que pour les documents confidentiels de la
+[gestion documentaire](/guide/gestion-documentaire/) : chaque ouverture de
+l'un d'eux y est inscrite.
 
 Cliquez sur **Voir le détail** sur une ligne pour afficher, dans une boîte
 de dialogue, le détail technique des champs modifiés par cette action.

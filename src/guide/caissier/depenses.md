@@ -14,7 +14,14 @@ l'établissement — par exemple un achat de matériel — et de suivre son
 2. Choisissez le **Site** concerné par la dépense.
 3. Indiquez le **Montant**.
 4. Décrivez la dépense dans le champ **Description**.
-5. Cliquez sur **Soumettre la demande**.
+5. Joignez si vous l'avez le **Justificatif** : facture, devis ou reçu, en
+   PDF ou en image, 10 Mo au plus. Il est facultatif.
+6. Cliquez sur **Soumettre la demande**.
+
+L'administrateur qui examine la demande ouvre le justificatif depuis la
+dépense, avec **Ouvrir le justificatif**. Si l'établissement a activé la
+gestion documentaire, il apparaît aussi dans les
+[documents de l'établissement](/guide/gestion-documentaire/).
 
 Dès la soumission, les administrateurs de l'établissement sont notifiés
 automatiquement qu'une dépense attend leur décision — vous n'avez rien

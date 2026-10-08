@@ -14,19 +14,27 @@ l'espace **Documents** → **Types de documents**.
 
 ERA démarre avec la liste habituelle, que vous adaptez librement :
 
-| Type                   | Dossier       | Origine                     | Consulte et valide                             |
-| ---------------------- | ------------- | --------------------------- | ---------------------------------------------- |
-| Dossier d'inscription  | Élève         | Importé                     | Gestionnaire, secrétariat                      |
-| Acte de naissance      | Élève         | Importé                     | Gestionnaire, secrétariat                      |
-| Dossier médical        | Élève         | Importé (confidentiel)      | Infirmerie                                     |
-| Dossier de candidature | Élève         | Importé                     | Gestionnaire, secrétariat                      |
-| Relevé de notes        | Élève         | Produit par l'établissement | Gestionnaire, secrétariat                      |
-| Attestation            | Élève         | Produit par l'établissement | Gestionnaire, secrétariat                      |
-| Diplôme                | Élève         | Produit par l'établissement | Gestionnaire, secrétariat                      |
-| Convention de stage    | Élève         | Produit par l'établissement | Gestionnaire, secrétariat                      |
-| Facture ou reçu        | Élève         | Produit par l'établissement | Gestionnaire, secrétariat ; la caisse consulte |
-| Contrat de travail     | Employé       | Importé (confidentiel)      | Gestionnaire                                   |
-| Procès-verbal          | Établissement | Produit par l'établissement | Gestionnaire, secrétariat                      |
+| Type                                   | Dossier       | Origine                                    | Consulte et valide                             |
+| -------------------------------------- | ------------- | ------------------------------------------ | ---------------------------------------------- |
+| Dossier d'inscription                  | Élève         | Importé                                    | Gestionnaire, secrétariat                      |
+| Acte de naissance                      | Élève         | Importé                                    | Gestionnaire, secrétariat                      |
+| Dossier médical                        | Élève         | Importé (confidentiel)                     | Infirmerie                                     |
+| Dossier de candidature                 | Élève         | Importé                                    | Gestionnaire, secrétariat                      |
+| Relevé de notes                        | Élève         | Produit par l'établissement                | Gestionnaire, secrétariat                      |
+| Attestation                            | Élève         | Produit par l'établissement                | Gestionnaire, secrétariat                      |
+| Diplôme                                | Élève         | Produit par l'établissement                | Gestionnaire, secrétariat                      |
+| Convention de stage                    | Élève         | Produit par l'établissement                | Gestionnaire, secrétariat                      |
+| Facture ou reçu                        | Élève         | Produit par l'établissement                | Gestionnaire, secrétariat ; la caisse consulte |
+| Contrat de travail                     | Employé       | Importé (confidentiel)                     | Gestionnaire                                   |
+| Procès-verbal                          | Établissement | Produit par l'établissement                | Gestionnaire, secrétariat                      |
+| Bulletin                               | Élève         | Produit par l'établissement                | Gestionnaire, secrétariat                      |
+| Justificatif d'absence                 | Élève         | Importé                                    | Gestionnaire, vie scolaire (consulte)          |
+| Procès-verbal de conseil de discipline | Élève         | Produit par l'établissement (confidentiel) | Gestionnaire, vie scolaire (consulte)          |
+| Justificatif de dépense                | Établissement | Importé                                    | Gestionnaire, caisse (consulte)                |
+
+Certains types montrent aussi les fichiers que les autres modules
+conservent (bulletins, reçus, justificatifs…) : voir
+[Les fichiers des autres modules](/guide/gestion-documentaire/#les-fichiers-des-autres-modules).
 
 Un administrateur consulte et valide toujours tous les types, y compris
 les confidentiels. Les noms de départ s'affichent dans la langue de chaque
@@ -59,6 +67,8 @@ profil : seuls les administrateurs y auront accès.
 ## Supprimer un type
 
 Un type sous lequel aucun document n'est rangé peut être supprimé avec
-**Supprimer**. Dès qu'un document y est rangé, le bouton disparaît : le
+**Supprimer**. Si c'est un type qui montre les fichiers d'un autre module
+(les bulletins, par exemple), ces fichiers n'apparaissent plus dans les
+dossiers ; ils restent intacts dans leur module. Dès qu'un document y est rangé, le bouton disparaît : le
 type reste au catalogue, vous pouvez seulement le renommer ou changer ses
 accès.

@@ -36,7 +36,8 @@ La page **Documents** réunit deux choses :
 - **Documents déposés** : la liste des documents, filtrée par défaut sur
   ceux **À vérifier** (déposés ou en vérification). Changez le filtre pour
   voir les documents validés, rejetés, ou tous ; choisissez un type pour ne
-  voir que celui-là. Chaque ligne indique le type et la personne
+  voir que celui-là. Le champ **Rechercher dans les documents** retrouve un
+  document par son intitulé, le nom de son fichier ou ses notes. Chaque ligne indique le type et la personne
   concernée : cliquez sur son nom pour ouvrir son dossier.
 
 Le bouton **Documents de l'établissement** ouvre le dossier de
@@ -52,6 +53,35 @@ de types n'ont encore aucun document.
 
 Un administrateur ouvre aussi ce dossier depuis la fiche d'un élève ou d'un
 employé, avec le bouton **Dossier documentaire**.
+
+## Les fichiers des autres modules {#les-fichiers-des-autres-modules}
+
+Le dossier montre aussi, sous leur type, les fichiers que les autres
+modules d'ERA conservent déjà, sans les déplacer ni les copier :
+
+| Fichier                                       | Type de documents                      | Dossier       |
+| --------------------------------------------- | -------------------------------------- | ------------- |
+| Pièces jointes à une candidature approuvée    | Dossier de candidature                 | Élève         |
+| Bulletins publiés                             | Bulletin                               | Élève         |
+| Reçus de paiement                             | Facture ou reçu                        | Élève         |
+| Justificatifs d'absence envoyés               | Justificatif d'absence                 | Élève         |
+| Procès-verbaux de conseil de discipline       | Procès-verbal de conseil de discipline | Élève         |
+| Relevés de notes publiés (supérieur)          | Relevé de notes                        | Élève         |
+| Attestations de réussite (supérieur)          | Attestation                            | Élève         |
+| Contrats de travail joints à la fiche employé | Contrat de travail                     | Employé       |
+| Justificatifs joints aux dépenses             | Justificatif de dépense                | Établissement |
+
+Ces fichiers portent l'étiquette du module qui les conserve (**Bulletins**,
+**Caisse**, **Vie scolaire**…) et le bouton **Ouvrir**. Ils ne passent pas
+par la vérification : ils se gèrent depuis leur module, comme avant. Les
+relevés de notes et attestations sont produits au moment où vous les
+ouvrez, à partir de ce que le jury a publié.
+
+Qui les voit dépend de leur type dans le catalogue : par exemple, par
+défaut, le secrétariat voit les bulletins et les reçus, mais pas les
+procès-verbaux de conseil de discipline, réservés au gestionnaire et à la
+vie scolaire. Si l'établissement supprime un de ces types, ses fichiers
+n'apparaissent plus dans les dossiers.
 
 ## Déposer un document
 
@@ -85,6 +115,9 @@ Si vous pouvez valider le type, chaque document en attente propose :
 - **Valider** — l'accepte ;
 - **Rejeter** — le refuse : indiquez le **motif du rejet**, obligatoire. Il
   reste affiché sous le document.
+
+Le [tableau de bord](/guide/prise-en-main) rappelle combien de documents
+attendent votre vérification, pour les seuls types que vous pouvez valider.
 
 Une fois validé ou rejeté, un document ne change plus de statut. Pour
 remplacer un document rejeté, déposez-en un nouveau.

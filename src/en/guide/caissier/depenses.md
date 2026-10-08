@@ -14,7 +14,14 @@ administrator decides on it.
 2. Choose the **Site** the expense relates to.
 3. Enter the **Amount**.
 4. Describe the expense in the **Description** field.
-5. Click **Submit request**.
+5. If you have it, attach the **Supporting document**: an invoice, quote or
+   receipt, as a PDF or an image, 10 MB at most. It is optional.
+6. Click **Submit request**.
+
+The administrator reviewing the request opens the supporting document from
+the expense, with **Open the supporting document**. If the school has
+activated document management, it also appears in the
+[school documents](/en/guide/gestion-documentaire/).
 
 As soon as you submit it, the school's administrators are notified
 automatically that an expense is waiting for their decision — there's

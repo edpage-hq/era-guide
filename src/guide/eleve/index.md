@@ -39,6 +39,11 @@ délibération du jury (session normale, puis rattrapage), vous y trouvez :
   compensée, acquise (si vous redoublez) ou non validée ;
 - vos dettes des années précédentes, et si vous les avez validées.
 
+Si votre filière délibère aussi à chaque semestre, les résultats de chaque
+semestre apparaissent dès leur publication, sous « Semestre 3 · Session
+normale » par exemple : les UE du semestre, sa moyenne et ses crédits. La
+décision de passage vient ensuite, avec les résultats de l'année.
+
 **Relevé de notes** télécharge le relevé de la session en PDF : la note
 de chaque EC, vos UE, vos crédits, votre mention et la décision du jury.
 

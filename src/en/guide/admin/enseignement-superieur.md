@@ -191,6 +191,9 @@ its form. By default, the ones common in the CAMES area:
 | After the retake              | the better mark     | The retake mark, the better of the two, or the retake capped         |
 | Credits to move up with debts | all                 | Below it, the proposal is to repeat                                  |
 
+The **The jury also deliberates at the end of each semester** box adds
+[semester deliberations](#semester-deliberations). It starts unchecked.
+
 A unit's average weights its elements by their coefficients; a period's or
 the year's weights the units by their credits. A validated or compensated
 unit earns its credits.
@@ -257,6 +260,35 @@ first session's), and not at all once students of the promotion are
 enrolled in the next year. Students keep the published results until the next
 closing.
 
+### Semester deliberations {#semester-deliberations}
+
+If the programme chose it in its rules, the jury also deliberates at the
+end of each semester. Semesters are numbered across the whole cycle: a
+second year has semesters 3 and 4. On the year's deliberation page, one
+button per semester leads to its own, with where it stands.
+
+A semester's deliberation follows the same steps, shorter:
+
+- it shows only the semester's units, with the semester's average and
+  credits;
+- the jury may add jury points to those units, and a note; it does not
+  decide who moves up;
+- **Close and publish** publishes the semester's results to students, who
+  are notified, and freezes the semester's marks for that session. The
+  other semester's marks can still be changed.
+
+A semester's retake can be deliberated too, after its first session, if
+the school holds it before the end of the year. Otherwise the year's
+retake deliberation is enough.
+
+The year's deliberation still decides who moves up. Its first session can
+only be closed once every semester is published, and it takes over the
+jury points given to the semesters. With year compensation, a unit failed
+in its semester may still be compensated at the end of the year.
+
+A semester's deliberation can no longer be reopened once the year's is
+closed on the same session: reopen the year's first.
+
 ### Transcripts
 
 Once the deliberation is closed, **Transcripts (PDF)** prints every
@@ -280,7 +312,9 @@ anything:
 - the jury's decision, and the debts from earlier years.
 
 A transcript names the session it comes from. After the retake, print the
-retake session's. A reopened deliberation prints no transcript until it is
+retake session's. A semester's deliberation prints a semester transcript:
+the semester's units, average, credits and honour, without a decision to
+move up. A reopened deliberation prints no transcript until it is
 closed again.
 
 ## Moving up to next year

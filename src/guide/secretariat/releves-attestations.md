@@ -32,6 +32,10 @@ session a été publiée propose :
   de tous ses étudiants, une page chacun ;
 - **Attestations** : les attestations déjà délivrées à ses diplômés.
 
+Si la filière délibère aussi à chaque semestre, les relevés de chaque
+semestre publié apparaissent en plus, par exemple **Relevés — S3 · Session
+normale**.
+
 La scolarité imprime les attestations mais ne les délivre pas : c'est
 l'administrateur ou le responsable de la filière qui le fait, depuis la
 page **Diplômés** de la promotion.

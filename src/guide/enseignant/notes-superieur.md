@@ -52,6 +52,11 @@ promotion. Notez-les comme les autres, en session normale et au
 rattrapage. Leur note est figée quand le jury de leur propre promotion a
 délibéré.
 
+Les notes d'une session sont figées quand le jury délibère sur l'année.
+Si la filière délibère aussi à chaque semestre, celles d'un semestre le
+sont dès que sa délibération est publiée ; les notes de l'autre semestre
+restent modifiables.
+
 ## Une année clôturée
 
 Quand l'année est clôturée, ses feuilles restent consultables mais ne

@@ -195,6 +195,10 @@ CAMES :
 | Après le rattrapage             | la meilleure note   | La note de rattrapage, la meilleure des deux, ou le rattrapage plafonné |
 | Crédits pour passer avec dettes | tous                | En dessous, la proposition est le redoublement                          |
 
+La case **Le jury délibère aussi à la fin de chaque semestre** ajoute des
+[délibérations semestrielles](#les-deliberations-semestrielles). Elle est
+décochée au départ.
+
 La moyenne d'une UE pondère ses EC par leurs coefficients ; celle d'une
 période ou de l'année pondère les UE par leurs crédits. Une UE validée ou
 compensée rapporte ses crédits.
@@ -263,6 +267,36 @@ avant celle de la session normale), et plus du tout une fois des
 étudiants de la promotion inscrits dans l'année suivante. Les étudiants gardent les résultats
 publiés jusqu'à la clôture suivante.
 
+### Les délibérations semestrielles {#les-deliberations-semestrielles}
+
+Si la filière l'a choisi dans ses règles, le jury délibère aussi à la fin
+de chaque semestre. Les semestres sont numérotés sur tout le cycle : une
+deuxième année a les semestres 3 et 4. Sur la page de délibération de
+l'année, un bouton par semestre mène à la sienne, avec où elle en est.
+
+La délibération d'un semestre suit le même déroulé, en plus court :
+
+- elle ne montre que les UE du semestre, avec la moyenne et les crédits du
+  semestre ;
+- le jury peut ajouter des points de jury à ces UE, et une note ; il ne
+  décide pas du passage ;
+- **Clore et publier** publie les résultats du semestre aux étudiants,
+  qui sont prévenus, et fige les notes du semestre pour cette session. Les
+  notes de l'autre semestre restent modifiables.
+
+Le rattrapage d'un semestre peut aussi être délibéré, après sa session
+normale, si l'établissement le tient avant la fin de l'année. Sinon, la
+délibération de l'année sur le rattrapage suffit.
+
+La délibération de l'année reste celle qui décide du passage. Elle ne peut
+être close en session normale qu'une fois tous les semestres publiés, et
+elle reprend les points de jury donnés aux semestres. Avec une
+compensation annuelle, une UE non validée au semestre peut encore être
+compensée en fin d'année.
+
+Une délibération semestrielle ne se rouvre plus une fois celle de l'année
+close sur la même session : rouvrez d'abord celle de l'année.
+
 ### Les relevés de notes
 
 Une fois la délibération close, **Relevés de notes (PDF)** imprime en un
@@ -287,7 +321,9 @@ Le relevé reprend ce que le jury a publié, sans rien recalculer :
 - la décision du jury, et les dettes des années précédentes.
 
 Le relevé porte la session dont il vient. Après le rattrapage, imprimez
-celui de la session de rattrapage. Une délibération rouverte n'imprime
+celui de la session de rattrapage. Une délibération semestrielle imprime
+un relevé semestriel : les UE du semestre, sa moyenne, ses crédits et sa
+mention, sans décision de passage. Une délibération rouverte n'imprime
 plus de relevé jusqu'à sa nouvelle clôture.
 
 ## Le passage à l'année suivante {#le-passage-a-l-annee-suivante}

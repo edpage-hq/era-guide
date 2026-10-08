@@ -32,6 +32,10 @@ published session offers:
   student's transcript, a page each;
 - **Certificates**: the certificates already issued to its graduates.
 
+If the programme also deliberates on each semester, each published
+semester's transcripts appear too, for example **Transcripts — S3 · First
+session**.
+
 The secretariat prints certificates but does not issue them: the
 administrator or the programme's head does, from the promotion's
 **Graduates** page.

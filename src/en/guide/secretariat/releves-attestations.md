@@ -14,7 +14,7 @@ reopened, prints nothing until the jury closes it.
 
 ## For one student, at the desk
 
-Type their **name** or **registration number**, then **Search**. For each
+Type their **name**, or their **registration number** if the school uses them, then **Search**. For each
 student found, the page lists:
 
 - their certificate of completion, if they completed their programme;

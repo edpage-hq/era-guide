@@ -14,7 +14,7 @@ rouverte, n'imprime rien tant que le jury ne l'a pas close.
 
 ## Pour un étudiant, au guichet
 
-Tapez son **nom** ou son **matricule**, puis **Rechercher**. Pour chaque
+Tapez son **nom**, ou son **matricule** si l'établissement l'utilise, puis **Rechercher**. Pour chaque
 étudiant trouvé, la page liste :
 
 - son attestation de réussite, s'il a terminé sa filière ;

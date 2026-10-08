@@ -80,6 +80,19 @@ This is where the details a family needs on their proof of payment belong.
 Already-generated receipts aren't rewritten: the change applies to receipts
 produced afterwards.
 
+## Student records {#student-records}
+
+**Use a registration number** chooses whether the school gives its
+students a registration number. It starts off.
+
+- **On**: a **Registration number** field appears on the student record.
+  It is optional, but no two students can share one. It is used to search
+  for students and printed on transcripts and certificates of completion.
+- **Off**: the registration number disappears everywhere. Numbers already
+  entered are kept and come back if you turn it on again.
+
+The place of birth is always offered, and always optional.
+
 ## Parent self-service linking
 
 This setting decides whether a parent can **search for an already-enrolled

@@ -85,6 +85,20 @@ C'est ici qu'on met les mentions que la famille doit retrouver sur son
 justificatif. Les reçus déjà générés ne sont pas réécrits : le changement
 s'applique aux reçus produits ensuite.
 
+## Fiche élève {#fiche-eleve}
+
+**Utiliser un matricule** choisit si l'établissement attribue un matricule
+à ses élèves. Le réglage est désactivé au départ.
+
+- **Activé** : un champ **Matricule** apparaît dans la fiche élève. Il est
+  facultatif, mais deux élèves ne peuvent pas avoir le même. Le matricule
+  sert à la recherche d'élèves et figure sur les relevés de notes et les
+  attestations de réussite.
+- **Désactivé** : le matricule disparaît partout. Les numéros déjà saisis
+  sont conservés et réapparaissent si vous le réactivez.
+
+Le lieu de naissance, lui, est toujours proposé, et toujours facultatif.
+
 ## Rattachement libre-service des parents
 
 Ce réglage décide si un parent peut **rechercher un élève déjà inscrit et

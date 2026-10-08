@@ -271,8 +271,8 @@ chacun. Pour un seul étudiant, ouvrez sa ligne puis **Relevé de notes**.
 L'administrateur, les responsables de la filière et les membres de son
 jury peuvent les imprimer ; la scolarité aussi, depuis
 [Relevés et attestations](../secretariat/releves-attestations.md). Le relevé
-porte le matricule et le lieu de naissance de l'étudiant quand sa fiche les
-indique.
+porte le lieu de naissance de l'étudiant quand sa fiche l'indique, et son
+matricule si l'établissement l'utilise.
 
 Le relevé reprend ce que le jury a publié, sans rien recalculer :
 

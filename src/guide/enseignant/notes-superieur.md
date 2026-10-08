@@ -44,6 +44,14 @@ remplace l'examen de la session normale ; le contrôle continu reste acquis.
 La filière décide ensuite de la note que garde l'EC : celle du rattrapage,
 la meilleure des deux, ou celle du rattrapage plafonnée.
 
+## Les étudiants en dette
+
+Une feuille peut aussi lister des étudiants d'une promotion supérieure qui
+doivent encore l'UE : ils portent la mention **Dette** et le nom de leur
+promotion. Notez-les comme les autres, en session normale et au
+rattrapage. Leur note est figée quand le jury de leur propre promotion a
+délibéré.
+
 ## Une année clôturée
 
 Quand l'année est clôturée, ses feuilles restent consultables mais ne

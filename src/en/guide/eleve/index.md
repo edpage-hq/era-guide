@@ -35,8 +35,9 @@ session, then retake), you find there:
 - the jury's decision: admitted, to the retake, admitted with debts,
   repeats;
 - your year's average and credits;
-- each unit with its average, credits and status: validated, compensated
-  or not validated.
+- each unit with its average, credits and status: validated, compensated,
+  earned (if you are repeating) or not validated;
+- your debts from earlier years, and whether you have cleared them.
 
 You are told by email when your results are published.
 

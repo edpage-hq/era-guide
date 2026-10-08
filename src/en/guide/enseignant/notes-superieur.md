@@ -44,6 +44,13 @@ session's exam; the continuous assessment stands. The programme then
 decides which mark the element keeps: the retake's, the better of the two,
 or the retake's capped.
 
+## Students in debt
+
+A sheet may also list students of a higher promotion who still owe the
+unit: they are flagged **Debt** with their promotion's name. Mark them
+like the others, at the first session and at the retake. Their mark is
+frozen once the jury of their own promotion has deliberated.
+
 ## A closed year
 
 Once the year is closed, its sheets can still be read but no longer

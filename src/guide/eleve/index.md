@@ -42,6 +42,10 @@ délibération du jury (session normale, puis rattrapage), vous y trouvez :
 **Relevé de notes** télécharge le relevé de la session en PDF : la note
 de chaque EC, vos UE, vos crédits, votre mention et la décision du jury.
 
+Quand vous avez terminé votre filière, votre **attestation de réussite**
+au diplôme apparaît en tête de vos résultats, avec son numéro et votre
+mention, prête à télécharger.
+
 Vous êtes prévenu par e-mail quand vos résultats sont publiés.
 
 ## Cahier de texte

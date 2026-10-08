@@ -302,8 +302,8 @@ normale quand elle a réglé l'année (admis ou exclu).
   de la filière. Les dettes de chacun sont listées.
 - **Redoublent** : dans une promotion du même niveau.
 - **Ont terminé la filière** : les admis du dernier niveau. Ils ne sont pas
-  réinscrits. Un étudiant admis avec dettes au dernier niveau y reste pour
-  les solder.
+  réinscrits et reçoivent leur [attestation de réussite](#les-diplomes). Un
+  étudiant admis avec dettes au dernier niveau y reste pour les solder.
 - **Exclus** : ils ne sont pas réinscrits.
 - Les étudiants qui **attendent encore** le rattrapage ou le jury sont
   signalés, avec un lien vers les délibérations.
@@ -350,3 +350,32 @@ après la session normale, **Admis avec dettes** après le rattrapage. Le
 jury reste libre de sa décision. Au passage suivant, une dette validée
 est soldée ; une dette encore due suit l'étudiant, quelle que soit la
 décision.
+
+## Les diplômés {#les-diplomes}
+
+Dans une promotion de la dernière année de la filière, le bouton
+**Diplômés** liste les étudiants que le jury a admis, à la session normale
+ou au rattrapage. Un étudiant admis avec dettes n'y figure pas : il doit
+d'abord les solder.
+
+Le bouton de délivrance (par exemple **Délivrer 3 attestations**) donne à chacun une attestation de réussite
+au diplôme, numérotée par diplôme et par année (`LIC-2027-2028-0001`). Elle
+porte :
+
+- le diplôme et la filière, et les crédits du cycle (les crédits annuels de
+  la filière, pour chacune de ses années) ;
+- la moyenne du cycle : celle des années de l'étudiant dans la filière,
+  une par niveau (la dernière, s'il a redoublé), pondérées par leurs
+  crédits. Un étudiant entré en cours de cycle est noté sur les années
+  faites dans la filière ;
+- la mention de cette moyenne, et la date de la décision du jury.
+
+L'attestation vaut diplôme en attendant sa délivrance. Imprimez-les toutes
+avec **Imprimer les attestations (PDF)**, ou une à une. L'étudiant la
+télécharge aussi depuis son espace. L'administrateur et les responsables
+de la filière délivrent et impriment les attestations.
+
+Tant qu'une attestation est délivrée, les délibérations de la promotion ne
+peuvent plus être rouvertes. Pour corriger une décision, l'administrateur
+annule d'abord l'attestation : son numéro n'est jamais réattribué, et une
+nouvelle attestation prend le numéro suivant.

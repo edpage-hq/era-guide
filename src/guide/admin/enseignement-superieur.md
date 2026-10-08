@@ -177,3 +177,46 @@ période complète s'affiche en vert, par exemple **30 / 30 crédits**.
 
 L'administrateur et les responsables de la filière tiennent ces
 inscriptions. Une fois l'année clôturée, elles ne changent plus.
+
+## Les règles de validation
+
+Chaque filière a ses propres règles, dans la section **Règles de
+validation** de sa fiche. Par défaut, celles qui ont cours dans l'espace
+CAMES :
+
+| Règle                           | Par défaut          | Ce qu'elle décide                                                       |
+| ------------------------------- | ------------------- | ----------------------------------------------------------------------- |
+| Part du contrôle continu        | 40 %                | La note d'un EC : contrôle continu et examen pondérés                   |
+| Note de validation              | 10/20               | Une UE est validée quand sa moyenne l'atteint                           |
+| Note éliminatoire               | aucune              | Un EC en dessous empêche son UE d'être validée, même par compensation   |
+| Compensation entre UE           | au sein du semestre | Une moyenne de période (ou d'année) suffisante valide les UE en dessous |
+| Plancher de compensation        | aucun               | Une UE sous ce plancher n'est jamais compensée                          |
+| Après le rattrapage             | la meilleure note   | La note de rattrapage, la meilleure des deux, ou le rattrapage plafonné |
+| Crédits pour passer avec dettes | tous                | En dessous, la proposition est le redoublement                          |
+
+La moyenne d'une UE pondère ses EC par leurs coefficients ; celle d'une
+période ou de l'année pondère les UE par leurs crédits. Une UE validée ou
+compensée rapporte ses crédits.
+
+## Enseignants et notes
+
+Le bouton **Enseignements et notes** d'une promotion liste ses EC, période
+par période. Choisissez l'enseignant de chacun, puis **Enregistrer les
+enseignants** : il retrouve ses feuilles dans **Supérieur → Notes des EC**
+(voir [Notes des EC](/guide/enseignant/notes-superieur)). Les responsables
+de la filière et l'administrateur peuvent aussi ouvrir chaque feuille, en
+session normale comme en rattrapage.
+
+## Les résultats
+
+Le bouton **Résultats** d'une promotion donne, pour chaque étudiant, la
+moyenne et les crédits de chaque période et de l'année, avec ce que les
+règles proposent : **Admis**, **Admis avec dettes** ou **Redouble**. Tant
+qu'une note manque, l'étudiant reste « Notes incomplètes ».
+
+Dépliez un étudiant pour voir ses UE : moyenne, crédits et statut
+(validée, compensée, non validée), avec la note de chaque EC et, après un
+rattrapage, celle de la session normale.
+
+Ces résultats se recalculent à chaque note saisie. La décision revient au
+jury de la filière.

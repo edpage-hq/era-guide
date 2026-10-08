@@ -174,3 +174,45 @@ green, for instance **30 / 30 credits**.
 
 The administrator and the programme's heads keep these registrations. Once
 the year is closed, they no longer change.
+
+## Validation rules
+
+Each programme has its own rules, in the **Validation rules** section of
+its form. By default, the ones common in the CAMES area:
+
+| Rule                          | Default             | What it decides                                                      |
+| ----------------------------- | ------------------- | -------------------------------------------------------------------- |
+| Continuous assessment share   | 40%                 | An element's mark: continuous assessment and exam weighted           |
+| Pass mark                     | 10/20               | A unit is validated when its average reaches it                      |
+| Eliminatory mark              | none                | An element below it keeps its unit from validating, even compensated |
+| Compensation between units    | within the semester | A high enough period (or year) average validates the units below it  |
+| Compensation floor            | none                | A unit below it is never compensated                                 |
+| After the retake              | the better mark     | The retake mark, the better of the two, or the retake capped         |
+| Credits to move up with debts | all                 | Below it, the proposal is to repeat                                  |
+
+A unit's average weights its elements by their coefficients; a period's or
+the year's weights the units by their credits. A validated or compensated
+unit earns its credits.
+
+## Teaching and marks
+
+A promotion's **Teaching and marks** button lists its elements, period by
+period. Pick each one's teacher, then **Save teachers**: they find their
+sheets under **Higher education → Course element marks** (see
+[Course element marks](/en/guide/enseignant/notes-superieur)). The
+programme heads and the administrator can open every sheet too, first
+session and retake alike.
+
+## Results
+
+A promotion's **Results** button gives, for each student, each period's
+and the year's average and credits, with what the rules propose:
+**Admitted**, **Admitted with debts** or **Repeats**. While a mark is
+missing, the student stays "Marks incomplete".
+
+Open a student to see their units: average, credits and status
+(validated, compensated, not validated), with each element's mark and,
+after a retake, the first session's.
+
+These results are worked out again with every mark entered. The decision
+rests with the programme's jury.

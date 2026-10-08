@@ -143,6 +143,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Notes et évaluations', link: 'enseignant/notes-et-evaluations' },
         { text: 'Bulletins et cahier de textes', link: 'enseignant/bulletins-et-cahier-texte' },
         { text: 'Registre et emploi du temps', link: 'enseignant/registre-et-emploi-du-temps' },
+        { text: 'Notes des EC (supérieur)', link: 'enseignant/notes-superieur' },
       ],
     },
     {

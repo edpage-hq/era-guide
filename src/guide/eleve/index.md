@@ -39,6 +39,9 @@ délibération du jury (session normale, puis rattrapage), vous y trouvez :
   compensée, acquise (si vous redoublez) ou non validée ;
 - vos dettes des années précédentes, et si vous les avez validées.
 
+**Relevé de notes** télécharge le relevé de la session en PDF : la note
+de chaque EC, vos UE, vos crédits, votre mention et la décision du jury.
+
 Vous êtes prévenu par e-mail quand vos résultats sont publiés.
 
 ## Cahier de texte

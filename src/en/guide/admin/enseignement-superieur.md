@@ -257,6 +257,29 @@ first session's), and not at all once students of the promotion are
 enrolled in the next year. Students keep the published results until the next
 closing.
 
+### Transcripts
+
+Once the deliberation is closed, **Transcripts (PDF)** prints every
+student's transcript in one document, a page each. For a single student,
+open their row, then **Transcript**. The administrator, the programme's
+heads and its jury members can print them.
+
+The transcript shows what the jury published, without recomputing
+anything:
+
+- the units semester by semester, numbered across the whole cycle (a
+  second year shows semesters 3 and 4);
+- each element's mark, then each unit's average, credits and result:
+  validated, compensated, earned or not validated;
+- each semester's and the year's average and credits;
+- the honour: Passable from the programme's pass mark, Assez bien from
+  12, Bien from 14, Très bien from 16;
+- the jury's decision, and the debts from earlier years.
+
+A transcript names the session it comes from. After the retake, print the
+retake session's. A reopened deliberation prints no transcript until it is
+closed again.
+
 ## Moving up to next year
 
 Once the jury has deliberated, a promotion's **Moving up** button enrols

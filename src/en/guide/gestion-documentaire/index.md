@@ -33,6 +33,8 @@ The **Documents** page brings two things together:
 - **Filed documents**: the list of documents, filtered by default on those
   **To check** (submitted or being checked). Change the filter to see
   validated, rejected or all documents; pick a type to see only that one.
+  The **Search the documents** field finds a document by its title, file
+  name or notes.
   Each row shows the type and the person concerned: click their name to
   open their file.
 
@@ -48,6 +50,34 @@ of the page says how many types still have no document.
 
 An administrator also opens this file from a student's or an employee's
 record, with the **Document file** button.
+
+## Files from the other modules {#files-from-the-other-modules}
+
+The file also shows, under their type, the files the other ERA modules
+already keep, without moving or copying them:
+
+| File                                          | Document type                | File     |
+| --------------------------------------------- | ---------------------------- | -------- |
+| Papers attached to an approved application    | Application file             | Student  |
+| Published report cards                        | Report card                  | Student  |
+| Payment receipts                              | Invoice or receipt           | Student  |
+| Absence justifications sent in                | Absence justification        | Student  |
+| Disciplinary council minutes                  | Disciplinary council minutes | Student  |
+| Published transcripts (higher education)      | Transcript                   | Student  |
+| Certificates of completion (higher education) | Certificate                  | Student  |
+| Employment contracts attached to the record   | Employment contract          | Employee |
+| Supporting documents attached to expenses     | Expense receipt              | School   |
+
+These files carry the label of the module that keeps them (**Report
+cards**, **Cashier**, **School life**…) and an **Open** button. They are not
+checked: they are managed from their module, as before. Transcripts and
+certificates are produced when you open them, from what the jury published.
+
+Who sees them depends on their type in the catalogue: for example, by
+default, the office sees report cards and receipts, but not disciplinary
+council minutes, which are kept for the document manager and school life.
+If the school deletes one of these types, its files no longer appear in the
+files.
 
 ## File a document
 
@@ -80,6 +110,9 @@ If you may validate the type, each pending document offers:
 - **Validate** — accepts it;
 - **Reject** — refuses it: give the **reason for rejection**, which is
   required. It stays displayed under the document.
+
+The [dashboard](/en/guide/prise-en-main) shows how many documents are
+waiting for your check, for the types you may validate only.
 
 Once validated or rejected, a document's status no longer changes. To
 replace a rejected document, file a new one.

@@ -14,19 +14,27 @@ types**.
 
 ERA starts with the usual list, which you adapt freely:
 
-| Type                 | File     | Origin                  | Consults and validates                         |
-| -------------------- | -------- | ----------------------- | ---------------------------------------------- |
-| Enrollment file      | Student  | Imported                | Document manager, office                       |
-| Birth certificate    | Student  | Imported                | Document manager, office                       |
-| Medical record       | Student  | Imported (confidential) | Infirmary                                      |
-| Application file     | Student  | Imported                | Document manager, office                       |
-| Transcript           | Student  | Produced by the school  | Document manager, office                       |
-| Certificate          | Student  | Produced by the school  | Document manager, office                       |
-| Diploma              | Student  | Produced by the school  | Document manager, office                       |
-| Internship agreement | Student  | Produced by the school  | Document manager, office                       |
-| Invoice or receipt   | Student  | Produced by the school  | Document manager, office; the cashier consults |
-| Employment contract  | Employee | Imported (confidential) | Document manager                               |
-| Minutes              | School   | Produced by the school  | Document manager, office                       |
+| Type                         | File     | Origin                                | Consults and validates                         |
+| ---------------------------- | -------- | ------------------------------------- | ---------------------------------------------- |
+| Enrollment file              | Student  | Imported                              | Document manager, office                       |
+| Birth certificate            | Student  | Imported                              | Document manager, office                       |
+| Medical record               | Student  | Imported (confidential)               | Infirmary                                      |
+| Application file             | Student  | Imported                              | Document manager, office                       |
+| Transcript                   | Student  | Produced by the school                | Document manager, office                       |
+| Certificate                  | Student  | Produced by the school                | Document manager, office                       |
+| Diploma                      | Student  | Produced by the school                | Document manager, office                       |
+| Internship agreement         | Student  | Produced by the school                | Document manager, office                       |
+| Invoice or receipt           | Student  | Produced by the school                | Document manager, office; the cashier consults |
+| Employment contract          | Employee | Imported (confidential)               | Document manager                               |
+| Minutes                      | School   | Produced by the school                | Document manager, office                       |
+| Report card                  | Student  | Produced by the school                | Document manager, office                       |
+| Absence justification        | Student  | Imported                              | Document manager, school life (consults)       |
+| Disciplinary council minutes | Student  | Produced by the school (confidential) | Document manager, school life (consults)       |
+| Expense receipt              | School   | Imported                              | Document manager, cashier (consults)           |
+
+Some types also show the files the other modules keep (report cards,
+receipts, justifications…): see
+[Files from the other modules](/en/guide/gestion-documentaire/#files-from-the-other-modules).
 
 An administrator always consults and validates every type, confidential
 ones included. The starting names show in each user's language until you
@@ -57,6 +65,9 @@ administrators will have access to it.
 
 ## Delete a type
 
-A type with no document filed under it can be deleted with **Delete**. As
+A type with no document filed under it can be deleted with **Delete**. If
+it is a type that shows another module's files (report cards, for example),
+those files no longer appear in the files; they stay untouched in their
+module. As
 soon as a document is filed there, the button disappears: the type stays in
 the catalogue, and you can only rename it or change its access.

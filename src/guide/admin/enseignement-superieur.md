@@ -101,7 +101,8 @@ choisi parmi ceux de la filière.
 
 Une promotion n'a ni bulletins, ni décisions de fin d'année, ni
 réinscription en masse : ces écrans du scolaire l'ignorent. Ses étudiants
-progresseront sur leurs crédits, validés par le jury de la filière.
+passent d'une année à l'autre d'après les décisions du jury de la filière
+(voir [Le passage à l'année suivante](#le-passage-a-l-annee-suivante)).
 
 Les étudiants y entrent par une [candidature](/guide/secretariat/candidatures#une-candidature-a-l-universite)
 qui vise la filière et le niveau.
@@ -258,5 +259,55 @@ décision. La clôture :
 - affiche ses résultats dans son espace, sous **Mes résultats**.
 
 Seul l'administrateur peut rouvrir une délibération (celle du rattrapage
-avant celle de la session normale). Les étudiants gardent les résultats
+avant celle de la session normale), et plus du tout une fois des
+étudiants de la promotion inscrits dans l'année suivante. Les étudiants gardent les résultats
 publiés jusqu'à la clôture suivante.
+
+## Le passage à l'année suivante {#le-passage-a-l-annee-suivante}
+
+Une fois le jury passé, le bouton **Passage à l'année suivante** d'une
+promotion inscrit ses étudiants dans leur promotion de l'année suivante.
+Préparez d'abord cette année : ses promotions, et sa maquette reprise de
+l'année en cours.
+
+Choisissez l'année d'arrivée. La page range les étudiants d'après la
+**décision finale** du jury : celle du rattrapage, ou celle de la session
+normale quand elle a réglé l'année (admis ou exclu).
+
+- **Admis** et **admis avec dettes** : dans une promotion du niveau suivant
+  de la filière. Les dettes de chacun sont listées.
+- **Redoublent** : dans une promotion du même niveau.
+- **Ont terminé la filière** : les admis du dernier niveau. Ils ne sont pas
+  réinscrits. Un étudiant admis avec dettes au dernier niveau y reste pour
+  les solder.
+- **Exclus** : ils ne sont pas réinscrits.
+- Les étudiants qui **attendent encore** le rattrapage ou le jury sont
+  signalés, avec un lien vers les délibérations.
+
+Pour chaque groupe, choisissez la promotion d'arrivée, sur le même site :
+quand il n'y en a qu'une, elle est déjà choisie. Puis cliquez sur
+**Inscrire**. Comme pour les classes du scolaire, un impayé est signalé
+sans bloquer, et une promotion pleine demande votre accord.
+
+Ce que l'année laisse suit l'étudiant :
+
+- un étudiant qui **redouble garde ses UE validées ou compensées**. Elles
+  sont marquées **Acquise** dans ses résultats, comptent avec leur moyenne
+  et leurs crédits, et disparaissent de ses feuilles de notes ;
+- un étudiant **admis avec dettes** emporte la liste des UE qu'il doit
+  encore valider ;
+- les UE optionnelles se choisissent de nouveau, sauf celles déjà acquises.
+
+ERA retrouve chaque UE dans la maquette de la nouvelle année par son code,
+ou à défaut par son nom. La page **Inscriptions pédagogiques** affiche,
+sous le nom de chaque étudiant, ses UE acquises et ses dettes ; une UE
+introuvable dans la nouvelle maquette y est signalée « hors maquette ».
+
+Vous pouvez relancer le passage sans risque : un étudiant déjà inscrit dans
+l'année d'arrivée n'est jamais déplacé. Une fois des étudiants inscrits,
+les délibérations de la promotion ne peuvent plus être rouvertes.
+
+::: info Ce qui reste à venir
+Les dettes sont enregistrées, mais pas encore notées : leur passage aux
+examens du niveau inférieur viendra plus tard.
+:::

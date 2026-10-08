@@ -293,7 +293,8 @@ the year (admitted or excluded).
 - **Admitted** and **admitted with debts**: into a promotion of the
   programme's next level. Each student's debts are listed.
 - **Repeating**: into a promotion of the same level.
-- **Completed the programme**: students admitted at the last level. They
+- **Completed the programme**: students admitted at the last level; they
+  get their [certificate of completion](#graduates). They
   are not re-enrolled. A student admitted with debts at the last level
   stays there to clear them.
 - **Excluded**: not re-enrolled.
@@ -340,3 +341,30 @@ As long as a debt is not validated, the rules do not propose
 the first session, **Admitted with debts** after the retake. The jury
 decides as it sees fit. At the next move up, a validated debt is cleared;
 a debt still owed follows the student, whatever the decision.
+
+## Graduates {#graduates}
+
+In a promotion of the programme's final year, the **Graduates** button
+lists the students the jury admitted, at the first session or the retake.
+A student admitted with debts is not listed: they must clear them first.
+
+The issue button (for example **Issue 3 certificates**) gives each of them a certificate of completion,
+numbered per degree and per year (`LIC-2027-2028-0001`). It shows:
+
+- the degree and the programme, and the cycle's credits (the programme's
+  annual credits for each of its years);
+- the cycle's average: the average of the student's years in the
+  programme, one per level (the latest, if they repeated), weighted by
+  their credits. A student who joined during the cycle is averaged on the
+  years taken in the programme;
+- that average's honour, and the date of the jury's decision.
+
+The certificate stands for the degree until the diploma is issued. Print
+them all with **Print certificates (PDF)**, or one by one. Students also
+download theirs from their space. The administrator and the programme's
+heads issue and print certificates.
+
+While a certificate is issued, the promotion's deliberations can no
+longer be reopened. To correct a decision, the administrator first
+cancels the certificate: its number is never given again, and a new
+certificate takes the next number.

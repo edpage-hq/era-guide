@@ -43,6 +43,10 @@ session, then retake), you find there:
 element's mark, your units, your credits, your honour and the jury's
 decision.
 
+Once you complete your programme, your **certificate of completion**
+appears at the top of your results, with its number and your honour,
+ready to download.
+
 You are told by email when your results are published.
 
 ## Lesson log

@@ -41,7 +41,8 @@ filter to show only pending, approved, or rejected applications. Click
 
 The application's detail page shows you:
 
-- the student's **date of birth**, desired **site** and
+- the student's **date** and **place of birth** (the place is copied to
+  their record on approval), desired **site** and
   **department**, and **channel** (Online or Cashier);
 - if the application was entered by the cashier, who **submitted** it;
 - the list of **guardians** with their name, email, phone, and

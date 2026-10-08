@@ -20,6 +20,10 @@ another, and class changes within a site. The **Students & admissions** space gi
   moving a student to another class on the same site, for instance after
   a change of orientation.
 
+In a higher education institution, the **Higher education** space adds
+**[Transcripts and certificates](/en/guide/secretariat/releves-attestations)**:
+published transcripts and certificates of completion, to print.
+
 Once an application is approved, the student is enrolled in a class and
 their financial record appears with the cashier, who takes over from
 there for fees and payments — see the

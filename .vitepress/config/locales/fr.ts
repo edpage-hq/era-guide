@@ -123,6 +123,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Candidatures', link: 'secretariat/candidatures' },
         { text: 'Transferts de site', link: 'secretariat/transferts-sites' },
         { text: 'Changements de classe', link: 'secretariat/changements-de-classe' },
+        { text: 'Relevés et attestations', link: 'secretariat/releves-attestations' },
       ],
     },
     {

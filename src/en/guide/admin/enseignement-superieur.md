@@ -97,8 +97,9 @@ asks for the **programme** it follows, then its **level**, chosen among the
 programme's.
 
 A promotion has no bulletins, no year-end decisions and no bulk
-re-enrolment: those school screens leave it out. Its students will progress
-on their credits, validated by the programme's jury.
+re-enrolment: those school screens leave it out. Its students move from
+one year to the next from the programme jury's decisions (see
+[Moving up to next year](#moving-up-to-next-year)).
 
 Students join it through an [application](/en/guide/secretariat/candidatures#a-university-application)
 naming the programme and the level.
@@ -252,5 +253,54 @@ missing marks needs a decision first. Closing:
 - shows their results in their space, under **My results**.
 
 Only the administrator can reopen a deliberation (the retake's before the
-first session's). Students keep the published results until the next
+first session's), and not at all once students of the promotion are
+enrolled in the next year. Students keep the published results until the next
 closing.
+
+## Moving up to next year
+
+Once the jury has deliberated, a promotion's **Moving up** button enrols
+its students in next year's promotion. Prepare that year first: its
+promotions, and its curriculum copied from the current year.
+
+Choose the year to move into. The page sorts the students by the jury's
+**final decision**: the retake's, or the first session's when it settled
+the year (admitted or excluded).
+
+- **Admitted** and **admitted with debts**: into a promotion of the
+  programme's next level. Each student's debts are listed.
+- **Repeating**: into a promotion of the same level.
+- **Completed the programme**: students admitted at the last level. They
+  are not re-enrolled. A student admitted with debts at the last level
+  stays there to clear them.
+- **Excluded**: not re-enrolled.
+- Students **still waiting** for the retake or the jury are flagged, with a
+  link to the deliberations.
+
+For each group, choose the promotion to enrol into, on the same site: when
+there is only one, it is already chosen. Then click **Enrol**. As for
+school classes, unpaid fees are flagged without blocking, and a full
+promotion asks for your approval.
+
+What the year leaves follows the student:
+
+- a **repeating student keeps the units already validated or
+  compensated**. They show as **Earned** in their results, count with their
+  average and credits, and leave their mark sheets;
+- a student **admitted with debts** takes along the units still to
+  validate;
+- electives are chosen again, except the ones already earned.
+
+ERA finds each unit in the new year's curriculum by its code, or else by
+its name. The **Pedagogical registration** page shows each student's
+earned units and debts under their name; a unit missing from the new
+curriculum is flagged "not in the curriculum".
+
+You can run it again safely: a student already enrolled in the target year
+is never moved. Once students are enrolled, the promotion's deliberations
+can no longer be reopened.
+
+::: info Still to come
+Debts are recorded, not yet graded: sitting them at the lower level's
+exams will come later.
+:::

@@ -11,7 +11,8 @@ personnel au portail élève, et ses matières de spécialité.
 ## Dossiers élèves
 
 **Élèves et admissions → Élèves** liste les élèves de l'établissement, avec une
-recherche par nom et un filtre par classe (y compris « Non affecté » pour
+recherche par nom (et par matricule, s'il est
+[activé](parametres-application.md#fiche-eleve)) et un filtre par classe (y compris « Non affecté » pour
 les élèves sans classe sur l'année en cours).
 
 Cliquez sur la ligne d'un élève pour ouvrir son **aperçu**, à droite de la
@@ -25,8 +26,12 @@ les trois dernières notes. Trois boutons y mènent directement :
 Pour créer un élève :
 
 1. Cliquez sur **Nouvel élève**.
-2. Renseignez le **Prénom**, le **Nom de famille**, la **Date de
-   naissance** (facultative).
+2. Renseignez le **Prénom** et le **Nom de famille**, puis, s'ils sont
+   connus, la **Date de naissance** et le **Lieu de naissance**. Si
+   l'établissement utilise le matricule, renseignez aussi le
+   **Matricule** : deux élèves ne peuvent pas avoir le même. Tous ces
+   champs sont facultatifs ; le matricule et le lieu de naissance figurent
+   sur les relevés de notes et les attestations de réussite.
 3. Choisissez une **Classe** pour l'année scolaire en cours, ou laissez
    « Non affecté » pour créer le dossier sans inscription immédiate.
 4. Cliquez sur **Enregistrer**.

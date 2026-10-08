@@ -11,7 +11,8 @@ access to the student portal, and their specialty subjects.
 ## Student records
 
 **Students & admissions → Students** lists the school's students, with a
-search by name and a filter by class (including "Unassigned" for students
+search by name (and by registration number, if
+[turned on](parametres-application.md#student-records)) and a filter by class (including "Unassigned" for students
 with no class in the current year).
 
 Click a student's row to open their **preview**, to the right of the list
@@ -25,8 +26,12 @@ three grades. Three buttons lead straight on: **Edit**,
 To create a student:
 
 1. Click **New student**.
-2. Fill in the **First name**, **Last name**, and **Date of birth**
-   (optional).
+2. Fill in the **First name** and **Last name**, then, when known, the
+   **Date of birth** and **Place of birth**. If the school uses
+   registration numbers, also fill in the **Registration number**: no two
+   students can share one. All these fields are optional; the registration
+   number and place of birth are printed on transcripts and certificates
+   of completion.
 3. Choose a **Class** for the current academic year, or leave it
    unassigned to create the record without an immediate enrollment.
 4. Click **Save**.

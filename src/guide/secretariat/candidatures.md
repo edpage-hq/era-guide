@@ -40,7 +40,8 @@ filtre de statut pour n'afficher que les dossiers d'un statut donné. Cliquez su
 
 La page de détail d'un dossier vous montre :
 
-- la **date de naissance** de l'élève, le **site** et le **département**
+- la **date** et le **lieu de naissance** de l'élève (le lieu est repris
+  dans son dossier à l'approbation), le **site** et le **département**
   souhaités, et le **canal** (En ligne ou Caisse) ;
 - si le dossier a été saisi par la caisse, le nom de la personne qui l'a
   **saisi** ;

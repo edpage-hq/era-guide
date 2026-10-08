@@ -262,7 +262,10 @@ closing.
 Once the deliberation is closed, **Transcripts (PDF)** prints every
 student's transcript in one document, a page each. For a single student,
 open their row, then **Transcript**. The administrator, the programme's
-heads and its jury members can print them.
+heads and its jury members can print them; so can the secretariat, from
+[Transcripts and certificates](../secretariat/releves-attestations.md). The
+transcript shows the student's place of birth when their record has it, and
+their registration number if the school uses them.
 
 The transcript shows what the jury published, without recomputing
 anything:

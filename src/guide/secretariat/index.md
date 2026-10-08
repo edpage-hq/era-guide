@@ -20,6 +20,10 @@ d'un site à un autre, et les changements de classe au sein d'un même site. L'e
   faire passer un élève dans une autre classe du même site, par exemple
   après un changement d'orientation.
 
+Dans un établissement d'enseignement supérieur, l'espace **Supérieur**
+ajoute **[Relevés et attestations](/guide/secretariat/releves-attestations)** :
+les relevés de notes et les attestations de réussite publiés, à imprimer.
+
 Une fois qu'un dossier est validé, l'élève est inscrit dans une classe et
 son dossier financier apparaît chez la caisse, qui prend le relais pour
 les frais et les paiements — voir le

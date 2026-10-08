@@ -38,8 +38,12 @@ You can filter the list by:
 | ------ | ----------------------------------------------------------- |
 | Actor  | search by the name or email of the person behind the action |
 | Entity | the type of record involved (student, class, payment...)    |
-| Action | Created, Updated, or Deleted                                |
+| Action | Created, Updated, Deleted, or Viewed                        |
 | Date   | a "from" / "to" range                                       |
+
+The **Viewed** action only appears for the confidential documents of
+[document management](/en/guide/gestion-documentaire/): each time one of
+them is opened, it is recorded here.
 
 Click **View details** on a row to show, in a dialog, the technical
 detail of the fields changed by that action.

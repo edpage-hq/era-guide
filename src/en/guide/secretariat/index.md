@@ -28,3 +28,10 @@ Once an application is approved, the student is enrolled in a class and
 their financial record appears with the cashier, who takes over from
 there for fees and payments — see the
 [cashier guide](/en/guide/caissier/).
+
+## Papers in students' files
+
+If the school has activated document management, the **Documents** space
+lets you, by default, file and validate students' papers (enrollment file,
+birth certificate…), for example when a family brings them to the desk. See
+[Document management](/en/guide/gestion-documentaire/).

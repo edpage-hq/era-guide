@@ -59,3 +59,11 @@ Depuis la page **Passages à l'infirmerie**, cliquez sur **Supprimer** sur
 la ligne du passage concerné, puis confirmez dans la fenêtre qui
 s'affiche. Cette action supprime définitivement l'enregistrement et ne
 peut pas être annulée.
+
+## Les dossiers médicaux
+
+Si l'établissement a activé la gestion documentaire, l'espace
+**Documents** vous donne accès aux **dossiers médicaux** des élèves : par défaut, vous
+seul (avec l'administrateur) les consultez, les déposez et les validez.
+Chaque ouverture d'un dossier médical est inscrite au journal d'activité.
+Voir [Gestion documentaire](/guide/gestion-documentaire/).

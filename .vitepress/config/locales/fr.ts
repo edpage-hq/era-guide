@@ -161,6 +161,12 @@ function sidebarGuide(): SidebarItemType[] {
     { text: 'Internat', link: 'internat/' },
     { text: 'Infirmerie', link: 'infirmerie/' },
     {
+      text: 'Gestion documentaire',
+      link: 'gestion-documentaire/',
+      collapsed: true,
+      items: [{ text: 'Types de documents', link: 'gestion-documentaire/types-de-documents' }],
+    },
+    {
       text: 'Parent',
       link: 'parent/',
       collapsed: true,

@@ -23,7 +23,8 @@ Pour créer un utilisateur :
 2. Renseignez le **Nom**, l'**Adresse e-mail**, le **Mot de passe** et sa
    confirmation.
 3. Choisissez le **Rôle** : Utilisateur, Administrateur, Enseignant,
-   Secrétariat, Caisse, Vie scolaire, Gestionnaire internat ou Infirmerie.
+   Secrétariat, Caisse, Vie scolaire, Gestionnaire internat, Infirmerie ou
+   Gestionnaire documentaire.
 4. Cliquez sur **Créer l'utilisateur**.
 
 Depuis la liste, chaque compte propose :

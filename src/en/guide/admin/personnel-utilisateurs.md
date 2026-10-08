@@ -23,7 +23,7 @@ To create a user:
 2. Fill in the **Name**, **Email address**, **Password**, and its
    confirmation.
 3. Choose the **Role**: User, Admin, Teacher, Secretariat, Cashier,
-   School life, Boarding manager, or Nurse.
+   School life, Boarding manager, Nurse, or Document manager.
 4. Click **Create the user**.
 
 From the list, each account offers:

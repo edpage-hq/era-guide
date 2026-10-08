@@ -28,3 +28,11 @@ Une fois qu'un dossier est validé, l'élève est inscrit dans une classe et
 son dossier financier apparaît chez la caisse, qui prend le relais pour
 les frais et les paiements — voir le
 [guide de la caisse](/guide/caissier/).
+
+## Les pièces des dossiers
+
+Si l'établissement a activé la gestion documentaire, l'espace
+**Documents** vous permet par défaut de déposer et de valider les pièces des
+élèves (dossier d'inscription, acte de naissance…), par exemple quand une
+famille les apporte au guichet. Voir
+[Gestion documentaire](/guide/gestion-documentaire/).

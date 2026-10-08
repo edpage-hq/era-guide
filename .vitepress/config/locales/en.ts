@@ -130,6 +130,12 @@ function sidebarGuide(): SidebarItemType[] {
     { text: 'Boarding', link: 'internat/' },
     { text: 'Infirmary', link: 'infirmerie/' },
     {
+      text: 'Document management',
+      link: 'gestion-documentaire/',
+      collapsed: true,
+      items: [{ text: 'Document types', link: 'gestion-documentaire/types-de-documents' }],
+    },
+    {
       text: 'Parent',
       link: 'parent/',
       collapsed: true,

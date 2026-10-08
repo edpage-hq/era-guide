@@ -39,6 +39,11 @@ session, then retake), you find there:
   earned (if you are repeating) or not validated;
 - your debts from earlier years, and whether you have cleared them.
 
+If your programme also deliberates on each semester, each semester's
+results appear as soon as they are published, under "Semester 3 · First
+session" for example: the semester's units, its average and its credits.
+The decision to move up comes later, with the year's results.
+
 **Transcript** downloads the session's transcript as a PDF: each
 element's mark, your units, your credits, your honour and the jury's
 decision.

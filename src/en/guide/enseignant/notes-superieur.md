@@ -51,6 +51,11 @@ unit: they are flagged **Debt** with their promotion's name. Mark them
 like the others, at the first session and at the retake. Their mark is
 frozen once the jury of their own promotion has deliberated.
 
+A session's marks are frozen when the jury deliberates on the year. If
+the programme also deliberates on each semester, a semester's marks are
+frozen as soon as its deliberation is published; the other semester's
+can still be changed.
+
 ## A closed year
 
 Once the year is closed, its sheets can still be read but no longer

@@ -263,6 +263,30 @@ avant celle de la session normale), et plus du tout une fois des
 étudiants de la promotion inscrits dans l'année suivante. Les étudiants gardent les résultats
 publiés jusqu'à la clôture suivante.
 
+### Les relevés de notes
+
+Une fois la délibération close, **Relevés de notes (PDF)** imprime en un
+seul document le relevé de chaque étudiant de la promotion, une page
+chacun. Pour un seul étudiant, ouvrez sa ligne puis **Relevé de notes**.
+L'administrateur, les responsables de la filière et les membres de son
+jury peuvent les imprimer.
+
+Le relevé reprend ce que le jury a publié, sans rien recalculer :
+
+- les UE semestre par semestre, numérotés sur tout le cycle (une
+  deuxième année montre les semestres 3 et 4) ;
+- la note de chaque EC, puis la moyenne, les crédits et le résultat de
+  chaque UE : validée, compensée, acquise ou non validée ;
+- la moyenne et les crédits de chaque semestre et de l'année ;
+- la mention : Passable à partir de la note de validation de la filière,
+  Assez bien à partir de 12, Bien à partir de 14, Très bien à partir
+  de 16 ;
+- la décision du jury, et les dettes des années précédentes.
+
+Le relevé porte la session dont il vient. Après le rattrapage, imprimez
+celui de la session de rattrapage. Une délibération rouverte n'imprime
+plus de relevé jusqu'à sa nouvelle clôture.
+
 ## Le passage à l'année suivante {#le-passage-a-l-annee-suivante}
 
 Une fois le jury passé, le bouton **Passage à l'année suivante** d'une

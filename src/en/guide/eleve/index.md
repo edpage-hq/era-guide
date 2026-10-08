@@ -39,6 +39,10 @@ session, then retake), you find there:
   earned (if you are repeating) or not validated;
 - your debts from earlier years, and whether you have cleared them.
 
+**Transcript** downloads the session's transcript as a PDF: each
+element's mark, your units, your credits, your honour and the jury's
+decision.
+
 You are told by email when your results are published.
 
 ## Lesson log

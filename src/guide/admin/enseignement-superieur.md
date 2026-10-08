@@ -307,7 +307,22 @@ Vous pouvez relancer le passage sans risque : un étudiant déjà inscrit dans
 l'année d'arrivée n'est jamais déplacé. Une fois des étudiants inscrits,
 les délibérations de la promotion ne peuvent plus être rouvertes.
 
-::: info Ce qui reste à venir
-Les dettes sont enregistrées, mais pas encore notées : leur passage aux
-examens du niveau inférieur viendra plus tard.
-:::
+### Solder ses dettes
+
+Un étudiant qui doit une UE la repasse avec la promotion du niveau
+inférieur, sur son site : il figure sur les feuilles de notes des EC de
+cette UE, en session normale comme au rattrapage, avec la mention
+**Dette** et le nom de sa promotion. Ses notes y sont saisies comme
+celles des autres.
+
+Chaque dette est jugée seule, sur sa propre moyenne : aucune compensation
+ne la valide. Elle ne compte ni dans la moyenne ni dans les crédits de
+l'année en cours, et apparaît sous ses UE dans les **Résultats** et les
+**Délibérations**, rubrique « Dettes des années précédentes ».
+
+Tant qu'une dette n'est pas validée, les règles ne proposent pas
+**Admis**, même avec tous les crédits de l'année : **Au rattrapage**
+après la session normale, **Admis avec dettes** après le rattrapage. Le
+jury reste libre de sa décision. Au passage suivant, une dette validée
+est soldée ; une dette encore due suit l'étudiant, quelle que soit la
+décision.

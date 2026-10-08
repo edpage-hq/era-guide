@@ -36,7 +36,8 @@ délibération du jury (session normale, puis rattrapage), vous y trouvez :
 - la décision du jury : admis, au rattrapage, admis avec dettes, redouble ;
 - votre moyenne et vos crédits de l'année ;
 - chaque UE avec sa moyenne, ses crédits et son statut : validée,
-  compensée ou non validée.
+  compensée, acquise (si vous redoublez) ou non validée ;
+- vos dettes des années précédentes, et si vous les avez validées.
 
 Vous êtes prévenu par e-mail quand vos résultats sont publiés.
 

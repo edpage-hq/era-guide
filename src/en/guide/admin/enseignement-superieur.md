@@ -300,7 +300,20 @@ You can run it again safely: a student already enrolled in the target year
 is never moved. Once students are enrolled, the promotion's deliberations
 can no longer be reopened.
 
-::: info Still to come
-Debts are recorded, not yet graded: sitting them at the lower level's
-exams will come later.
-:::
+### Clearing debts
+
+A student who owes a unit sits it again with the lower level's promotion,
+on their site: they appear on the mark sheets of that unit's elements, at
+the first session and at the retake, flagged **Debt** with their own
+promotion's name. Their marks are entered like the others'.
+
+Each debt is judged alone, on its own average: no compensation validates
+it. It counts neither in the current year's average nor in its credits,
+and shows under the units in **Results** and **Deliberations**, under
+"Debts from earlier years".
+
+As long as a debt is not validated, the rules do not propose
+**Admitted**, even with every credit of the year: **To the retake** after
+the first session, **Admitted with debts** after the retake. The jury
+decides as it sees fit. At the next move up, a validated debt is cleared;
+a debt still owed follows the student, whatever the decision.

@@ -219,4 +219,44 @@ Dépliez un étudiant pour voir ses UE : moyenne, crédits et statut
 rattrapage, celle de la session normale.
 
 Ces résultats se recalculent à chaque note saisie. La décision revient au
-jury de la filière.
+jury de la filière. Avant la délibération de la session normale, un
+étudiant à qui il manque des crédits est proposé **au rattrapage**.
+
+## Les délibérations
+
+Le **jury** se compose dans la fiche de la filière. Comme les responsables,
+ses membres gardent leur rôle habituel et reçoivent **Supérieur →
+Délibérations**, qui liste les promotions de leurs filières et où en est
+chaque session : à délibérer, en cours, publiée.
+
+Le jury délibère deux fois : après la **session normale**, puis après le
+**rattrapage**, qui ne s'ouvre qu'une fois la première délibération close.
+
+Pour chaque étudiant, la page donne la moyenne et les crédits de l'année et
+la décision proposée par les règles. Le bouton **Décider** permet :
+
+- de suivre la proposition, ou de fixer une autre décision : **Admis**,
+  **Au rattrapage** ou **Exclu** après la session normale ; **Admis**,
+  **Admis avec dettes**, **Redouble** ou **Exclu** après le rattrapage ;
+- d'ajouter des **points de jury** à une UE : ils s'ajoutent à sa moyenne,
+  jusqu'à 20, avant qu'elle soit jugée, mais ne lèvent pas une note
+  éliminatoire ;
+- de laisser une note.
+
+Le rattrapage reprend les points de jury donnés après la session normale.
+
+### Clore et publier
+
+**Clore et publier** publie les décisions avec les résultats sur lesquels
+elles reposent. Sans décision du jury, c'est la proposition qui est
+publiée ; un étudiant dont des notes manquent doit d'abord recevoir une
+décision. La clôture :
+
+- fige les notes de la session : elles ne peuvent plus être modifiées ;
+- prévient chaque étudiant qui a un compte, par e-mail et dans ses
+  notifications ;
+- affiche ses résultats dans son espace, sous **Mes résultats**.
+
+Seul l'administrateur peut rouvrir une délibération (celle du rattrapage
+avant celle de la session normale). Les étudiants gardent les résultats
+publiés jusqu'à la clôture suivante.

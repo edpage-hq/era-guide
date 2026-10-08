@@ -27,6 +27,19 @@ période. Cliquez sur **Télécharger** en face d'une période pour obtenir
 votre bulletin au format PDF. Un bulletin n'apparaît ici qu'une fois
 publié par l'établissement.
 
+## Vos résultats à l'université
+
+Si vous êtes inscrit dans l'enseignement supérieur, votre espace remplace
+les notes et les bulletins par **Mes résultats**. Après chaque
+délibération du jury (session normale, puis rattrapage), vous y trouvez :
+
+- la décision du jury : admis, au rattrapage, admis avec dettes, redouble ;
+- votre moyenne et vos crédits de l'année ;
+- chaque UE avec sa moyenne, ses crédits et son statut : validée,
+  compensée ou non validée.
+
+Vous êtes prévenu par e-mail quand vos résultats sont publiés.
+
 ## Cahier de texte
 
 La section **Cahier de texte** liste les cours donnés avec la date, la

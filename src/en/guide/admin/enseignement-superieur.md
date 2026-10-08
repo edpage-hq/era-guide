@@ -215,4 +215,42 @@ Open a student to see their units: average, credits and status
 after a retake, the first session's.
 
 These results are worked out again with every mark entered. The decision
-rests with the programme's jury.
+rests with the programme's jury. Until the first session has been
+deliberated, a student short of credits is proposed **to the retake**.
+
+## Deliberations
+
+The **jury** is named on the programme's form. Like programme heads, its
+members keep their usual role and also get **Higher education →
+Deliberations**, which lists their programmes' promotions and where each
+session stands: to deliberate, in progress, published.
+
+The jury deliberates twice: after the **first session**, then after the
+**retake**, which opens only once the first deliberation is closed.
+
+For each student, the page gives the year's average and credits and the
+decision the rules propose. The **Decide** button lets the jury:
+
+- follow the proposal, or set another decision: **Admitted**, **To the
+  retake** or **Excluded** after the first session; **Admitted**,
+  **Admitted with debts**, **Repeats** or **Excluded** after the retake;
+- add **jury points** to a unit: they are added to its average, up to 20,
+  before it is judged, but lift no eliminatory mark;
+- leave a note.
+
+The retake starts from the jury points given after the first session.
+
+### Close and publish
+
+**Close and publish** publishes the decisions with the results they rest
+on. Without a jury decision, the proposal is published; a student with
+missing marks needs a decision first. Closing:
+
+- freezes the session's marks: they can no longer be changed;
+- tells every student with an account, by email and in their
+  notifications;
+- shows their results in their space, under **My results**.
+
+Only the administrator can reopen a deliberation (the retake's before the
+first session's). Students keep the published results until the next
+closing.

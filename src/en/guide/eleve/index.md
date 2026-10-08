@@ -26,6 +26,20 @@ by period. Click **Download** next to a period to get your report card
 as a PDF. A report card only appears here once the school has published
 it.
 
+## Your university results
+
+If you are enrolled in higher education, your space replaces grades and
+report cards with **My results**. After each jury deliberation (first
+session, then retake), you find there:
+
+- the jury's decision: admitted, to the retake, admitted with debts,
+  repeats;
+- your year's average and credits;
+- each unit with its average, credits and status: validated, compensated
+  or not validated.
+
+You are told by email when your results are published.
+
 ## Lesson log
 
 The **Lesson log** section lists the lessons given, with date, subject,

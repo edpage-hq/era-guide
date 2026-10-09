@@ -34,7 +34,8 @@ The **Documents** page brings two things together:
   **To check** (submitted or being checked). Change the filter to see
   validated, rejected or all documents; pick a type to see only that one.
   The **Search the documents** field finds a document by its title, file
-  name or notes.
+  name, notes or the text read on its pages (see
+  [Digitisation](/en/guide/gestion-documentaire/numerisation)).
   Each row shows the type and the person concerned: click their name to
   open their file.
 
@@ -83,6 +84,9 @@ files.
 
 1. In the file, click **File** next to the type concerned.
 2. Choose the **File**: a PDF or an image (JPG, PNG, WebP), 10 MB at most.
+   For a paper you have at hand, choose **Photos of the pages** instead and
+   photograph it with a phone: see
+   [Digitisation](/en/guide/gestion-documentaire/numerisation).
 3. If needed, fill in a **Title** (for example "Birth certificate
    no. 1234"), the **Date of the document** (the one it carries) and
    **Notes**.

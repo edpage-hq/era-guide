@@ -86,6 +86,11 @@ From a child's record, you can download:
 - **Disciplinary council minutes** — in the "Disciplinary councils"
   section, click **Download minutes** next to a council that has already
   reached a decision.
+- **Documents from their file** — in the "Documents" section, click
+  **Download** next to a document. It lists those the school has
+  validated and chosen to share with families (certificates, diplomas,
+  transcripts…). This section stays visible once the child is no longer
+  enrolled.
 - **Lesson-log attachments** — when a lesson-log entry has an attached
   document, an **Attachment** link appears next to that row; click it to
   open or download the file.

@@ -53,10 +53,14 @@ rename them.
    without limit.
 6. Tick **Confidential document** so that every consultation is recorded in
    the activity log.
-7. Under **Access**, tick for each profile whether it **consults and
+7. For a type filed in a student's file, tick **Visible to the family and
+   the student** so its validated documents appear in their portal. At the
+   start, this is the case for transcripts, certificates, diplomas,
+   internship agreements, invoices and receipts.
+8. Under **Access**, tick for each profile whether it **consults and
    files** this type, and whether it **validates** it. Whoever validates a
    type necessarily consults it too: the first box ticks itself.
-8. Click **Save**.
+9. Click **Save**.
 
 ::: tip Reserving a type for administrators
 To reserve a type for the school's leadership, tick no profile: only

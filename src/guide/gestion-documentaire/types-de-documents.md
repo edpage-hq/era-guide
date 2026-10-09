@@ -54,10 +54,14 @@ utilisateur tant que vous ne les renommez pas.
    conserver sans limite.
 6. Cochez **Document confidentiel** pour que chaque consultation soit
    inscrite au journal d'activité.
-7. Dans **Accès**, cochez pour chaque profil s'il **consulte et dépose** ce
+7. Pour un type rangé dans le dossier d'un élève, cochez **Visible par la
+   famille et l'élève** pour que ses documents validés apparaissent dans
+   leur portail. Au départ, c'est le cas des relevés de notes,
+   attestations, diplômes, conventions de stage, factures et reçus.
+8. Dans **Accès**, cochez pour chaque profil s'il **consulte et dépose** ce
    type, et s'il le **valide**. Qui valide un type le consulte forcément
    aussi : la première case se coche d'elle-même.
-8. Cliquez sur **Enregistrer**.
+9. Cliquez sur **Enregistrer**.
 
 ::: tip Réserver un type aux administrateurs
 Pour réserver un type à la direction, ne cochez aucun

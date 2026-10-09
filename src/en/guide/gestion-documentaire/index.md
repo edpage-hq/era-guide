@@ -82,6 +82,11 @@ files.
 
 ## File a document
 
+The **File** button next to a type files the document under that type.
+The **Add a document** button, at the top of the file, lets you choose
+the type in the window, or create one: see
+[A type that does not exist yet](#a-type-that-does-not-exist-yet).
+
 1. In the file, click **File** next to the type concerned.
 2. Choose the **File**: a PDF or an image (JPG, PNG, WebP), 10 MB at most.
    For a paper you have at hand, choose **Photos of the pages** instead and
@@ -95,6 +100,29 @@ files.
    This is the usual case at the desk, with the original in front of you.
    Untick it to leave it to be checked.
 5. Click **File**.
+
+### A type that does not exist yet {#a-type-that-does-not-exist-yet}
+
+No catalogue can foresee every paper a school keeps. To file one of a new
+kind:
+
+1. Click **Add a document** at the top of the file.
+2. Under **Document type**, choose **Another type…**.
+3. Type the **Name of the new type** (for example "Vaccination card"), and
+   tick **Confidential document** if needed.
+4. Attach the file and fill in the window as for any filing.
+
+The new type joins the catalogue, in the file you are in. It is open to
+your profile and to the document manager, who consult and validate its
+documents. The document manager can adjust it later in the
+[Document types](/en/guide/gestion-documentaire/types-de-documents).
+
+If the name typed is that of a type that already exists (accents and
+capitals aside), the document is filed under that type, without creating
+a duplicate. If that type is closed to you, ERA refuses the filing.
+
+A new type is created from a file you already consult: a profile that
+files nothing in employees' files cannot create one for them.
 
 ## Check a document
 

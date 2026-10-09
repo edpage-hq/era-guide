@@ -38,17 +38,17 @@ refuse l'enregistrement et nomme le champ en cause.
 
 ### Les champs
 
-| Champ                             | Rempli avec                                                  | Dossiers |
-| --------------------------------- | ------------------------------------------------------------ | -------- |
-| Nom de l'établissement            | le nom de l'application                                      | tous     |
-| Adresse de l'établissement        | l'adresse de **Paramètres** → **Personnalisation des reçus** | tous     |
-| Date du jour                      | la date où le document est produit                           | tous     |
-| Année scolaire                    | l'année scolaire en cours                                    | tous     |
-| Nom complet, Nom, Prénoms         | la fiche de l'élève                                          | élève    |
-| Date et lieu de naissance         | la fiche de l'élève                                          | élève    |
-| Matricule                         | le numéro matricule de l'élève                               | élève    |
-| Classe, Site                      | son inscription de l'année en cours                          | élève    |
-| Nom, Poste, Date d'embauche, Site | la fiche de l'employé                                        | employé  |
+| Champ                             | Rempli avec                                                                   | Dossiers |
+| --------------------------------- | ----------------------------------------------------------------------------- | -------- |
+| Nom de l'établissement            | le nom de l'application                                                       | tous     |
+| Adresse de l'établissement        | l'adresse de **Paramètres de l'application** → **Personnalisation des reçus** | tous     |
+| Date du jour                      | la date où le document est produit                                            | tous     |
+| Année scolaire                    | l'année scolaire en cours                                                     | tous     |
+| Nom complet, Nom, Prénoms         | la fiche de l'élève                                                           | élève    |
+| Date et lieu de naissance         | la fiche de l'élève                                                           | élève    |
+| Matricule                         | le numéro matricule de l'élève                                                | élève    |
+| Classe, Site                      | son inscription de l'année en cours                                           | élève    |
+| Nom, Poste, Date d'embauche, Site | la fiche de l'employé                                                         | employé  |
 
 Une information absente de la fiche laisse un blanc dans le document :
 complétez la fiche avant de le produire.

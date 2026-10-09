@@ -37,17 +37,17 @@ the field at fault.
 
 ### The fields
 
-| Field                             | Filled in with                                     | Files    |
-| --------------------------------- | -------------------------------------------------- | -------- |
-| School name                       | the application's name                             | all      |
-| School address                    | the address in **Settings** → **Receipt branding** | all      |
-| Today's date                      | the date the document is produced                  | all      |
-| School year                       | the current school year                            | all      |
-| Full name, Last name, First names | the student's record                               | student  |
-| Date and place of birth           | the student's record                               | student  |
-| Registration number               | the student's registration number                  | student  |
-| Class, Site                       | their enrolment for the current year               | student  |
-| Name, Position, Hire date, Site   | the employee's record                              | employee |
+| Field                             | Filled in with                                         | Files    |
+| --------------------------------- | ------------------------------------------------------ | -------- |
+| School name                       | the application's name                                 | all      |
+| School address                    | the address in **App settings** → **Receipt branding** | all      |
+| Today's date                      | the date the document is produced                      | all      |
+| School year                       | the current school year                                | all      |
+| Full name, Last name, First names | the student's record                                   | student  |
+| Date and place of birth           | the student's record                                   | student  |
+| Registration number               | the student's registration number                      | student  |
+| Class, Site                       | their enrolment for the current year                   | student  |
+| Name, Position, Hire date, Site   | the employee's record                                  | employee |
 
 Information missing from the record leaves a blank in the document:
 complete the record before producing it.

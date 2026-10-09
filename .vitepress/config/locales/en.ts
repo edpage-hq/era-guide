@@ -136,6 +136,7 @@ function sidebarGuide(): SidebarItemType[] {
       items: [
         { text: 'Document types', link: 'gestion-documentaire/types-de-documents' },
         { text: 'Digitisation', link: 'gestion-documentaire/numerisation' },
+        { text: 'Templates', link: 'gestion-documentaire/modeles' },
         { text: 'Retention', link: 'gestion-documentaire/conservation' },
       ],
     },

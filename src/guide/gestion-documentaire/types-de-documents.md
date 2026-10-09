@@ -51,7 +51,8 @@ utilisateur tant que vous ne les renommez pas.
    famille ou un employé, **Produit par l'établissement** pour un document
    qu'il délivre.
 5. Indiquez la **Durée de conservation** en années, ou laissez vide pour le
-   conserver sans limite.
+   conserver sans limite. Voir [Conservation](/guide/gestion-documentaire/conservation)
+   pour ce qui se passe une fois cette durée écoulée.
 6. Cochez **Document confidentiel** pour que chaque consultation soit
    inscrite au journal d'activité.
 7. Pour un type rangé dans le dossier d'un élève, cochez **Visible par la

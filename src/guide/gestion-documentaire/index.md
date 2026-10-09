@@ -161,6 +161,9 @@ document qu'il consulte. Celui qui a déposé un document peut le retirer
 tant que personne ne l'a pris en vérification. La suppression efface le
 fichier définitivement et est inscrite au journal d'activité.
 
+Un document archivé ne se supprime plus ainsi : il passe par une
+destruction approuvée, voir [Conservation](/guide/gestion-documentaire/conservation).
+
 ## Documents confidentiels
 
 Un type marqué **Confidentiel** (le dossier médical, le contrat de travail

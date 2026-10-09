@@ -156,6 +156,9 @@ consult. Whoever filed a document may withdraw it as long as nobody has
 taken it in hand. Deleting removes the file for good and is recorded in the
 activity log.
 
+An archived document can no longer be deleted this way: it goes through
+an approved destruction, see [Retention](/en/guide/gestion-documentaire/conservation).
+
 ## Confidential documents
 
 A type marked **Confidential** (the medical record and the employment

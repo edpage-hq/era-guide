@@ -50,7 +50,8 @@ rename them.
 4. Choose the **Origin**: **Imported** for a document handed in by a family
    or an employee, **Produced by the school** for a document it issues.
 5. Enter the **Retention period** in years, or leave it empty to keep it
-   without limit.
+   without limit. See [Retention](/en/guide/gestion-documentaire/conservation)
+   for what happens once that period is over.
 6. Tick **Confidential document** so that every consultation is recorded in
    the activity log.
 7. For a type filed in a student's file, tick **Visible to the family and

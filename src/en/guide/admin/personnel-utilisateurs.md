@@ -23,8 +23,19 @@ To create a user:
 2. Fill in the **Name**, **Email address**, **Password**, and its
    confirmation.
 3. Choose the **Role**: User, Admin, Teacher, Secretariat, Cashier,
-   School life, Boarding manager, Nurse, or Document manager.
-4. Click **Create the user**.
+   School life, Boarding manager, Nurse, or Document manager — and, if the
+   school has the Pilotage module, **Site director** or **General
+   director**.
+4. For a **Site director**, tick the **Sites run** (at least one).
+5. Click **Create the user**.
+
+::: tip The direction profiles
+They go to the people who run the school without doing its data entry:
+campus heads, the head of school. They see the requests to approve for
+their sites, not the operational screens. An account has a single role: if
+the head of school also administers the application, keep them Admin,
+which can already approve everything. See [Direction](/en/guide/direction/).
+:::
 
 From the list, each account offers:
 
@@ -100,9 +111,8 @@ corresponding grade entry.
 
 ## Handle a staff transfer between sites
 
-A staff transfer moves an employee from one site to another, subject to
-approval by another administrator (never the one who submitted the
-request).
+A staff transfer moves an employee from one site to another, once the
+request is approved.
 
 **Requesting a transfer** (from the employee's record, "Site transfer"
 section):
@@ -111,7 +121,10 @@ section):
 2. Choose the **Destination site** and give a **Reason**.
 3. Click **Submit request**.
 
-Every other administrator in the school is then notified.
+The other administrators, the general direction and the direction of
+both sites are then notified. Any of them may decide; the first decision
+closes the request. Nothing prevents the administrator who submitted the
+request from approving it themselves.
 
 **Reviewing a request** — the **Staff → Staff transfers** section
 lists requests, with a filter by status (Pending, Approved, Rejected).

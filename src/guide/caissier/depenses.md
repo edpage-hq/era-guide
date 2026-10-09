@@ -6,7 +6,7 @@ layout: doc
 
 La page **Dépenses** vous permet de soumettre une demande de dépense pour
 l'établissement — par exemple un achat de matériel — et de suivre son
-état jusqu'à la décision d'un administrateur.
+état jusqu'à la décision d'un administrateur ou de la direction.
 
 ## Enregistrer une dépense
 
@@ -18,14 +18,16 @@ l'établissement — par exemple un achat de matériel — et de suivre son
    PDF ou en image, 10 Mo au plus. Il est facultatif.
 6. Cliquez sur **Soumettre la demande**.
 
-L'administrateur qui examine la demande ouvre le justificatif depuis la
+La personne qui examine la demande ouvre le justificatif depuis la
 dépense, avec **Ouvrir le justificatif**. Si l'établissement a activé la
 gestion documentaire, il apparaît aussi dans les
 [documents de l'établissement](/guide/gestion-documentaire/).
 
-Dès la soumission, les administrateurs de l'établissement sont notifiés
-automatiquement qu'une dépense attend leur décision — vous n'avez rien
-d'autre à faire.
+Dès la soumission, ceux qui peuvent en décider sont notifiés
+automatiquement — vous n'avez rien d'autre à faire : les administrateurs,
+la direction générale et, si le montant ne dépasse pas le seuil fixé par
+l'établissement, la direction du site concerné (voir
+[Direction](/guide/direction/)).
 
 ::: info
 Soumettre une dépense enregistre uniquement une demande de validation :
@@ -38,15 +40,15 @@ facturation en particulier.
 La liste de la page **Dépenses** affiche, pour chaque demande, le site,
 la description, le montant, qui l'a demandée et son statut :
 
-| Statut     | Signification                                                |
-| ---------- | ------------------------------------------------------------ |
-| En attente | La demande n'a pas encore été examinée par un administrateur |
-| Approuvé   | La dépense a été approuvée                                   |
-| Refusé     | La dépense a été refusée, avec un motif consigné             |
+| Statut     | Signification                                    |
+| ---------- | ------------------------------------------------ |
+| En attente | La demande n'a pas encore été examinée           |
+| Approuvé   | La dépense a été approuvée                       |
+| Refusé     | La dépense a été refusée, avec un motif consigné |
 
 Vous pouvez filtrer cette liste par statut pour retrouver rapidement une
 dépense en attente ou déjà décidée. La décision elle-même (approuver ou
-refuser) est réservée aux comptes administrateur — vous ne verrez donc
+refuser) est réservée à l'administration et à la direction — vous ne verrez donc
 pas de bouton d'action sur vos propres demandes ni sur celles de vos
 collègues.
 

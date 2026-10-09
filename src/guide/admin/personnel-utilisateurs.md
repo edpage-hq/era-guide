@@ -24,8 +24,19 @@ Pour créer un utilisateur :
    confirmation.
 3. Choisissez le **Rôle** : Utilisateur, Administrateur, Enseignant,
    Secrétariat, Caisse, Vie scolaire, Gestionnaire internat, Infirmerie ou
-   Gestionnaire documentaire.
-4. Cliquez sur **Créer l'utilisateur**.
+   Gestionnaire documentaire — et, si l'établissement a le module
+   Pilotage, **Direction de site** ou **Direction générale**.
+4. Pour une **Direction de site**, cochez le ou les **Sites dirigés**
+   (au moins un).
+5. Cliquez sur **Créer l'utilisateur**.
+
+::: tip Les profils de direction
+Ils vont à ceux qui dirigent sans saisir : directeur de campus, chef
+d'établissement. Ils voient les demandes à valider de leurs sites, pas les
+écrans opérationnels. Un compte n'a qu'un rôle : si le chef
+d'établissement administre aussi l'application, laissez-le
+Administrateur, qui peut déjà tout valider. Voir [Direction](/guide/direction/).
+:::
 
 Depuis la liste, chaque compte propose :
 
@@ -102,9 +113,8 @@ saisie des notes correspondante.
 
 ## Traiter une mutation de personnel entre sites
 
-Une mutation de personnel déplace un employé d'un site vers un autre, sous
-réserve de validation par un autre administrateur (jamais celui qui a
-soumis la demande).
+Une mutation de personnel déplace un employé d'un site vers un autre, une
+fois la demande approuvée.
 
 **Demander une mutation** (depuis la fiche de l'employé, section
 « Mutation de site ») :
@@ -113,7 +123,10 @@ soumis la demande).
 2. Choisissez le **Site de destination** et indiquez un **Motif**.
 3. Cliquez sur **Soumettre la demande**.
 
-Tous les autres administrateurs de l'établissement sont alors notifiés.
+Sont alors notifiés les autres administrateurs, la direction générale et
+la direction de chacun des deux sites. Chacun d'eux peut décider ; la
+première décision clôt la demande. Rien n'empêche l'administrateur qui a
+soumis la demande de l'approuver lui-même.
 
 **Examiner une demande** — section **Personnel → Mutations de personnel**
 liste les demandes, avec un filtre par statut (En attente, Approuvé,

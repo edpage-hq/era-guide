@@ -89,6 +89,11 @@ Depuis la fiche de l'enfant, vous pouvez télécharger :
 - **Les procès-verbaux de conseil de discipline** — dans la section
   « Conseils de discipline », cliquez sur **Télécharger le procès-verbal**
   en face d'un conseil déjà décidé.
+- **Les documents de son dossier** — dans la section « Documents »,
+  cliquez sur **Télécharger** en face d'un document. On y trouve ceux que
+  l'établissement a validés et choisi de partager avec les familles
+  (attestations, diplômes, relevés de notes…). Cette section reste
+  visible quand l'enfant n'est plus inscrit.
 - **Les pièces jointes du cahier de texte** — quand un cours du cahier de
   texte a un document joint, un lien **Document** apparaît en face de la
   ligne correspondante ; cliquez pour l'ouvrir ou le télécharger.

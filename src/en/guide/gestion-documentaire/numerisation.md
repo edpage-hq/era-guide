@@ -84,7 +84,8 @@ The campaign shows the first scan to classify, with the text read on it
 under **Text read on the page**. The numbers above it let you pick
 another.
 
-1. Choose the **Document type**.
+1. Choose the **Document type**, or **Another type…** to create one:
+   name it and choose the file it goes in.
 2. If the type goes in a student's or an employee's file, ERA suggests
    the people whose name is on the page, and ticks the first. Check it,
    or search for someone else by name with the magnifying glass.

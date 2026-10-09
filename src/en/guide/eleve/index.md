@@ -26,6 +26,13 @@ by period. Click **Download** next to a period to get your report card
 as a PDF. A report card only appears here once the school has published
 it.
 
+## Your documents
+
+The **Documents** section lists the documents in your file that the
+school has validated and shares with you: certificates, diplomas,
+transcripts… Click **Download** to get a copy. It stays available once
+your schooling is over.
+
 ## Your university results
 
 If you are enrolled in higher education, your space replaces grades and

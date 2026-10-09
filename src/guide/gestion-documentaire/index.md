@@ -86,6 +86,11 @@ n'apparaissent plus dans les dossiers.
 
 ## Déposer un document
 
+Le bouton **Déposer** à côté d'un type range le document sous ce type. Le
+bouton **Ajouter un document**, en haut du dossier, laisse choisir le type
+dans la fenêtre, ou en créer un : voir
+[Un type qui n'existe pas encore](#un-type-qui-n-existe-pas-encore).
+
 1. Dans le dossier, cliquez sur **Déposer** à côté du type concerné.
 2. Choisissez le **Fichier** : un PDF ou une image (JPG, PNG, WebP), de
    10 Mo au plus. Pour un papier que vous avez sous la main, choisissez
@@ -98,6 +103,30 @@ n'apparaissent plus dans les dossiers.
    cas habituel au guichet, quand vous avez l'original sous les yeux.
    Décochez-la pour le laisser à vérifier.
 5. Cliquez sur **Déposer**.
+
+### Un type qui n'existe pas encore {#un-type-qui-n-existe-pas-encore}
+
+Le catalogue ne peut pas prévoir tous les papiers qu'un établissement
+garde. Pour en ranger un d'un genre nouveau :
+
+1. Cliquez sur **Ajouter un document** en haut du dossier.
+2. Dans **Type de document**, choisissez **Autre type…**.
+3. Tapez le **Nom du nouveau type** (par exemple « Carnet de
+   vaccination »), et cochez **Document confidentiel** si besoin.
+4. Joignez le fichier et complétez la fenêtre comme pour tout dépôt.
+
+Le nouveau type rejoint le catalogue, dans le dossier où vous êtes. Il est
+ouvert à votre profil et au gestionnaire documentaire, qui consultent et
+valident ses documents. Le gestionnaire peut ensuite l'ajuster dans les
+[Types de documents](/guide/gestion-documentaire/types-de-documents).
+
+Si le nom tapé est celui d'un type qui existe déjà (accents et majuscules
+mis à part), le document est rangé sous ce type, sans créer de doublon. Si
+ce type vous est fermé, ERA refuse le dépôt.
+
+Un nouveau type se crée depuis un dossier que vous consultez déjà : un
+profil qui ne range aucun document dans les dossiers des employés ne peut
+pas en créer pour eux.
 
 ## Vérifier un document
 

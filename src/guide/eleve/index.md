@@ -27,6 +27,13 @@ période. Cliquez sur **Télécharger** en face d'une période pour obtenir
 votre bulletin au format PDF. Un bulletin n'apparaît ici qu'une fois
 publié par l'établissement.
 
+## Vos documents
+
+La section **Documents** liste les documents de votre dossier que
+l'établissement a validés et partage avec vous : attestations, diplômes,
+relevés de notes… Cliquez sur **Télécharger** pour en obtenir une copie.
+Elle reste accessible une fois votre scolarité terminée.
+
 ## Vos résultats à l'université
 
 Si vous êtes inscrit dans l'enseignement supérieur, votre espace remplace

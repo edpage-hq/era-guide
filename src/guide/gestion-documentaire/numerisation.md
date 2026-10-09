@@ -88,7 +88,8 @@ La campagne affiche la première numérisation à classer, avec le texte lu
 dessus sous **Texte lu sur la page**. Les numéros au-dessus permettent
 d'en choisir une autre.
 
-1. Choisissez le **Type de document**.
+1. Choisissez le **Type de document**, ou **Autre type…** pour en créer
+   un : nommez-le et choisissez le dossier où il se range.
 2. Si le type se range dans le dossier d'un élève ou d'un employé, ERA
    propose les personnes dont le nom figure sur la page, et coche la
    première. Vérifiez-la, ou cherchez une autre personne par son nom avec

@@ -164,7 +164,10 @@ function sidebarGuide(): SidebarItemType[] {
       text: 'Gestion documentaire',
       link: 'gestion-documentaire/',
       collapsed: true,
-      items: [{ text: 'Types de documents', link: 'gestion-documentaire/types-de-documents' }],
+      items: [
+        { text: 'Types de documents', link: 'gestion-documentaire/types-de-documents' },
+        { text: 'Numérisation', link: 'gestion-documentaire/numerisation' },
+      ],
     },
     {
       text: 'Parent',

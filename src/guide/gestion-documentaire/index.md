@@ -37,8 +37,9 @@ La page **Documents** réunit deux choses :
   ceux **À vérifier** (déposés ou en vérification). Changez le filtre pour
   voir les documents validés, rejetés, ou tous ; choisissez un type pour ne
   voir que celui-là. Le champ **Rechercher dans les documents** retrouve un
-  document par son intitulé, le nom de son fichier ou ses notes. Chaque ligne indique le type et la personne
-  concernée : cliquez sur son nom pour ouvrir son dossier.
+  document par son intitulé, le nom de son fichier, ses notes ou le texte
+  lu sur ses pages (voir [Numérisation](/guide/gestion-documentaire/numerisation)).
+  Chaque ligne indique le type et la personne concernée : cliquez sur son nom pour ouvrir son dossier.
 
 Le bouton **Documents de l'établissement** ouvre le dossier de
 l'établissement, quand vous consultez au moins un type qui s'y range.
@@ -87,7 +88,9 @@ n'apparaissent plus dans les dossiers.
 
 1. Dans le dossier, cliquez sur **Déposer** à côté du type concerné.
 2. Choisissez le **Fichier** : un PDF ou une image (JPG, PNG, WebP), de
-   10 Mo au plus.
+   10 Mo au plus. Pour un papier que vous avez sous la main, choisissez
+   plutôt **Photos des pages** et photographiez-le au téléphone : voir
+   [Numérisation](/guide/gestion-documentaire/numerisation).
 3. Renseignez si besoin un **Intitulé** (par exemple « Acte de naissance
    n° 1234 »), la **Date du document** (celle qu'il porte) et des **Notes**.
 4. Si vous pouvez valider ce type, la case **Je l'ai vérifié : le valider

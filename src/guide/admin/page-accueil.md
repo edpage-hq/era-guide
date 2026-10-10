@@ -58,7 +58,8 @@ plutôt qu'une partie vide.
   Il se change dans les paramètres (bouton **Modifier le logo**), voir
   [Paramètres de l'application](/guide/admin/parametres-application).
 - **Accroche** et **Sous-titre** : les deux lignes affichées sous le logo.
-  Laissez un champ vide pour garder le texte par défaut dans cette langue.
+  Laissez l'accroche vide pour afficher le nom de l'établissement, et le
+  sous-titre vide pour n'en afficher aucun.
 - **Boutons** : ils ne se configurent pas.
   - **Inscrire mon enfant** ouvre le formulaire d'inscription en ligne.
     Les demandes envoyées arrivent au secrétariat, voir
@@ -68,6 +69,58 @@ plutôt qu'une partie vide.
 
 Cliquez sur **Enregistrer les modifications** pour appliquer l'accroche et
 le sous-titre.
+
+## Apparence
+
+Le bloc **Apparence**, en tête de l'éditeur, règle l'allure de toute la
+page. Deux établissements peuvent ainsi avoir des pages très différentes.
+Rien n'oblige à y toucher : sans réglage, la page garde son aspect
+d'origine.
+
+### Mise en page du haut de la page
+
+| Mise en page      | Ce que voient les visiteurs                                                        |
+| ----------------- | ---------------------------------------------------------------------------------- |
+| **Carte centrée** | Le titre et les boutons dans une carte, au centre ; la photo en fond.              |
+| **Plein écran**   | Votre photo sur toute la largeur, le texte en blanc par-dessus, en bas à gauche.   |
+| **Côte à côte**   | Le texte à gauche, la photo à droite ; la photo passe sous le texte sur téléphone. |
+| **Éditorial**     | Un grand titre, un filet, puis la photo en bandeau sur toute la largeur.           |
+
+### Image du haut de la page
+
+Téléversez une photo de l'établissement : PNG, JPG ou WebP, 4 Mo maximum.
+L'aide sous le champ indique le format qui convient à la mise en page
+choisie.
+
+- **Voile sur l'image** assombrit la photo pour que le texte reste
+  lisible. Il s'applique aux mises en page **Carte centrée** et
+  **Plein écran**.
+- **Cadrage de l'image** choisit la partie gardée quand la photo est
+  recadrée : le centre, le haut ou le bas.
+
+Sans photo, **Plein écran** et **Côte à côte** utilisent un dégradé aux
+couleurs de l'établissement.
+
+### Autres réglages
+
+- **Fond de la page** : un halo coloré, un fond uni ou une légère teinte
+  de la couleur principale.
+- **Afficher l'icône du logo** au-dessus du titre. Le logo complet reste
+  dans le bandeau du haut.
+
+### Ambiance
+
+L'ambiance s'applique à toute la page :
+
+- **Polices** : sept associations, de « Standard » à « Institutionnel ».
+  Chaque vignette montre un aperçu de la police ;
+- **Angles** des cartes et des images : arrondis, légers ou droits ;
+- **Boutons** : en pilule, arrondis ou droits ;
+- **Fond des sections** : la section Départements sur une bande grise,
+  sur le fond de la page, sur une teinte ou sur la couleur principale.
+
+Cliquez sur **Enregistrer les modifications**, puis **Voir la page** pour
+contrôler le résultat.
 
 ## Présentation
 

@@ -52,10 +52,10 @@ transfer executes automatically: the student is moved to the new site,
 department, and class, with no further action on your part.
 
 ::: tip
-A simplified version of this page, with no menu or navigation, can open
-directly from a link received through a notification (for example on
-your phone): it lets you approve the origin, the destination, or reject
-the request without navigating the rest of the app.
+The notification of a new request (for example on your phone) opens the
+[To approve](/en/guide/direction/a-approuver) page: it lets you approve your
+site's departure or arrival, or reject the request, without navigating the
+rest of the app.
 :::
 
 ::: info Capacity overrides

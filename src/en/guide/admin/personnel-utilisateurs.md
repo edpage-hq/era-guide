@@ -134,6 +134,6 @@ destination sites, the reason, then:
 - **Approve** — applies the transfer.
 - **Reject** — opens a dialog asking for a mandatory rejection reason.
 
-A request can also be handled directly from a link received via a
-notification, which opens a simplified review screen with the same
+A request can also be handled from the notification received, which opens
+the [To approve](/en/guide/direction/a-approuver) page with the same
 **Approve** / **Reject** actions.

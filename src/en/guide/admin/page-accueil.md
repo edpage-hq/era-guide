@@ -7,14 +7,16 @@ layout: doc
 The homepage is what families and visitors see when they reach your
 school's address, before signing in. It is configured from **Administration → Homepage**.
 
-It can contain four parts:
+It is made of a header, built-in sections and the sections you add:
 
-| Part                           | Content                                                     | When it is shown                              |
-| ------------------------------ | ----------------------------------------------------------- | --------------------------------------------- |
-| **Header**                     | Logo, tagline, subtitle and buttons                         | Always                                        |
-| **About**                      | A title, some text and an image                             | Once it has content, if **Show** is ticked    |
-| **Departments**                | Cards (title, description, image) presenting what you offer | Once it has a card, if **Show** is ticked     |
-| **Frequently asked questions** | Questions and their answers, which open on click            | Once it has a question, if **Show** is ticked |
+| Part                           | Content                                                            | When it is shown                                     |
+| ------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------- |
+| **Header**                     | Logo, tagline, subtitle and buttons                                | Always                                               |
+| **About**                      | A title, some text and an image                                    | Once it has content, if **Show** is ticked           |
+| **Departments**                | Cards (title, description, image) presenting what you offer        | Once it has a card, if **Show** is ticked            |
+| **Frequently asked questions** | Questions and their answers, which open on click                   | Once it has a question, if **Show** is ticked        |
+| **Added sections**             | Key figures, gallery, testimonials, news, partners, contact, video | Once it has content, if **Show** is ticked           |
+| **Call to enrol**              | A band at the bottom of the page, with the enrol button            | Once another section is shown, if **Show** is ticked |
 
 The **View page** button, top right, opens the homepage in a new tab so
 you can check the result.
@@ -169,6 +171,55 @@ arrangements, enrolment steps…
 On the homepage, only the questions are visible; the answer opens when
 the visitor clicks on it. The arrows, **Edit**, **Delete** and the
 **Section title** work as they do for departments.
+
+## Default texts
+
+Several short texts have a default value you can replace with your own.
+The default shows in grey in the empty field; leave the field empty to
+keep it.
+
+- **Small heading**: the capitalised line above each section's title,
+  for instance "Our school" or "Your questions".
+- **Enrol button label**, in the **Header**: "Enrol my child" by default.
+  It applies to every enrol button on the page.
+- **Call to enrol**: the band that ends the page, "Would you like to join
+  us?" by default. You can change its title and text, or hide it by
+  unticking **Show this section on the page**.
+
+## Page sections
+
+The **Page sections** block lists every section in the order it shows,
+the original ones and the ones you add. The arrows move them up or down.
+
+### Adding a section
+
+1. Click **Add a section**.
+2. Pick its type. The section is added at the bottom of the list, empty,
+   with its own block in the editor.
+3. Fill it in: it shows on the page as soon as it has content.
+
+| Section                    | What you put in it                                                      | Maximum   |
+| -------------------------- | ----------------------------------------------------------------------- | --------- |
+| **Key figures**            | A value ("640", "98%") and what it measures                             | 8 figures |
+| **Photo gallery**          | Photos, with an optional caption                                        | 24 photos |
+| **Testimonials**           | The testimonial, its author's name, who they are, and an optional photo | 12        |
+| **News**                   | A title, a date, some text and an image; the most recent show first     | 12        |
+| **Partners**               | The logo, the name, and the website the logo links to                   | 24        |
+| **Contact and directions** | Address, phone, email, opening hours, and a map drawn from the address  | —         |
+| **Video**                  | The address of a YouTube or Vimeo video, and a caption                  | —         |
+
+A page can hold up to 12 added sections. Several sections of the same type
+are possible, for instance two galleries.
+
+Like the others, each added section has a **Small heading**, a **Section
+title** and the **Show this section on the page** box. **Delete the
+section** removes it with all its content, pictures included.
+
+::: info Video and map
+The video plays from YouTube or Vimeo, and the map comes from Google Maps.
+Copy the video's address as it shows in your browser; any other address
+is refused.
+:::
 
 ::: tip
 Saving is immediate: as soon as you click **Save**, the public homepage is

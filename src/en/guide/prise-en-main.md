@@ -170,8 +170,8 @@ everything related to your personal account, regardless of your role:
   sessions.
 - **Appearance** — choose between light, dark or automatic theme.
 - **Language** — choose the app's language (French or English). This
-  choice immediately changes every label, including this guide's, if you
-  open it from within the app.
+  choice immediately changes every label, with no need to sign in again,
+  including this guide's if you open it from within the app.
 - **Notifications** — enable push notifications on this device.
 
 ### Two-factor authentication (2FA)
@@ -197,8 +197,8 @@ The device you're using right now is marked **Current device**. You can:
 
 **Settings → Notifications** lets you enable push notifications on the
 device you're using. Once enabled, you're notified as soon as something
-needs your attention (for example a site-transfer request awaiting your
-approval). The **Enable**/**Disable** button toggles this; if it says push
+needs your attention (for example a student's site move or an expense
+waiting for your decision). The **Enable**/**Disable** button toggles this; if it says push
 notifications aren't supported, your browser or device doesn't allow them.
 
 ## The notification bell
@@ -208,28 +208,23 @@ notifications (for example an application to process, or a request to
 approve). Click a notification to open it and mark it as read, or use
 **Mark all as read** to clear the list at once.
 
-## Approving a request straight from a notification
+## Deciding from a notification
 
-Some notifications don't just inform you: they open a **quick review**
-screen, deliberately stripped down, where you decide without navigating
-into the rest of the app. It's built to be used from a phone.
+Requests waiting for a decision — a student moving site, a staff member
+moving site, an expense — reach the people who can decide them as a
+notification. Tapping it opens the
+[To approve](/en/guide/direction/a-approuver) page, with the request
+highlighted: **Approve** decides in one tap, **Reject** asks for a reason,
+passed on to whoever filed the request.
 
-Three requests work this way:
+| Request                          | Who receives it                                                                     |
+| -------------------------------- | ----------------------------------------------------------------------------------- |
+| A student moving to another site | Each site's direction; for a site without one, the front desk; the administration   |
+| A staff member moving site       | The direction of both sites, the general direction, the administration              |
+| An expense                       | The site's direction up to the threshold, the general direction, the administration |
 
-| Request                          | Who decides                  |
-| -------------------------------- | ---------------------------- |
-| Moving a student to another site | Administration or front desk |
-| Moving a staff member            | Administration               |
-| An expense awaiting approval     | Administration               |
-
-The screen shows the request's details and two actions: **Approve**, which
-decides immediately, or **Reject**, which first asks for a reason — a
-reason then visible to whoever filed the request.
-
-You can still handle these the usual way, from the matching queue in the
-menu. Quick review is a shortcut, not a separate track: a request already
-handled from a notification shows as handled in the queue, and the other
-way round.
+It's the same request as in the menu's queues: one decided from **To
+approve** shows as handled in its queue, and the other way round.
 
 ## Why some menus don't appear
 
@@ -246,12 +241,6 @@ Two possible causes, worth telling apart before reporting a fault:
   a message saying the function isn't included.
 
 Your administrator can confirm which of the two applies.
-
-## Switching language
-
-The language switcher (**Settings → Language**, or the language icon in
-the header depending on your role) switches the whole interface between
-French and English immediately — no need to sign in again.
 
 ## Terms of use and personal data
 

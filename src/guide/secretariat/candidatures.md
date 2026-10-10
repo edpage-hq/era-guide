@@ -11,7 +11,8 @@ une famille venue sur site (canal **Caisse**). C'est depuis cette page
 que vous décidez d'accepter ou de refuser chaque dossier.
 
 Les familles accèdent au formulaire public par le bouton **Inscrire mon
-enfant** de la page d'accueil de l'établissement.
+enfant** de la page d'accueil de l'établissement (l'établissement peut lui
+donner un autre libellé, voir [Page d'accueil](/guide/admin/page-accueil)).
 
 ::: tip
 Consulter la file d'attente est toujours disponible. L'affectation à une

@@ -26,12 +26,15 @@ To look at these figures by level or by class, month by month, open the [Pilotag
 
 ## What the figures cover
 
-Every indicator is read for the **current academic year** — the one marked
-as current in [School structure](/en/guide/admin/structure-etablissement).
+The indicators are read for the **year chosen in the app's header** (see
+[Finding your way around](/en/guide/prise-en-main#finding-your-way-around)).
+It starts on the year marked as current in
+[School structure](/en/guide/admin/structure-etablissement); pick a past
+year in the header to see its figures. The **To do** and **Overdue
+installments** blocks always stay on today.
 
-If no year is marked as current, the dashboard says so instead of showing
-figures, with a **Set the current year** button leading to the right screen: nothing can be computed until the reference year is set. That's
-the first thing to check if the page looks empty at the start of a term.
+If no year exists yet, the indicators don't appear: that's the first thing
+to check if the page looks empty at the start of a term.
 
 ## The indicators
 

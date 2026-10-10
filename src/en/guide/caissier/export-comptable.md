@@ -6,8 +6,12 @@ layout: doc
 
 From the **Billing** page, three buttons let you download the school's
 financial data in a form your accountant can use, or for your own
-records. Each button downloads the file immediately, with no setup
-required.
+records. Each button downloads the file immediately.
+
+Below the buttons, the **From** and **To** fields limit the **CSV** and
+**SYSCOHADA** exports to a period — a month for the accountant, for
+instance. Left blank, they export everything. The per-class export follows
+the year chosen in the list's filter.
 
 | Button               | File contents                                                                                                                                      | Typical use                                                            |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -31,7 +35,7 @@ accounts, a label, and an amount, in a format an accounting firm
 working with the SYSCOHADA chart of accounts can use directly.
 
 ::: info
-Only expenses already approved by an administrator appear in this
+Only expenses already approved appear in this
 export; an expense still pending does not show up here.
 :::
 

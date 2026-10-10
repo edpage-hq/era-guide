@@ -19,6 +19,10 @@ warrants it, convening and then deciding a disciplinary council.
    was already applied at the time, note it in **Sanction**.
 5. Click **Save**.
 
+As soon as it's saved, the student's parents get an email and a
+notification with the incident's date and severity. Editing it later
+doesn't notify them again.
+
 The list of incidents can be filtered by student name, class and
 severity. From this list, **Edit** reopens the incident and **Delete**
 permanently removes it after confirmation — this cannot be undone.
@@ -39,7 +43,8 @@ started on its own.
 4. Build the **Council members** list: for each one, choose the person
    from staff and their role (**President**, **Secretary** or **Member**);
    use **Add member** to include several.
-5. Click **Save** — the council is created with the status **Scheduled**.
+5. Click **Save** — the council is created with the status **Scheduled**,
+   and the student's parents are told of the summons and the session date.
 
 On a scheduled council's page, you can still:
 
@@ -51,8 +56,8 @@ On a scheduled council's page, you can still:
   **Decision details** if needed, then confirm.
 
 Once the decision is recorded, the council moves to the status
-**Decided**: the decision and its date are shown, and a **Download
-minutes** button generates the corresponding document. A decided or
+**Decided**: the decision and its date are shown, the parents are told,
+and a **Download minutes** button generates the corresponding document. A decided or
 cancelled council can no longer be edited.
 
 The list of councils can be filtered by student name, class and status

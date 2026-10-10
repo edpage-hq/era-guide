@@ -33,6 +33,6 @@ so and offers nothing else.
 ## View your schedule
 
 **Teaching → My schedule** shows your class sessions for the week: day,
-start time, end time, class and subject. The **Export (iCal)** button
+start time, end time, class and subject. The **Export to calendar** button
 downloads your schedule as a file you can import into your personal
 calendar app (Google Calendar, Outlook, Apple Calendar…).

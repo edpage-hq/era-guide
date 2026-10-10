@@ -28,8 +28,9 @@ année scolaire**. Pour faire passer un élève sur un autre site, utilisez un
 3. Dans **Nouvelle classe**, choisissez la classe d'arrivée. La liste ne
    propose que les classes du même site et de la même année, avec leur
    effectif et leur capacité.
-4. Indiquez un **Motif** si vous le souhaitez, par exemple « réorientation
-   en série D ». Il reste visible dans l'historique.
+4. Indiquez un **Motif**, par exemple « réorientation en série D ». Il est
+   facultatif, sauf si la classe est pleine, et reste visible dans
+   l'historique.
 5. Cliquez sur **Changer de classe**.
 
 L'inscription de l'élève est déplacée, pas recréée : ses paiements, son
@@ -46,7 +47,11 @@ Selon la situation, un encadré apparaît sous la classe choisie :
 - **La classe appartient à un autre département** : vérifiez les options
   de l'élève et sa grille de frais, qui peuvent être différentes.
 - **La classe a atteint sa capacité** : le bouton reste inactif tant que
-  vous n'avez pas coché **Placer l'élève dans cette classe malgré tout**.
+  vous n'avez pas coché **Placer l'élève dans cette classe malgré tout** et
+  écrit le **Motif**, obligatoire dans ce cas. Comme pour une admission ou
+  une mobilité, le dépassement est enregistré, la direction du site en est
+  informée, et il apparaît dans le
+  [Pilotage](/guide/direction/pilotage#classes-en-sureffectif).
 
 ## Quand le changement est refusé
 

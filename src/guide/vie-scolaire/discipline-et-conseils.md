@@ -20,6 +20,10 @@ conseil de discipline.
    sanction a déjà été appliquée sur le moment, notez-la dans **Sanction**.
 5. Cliquez sur **Enregistrer**.
 
+Dès l'enregistrement, les parents de l'élève reçoivent un e-mail et une
+notification avec la date et la gravité de l'incident. Une modification
+ultérieure ne les prévient pas à nouveau.
+
 La liste des incidents se filtre par nom d'élève, par classe et par
 gravité. Depuis cette liste, **Modifier** rouvre l'incident et
 **Supprimer** l'efface définitivement après confirmation — action
@@ -43,7 +47,8 @@ ou de façon autonome.
    ou **Membre**) ; utilisez **Ajouter un membre** pour en inclure
    plusieurs.
 5. Cliquez sur **Enregistrer** — le conseil est créé avec le statut
-   **Convoqué**.
+   **Convoqué**, et les parents de l'élève sont prévenus de la convocation
+   et de la date de la séance.
 
 Sur la page d'un conseil convoqué, vous pouvez encore :
 
@@ -55,8 +60,8 @@ Sur la page d'un conseil convoqué, vous pouvez encore :
   ajoutez si besoin des **Détails de la décision**, puis validez.
 
 Une fois la décision enregistrée, le conseil passe au statut **Décidé** :
-la décision et sa date s'affichent, et un bouton **Télécharger le
-procès-verbal** génère le document correspondant. Un conseil décidé ou
+la décision et sa date s'affichent, les parents en sont prévenus, et un
+bouton **Télécharger le procès-verbal** génère le document correspondant. Un conseil décidé ou
 annulé ne peut plus être modifié.
 
 La liste des conseils se filtre par nom d'élève, par classe et par statut

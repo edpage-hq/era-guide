@@ -22,8 +22,12 @@ To publish:
 
 This generates (or regenerates) every student's report card in the class
 for that period, based on the grades and appreciations already entered.
-Republishing after a grade correction updates the already-published
-report card — students and parents always see the latest version.
+
+On the **first** publication, each student's parents get an email and a
+notification: the report card is how they learn the period's results, not
+grade by grade. Republishing after a correction updates the
+already-published report card — students and parents always download the
+latest version — without notifying them a second time.
 
 If no academic period is configured for this class's year, a message
 tells you so — go create one first in

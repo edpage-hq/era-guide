@@ -20,6 +20,12 @@ d'un site à un autre, et les changements de classe au sein d'un même site. L'e
   faire passer un élève dans une autre classe du même site, par exemple
   après un changement d'orientation.
 
+Pour les sites qui n'ont pas de direction, c'est vous qui validez leur part
+des mobilités d'élèves. La page **[À approuver](/guide/direction/a-approuver)**,
+dans l'espace **Accueil**, les rassemble sur une seule page pensée pour le
+téléphone ; chaque nouvelle demande vous y amène aussi depuis sa
+notification.
+
 Dans un établissement d'enseignement supérieur, l'espace **Supérieur**
 ajoute **[Relevés et attestations](/guide/secretariat/releves-attestations)** :
 les relevés de notes et les attestations de réussite publiés, à imprimer.

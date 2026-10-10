@@ -134,13 +134,13 @@ To create a department:
 2. Fill in the fields below.
 3. Click **Save**.
 
-| Field        | Detail                                                                                                                          |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| Name         | —                                                                                                                               |
-| Type         | Nursery, Preschool, Elementary, Middle school, High school, IB, or University                                                   |
-| Curriculum   | French or Togolese — determines the grading rules applied to this department                                                    |
-| Pass mark    | annual average from which ERA proposes moving up (10 by default), see [Year-end decisions](/en/guide/admin/decisions-fin-annee) |
-| Available at | check one or more sites where this department is active                                                                         |
+| Field        | Detail                                                                                                                                                                                                                                                      |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Name         | —                                                                                                                                                                                                                                                           |
+| Type         | Nursery, Preschool, Elementary, Middle school, High school, IB, or University                                                                                                                                                                               |
+| Curriculum   | French or Togolese — the programme the department follows; it shows in each student's curriculum history. Averages are computed the same way for both: the coefficients and scales of [subjects by department](#subjects-by-department) make the difference |
+| Pass mark    | annual average from which ERA proposes moving up (10 by default), see [Year-end decisions](/en/guide/admin/decisions-fin-annee)                                                                                                                             |
+| Available at | check one or more sites where this department is active                                                                                                                                                                                                     |
 
 ## Levels
 

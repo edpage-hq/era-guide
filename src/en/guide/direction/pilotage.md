@@ -74,7 +74,8 @@ says so.
 
 The last section lists the students placed in a class that was already
 full, within the chosen scope: the class and its site, the headcount
-reached (`31/30`), whether it was an admission or a transfer, the
+reached (`31/30`), whether it was an admission, a transfer or a class
+change, the
 **reason** given, the student, who forced the assignment and the date. See
 [Direction → Classes over capacity](/en/guide/direction/#classes-over-capacity).
 

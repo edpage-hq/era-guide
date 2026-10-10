@@ -18,9 +18,9 @@ comprend l'enseignement supérieur.
 Les filières vivent dans un **département de type « Université »**, avec ses
 niveaux. Créez-les d'abord dans le paramétrage scolaire :
 
-1. **Paramétrage → Départements** : un département de type _Université_, par
+1. **Paramétrage scolaire → Départements** : un département de type _Université_, par
    exemple « Faculté des sciences ».
-2. **Paramétrage → Niveaux** : ses niveaux, dans l'ordre (L1, L2, L3, M1,
+2. **Paramétrage scolaire → Niveaux** : ses niveaux, dans l'ordre (L1, L2, L3, M1,
    M2).
 
 ## Créer une filière

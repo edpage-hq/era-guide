@@ -137,6 +137,6 @@ sites d'origine et de destination, le motif, puis :
 - **Refuser** — ouvre une boîte de dialogue demandant un motif de refus
   obligatoire.
 
-Une demande peut aussi être traitée directement depuis un lien reçu par
-notification, qui ouvre un écran d'examen simplifié avec les mêmes actions
-**Approuver** / **Refuser**.
+Une demande peut aussi être traitée depuis la notification reçue, qui
+ouvre la page [À approuver](/guide/direction/a-approuver) avec les mêmes
+actions **Approuver** / **Refuser**.

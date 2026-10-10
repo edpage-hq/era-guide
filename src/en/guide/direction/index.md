@@ -19,15 +19,17 @@ assigns them, from
 ::: info What the direction does not see
 A director has no access to the operational screens: cash desk, grades,
 application files, settings. They see the requests waiting for their
-decision, and the [Pilotage](/en/guide/direction/pilotage) page with their
-sites' indicators.
+decision, gathered in [To approve](/en/guide/direction/a-approuver), and the
+[Pilotage](/en/guide/direction/pilotage) page with their sites' indicators.
 :::
 
 ## Your space
 
 When you sign in, the **Dashboard** lists what is waiting for your
 decision, with the number of pending requests. The **Direction** space of
-the menu gathers the **Pilotage** page and the three queues:
+the menu opens on [To approve](/en/guide/direction/a-approuver), one page
+with everything you may decide, followed by the **Pilotage** page and the
+three full queues:
 
 - **Inter-site transfers** — students moving between two sites;
 - **Staff transfers** — an employee changing site;
@@ -93,5 +95,6 @@ approve: it is information, so these overrides no longer go unnoticed.
 ## Getting requests on your phone
 
 In **Settings → Notifications**, turn on notifications on your phone. Each
-new request then arrives as a notification; tapping it opens a simplified
-screen, with no menu, and the buttons to decide.
+new request then arrives as a notification; tapping it opens the
+[To approve](/en/guide/direction/a-approuver) page, with that request
+brought forward.

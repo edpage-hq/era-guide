@@ -56,10 +56,10 @@ nouveau site, département et classe, sans action supplémentaire de votre
 part.
 
 ::: tip
-Une version simplifiée de cette page, sans menu ni navigation, peut
-s'ouvrir directement depuis un lien reçu par notification (par exemple
-sur votre téléphone) : elle permet d'approuver l'origine, la destination,
-ou de refuser la demande, sans avoir à naviguer dans le reste de l'appli.
+La notification d'une nouvelle demande (par exemple sur votre téléphone)
+ouvre la page [À approuver](/guide/direction/a-approuver) : elle permet de
+valider le départ ou l'arrivée de votre site, ou de refuser la demande, sans
+naviguer dans le reste de l'appli.
 :::
 
 ::: info Dépassements de capacité

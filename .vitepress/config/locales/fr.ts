@@ -97,7 +97,10 @@ function sidebarGuide(): SidebarItemType[] {
       text: 'Direction',
       link: 'direction/',
       collapsed: true,
-      items: [{ text: 'Pilotage', link: 'direction/pilotage' }],
+      items: [
+        { text: 'À approuver', link: 'direction/a-approuver' },
+        { text: 'Pilotage', link: 'direction/pilotage' },
+      ],
     },
     {
       text: 'Administrateur',

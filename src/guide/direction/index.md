@@ -19,15 +19,17 @@ les attribue, depuis
 ::: info Ce que la direction ne voit pas
 Une direction n'a pas accès aux écrans opérationnels : caisse, notes,
 dossiers de candidature, réglages. Elle voit les demandes qui attendent sa
-décision, et la page [Pilotage](/guide/direction/pilotage) avec les
-indicateurs de ses sites.
+décision, regroupées dans [À approuver](/guide/direction/a-approuver), et la
+page [Pilotage](/guide/direction/pilotage) avec les indicateurs de ses sites.
 :::
 
 ## Votre espace
 
 À la connexion, le **Tableau de bord** liste ce qui attend votre décision,
 avec le nombre de demandes en attente. L'espace **Direction** du menu
-regroupe la page **Pilotage** et les trois files :
+s'ouvre sur [À approuver](/guide/direction/a-approuver), qui rassemble sur une
+seule page tout ce que vous pouvez décider, puis la page **Pilotage** et les
+trois files complètes :
 
 - **Mobilité inter-site** — les transferts d'élèves entre deux sites ;
 - **Mutations de personnel** — les changements de site d'un employé ;
@@ -94,4 +96,5 @@ inaperçus.
 
 Dans **Paramètres → Notifications**, activez les notifications sur votre
 téléphone. Chaque nouvelle demande arrive alors en notification ; un appui
-ouvre un écran simplifié, sans menu, avec les boutons pour décider.
+ouvre la page [À approuver](/guide/direction/a-approuver), avec la demande
+mise en avant.

@@ -8,14 +8,17 @@ La page d'accueil est ce que voient les familles et les visiteurs en
 arrivant sur l'adresse de votre établissement, avant de se connecter. Elle
 se configure depuis **Administration → Page d'accueil**.
 
-Elle peut contenir quatre parties :
+Elle se compose d'un en-tête, de sections intégrées et des sections que
+vous ajoutez :
 
-| Partie                  | Contenu                                                       | Quand elle est affichée                                      |
-| ----------------------- | ------------------------------------------------------------- | ------------------------------------------------------------ |
-| **En-tête**             | Logo, accroche, sous-titre et boutons                         | Toujours                                                     |
-| **Présentation**        | Un titre, un texte et une image                               | Dès qu'elle a du contenu, si **Afficher** est coché          |
-| **Départements**        | Des cartes (titre, description, image) présentant votre offre | Dès qu'elle contient une carte, si **Afficher** est coché    |
-| **Foire aux questions** | Des questions et leurs réponses, qui s'ouvrent au clic        | Dès qu'elle contient une question, si **Afficher** est coché |
+| Partie                    | Contenu                                                                      | Quand elle est affichée                                          |
+| ------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **En-tête**               | Logo, accroche, sous-titre et boutons                                        | Toujours                                                         |
+| **Présentation**          | Un titre, un texte et une image                                              | Dès qu'elle a du contenu, si **Afficher** est coché              |
+| **Départements**          | Des cartes (titre, description, image) présentant votre offre                | Dès qu'elle contient une carte, si **Afficher** est coché        |
+| **Foire aux questions**   | Des questions et leurs réponses, qui s'ouvrent au clic                       | Dès qu'elle contient une question, si **Afficher** est coché     |
+| **Sections ajoutées**     | Chiffres clés, galerie, témoignages, actualités, partenaires, contact, vidéo | Dès qu'elle a du contenu, si **Afficher** est coché              |
+| **Appel à l'inscription** | Un bandeau en bas de page, avec le bouton d'inscription                      | Dès qu'une autre section est affichée, si **Afficher** est coché |
 
 Le bouton **Voir la page**, en haut à droite, ouvre la page d'accueil dans
 un nouvel onglet pour contrôler le résultat.
@@ -179,6 +182,58 @@ Sur la page d'accueil, seules les questions sont visibles ; la réponse
 s'ouvre quand le visiteur clique dessus. Les flèches, **Modifier**,
 **Supprimer** et le **Titre de la section** fonctionnent comme pour les
 départements.
+
+## Les textes par défaut
+
+Plusieurs petits textes ont une valeur par défaut, que vous pouvez
+remplacer par la vôtre. Le texte par défaut apparaît en gris dans le
+champ vide ; laissez le champ vide pour le garder.
+
+- **Petit titre** : la ligne en capitales au-dessus du titre de chaque
+  section, par exemple « Notre établissement » ou « Vos questions ».
+- **Libellé du bouton d'inscription**, dans l'**En-tête** :
+  « Inscrire mon enfant » par défaut. Il s'applique à tous les boutons
+  d'inscription de la page.
+- **Appel à l'inscription** : le bandeau qui termine la page,
+  « Envie de nous rejoindre ? » par défaut. Vous pouvez changer son titre
+  et son texte, ou le masquer en décochant **Afficher cette section sur
+  la page**.
+
+## Sections de la page
+
+Le bloc **Sections de la page** liste toutes les sections dans leur ordre
+d'affichage, celles d'origine comme celles que vous ajoutez. Les flèches
+les montent ou les descendent.
+
+### Ajouter une section
+
+1. Cliquez sur **Ajouter une section**.
+2. Choisissez son type. La section s'ajoute en bas de la liste, vide, avec
+   son propre bloc dans l'éditeur.
+3. Remplissez-la : elle apparaît sur la page dès qu'elle a du contenu.
+
+| Section              | Ce que vous y mettez                                                                 | Maximum    |
+| -------------------- | ------------------------------------------------------------------------------------ | ---------- |
+| **Chiffres clés**    | Une valeur (« 640 », « 98 % ») et ce qu'elle mesure                                  | 8 chiffres |
+| **Galerie photos**   | Des photos, avec une légende facultative                                             | 24 photos  |
+| **Témoignages**      | Le témoignage, le nom de son auteur, qui il est, et une photo facultative            | 12         |
+| **Actualités**       | Un titre, une date, un texte et une image ; les plus récentes s'affichent en premier | 12         |
+| **Partenaires**      | Le logo, le nom, et le site web vers lequel mène le logo                             | 24         |
+| **Contact et accès** | Adresse, téléphone, e-mail, horaires, et un plan construit à partir de l'adresse     | —          |
+| **Vidéo**            | L'adresse d'une vidéo YouTube ou Vimeo, et une légende                               | —          |
+
+Une page peut contenir jusqu'à 12 sections ajoutées. Plusieurs sections du
+même type sont possibles, par exemple deux galeries.
+
+Chaque section ajoutée a, comme les autres, un **Petit titre**, un
+**Titre de la section** et la case **Afficher cette section sur la page**.
+**Supprimer la section** l'efface avec tout son contenu, images comprises.
+
+::: info Vidéo et plan
+La vidéo est lue depuis YouTube ou Vimeo, et le plan depuis Google Maps.
+Copiez l'adresse de la vidéo telle qu'elle apparaît dans votre
+navigateur ; une autre adresse est refusée.
+:::
 
 ::: tip
 Les enregistrements sont immédiats : dès que vous cliquez sur

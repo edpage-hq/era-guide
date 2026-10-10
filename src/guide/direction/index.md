@@ -19,14 +19,15 @@ les attribue, depuis
 ::: info Ce que la direction ne voit pas
 Une direction n'a pas accès aux écrans opérationnels : caisse, notes,
 dossiers de candidature, réglages. Elle voit les demandes qui attendent sa
-décision, et, avec le lot Pilotage à venir, les indicateurs de ses sites.
+décision, et la page [Pilotage](/guide/direction/pilotage) avec les
+indicateurs de ses sites.
 :::
 
 ## Votre espace
 
 À la connexion, le **Tableau de bord** liste ce qui attend votre décision,
 avec le nombre de demandes en attente. L'espace **Direction** du menu
-regroupe les trois files :
+regroupe la page **Pilotage** et les trois files :
 
 - **Mobilité inter-site** — les transferts d'élèves entre deux sites ;
 - **Mutations de personnel** — les changements de site d'un employé ;

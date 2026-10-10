@@ -20,6 +20,10 @@ Le pilotage est un pôle à part entière. S'il n'a pas été licencié pour
 votre établissement, vous arrivez bien sur le tableau de bord, mais sans
 les indicateurs décrits ci-dessous.
 
+::: tip Aller plus loin
+Pour regarder ces chiffres par niveau ou par classe, mois par mois, ouvrez la page [Pilotage](/guide/direction/pilotage) (lien **Ouvrir le pilotage** au-dessus des indicateurs).
+:::
+
 ## Sur quoi portent les chiffres
 
 Tous les indicateurs se lisent pour l'**année scolaire courante** — celle

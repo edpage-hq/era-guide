@@ -20,6 +20,10 @@ That overview is a module in its own right. If it hasn't been licensed for
 your school, you still land on the dashboard — just without the indicators
 described below.
 
+::: tip Going further
+To look at these figures by level or by class, month by month, open the [Pilotage](/en/guide/direction/pilotage) page (the **Open the pilotage page** link above the indicators).
+:::
+
 ## What the figures cover
 
 Every indicator is read for the **current academic year** — the one marked

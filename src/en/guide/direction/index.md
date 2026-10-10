@@ -19,14 +19,15 @@ assigns them, from
 ::: info What the direction does not see
 A director has no access to the operational screens: cash desk, grades,
 application files, settings. They see the requests waiting for their
-decision and, with the upcoming Pilotage lot, their sites' indicators.
+decision, and the [Pilotage](/en/guide/direction/pilotage) page with their
+sites' indicators.
 :::
 
 ## Your space
 
 When you sign in, the **Dashboard** lists what is waiting for your
 decision, with the number of pending requests. The **Direction** space of
-the menu gathers the three queues:
+the menu gathers the **Pilotage** page and the three queues:
 
 - **Inter-site transfers** — students moving between two sites;
 - **Staff transfers** — an employee changing site;

@@ -62,7 +62,12 @@ function sidebarGuide(): SidebarItemType[] {
   return [
     { text: 'Getting started', link: 'prise-en-main' },
     { text: 'Leave requests', link: 'conges' },
-    { text: 'Direction', link: 'direction/' },
+    {
+      text: 'Direction',
+      link: 'direction/',
+      collapsed: true,
+      items: [{ text: 'Pilotage', link: 'direction/pilotage' }],
+    },
     {
       text: 'Administrator',
       link: 'admin/',

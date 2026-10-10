@@ -86,7 +86,8 @@ L'administrateur fixe ce seuil dans
 
 ## Classes en sureffectif
 
-Quand une classe de votre site reçoit un élève alors qu'elle est pleine,
+Quand une classe de votre site reçoit un élève alors qu'elle est pleine —
+à l'admission, par une mobilité ou par un changement de classe —
 vous recevez une notification _Classe en sureffectif_ : qui a forcé
 l'affectation, l'effectif atteint et le **motif** saisi. Il n'y a rien à
 valider : c'est une information, pour que ces dépassements ne passent plus

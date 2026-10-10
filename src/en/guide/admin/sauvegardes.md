@@ -8,7 +8,7 @@ A backup is a copy of everything your school has recorded in ERA:
 students, families, grades, payments, attendance, infirmary visits. It is
 what lets you go back if something goes wrong.
 
-The page is at **Admin → Backups**, and only administrators see it.
+The page is at **Administration → Backups**, and only administrators see it.
 
 ::: info Not there for you?
 This page only exists when your school is the sole occupant of its

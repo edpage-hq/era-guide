@@ -21,9 +21,13 @@ Pour publier :
 2. Cliquez sur **Publier / republier les bulletins**.
 
 Cela génère (ou régénère) le bulletin de chaque élève de la classe pour
-cette période, à partir des notes et appréciations déjà saisies. Republier
-après une correction de note met à jour le bulletin déjà publié — les
-élèves et parents voient toujours la dernière version.
+cette période, à partir des notes et appréciations déjà saisies.
+
+À la **première** publication, les parents de chaque élève reçoivent un
+e-mail et une notification : c'est par le bulletin qu'ils apprennent les
+résultats de la période, pas note par note. Republier après une correction
+met à jour le bulletin déjà publié — les élèves et parents téléchargent
+toujours la dernière version — sans les prévenir une seconde fois.
 
 Si aucune période scolaire n'est configurée pour l'année de cette classe,
 un message vous l'indique — allez d'abord créer une période dans

@@ -29,6 +29,15 @@ currently subscribed to the cafeteria. For each one, tap **Ate** or
 **Absent**, then click **Save** to record the whole day's attendance at
 once. If no student is subscribed, the page says so.
 
+::: info Who is subscribed?
+A student is subscribed when a fee item of the **Cafeteria** category is
+ticked on their billing record for the current year: the cash desk ticks
+it at enrolment, as the family chose (see
+[Enrolment and payments](/en/guide/caissier/inscriptions-et-paiements#setting-the-fees-due)).
+A student missing from the list doesn't have that option this year: check
+with the cash desk.
+:::
+
 ::: tip A roll call built for phones
 Each student has a **Ate** / **Absent** switch; everyone starts as
 **Ate**, and the **Everyone ate** button resets the whole list to that

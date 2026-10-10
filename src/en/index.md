@@ -17,11 +17,11 @@ hero:
 features:
   - icon: 🧑‍🤝‍🧑
     title: One guide per actor
-    details: Administrator, teacher, front desk, cash desk, school life, boarding, infirmary, parent, student — each has its own section, built around their own tasks.
+    details: Administrator, direction, teacher, front desk, cash desk, school life, boarding, infirmary, document management, parent, student — each has its own section, built around their own tasks.
   - icon: 🌍
     title: Bilingual
     details: French (root) and English (/en/) content, with translated search in each language.
-  - icon: 📚
-    title: Complements era.docs
-    details: era.docs explains the code to developers; this site explains the app to the people who use it every day.
+  - icon: 🧭
+    title: Opened from the app
+    details: The ? button on every screen and your account menu lead straight to the page that concerns you.
 ---

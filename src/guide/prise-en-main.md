@@ -182,8 +182,8 @@ soit votre rôle :
   consulter vos sessions actives.
 - **Apparence** — choisir entre thème clair, sombre ou automatique.
 - **Langue** — choisir la langue de l'application (français ou anglais).
-  Ce choix change immédiatement tous les libellés, y compris ceux de ce
-  guide si vous y accédez depuis l'app.
+  Ce choix change immédiatement tous les libellés, sans reconnexion, y
+  compris ceux de ce guide si vous y accédez depuis l'app.
 - **Notifications** — activer les notifications push sur cet appareil.
 
 ### Authentification à deux facteurs (2FA)
@@ -212,7 +212,7 @@ dernière activité. L'appareil que vous utilisez en ce moment est marqué
 **Paramètres → Notifications** vous permet d'activer les notifications
 push sur l'appareil que vous utilisez. Une fois activées, vous êtes
 notifié dès qu'une action nécessite votre attention (par exemple une
-demande de transfert inter-site à valider). Le bouton **Activer**/
+mobilité d'élève ou une dépense à décider). Le bouton **Activer**/
 **Désactiver** bascule cet état ; s'il indique que les notifications ne
 sont pas prises en charge, c'est que votre navigateur ou votre appareil ne
 le permet pas.
@@ -225,29 +225,23 @@ demande à valider). Cliquez sur une notification pour l'ouvrir et la
 marquer comme lue, ou utilisez **Tout marquer comme lu** pour vider la
 liste d'un coup.
 
-## Valider une demande directement depuis une notification
+## Décider depuis une notification
 
-Certaines notifications ne servent pas seulement à prévenir : elles
-ouvrent un écran de **validation rapide**, volontairement réduit à
-l'essentiel, où vous décidez sans naviguer dans le reste de l'app. C'est
-prévu pour être utilisé depuis un téléphone.
+Les demandes qui attendent une décision — mobilité d'un élève, mutation
+d'un membre du personnel, dépense — arrivent en notification à ceux qui
+peuvent en décider. Un appui ouvre la page
+[À approuver](/guide/direction/a-approuver), avec la demande mise en avant :
+**Approuver** tranche en un geste, **Refuser** demande un motif, transmis à
+la personne qui avait déposé la demande.
 
-Trois demandes fonctionnent ainsi :
+| Demande                                | Qui la reçoit                                                                                         |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Mobilité d'un élève vers un autre site | La direction de chaque site concerné ; pour un site sans direction, le secrétariat ; l'administration |
+| Mutation d'un membre du personnel      | La direction des deux sites, la direction générale, l'administration                                  |
+| Dépense                                | La direction du site jusqu'au seuil, la direction générale, l'administration                          |
 
-| Demande                                 | Qui la valide                 |
-| --------------------------------------- | ----------------------------- |
-| Transfert d'un élève vers un autre site | Administration ou secrétariat |
-| Transfert d'un membre du personnel      | Administration                |
-| Dépense à approuver                     | Administration                |
-
-L'écran affiche le détail de la demande et deux actions : **Approuver**,
-qui statue immédiatement, ou **Rejeter**, qui demande d'abord un motif —
-motif ensuite visible par la personne qui avait déposé la demande.
-
-Vous pouvez toujours traiter ces demandes de la façon classique, depuis la
-file correspondante dans le menu. La validation rapide est un raccourci,
-pas un circuit séparé : une demande déjà traitée depuis une notification
-apparaît comme traitée dans la file, et inversement.
+C'est la même demande que dans les files du menu : une demande décidée
+depuis **À approuver** apparaît comme traitée dans sa file, et inversement.
 
 ## Pourquoi certains menus n'apparaissent pas
 
@@ -266,12 +260,6 @@ Deux causes possibles, à distinguer avant de signaler un incident :
   incluse.
 
 Votre administrateur peut confirmer lequel des deux cas s'applique.
-
-## Changer de langue
-
-Le sélecteur de langue (menu **Paramètres → Langue**, ou l'icône de langue
-dans l'en-tête selon votre rôle) bascule immédiatement toute l'interface
-entre français et anglais — aucune reconnexion nécessaire.
 
 ## Conditions d'utilisation et données personnelles
 

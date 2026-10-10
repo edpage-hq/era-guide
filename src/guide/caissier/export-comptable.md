@@ -7,7 +7,12 @@ layout: doc
 Depuis la page **Facturation**, trois boutons vous permettent de
 télécharger les données financières de l'établissement sous une forme
 exploitable par votre comptable ou pour vos propres archives. Chaque
-bouton télécharge le fichier immédiatement, sans réglage préalable.
+bouton télécharge le fichier immédiatement.
+
+Sous les boutons, les champs **Du** et **Au** limitent les exports **CSV**
+et **SYSCOHADA** à une période — un mois pour le comptable, par exemple.
+Laissés vides, ils exportent tout. L'export par classe, lui, suit l'année
+choisie dans le filtre de la liste.
 
 | Bouton                  | Contenu du fichier                                                                                                                                                                 | Usage typique                                                                                                 |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -33,7 +38,7 @@ utilisable par un cabinet comptable travaillant avec le plan comptable
 SYSCOHADA.
 
 ::: info
-Seules les dépenses déjà approuvées par un administrateur apparaissent
+Seules les dépenses déjà approuvées apparaissent
 dans cet export ; une dépense encore en attente n'y figure pas.
 :::
 

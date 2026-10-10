@@ -11,8 +11,8 @@ dans ERA. Si vous découvrez l'app, commencez par [Bien démarrer](/guide/prise-
 | Rôle                                                 | Ce qu'il permet de faire                                                                                     |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | [Administrateur](/guide/admin/)                      | Configurer l'établissement, gérer le personnel, les élèves, les frais, les emplois du temps et les bulletins |
-| [Direction](/guide/direction/)                       | Valider les mobilités, mutations et dépenses de ses sites, être prévenu des classes en sureffectif           |
-| [Secrétariat](/guide/secretariat/)                   | Traiter les candidatures et les demandes de transfert de site                                                |
+| [Direction](/guide/direction/)                       | Décider des mobilités, mutations et dépenses de ses sites, suivre les chiffres de ses sites dans le pilotage |
+| [Secrétariat](/guide/secretariat/)                   | Traiter les candidatures, les transferts de site et les changements de classe                                |
 | [Caisse](/guide/caissier/)                           | Inscrire un élève, encaisser les paiements, gérer les dépenses et l'export comptable                         |
 | [Enseignant](/guide/enseignant/)                     | Saisir les notes, rédiger les appréciations, tenir le cahier de textes et le registre de classe              |
 | [Vie scolaire](/guide/vie-scolaire/)                 | Suivre les présences, la discipline, la cantine, le transport et les activités extrascolaires                |

@@ -20,6 +20,11 @@ another, and class changes within a site. The **Students & admissions** space gi
   moving a student to another class on the same site, for instance after
   a change of orientation.
 
+For sites without a direction, you approve their share of students' site
+moves. The **[To approve](/en/guide/direction/a-approuver)** page, in the
+**Home** space, gathers them on a single page built for the phone; each new
+request also takes you there from its notification.
+
 In a higher education institution, the **Higher education** space adds
 **[Transcripts and certificates](/en/guide/secretariat/releves-attestations)**:
 published transcripts and certificates of completion, to print.

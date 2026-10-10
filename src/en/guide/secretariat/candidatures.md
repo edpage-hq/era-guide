@@ -11,7 +11,8 @@ visiting in person (channel **Cashier**). This is the page where you
 decide to accept or reject each application.
 
 Families reach the public form through the **Enrol my child** button on
-the school's homepage.
+the school's homepage (the school may give it another label, see
+[Homepage](/en/guide/admin/page-accueil)).
 
 ::: tip
 Viewing the queue is always available. Assigning a class (approving an

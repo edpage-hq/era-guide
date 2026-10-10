@@ -61,7 +61,7 @@ transport) are offered as checkboxes — check the ones that apply to
 this student, then click **Save changes**.
 
 For a student enrolled the previous year, a box recalls that year's
-options (**Options in 2026-2027: Cafeteria, …**). The **Use these options
+options (for instance **Options in 2025-2026: Cafeteria, …**). The **Use these options
 again** button ticks the same items on this year's fee structure; an option
 missing from the new structure is flagged. Nothing is billed until you
 click **Save changes**: check with the family first.
@@ -135,5 +135,7 @@ record to add one:
 5. Click **Grant discount**.
    :::
 
-A granted discount immediately reduces the **Total due** shown on the
-page.
+A granted discount does not change the **Total due**, which stays the sum
+of the fees: it shows under **Discount** and immediately lowers the
+**Balance**. For instance, with 300,000 in fees, a 50,000 discount and
+100,000 already paid, the balance is 150,000.

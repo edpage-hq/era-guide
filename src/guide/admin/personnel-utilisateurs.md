@@ -41,7 +41,9 @@ Administrateur, qui peut déjà tout valider. Voir [Direction](/guide/direction/
 Depuis la liste, chaque compte propose :
 
 - **Modifier** — changer le nom, l'e-mail, le rôle, ou définir un nouveau
-  mot de passe (laissez le champ vide pour conserver l'actuel).
+  mot de passe (laissez le champ vide pour conserver l'actuel). Changer le
+  rôle d'un membre du personnel qui est aussi parent d'élève lui laisse son
+  accès parent : seul le rôle professionnel est remplacé.
 - **Activer** / **Désactiver** — désactiver un compte le déconnecte
   immédiatement partout et bloque toute nouvelle connexion, sans supprimer
   le compte ; le réactiver restaure l'accès.
@@ -63,10 +65,10 @@ Pour créer une fiche employé :
 
 Section « Personne » :
 
-| Champ               | Détail                                          |
-| ------------------- | ----------------------------------------------- |
-| Compte du personnel | choisi parmi les comptes utilisateurs existants |
-| Poste               | intitulé libre                                  |
+| Champ               | Détail                                                                                   |
+| ------------------- | ---------------------------------------------------------------------------------------- |
+| Compte du personnel | choisi parmi les comptes du personnel, direction comprise, qui n'ont pas encore de fiche |
+| Poste               | intitulé libre                                                                           |
 
 Section « Affectation » :
 

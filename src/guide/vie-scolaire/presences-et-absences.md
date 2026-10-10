@@ -29,6 +29,11 @@ espace parent.
    de la classe est enregistré en une fois. Si vous quittez la page avant,
    ERA vous demande de confirmer.
 
+Les parents d'un élève noté **Absent** sans que **Justifié** soit coché
+reçoivent un e-mail et une notification dès l'enregistrement. Ils ne sont
+prévenus qu'une fois par absence : corriger l'appel ensuite ne les
+relance pas. Un retard ne les prévient pas.
+
 ## Traiter les justificatifs d'absence
 
 Les familles soumettent leurs justificatifs d'absence ou de retard depuis

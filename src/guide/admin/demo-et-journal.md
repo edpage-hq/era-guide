@@ -10,10 +10,10 @@ consulter l'historique des actions effectuées dans l'application.
 
 ## Activer la démo complète
 
-**Cette fonction n'apparaît que si votre établissement est un tenant Era
-Admission encore en version gratuite** — c'est-à-dire un établissement qui
-utilise ERA uniquement pour gérer sa file de candidatures d'admission, sans
-avoir encore souscrit de licence pour le reste de l'application. Si votre
+**Cette fonction n'apparaît que si votre établissement s'est inscrit en
+ligne sur Era Admission et utilise encore la version gratuite** —
+c'est-à-dire ERA pour la seule file de candidatures d'admission, sans
+licence pour le reste de l'application. Si votre
 établissement a déjà une licence active (ou est déjà en période de démo),
 vous ne verrez pas ce bouton.
 

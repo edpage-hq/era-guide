@@ -35,8 +35,10 @@ espaces à part, en bas de la colonne :
   enseignants, types d'évaluation, compétences, grilles de frais, circuits
   de transport, activités et séances périscolaires.
 - **Administration** : utilisateurs, journal d'activité,
-  [Page d'accueil](/guide/admin/page-accueil) et
-  [Paramètres de l'application](/guide/admin/parametres-application).
+  [Page d'accueil](/guide/admin/page-accueil),
+  [Paramètres de l'application](/guide/admin/parametres-application) et,
+  sur une installation propre à l'établissement,
+  [Sauvegardes](/guide/admin/sauvegardes).
 
 L'espace **Paramétrage scolaire** compte beaucoup de pages : faites défiler ses
 onglets horizontalement pour les voir toutes.
@@ -55,7 +57,8 @@ onglets horizontalement pour les voir toutes.
 | [Emplois du temps](/guide/admin/emplois-du-temps)                        | Construire l'emploi du temps hebdomadaire de chaque classe                                                                                                                                                                |
 | [Bulletins](/guide/admin/bulletins)                                      | Publier et télécharger les bulletins d'une classe pour une période donnée                                                                                                                                                 |
 | [Activités extrascolaires](/guide/admin/activites-extrascolaires)        | Créer le catalogue d'activités périscolaires et planifier leurs séances                                                                                                                                                   |
-| [Page d'accueil](/guide/admin/page-accueil)                              | Configurer la page publique de l'établissement : accroche, présentation, départements et foire aux questions                                                                                                              |
+| [Page d'accueil](/guide/admin/page-accueil)                              | Configurer la page publique de l'établissement : apparence, textes, présentation, départements, foire aux questions et sections ajoutées (chiffres clés, galerie, actualités…)                                            |
+| [Enseignement supérieur](/guide/admin/enseignement-superieur)            | Filières, maquettes LMD, admissions, notes par EC, délibérations, relevés et attestations                                                                                                                                 |
 | [Paramètres de l'application](/guide/admin/parametres-application)       | Identité, couleurs, logos, personnalisation des reçus, et les deux réglages qui changent le comportement de l'app                                                                                                         |
 | [Démo complète et journal d'activité](/guide/admin/demo-et-journal)      | Activer la démo complète (établissements Era Admission en version gratuite) et consulter l'historique des actions                                                                                                         |
 | [Sauvegardes](/guide/admin/sauvegardes)                                  | Les copies de sécurité de vos données : celles prises chaque nuit, celles que vous demandez, et comment les récupérer                                                                                                     |

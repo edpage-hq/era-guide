@@ -30,6 +30,15 @@ abonnés à la cantine. Pour chacun, touchez **A mangé** ou **Absent**,
 puis cliquez sur **Enregistrer** pour valider tout le pointage du jour en
 une fois. Si aucun élève n'est abonné, la page l'indique.
 
+::: info Qui est abonné ?
+Un élève est abonné quand un article de frais de la catégorie **Cantine**
+est coché dans son dossier financier pour l'année en cours : c'est la
+caisse qui le coche, à l'inscription, selon le choix de la famille (voir
+[Inscriptions et paiements](/guide/caissier/inscriptions-et-paiements#definir-les-frais-dus)).
+Un élève absent de la liste n'a donc pas cette option sur l'année : voyez
+avec la caisse.
+:::
+
 ::: tip Un pointage pensé pour le téléphone
 Chaque élève a son bouton **A mangé** / **Absent** ; tout le monde est
 **A mangé** par défaut, et le bouton **Tous ont mangé** remet toute la liste

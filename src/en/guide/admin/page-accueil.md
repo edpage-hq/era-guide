@@ -55,8 +55,8 @@ the other language then sees that text rather than an empty part.
 - **Logo**: this is the school's logo, the same one as in the menu. It is
   changed in the settings (**Change the logo** button), see
   [App settings](/en/guide/admin/parametres-application).
-- **Tagline** and **Subtitle**: the two lines shown below the logo. Leave
-  a field empty to keep the default text in that language.
+- **Tagline** and **Subtitle**: the two lines shown below the logo. Leave the tagline empty to show the school's name, and the subtitle
+  empty to show none.
 - **Buttons**: they aren't configurable.
   - **Enrol my child** opens the online enrolment form. Requests sent
     reach the office, see [Applications](/en/guide/secretariat/candidatures).
@@ -64,6 +64,54 @@ the other language then sees that text rather than an empty part.
     sees **My space** instead.
 
 Click **Save changes** to apply the tagline and subtitle.
+
+## Appearance
+
+The **Appearance** block, at the top of the editor, sets the look of the
+whole page, so two schools can have very different pages. Nothing needs
+changing: left as is, the page keeps its original look.
+
+### Layout of the top of the page
+
+| Layout            | What visitors see                                                              |
+| ----------------- | ------------------------------------------------------------------------------ |
+| **Centered card** | The title and buttons in a card, in the middle; the photo in the background.   |
+| **Full screen**   | Your photo across the full width, the text in white over it, bottom left.      |
+| **Side by side**  | The text on the left, the photo on the right; on a phone the photo goes below. |
+| **Editorial**     | A large title, a rule, then the photo as a full-width banner.                  |
+
+### Image at the top of the page
+
+Upload a photo of the school: PNG, JPG or WebP, 4 MB max. The hint under
+the field gives the shape that suits the chosen layout.
+
+- **Veil over the image** darkens the photo so the text stays readable.
+  It applies to the **Centered card** and **Full screen** layouts.
+- **Image framing** picks which part is kept when the photo is cropped:
+  the center, the top or the bottom.
+
+Without a photo, **Full screen** and **Side by side** use a gradient in
+the school's colors.
+
+### Other settings
+
+- **Page background**: a colored glow, a plain background or a light
+  tint of the main color.
+- **Show the logo icon** above the title. The full logo stays in the top
+  bar.
+
+### Ambiance
+
+The ambiance applies to the whole page:
+
+- **Fonts**: seven pairings, from "Standard" to "Institutional". Each tile
+  previews its font;
+- **Corners** of cards and images: rounded, slight or square;
+- **Buttons**: pill, rounded or square;
+- **Section backgrounds**: the Departments section on a grey band, on the
+  page background, on a tint or on the main color.
+
+Click **Save changes**, then **View page** to check the result.
 
 ## About
 

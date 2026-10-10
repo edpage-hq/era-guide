@@ -121,3 +121,18 @@ evaluation types** (assignment, exam, quiz…).
 This is a pedagogical choice, not a display detail: it changes computed
 averages, and therefore report cards. Settle it before the year's first
 report cards are published, and avoid changing it mid-year.
+
+## Approvals {#approvals}
+
+This section only appears with the **Pilotage** and **Finances** modules.
+It sets the **site direction approval threshold**, in FCFA (100,000 by
+default):
+
+- a **site director** approves their sites' expenses up to this amount,
+  **included**;
+- above it, the decision goes to the **general direction** or an
+  administrator, and the site director is not notified;
+- at **0**, every expense goes up.
+
+The threshold applies to expenses still pending as soon as it changes. See
+[Direction](/en/guide/direction/).

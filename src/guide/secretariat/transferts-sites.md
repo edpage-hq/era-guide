@@ -9,7 +9,11 @@ site de l'établissement vers un autre (par exemple d'un campus à un
 autre). La page **Mobilité inter-site** liste ces demandes et vous permet
 de les faire aboutir. Une demande doit être approuvée à la fois par le
 site d'origine et par le site de destination avant que le transfert ne
-soit effectif — vous jouez ce rôle des deux côtés.
+soit effectif — vous jouez ce rôle des deux côtés, sauf pour un site qui a
+une **direction de site** : c'est alors elle qui valide la part de ce site
+(voir [Direction](/guide/direction/)). Son bloc affiche **En attente de la
+validation de ce site**, et vous ne pouvez refuser la demande que si l'un
+des deux sites relève de vous.
 
 ::: info
 Cette page concerne uniquement les transferts d'**élèves** entre deux
@@ -43,8 +47,8 @@ concerné :
    d'accueil sur le nouveau site (l'occupation de chaque classe est
    indiquée, par exemple `18/25`). Si la classe a atteint sa capacité,
    cochez **Forcer l'affectation même si la classe a atteint sa
-   capacité** pour l'assigner malgré tout, puis cliquez sur **Approuver
-   la destination**.
+   capacité** pour l'assigner malgré tout, saisissez le **Motif du
+   dépassement**, puis cliquez sur **Approuver la destination**.
 
 Dès que les deux sites ont donné leur accord — peu importe l'ordre — le
 transfert est exécuté automatiquement : l'élève est déplacé vers le
@@ -56,6 +60,12 @@ Une version simplifiée de cette page, sans menu ni navigation, peut
 s'ouvrir directement depuis un lien reçu par notification (par exemple
 sur votre téléphone) : elle permet d'approuver l'origine, la destination,
 ou de refuser la demande, sans avoir à naviguer dans le reste de l'appli.
+:::
+
+::: info Dépassements de capacité
+Le motif est obligatoire quand la classe est pleine. Le dépassement est
+enregistré (qui, quand, effectif, motif) et la direction du site, la
+direction générale et les administrateurs en sont informés.
 :::
 
 ## Refuser une demande

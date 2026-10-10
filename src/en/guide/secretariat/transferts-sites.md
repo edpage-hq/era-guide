@@ -9,7 +9,10 @@ from one of the school's sites to another (for example, from one campus
 to another). The **Inter-site transfers** page lists these requests and
 lets you carry them through. A request must be approved by both the
 origin site and the destination site before the transfer takes effect —
-you play both roles.
+you play both roles, except for a site that has a **site director**: they
+then approve that site's side (see [Direction](/en/guide/direction/)). Its
+block reads **Waiting for this site's approval**, and you can only reject
+the request if one of the two sites is yours to approve.
 
 ::: info
 This page covers only **student** transfers between two sites. Staff
@@ -41,7 +44,8 @@ The form presents two separate sections, one for each site involved:
    the new site (each class's occupancy is shown, for example
    `18/25`). If the class has reached its capacity, check **Force
    assignment even if the class has reached its capacity** to assign
-   it anyway, then click **Approve destination**.
+   it anyway, enter the **Reason for going over capacity**, then click
+   **Approve destination**.
 
 As soon as both sites have given their approval — in either order — the
 transfer executes automatically: the student is moved to the new site,
@@ -52,6 +56,12 @@ A simplified version of this page, with no menu or navigation, can open
 directly from a link received through a notification (for example on
 your phone): it lets you approve the origin, the destination, or reject
 the request without navigating the rest of the app.
+:::
+
+::: info Capacity overrides
+The reason is required when the class is full. The override is recorded
+(who, when, headcount, reason) and the site's direction, the general
+direction and the administrators are told.
 :::
 
 ## Rejecting a request

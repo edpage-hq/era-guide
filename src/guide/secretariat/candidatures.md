@@ -66,7 +66,9 @@ Si aucun document n'a été joint, la page l'indique clairement.
    directement dans la classe de la rentrée.
 3. Si la classe a atteint sa capacité, vous ne pouvez pas la sélectionner
    normalement : cochez **Forcer l'affectation même si la classe a
-   atteint sa capacité** pour l'assigner malgré tout.
+   atteint sa capacité** pour l'assigner malgré tout, et saisissez le
+   **Motif du dépassement**, obligatoire. Le dépassement est enregistré et
+   la direction du site en est informée.
 4. Cliquez sur **Valider**.
 
 L'élève est alors inscrit dans la classe choisie, pour l'année de cette

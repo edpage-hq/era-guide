@@ -66,7 +66,9 @@ If no documents were attached, the page states this clearly.
    new school year.
 3. If the class has reached its capacity, you can't select it normally:
    check **Force assignment even if the class has reached its
-   capacity** to assign it anyway.
+   capacity** to assign it anyway, and enter the **Reason for going over
+   capacity**, which is required. The override is recorded and the site's
+   direction is told.
 4. Click **Approve**.
 
 The student is then enrolled in the chosen class, for that class's year,

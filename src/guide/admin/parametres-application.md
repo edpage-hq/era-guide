@@ -129,3 +129,18 @@ C'est un choix pédagogique, pas un détail d'affichage : il change les
 moyennes calculées, donc les bulletins. Arrêtez-le avant la première
 publication de bulletins de l'année, et évitez d'en changer en cours
 d'année.
+
+## Approbations {#approbations}
+
+Cette section n'apparaît qu'avec les modules **Pilotage** et **Finances**.
+Elle fixe le **seuil de validation par la direction de site**, en FCFA
+(100 000 par défaut) :
+
+- une **direction de site** approuve les dépenses de ses sites jusqu'à ce
+  montant **inclus** ;
+- au-delà, la décision revient à la **direction générale** ou à un
+  administrateur, et la direction de site n'est pas notifiée ;
+- à **0**, toutes les dépenses remontent.
+
+Le seuil s'applique aux dépenses encore en attente dès qu'il est modifié.
+Voir [Direction](/guide/direction/).

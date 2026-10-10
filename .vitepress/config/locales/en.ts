@@ -62,6 +62,7 @@ function sidebarGuide(): SidebarItemType[] {
   return [
     { text: 'Getting started', link: 'prise-en-main' },
     { text: 'Leave requests', link: 'conges' },
+    { text: 'Direction', link: 'direction/' },
     {
       text: 'Administrator',
       link: 'admin/',

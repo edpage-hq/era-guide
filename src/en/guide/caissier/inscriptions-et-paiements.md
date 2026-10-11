@@ -79,8 +79,8 @@ administrator to create one before you can bill the student.
 ### Collecting a payment
 
 1. In the **Record a payment** form, enter the **Amount**.
-2. Choose the **Method**: Mixx by Yass, Flooz, T-Money, Card, or Bank
-   deposit.
+2. Choose the **Method**: Mixx by Yass (formerly T-Money), Flooz,
+   Card, or Bank deposit.
 3. If a fee structure exists, indicate which **Fee item** this payment
    relates to, or leave the **Lump sum (not tied to an item)** choice
    for a payment that doesn't match any specific item.

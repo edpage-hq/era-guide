@@ -50,12 +50,13 @@ l'établissement.
 ## Payer en ligne par mobile money
 
 Tant qu'il reste un solde à régler, un bouton **Payer en ligne** apparaît
-au-dessus des chiffres de paiement. Pour effectuer un paiement :
+au-dessus des chiffres de paiement — si votre établissement a activé le
+paiement en ligne. Sans ce bouton, réglez les frais auprès de
+l'établissement. Pour effectuer un paiement :
 
 1. Cliquez sur **Payer en ligne**.
 2. Dans la fenêtre **Payer par mobile money**, choisissez le **Réseau** à
-   utiliser (Mixx by Yass, Flooz ou T-Money, selon ce que propose votre
-   établissement).
+   utiliser (Flooz ou Mixx by Yass, ex-T-Money).
 3. Saisissez le **Numéro de téléphone** qui recevra la demande de
    paiement.
 4. Saisissez le **Montant** à payer — il ne peut pas dépasser le solde

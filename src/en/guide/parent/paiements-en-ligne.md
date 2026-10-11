@@ -48,12 +48,12 @@ at the school.
 ## Paying online by mobile money
 
 As long as a balance remains, a **Pay online** button appears above the
-payment figures. To make a payment:
+payment figures — if your school has turned online payment on. Without
+that button, pay the fees at the school. To make a payment:
 
 1. Click **Pay online**.
 2. In the **Pay by mobile money** window, choose the **Network** to use
-   (Mixx by Yass, Flooz or T-Money, depending on what your school
-   offers).
+   (Flooz or T-Money).
 3. Enter the **Phone number** that will receive the payment request.
 4. Enter the **Amount** to pay — it cannot exceed the remaining balance.
 5. Click **Send payment request**.

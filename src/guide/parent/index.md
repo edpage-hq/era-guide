@@ -17,8 +17,20 @@ Ce guide couvre les trois choses que vous pouvez faire depuis ce portail :
 | Page                                                                 | Ce que vous pouvez y faire                                                                                                                                                                  |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Vos enfants et leurs documents](/guide/parent/enfants-et-documents) | Voir vos enfants, consulter leur suivi (notes, présences, discipline) et télécharger leurs bulletins, reçus, procès-verbaux et documents du cahier de texte ; exporter leur emploi du temps |
-| [Paiements en ligne](/guide/parent/paiements-en-ligne)               | Suivre les frais de scolarité et payer directement en ligne par mobile money                                                                                                                |
+| [Paiements en ligne](/guide/parent/paiements-en-ligne)               | Choisir les services de l'année (cantine, transport…), suivre les frais et payer en ligne par mobile money                                                                                  |
 | [Démarches](/guide/parent/demarches)                                 | Justifier l'absence d'un enfant ou demander un transfert de site                                                                                                                            |
+
+## Votre premier accès
+
+Votre compte est créé quand l'établissement valide le dossier d'inscription
+de votre enfant. Vous recevez alors un e-mail avec sa classe et un lien pour
+choisir votre mot de passe (valable une heure ; passé ce délai, utilisez
+**Mot de passe oublié ?** sur la page de connexion avec la même adresse).
+Si vous aviez déjà un compte pour un autre enfant, le nouvel enfant s'y
+ajoute et l'e-mail vous invite simplement à vous connecter.
+
+Avant cela, vous recevez un accusé de réception à l'envoi du dossier, et,
+s'il n'est pas retenu, un e-mail avec le motif du refus.
 
 ## Ce dont vous êtes prévenu
 

@@ -59,8 +59,15 @@ Si une grille de frais existe pour le site, le département et l'année
 scolaire de l'élève, elle apparaît sous **Articles de frais** : les
 articles obligatoires sont listés directement, et les articles
 optionnels (par exemple la cantine ou le transport) sont proposés sous
-forme de cases à cocher — cochez celles qui s'appliquent à cet élève,
-puis cliquez sur **Enregistrer les modifications**.
+forme de cases à cocher.
+
+Les parents cochent eux-mêmes ces services depuis leur espace (voir
+[Paiements en ligne](/guide/parent/paiements-en-ligne)) : vous retrouvez
+ici leurs choix. Pour une famille qui choisit au guichet, ou pour corriger
+un cas particulier — arrêter la cantine en cours d'année, par exemple —
+cochez ou décochez ici, puis cliquez sur **Enregistrer les
+modifications**. Contrairement au parent, la caisse peut retirer un service
+déjà payé.
 
 Pour un élève déjà inscrit l'année précédente, un encadré rappelle ses
 options de cette année-là (par exemple **Options de 2025-2026 : Cantine, …**). Le bouton

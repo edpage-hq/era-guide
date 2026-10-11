@@ -10,6 +10,9 @@ family (channel **Online**) or was entered by the cashier for a family
 visiting in person (channel **Cashier**). This is the page where you
 decide to accept or reject each application.
 
+As soon as an application is sent, online or at the desk, the family gets
+an email acknowledging it and telling them what comes next.
+
 Families reach the public form through the **Enrol my child** button on
 the school's homepage (the school may give it another label, see
 [Homepage](/en/guide/admin/page-accueil)).
@@ -92,7 +95,14 @@ the new class still offers them as a choice.
 On approval, each parent on the application gets an ERA account,
 identified by their email address (upper and lower case don't matter). A
 parent who already has an account with that address, for another child
-for example, keeps it: the child is added to it, with no new email.
+for example, keeps it: the child is added to it.
+
+Each parent then gets a welcome email: the child, their class and year,
+and the way into their parent space, where they choose optional services
+and pay the fees. A parent whose account was just opened finds the link to
+choose a password in it; the link is valid for an hour, after which they
+use **Forgot your password?** on the sign-in page. A parent who already had
+an account is asked to sign in.
 
 If a parent account already exists **with the same name but another
 address**, the **Assign to a class** section says so, with the children
@@ -149,4 +159,5 @@ their page. An approved application can no longer be rejected.
 4. Confirm by clicking **Reject** again.
 
 The rejection reason stays recorded on the application and remains
-visible afterward.
+visible afterward. The family gets an email announcing the rejection,
+**with this reason**: write it for them.

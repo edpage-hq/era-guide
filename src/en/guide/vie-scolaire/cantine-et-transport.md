@@ -31,8 +31,8 @@ once. If no student is subscribed, the page says so.
 
 ::: info Who is subscribed?
 A student is subscribed when a fee item of the **Cafeteria** category is
-ticked on their billing record for the current year: the cash desk ticks
-it at enrolment, as the family chose (see
+ticked on their billing record for the current year: by the parent from
+their space, or by the cash desk (see
 [Enrolment and payments](/en/guide/caissier/inscriptions-et-paiements#setting-the-fees-due)).
 A student missing from the list doesn't have that option this year: check
 with the cash desk.

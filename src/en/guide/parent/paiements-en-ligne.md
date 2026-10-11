@@ -7,11 +7,30 @@ layout: doc
 This page explains how to track your child's school fees and settle a
 payment directly online, without visiting the school.
 
+## Choosing the year's services
+
+On your child's record, the **Payments** section shows **This year's
+fees**:
+
+- the **required** fees (tuition, for instance), always due;
+- the **optional services** the school offers (cafeteria, transport…),
+  each with its price and a checkbox.
+
+Tick the services your child takes this year, then click **Save my
+choices**: the **Total due** and the **Balance** include them straight
+away, and you can pay.
+
+You can add a service at any time. A service marked **already paid for** —
+a payment was recorded since you ticked it — can no longer be removed from
+your space: to stop it, ask the school's cash desk. Until you have paid
+anything, you can change your choices.
+
 ## Tracking school fees
 
-On your child's record, the **Payments** section shows four figures:
+The same section shows four figures:
 
-- **Total due** — the total fee amount for the year.
+- **Total due** — the total fee amount for the year: the required fees and
+  the services chosen.
 - **Discount** — the amount of any discounts granted.
 - **Total paid** — what has already been paid, online or at the school.
 - **Balance** — what's still owed.

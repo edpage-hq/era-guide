@@ -57,8 +57,14 @@ The detail page shows four key figures: **Total due**, **Discount**,
 If a fee structure exists for the student's site, department, and
 academic year, it appears under **Fee items**: mandatory items are
 listed directly, and optional items (for example cafeteria or
-transport) are offered as checkboxes — check the ones that apply to
-this student, then click **Save changes**.
+transport) are offered as checkboxes.
+
+Parents tick these services themselves from their space (see
+[Online payments](/en/guide/parent/paiements-en-ligne)): you find their
+choices here. For a family choosing at the desk, or to correct a special
+case — stopping the cafeteria during the year, for instance — tick or
+untick here, then click **Save changes**. Unlike a parent, the cash desk
+can remove a service already paid for.
 
 For a student enrolled the previous year, a box recalls that year's
 options (for instance **Options in 2025-2026: Cafeteria, …**). The **Use these options

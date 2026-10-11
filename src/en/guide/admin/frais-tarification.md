@@ -24,12 +24,12 @@ To create a fee structure:
    fields below for each.
 4. Click **Save**.
 
-| Field    | Detail                                                                                      |
-| -------- | ------------------------------------------------------------------------------------------- |
-| Label    | e.g. "Tuition", "Cafeteria"                                                                 |
-| Amount   | —                                                                                           |
-| Optional | check if the item isn't owed by default (the family or the cashier enables it case by case) |
-| Category | General, Cafeteria, or Transport                                                            |
+| Field    | Detail                                                                                                                                  |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Label    | e.g. "Tuition", "Cafeteria"                                                                                                             |
+| Amount   | —                                                                                                                                       |
+| Optional | check for a service to choose (cafeteria, transport…): the parent ticks it from their space, or the cash desk from the student's record |
+| Category | General, Cafeteria, or Transport                                                                                                        |
 
 Editing an existing fee structure lets you add, change, or remove items.
 Deleting a fee structure also permanently deletes all its items.

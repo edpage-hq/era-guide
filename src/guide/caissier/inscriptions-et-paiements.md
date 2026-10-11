@@ -63,7 +63,7 @@ forme de cases à cocher — cochez celles qui s'appliquent à cet élève,
 puis cliquez sur **Enregistrer les modifications**.
 
 Pour un élève déjà inscrit l'année précédente, un encadré rappelle ses
-options de cette année-là (**Options de 2026-2027 : Cantine, …**). Le bouton
+options de cette année-là (par exemple **Options de 2025-2026 : Cantine, …**). Le bouton
 **Reprendre ces options** coche les mêmes articles dans la grille de cette
 année ; une option absente de la nouvelle grille est signalée. Rien n'est
 facturé tant que vous n'avez pas cliqué sur **Enregistrer les
@@ -142,5 +142,7 @@ administrateur d'ouvrir ce même dossier pour l'ajouter :
 5. Cliquez sur **Accorder la remise**.
    :::
 
-Une remise accordée réduit immédiatement le **Total dû** affiché sur la
-page.
+Une remise accordée ne change pas le **Total dû**, qui reste la somme des
+frais : elle s'affiche dans **Remise** et réduit immédiatement le
+**Solde**. Par exemple, pour 300 000 de frais, une remise de 50 000 et
+100 000 déjà payés, le solde est de 150 000.

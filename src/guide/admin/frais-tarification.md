@@ -54,5 +54,5 @@ Pour accorder une remise :
 
 Chaque remise accordée s'affiche avec le nom de l'administrateur qui l'a
 créée. Le bouton **Retirer cette remise** (dans la liste des remises) la
-supprime définitivement — le solde dû de l'élève est recalculé
+supprime définitivement — le **Solde** de l'élève est recalculé
 immédiatement.

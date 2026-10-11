@@ -87,7 +87,8 @@ The administrator sets this threshold in
 
 ## Classes over capacity
 
-When a class of your site takes a student while it is already full, you
+When a class of your site takes a student while it is already full — on
+admission, through a site move or through a class change — you
 receive a _Class over capacity_ notification: who forced the assignment,
 the headcount reached and the **reason** given. There is nothing to
 approve: it is information, so these overrides no longer go unnoticed.

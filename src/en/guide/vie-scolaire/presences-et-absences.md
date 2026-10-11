@@ -29,6 +29,11 @@ parent portal.
 5. Click **Save roll call** in the bottom bar: the whole class's attendance
    is saved at once. If you leave the page first, ERA asks you to confirm.
 
+The parents of a student marked **Absent** without **Justified** ticked get
+an email and a notification as soon as it's saved. They are told once per
+absence: correcting the roll call afterwards doesn't notify them again. A
+late arrival doesn't notify them.
+
 ## Process absence justifications
 
 Families submit their absence or lateness justifications from their

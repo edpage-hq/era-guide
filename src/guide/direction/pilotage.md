@@ -77,7 +77,8 @@ l'indique simplement.
 
 La dernière section liste les élèves affectés à une classe déjà pleine, dans
 le périmètre choisi : la classe et son site, l'effectif atteint
-(`31/30`), s'il s'agissait d'une admission ou d'une mobilité, le **motif**
+(`31/30`), s'il s'agissait d'une admission, d'une mobilité ou d'un
+changement de classe, le **motif**
 saisi, l'élève, la personne qui a forcé l'affectation et la date. Voir
 [Direction → Classes en sureffectif](/guide/direction/#classes-en-sureffectif).
 

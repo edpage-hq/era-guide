@@ -53,4 +53,5 @@ pas de bouton d'action sur vos propres demandes ni sur celles de vos
 collègues.
 
 Une fois une dépense **approuvée**, elle apparaît automatiquement comme
-décaissement dans l'[export comptable SYSCOHADA](/guide/caissier/export-comptable).
+décaissement dans l'[export comptable SYSCOHADA](/guide/caissier/export-comptable),
+à la date de sa décision.

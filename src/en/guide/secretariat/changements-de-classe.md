@@ -26,8 +26,8 @@ year**. To move a student to another site, use a
 3. In **New class**, pick the destination. The list only offers classes
    on the same site and in the same year, with their headcount and
    capacity.
-4. Add a **Reason** if you wish, for example "moving to the D stream". It
-   stays visible in the history.
+4. Add a **Reason**, for example "moving to the D stream". It is optional
+   unless the class is full, and stays visible in the history.
 5. Click **Change class**.
 
 The student's enrollment is moved, not recreated: their payments, payment
@@ -43,7 +43,10 @@ Depending on the situation, a box appears under the chosen class:
 - **The class belongs to another department**: check the student's
   options and fee schedule, which may differ.
 - **The class is full**: the button stays disabled until you tick **Place
-  the student in this class anyway**.
+  the student in this class anyway** and write the **Reason**, required in
+  this case. As for an admission or a site move, the overrun is recorded,
+  the site's direction is told, and it shows on the
+  [Pilotage](/en/guide/direction/pilotage#classes-over-capacity) page.
 
 ## When a change is refused
 

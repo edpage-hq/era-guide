@@ -16,8 +16,8 @@ la dernière section explique comment y saisir vos observations.
 3. Dans la section **Contexte**, choisissez la **Classe**, la **Matière**,
    la **Période scolaire** et le **Type d'évaluation** — les quatre listes
    ne proposent que vos propres affectations classe/matière.
-4. Dans la section **Détails**, renseignez l'**Intitulé** de l'évaluation, sa
-   **Note maximale** (20 par défaut, modifiable) et sa **Date**.
+4. Dans la section **Détails**, renseignez l'**Intitulé** de l'évaluation, son
+   **Barème** (la note maximale : 20 par défaut, modifiable) et sa **Date**.
 5. Cliquez sur **Enregistrer**.
 
 ## Retrouver une évaluation

@@ -26,15 +26,18 @@ Pour regarder ces chiffres par niveau ou par classe, mois par mois, ouvrez la pa
 
 ## Sur quoi portent les chiffres
 
-Tous les indicateurs se lisent pour l'**année scolaire courante** — celle
-marquée comme actuelle dans
-[Structure de l'établissement](/guide/admin/structure-etablissement).
+Les indicateurs se lisent pour l'**année choisie dans l'en-tête** de
+l'application (voir
+[Se repérer dans l'application](/guide/prise-en-main#se-reperer-dans-l-application)).
+Au départ, c'est l'année marquée comme courante dans
+[Structure de l'établissement](/guide/admin/structure-etablissement) ;
+choisissez une année passée dans l'en-tête pour retrouver ses chiffres.
+Les blocs **À traiter** et **Échéances dépassées**, eux, restent toujours
+sur aujourd'hui.
 
-Si aucune année n'est marquée comme courante, le tableau de bord vous le
-dit au lieu d'afficher des chiffres, avec un bouton **Définir l'année
-courante** qui mène à l'écran concerné : rien ne peut être calculé tant que
-l'année de référence n'est pas définie. C'est le premier réflexe à avoir si
-la page semble vide en début d'exercice.
+Si aucune année n'est encore créée, les indicateurs n'apparaissent pas :
+c'est le premier réflexe à avoir si la page semble vide en début
+d'exercice.
 
 ## Les indicateurs
 

@@ -34,6 +34,6 @@ l'indique et ne propose rien d'autre.
 
 Le menu **Enseignement → Mon emploi du temps** affiche vos créneaux de
 cours de la semaine : jour, heure de début, heure de fin, classe et
-matière. Le bouton **Exporter (iCal)** télécharge votre emploi du temps
+matière. Le bouton **Exporter vers un calendrier** télécharge votre emploi du temps
 dans un fichier que vous pouvez importer dans votre application de
 calendrier personnelle (Google Agenda, Outlook, Apple Calendrier…).

@@ -17,11 +17,11 @@ hero:
 features:
   - icon: 🧑‍🤝‍🧑
     title: Un guide par acteur
-    details: Administrateur, enseignant, secrétariat, caisse, vie scolaire, internat, infirmerie, parent, élève — chacun a sa propre section, centrée sur ses tâches.
+    details: Administrateur, direction, enseignant, secrétariat, caisse, vie scolaire, internat, infirmerie, gestion documentaire, parent, élève — chacun a sa propre section, centrée sur ses tâches.
   - icon: 🌍
     title: Bilingue
     details: Contenu français (racine) et anglais (/en/), avec recherche traduite dans chaque langue.
-  - icon: 📚
-    title: Complète era.docs
-    details: era.docs explique le code aux développeurs ; ce site explique l'app aux personnes qui l'utilisent au quotidien.
+  - icon: 🧭
+    title: Ouvert depuis l'app
+    details: Le bouton ? de chaque écran et le menu de votre compte mènent directement à la page qui vous concerne.
 ---

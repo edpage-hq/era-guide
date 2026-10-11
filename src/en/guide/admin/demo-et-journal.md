@@ -10,10 +10,10 @@ history of actions taken in the application.
 
 ## Activate the full demo
 
-**This feature only appears if your school is an Era Admission tenant
-still on the free tier** — that is, a school using ERA only to manage its
-admissions application queue, without having purchased a license for the
-rest of the application yet. If your school already has an active
+**This feature only appears if your school signed up online on Era
+Admission and is still on the free tier** — that is, using ERA only for
+its admissions application queue, without a license for the rest of the
+application. If your school already has an active
 license (or is already in a demo period), you won't see this button.
 
 When available, the offer appears on the **Dashboard**:

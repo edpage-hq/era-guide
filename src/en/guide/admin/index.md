@@ -32,8 +32,9 @@ bottom of the column:
   evaluation types, competencies, fee structures, transport routes,
   extracurricular activities and sessions.
 - **Administration**: users, activity log,
-  [Homepage](/en/guide/admin/page-accueil) and
-  [App settings](/en/guide/admin/parametres-application).
+  [Homepage](/en/guide/admin/page-accueil),
+  [App settings](/en/guide/admin/parametres-application) and, on the
+  school's own installation, [Backups](/en/guide/admin/sauvegardes).
 
 The **School setup** space holds many pages: scroll its tabs sideways to see them
 all.
@@ -52,7 +53,8 @@ all.
 | [Timetables](/en/guide/admin/emplois-du-temps)                         | Building each class's weekly timetable                                                                                                                                                          |
 | [Report cards](/en/guide/admin/bulletins)                              | Publishing and downloading a class's report cards for a given period                                                                                                                            |
 | [Extracurricular activities](/en/guide/admin/activites-extrascolaires) | Building the extracurricular activity catalog and scheduling its sessions                                                                                                                       |
-| [Homepage](/en/guide/admin/page-accueil)                               | Configuring the school's public page: tagline, introduction, departments and FAQ                                                                                                                |
+| [Homepage](/en/guide/admin/page-accueil)                               | Configuring the school's public page: appearance, texts, introduction, departments, FAQ and added sections (key figures, gallery, news…)                                                        |
+| [Higher education](/en/guide/admin/enseignement-superieur)             | Programmes, LMD curricula, admissions, grades per course element, deliberations, transcripts and certificates                                                                                   |
 | [App settings](/en/guide/admin/parametres-application)                 | Identity, colors, logos, receipt customisation, and the two settings that change how the app behaves                                                                                            |
 | [Full demo and activity log](/en/guide/admin/demo-et-journal)          | Activating the full demo (Era Admission tenants on the free tier) and reviewing the action history                                                                                              |
 | [Backups](/en/guide/admin/sauvegardes)                                 | The safety copies of your data: the nightly ones, the ones you ask for, and how to get hold of them                                                                                             |

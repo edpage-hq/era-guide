@@ -40,7 +40,9 @@ which can already approve everything. See [Direction](/en/guide/direction/).
 From the list, each account offers:
 
 - **Edit** — change the name, email, role, or set a new password (leave
-  the field blank to keep the current one).
+  the field blank to keep the current one). Changing the role of a staff
+  member who is also a parent keeps their parent access: only the work
+  role is replaced.
 - **Activate** / **Deactivate** — deactivating an account signs it out
   everywhere immediately and blocks any new sign-in, without deleting the
   account; reactivating restores access.
@@ -61,10 +63,10 @@ To create an employee record:
 
 "Person" section:
 
-| Field         | Detail                             |
-| ------------- | ---------------------------------- |
-| Staff account | chosen from existing user accounts |
-| Position      | free text                          |
+| Field         | Detail                                                                  |
+| ------------- | ----------------------------------------------------------------------- |
+| Staff account | chosen from staff accounts, direction included, that have no record yet |
+| Position      | free text                                                               |
 
 "Assignment" section:
 

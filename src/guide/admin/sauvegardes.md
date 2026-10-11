@@ -9,7 +9,7 @@ enregistré dans ERA : élèves, familles, notes, paiements, présences,
 passages à l'infirmerie. Elle sert à revenir en arrière si quelque chose
 tourne mal.
 
-La page s'ouvre par **Admin → Sauvegardes**. Elle n'est visible que par les
+La page s'ouvre par **Administration → Sauvegardes**. Elle n'est visible que par les
 administrateurs.
 
 ::: info Elle n'apparaît pas chez vous ?

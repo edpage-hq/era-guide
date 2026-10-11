@@ -51,4 +51,5 @@ button on your own requests or your colleagues'.
 
 Once an expense is **approved**, it automatically appears as a cash
 outflow in the
-[SYSCOHADA accounting export](/en/guide/caissier/export-comptable).
+[SYSCOHADA accounting export](/en/guide/caissier/export-comptable),
+on the date it was decided.

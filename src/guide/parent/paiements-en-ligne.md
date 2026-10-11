@@ -56,7 +56,7 @@ l'établissement. Pour effectuer un paiement :
 
 1. Cliquez sur **Payer en ligne**.
 2. Dans la fenêtre **Payer par mobile money**, choisissez le **Réseau** à
-   utiliser (Flooz ou T-Money).
+   utiliser (Flooz ou Mixx by Yass, ex-T-Money).
 3. Saisissez le **Numéro de téléphone** qui recevra la demande de
    paiement.
 4. Saisissez le **Montant** à payer — il ne peut pas dépasser le solde

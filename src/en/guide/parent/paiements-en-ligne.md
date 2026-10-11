@@ -53,7 +53,7 @@ that button, pay the fees at the school. To make a payment:
 
 1. Click **Pay online**.
 2. In the **Pay by mobile money** window, choose the **Network** to use
-   (Flooz or T-Money).
+   (Flooz or Mixx by Yass, formerly T-Money).
 3. Enter the **Phone number** that will receive the payment request.
 4. Enter the **Amount** to pay — it cannot exceed the remaining balance.
 5. Click **Send payment request**.

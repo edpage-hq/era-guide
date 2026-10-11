@@ -84,8 +84,8 @@ un administrateur de la créer avant de pouvoir facturer l'élève.
 
 1. Dans le formulaire **Enregistrer un paiement**, saisissez le
    **Montant**.
-2. Choisissez la **Méthode** : Mixx by Yass, Flooz, T-Money, Carte
-   bancaire ou Dépôt bancaire.
+2. Choisissez la **Méthode** : Mixx by Yass (ex-T-Money), Flooz,
+   Carte bancaire ou Dépôt bancaire.
 3. Si une grille de frais existe, indiquez à quel **Article de frais**
    se rattache ce paiement, ou laissez le choix **Somme globale (non
    liée à un article)** pour un versement qui ne correspond à aucun

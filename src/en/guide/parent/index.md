@@ -16,8 +16,20 @@ This guide covers the three things you can do from this portal:
 | Page                                                                       | What you can do there                                                                                                                                                                              |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Your children and their documents](/en/guide/parent/enfants-et-documents) | See your children, follow their record (grades, attendance, discipline) and download their report cards, receipts, disciplinary-council minutes and lesson-log attachments; export their timetable |
-| [Online payments](/en/guide/parent/paiements-en-ligne)                     | Track school fees and pay directly online by mobile money                                                                                                                                          |
+| [Online payments](/en/guide/parent/paiements-en-ligne)                     | Choose the year's services (cafeteria, transport…), track school fees and pay online by mobile money                                                                                               |
 | [Requests](/en/guide/parent/demarches)                                     | Justify a child's absence or request a site transfer                                                                                                                                               |
+
+## Your first access
+
+Your account is created when the school approves your child's enrolment
+application. You then get an email with their class and a link to choose
+your password (valid for an hour; after that, use **Forgot your
+password?** on the sign-in page with the same address). If you already had
+an account for another child, the new child is added to it and the email
+simply asks you to sign in.
+
+Before that, you get an acknowledgement when the application is sent and,
+if it is not accepted, an email with the reason.
 
 ## What you are told about
 

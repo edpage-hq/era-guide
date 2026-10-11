@@ -7,12 +7,31 @@ layout: doc
 Cette page explique comment suivre les frais de scolarité de votre enfant
 et régler un paiement directement en ligne, sans vous déplacer.
 
+## Choisir les services de l'année
+
+Sur la fiche de votre enfant, la section **Paiements** présente les
+**Frais de l'année** :
+
+- les frais **obligatoires** (l'écolage, par exemple), toujours dus ;
+- les **services optionnels** proposés par l'établissement (cantine,
+  transport…), chacun avec son prix et une case à cocher.
+
+Cochez les services que votre enfant prend cette année, puis cliquez sur
+**Enregistrer mes choix** : le **Total dû** et le **Solde** en tiennent
+compte aussitôt, et vous pouvez payer.
+
+Vous pouvez ajouter un service à tout moment. En revanche, un service
+marqué **déjà payé** — un paiement a été enregistré depuis que vous l'avez
+coché — ne peut plus être retiré depuis votre espace : pour l'arrêter,
+adressez-vous à la caisse de l'établissement. Tant que vous n'avez rien
+payé, vous pouvez revenir sur vos choix.
+
 ## Suivre les frais de scolarité
 
-Sur la fiche de votre enfant, la section **Paiements** affiche quatre
-chiffres :
+La même section affiche quatre chiffres :
 
-- **Total dû** — le montant total des frais pour l'année.
+- **Total dû** — le montant total des frais pour l'année : les frais
+  obligatoires et les services choisis.
 - **Remise** — le montant des remises éventuellement accordées.
 - **Total payé** — ce qui a déjà été réglé, en ligne ou à l'accueil.
 - **Solde** — ce qu'il reste à payer.

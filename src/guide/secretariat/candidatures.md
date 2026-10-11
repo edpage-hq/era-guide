@@ -10,6 +10,9 @@ une famille (canal **En ligne**) ou d'une saisie faite par la caisse pour
 une famille venue sur site (canal **Caisse**). C'est depuis cette page
 que vous décidez d'accepter ou de refuser chaque dossier.
 
+Dès l'envoi d'un dossier, en ligne ou au guichet, la famille reçoit un
+e-mail qui en accuse réception et lui annonce la suite.
+
 Les familles accèdent au formulaire public par le bouton **Inscrire mon
 enfant** de la page d'accueil de l'établissement (l'établissement peut lui
 donner un autre libellé, voir [Page d'accueil](/guide/admin/page-accueil)).
@@ -92,7 +95,14 @@ nouvelle classe les propose toujours au choix.
 À la validation, chaque parent du dossier reçoit un compte ERA, identifié
 par son adresse e-mail (majuscules et minuscules ne comptent pas). Un
 parent qui a déjà un compte avec cette adresse, pour un autre enfant par
-exemple, le garde : l'enfant s'y ajoute, sans nouvel e-mail.
+exemple, le garde : l'enfant s'y ajoute.
+
+Chaque parent reçoit alors un e-mail d'accueil : l'enfant, sa classe et
+l'année, et le chemin vers son espace parent, où il choisit les services
+optionnels et règle les frais. Un parent dont le compte vient d'être créé
+y trouve le lien pour choisir son mot de passe ; ce lien est valable une
+heure, passé ce délai il utilise **Mot de passe oublié ?** sur la page de
+connexion. Un parent qui avait déjà un compte est invité à se connecter.
 
 Si un compte parent existe déjà **au même nom mais avec une autre
 adresse**, le bloc **Affecter à une classe** le signale, avec les enfants
@@ -149,4 +159,5 @@ depuis sa fiche. Un dossier déjà validé ne peut plus être refusé.
 4. Confirmez en cliquant à nouveau sur **Refuser**.
 
 Le motif de refus reste consigné sur le dossier et reste consultable par
-la suite.
+la suite. La famille reçoit un e-mail qui lui annonce le refus, **avec ce
+motif** : rédigez-le pour elle.

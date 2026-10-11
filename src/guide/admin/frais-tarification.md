@@ -24,12 +24,12 @@ Pour créer une grille de frais :
    en renseignant pour chacun les champs ci-dessous.
 4. Cliquez sur **Enregistrer**.
 
-| Champ     | Détail                                                                                        |
-| --------- | --------------------------------------------------------------------------------------------- |
-| Libellé   | ex. « Frais de scolarité », « Cantine »                                                       |
-| Montant   | —                                                                                             |
-| Optionnel | cochez si l'article n'est pas dû par défaut (la famille ou la caisse l'active au cas par cas) |
-| Catégorie | Générale, Cantine ou Transport                                                                |
+| Champ     | Détail                                                                                                                                  |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Libellé   | ex. « Frais de scolarité », « Cantine »                                                                                                 |
+| Montant   | —                                                                                                                                       |
+| Optionnel | cochez pour un service au choix (cantine, transport…) : le parent le coche depuis son espace, ou la caisse depuis le dossier de l'élève |
+| Catégorie | Générale, Cantine ou Transport                                                                                                          |
 
 Modifier une grille existante permet d'ajouter, changer ou retirer des
 articles de frais. Supprimer une grille supprime aussi définitivement tous

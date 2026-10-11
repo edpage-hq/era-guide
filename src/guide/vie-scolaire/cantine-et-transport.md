@@ -32,8 +32,8 @@ une fois. Si aucun élève n'est abonné, la page l'indique.
 
 ::: info Qui est abonné ?
 Un élève est abonné quand un article de frais de la catégorie **Cantine**
-est coché dans son dossier financier pour l'année en cours : c'est la
-caisse qui le coche, à l'inscription, selon le choix de la famille (voir
+est coché dans son dossier financier pour l'année en cours : par le
+parent depuis son espace, ou par la caisse (voir
 [Inscriptions et paiements](/guide/caissier/inscriptions-et-paiements#definir-les-frais-dus)).
 Un élève absent de la liste n'a donc pas cette option sur l'année : voyez
 avec la caisse.

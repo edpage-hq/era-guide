@@ -45,7 +45,10 @@ Selon la situation, un encadré apparaît sous la classe choisie :
   effacées pour autant, et le nombre de notes abandonnées reste inscrit dans
   l'historique.
 - **La classe appartient à un autre département** : vérifiez les options
-  de l'élève et sa grille de frais, qui peuvent être différentes.
+  de l'élève. Sa grille de frais peut être différente : ses services
+  optionnels (cantine, transport…) passent sur la nouvelle grille, repris
+  s'ils y existent (même type, même libellé) au tarif de cette grille,
+  retirés sinon. Un service déjà payé reste marqué payé.
 - **La classe a atteint sa capacité** : le bouton reste inactif tant que
   vous n'avez pas coché **Placer l'élève dans cette classe malgré tout** et
   écrit le **Motif**, obligatoire dans ce cas. Comme pour une admission ou
@@ -64,4 +67,6 @@ Selon la situation, un encadré apparaît sous la classe choisie :
 Sous le formulaire, l'**Historique des changements** liste chaque
 changement : la date, l'élève, la classe de départ et d'arrivée avec
 l'année, le motif et la personne qui l'a fait. Le nombre de notes
-abandonnées y figure quand il y en avait.
+abandonnées y figure quand il y en avait. Les
+[transferts de site](/guide/secretariat/transferts-sites) y figurent aussi,
+marqués « Changement de site », avec le motif donné dans la demande.

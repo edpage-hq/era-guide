@@ -33,8 +33,15 @@ To create a student:
    number and place of birth are printed on transcripts and certificates
    of completion.
 3. Choose a **Class** for the current academic year, or leave it
-   unassigned to create the record without an immediate enrollment.
+   unassigned to create the record without an immediate enrollment. The
+   list shows each class's head count and capacity.
 4. Click **Save**.
+
+A **full** class is not refused here. A notice appears with a **Reason for
+going over capacity (optional)** field: the enrollment goes through, the
+overrun is recorded (it shows among the
+[classes over capacity in pilotage](/en/guide/direction/pilotage)) and the
+site's direction is told.
 
 Editing a student shows the same fields, with one difference for the
 class. A student with **no class** this academic year can be enrolled
@@ -53,6 +60,38 @@ The record also shows two read-only tables if the student has history:
   another during a year (class change, site transfer), with the date, who
   made it, and each class's department and site — so a change of
   pedagogical curriculum (French ↔ Togolese) shows there too.
+
+## A student leaving during the year
+
+A student is **never deleted**: their record carries their grades,
+bulletins, payments and history. When a student leaves the school during
+the year (moving house, changing school…), record their departure from
+their record, **Leaving the school** section:
+
+1. Enter the **Date of departure** (today by default).
+2. Write the **Reason**.
+3. Click **Record the departure**.
+
+From then on:
+
+- the student drops out of class lists, roll calls, grade sheets,
+  bulletin publishing, year-end decisions and re-enrollment;
+- they no longer count in their class's head count: their seat is free;
+- their boarding bed and bus seat are freed;
+- they stay in the student list, greyed out, marked "Left on…";
+- the cash desk still sees them, with the same mark: what they owe stays
+  owed.
+
+If the student was already enrolled for next year, that enrollment is
+marked as left too. A departure recorded by mistake is undone with
+**Cancel the departure**: the student is back in their class. Their bed and
+bus seat are not given back automatically: they may have gone to someone
+else in the meantime.
+
+A student who comes back later is enrolled again, through an admission or
+from their record: their record is the same.
+
+## Screens attached to the record
 
 From a student's record, three buttons open dedicated screens: **Specialty
 subjects**, **Guardians**, and **Student account** (detailed below).
@@ -85,7 +124,9 @@ nothing else.
 For an eligible student:
 
 - **Create account** — enter an email address and click **Create
-  account**; the student can then sign in with it.
+  account**. The student gets a welcome email with a link to choose their
+  password (valid for 60 minutes; past that, "Forgot your password?" on
+  the sign-in page).
 - **Update email** — if an account already exists, change the address and
   click **Update email**.
 - **Revoke access** — removes the student's personal access without

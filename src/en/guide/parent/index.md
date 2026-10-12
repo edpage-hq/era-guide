@@ -45,6 +45,7 @@ in these cases:
 | a disciplinary council is convened, then once it decides | the session date, then the decision        |
 | your child is sent home by the infirmary                 | the reason and time of the visit           |
 | a payment is recorded                                    | the amount and the remaining balance       |
+| your site transfer request is settled or refused         | the new class, or the reason               |
 
 You are not told of every grade: the period's grades come with the report
 card, and averages can be checked any time on your child's page.

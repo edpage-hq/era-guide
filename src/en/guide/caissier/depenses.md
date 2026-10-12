@@ -44,6 +44,9 @@ the description, the amount, who requested it, and its status:
 | Approved | The expense was approved                       |
 | Rejected | The expense was rejected, with a reason logged |
 
+When your request is decided, you get a notification: expense approved,
+or rejected with the reason.
+
 You can filter this list by status to quickly find a pending or
 already-decided expense. The decision itself (approving or rejecting)
 is reserved for the administration and the direction — so you won't see an action

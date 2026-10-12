@@ -87,9 +87,12 @@ L'administrateur fixe ce seuil dans
 ## Classes en sureffectif
 
 Quand une classe de votre site reçoit un élève alors qu'elle est pleine —
-à l'admission, par une mobilité ou par un changement de classe —
+à l'admission, par une mobilité, par un changement de classe, depuis la
+fiche élève, à la réinscription ou au passage de promotion —
 vous recevez une notification _Classe en sureffectif_ : qui a forcé
-l'affectation, l'effectif atteint et le **motif** saisi. Il n'y a rien à
+l'affectation, l'effectif atteint et le **motif** s'il a été donné. Une
+réinscription qui dépasse de plusieurs élèves donne une seule
+notification pour la classe. Il n'y a rien à
 valider : c'est une information, pour que ces dépassements ne passent plus
 inaperçus.
 

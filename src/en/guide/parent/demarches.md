@@ -43,3 +43,8 @@ The request appears in the table below with the date, origin site,
 destination site and its status: **Pending**, **Approved** or
 **Rejected**. While a request is pending, you cannot submit a new one for
 the same child.
+
+You are told by email when the request is settled: once both sites have
+accepted it, with your child's new class, or when it is refused, with the
+reason. The services your child had chosen (cafeteria, transport…) follow
+them to the new site if it offers them, at that site's price.

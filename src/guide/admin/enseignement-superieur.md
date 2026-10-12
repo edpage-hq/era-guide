@@ -350,7 +350,11 @@ normale quand elle a réglé l'année (admis ou exclu).
 Pour chaque groupe, choisissez la promotion d'arrivée, sur le même site :
 quand il n'y en a qu'une, elle est déjà choisie. Puis cliquez sur
 **Inscrire**. Comme pour les classes du scolaire, un impayé est signalé
-sans bloquer, et une promotion pleine demande votre accord.
+sans bloquer, et une promotion pleine demande votre accord ; vous pouvez
+alors en donner le motif (facultatif). Le dépassement est enregistré pour
+chaque étudiant au-delà des places, comme à la
+[réinscription](/guide/admin/reinscriptions#effectif). Un étudiant parti en
+cours d'année n'est pas réinscrit.
 
 Ce que l'année laisse suit l'étudiant :
 

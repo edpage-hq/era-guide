@@ -46,8 +46,9 @@ appears under **Billing**. The list can be filtered by student name and
 academic year, and shows each student's total due, total paid, and
 remaining balance. The **Overdue** button keeps only the students behind
 on their payment plan; for each of them, the overdue amount shows in red
-under the balance. Click **View** to open a student's full financial
-record.
+under the balance. A student who left during the year stays in the list,
+greyed out and marked "Left on…": what they owe stays owed. Click **View**
+to open a student's full financial record.
 
 The detail page shows four key figures: **Total due**, **Discount**,
 **Total paid**, and **Balance**.
@@ -78,10 +79,13 @@ administrator to create one before you can bill the student.
 
 ### Collecting a payment
 
-1. In the **Record a payment** form, enter the **Amount**.
+1. In the **Record a payment** form, enter the **Amount**. It cannot be
+   more than the student's remaining balance: as with an online payment,
+   ERA refuses an overpayment.
 2. Choose the **Method**: Mixx by Yass (formerly T-Money), Flooz,
    Card, or Bank deposit.
-3. If a fee structure exists, indicate which **Fee item** this payment
+3. If a fee structure exists, indicate which **Fee item** of the
+   student's schedule this payment
    relates to, or leave the **Lump sum (not tied to an item)** choice
    for a payment that doesn't match any specific item.
 4. Fill in the **Reference** (transaction number, check number, etc.)

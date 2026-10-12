@@ -53,7 +53,22 @@ concerné :
 Dès que les deux sites ont donné leur accord — peu importe l'ordre — le
 transfert est exécuté automatiquement : l'élève est déplacé vers le
 nouveau site, département et classe, sans action supplémentaire de votre
-part.
+part. À ce moment :
+
+- le transfert est inscrit dans l'historique des
+  [changements de classe](/guide/secretariat/changements-de-classe),
+  marqué « Changement de site », avec les notes abandonnées ;
+- les **services optionnels** de l'élève (cantine, transport…) passent sur
+  la grille de frais du nouveau site : chaque service est repris s'il y
+  existe (même type, même libellé), au tarif du nouveau site, et retiré
+  sinon. Un service déjà payé reste marqué payé ;
+- la personne qui a fait la demande, en général un parent, est prévenue
+  par e-mail, avec la nouvelle classe.
+
+Si l'élève a des notes dans sa classe actuelle, un avertissement les compte
+au-dessus des deux blocs : elles restent enregistrées mais ne comptent plus
+après le transfert. Un transfert ne peut pas être validé tant que l'année
+est clôturée.
 
 ::: tip
 La notification d'une nouvelle demande (par exemple sur votre téléphone)
@@ -75,5 +90,6 @@ direction générale et les administrateurs en sont informés.
 2. Indiquez le **Motif de refus** (obligatoire).
 3. Confirmez en cliquant à nouveau sur **Refuser**.
 
-Une demande refusée ne peut plus être approuvée : la famille doit en
-soumettre une nouvelle si elle souhaite réessayer.
+La famille est prévenue par e-mail, avec le motif. Une demande refusée ne
+peut plus être approuvée : la famille doit en soumettre une nouvelle si
+elle souhaite réessayer.

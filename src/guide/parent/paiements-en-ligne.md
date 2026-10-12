@@ -78,6 +78,13 @@ Le paiement apparaît immédiatement dans l'historique avec le statut
 S'il échoue, il apparaît avec le statut **Échoué** et vous pouvez
 recommencer.
 
+Certains établissements appliquent une **majoration** aux paiements en
+ligne, pour couvrir la commission de l'opérateur. La fenêtre l'indique
+sous le montant, avec le total qui sera débité : en payant 50 000 F avec
+une majoration de 2,5 %, vous êtes débité de 51 250 F, et 50 000 F sont
+déduits de votre solde. Les paiements faits à la caisse ne sont pas
+majorés.
+
 ## Télécharger un reçu
 
 Une fois un paiement confirmé, un lien **Télécharger le reçu** apparaît en

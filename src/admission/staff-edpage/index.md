@@ -12,8 +12,9 @@ d'Era Admission et traite les **demandes de contact** qu'elle reçoit. Il
 n'a aucun rapport avec un compte utilisateur d'un établissement client —
 c'est un accès entièrement séparé.
 
-Le menu en haut du panel mène à ses trois écrans : **Établissements**,
-**Vitrine** et **Demandes de contact**. À droite, **Voir la vitrine**
+Le menu en haut du panel mène à ses écrans : **Établissements**,
+**Vitrine**, **Demandes de contact**, **Devis** et **Paiement en ligne**
+(les demandes d'activation du paiement en ligne). À droite, **Voir la vitrine**
 ouvre la page publique dans un nouvel onglet et **Mot de passe** mène au
 changement de votre propre mot de passe.
 
@@ -184,3 +185,45 @@ apparaissent en premier, les plus récentes d'abord.
 
 Une fois l'établissement recontacté, cliquez sur **Marquer comme traitée**.
 **Remettre à traiter** annule ce marquage.
+
+## Mettre en place le paiement en ligne d'un établissement
+
+Un établissement demande le paiement en ligne depuis son espace
+(**Finances → Paiement en ligne**). Sa demande arrive dans l'écran
+**Paiement en ligne** du panel ; le nombre de nouvelles demandes
+s'affiche en pastille dans le menu.
+
+Chaque demande donne ce dont l'opérateur a besoin pour ouvrir le compte
+marchand : raison sociale, responsable légal, RCCM, NIF, numéro de
+reversement des fonds, ainsi que le nom, l'e-mail et le téléphone de la
+personne qui a fait la demande. Les demandes ouvertes apparaissent en
+premier, les plus anciennes d'abord.
+
+1. Rappelez l'établissement pour convenir de la mise en place, qui est
+   payante et se règle en dehors de la plateforme. Passez la demande en
+   **En cours** et, si utile, laissez une **Note pour l'école** :
+   l'établissement la lit sur sa page Paiement en ligne.
+2. Une fois le paiement reçu, ouvrez à la main le compte marchand de
+   l'établissement chez l'opérateur (PayGate aujourd'hui).
+3. Cliquez sur **Configurer le paiement** (le même écran s'ouvre depuis
+   la liste des établissements, bouton **Paiement en ligne**).
+4. Choisissez l'**Opérateur**, saisissez la **Clé d'API** du compte, la
+   **Majoration des paiements en ligne** éventuelle (en %, pour couvrir
+   la commission de l'opérateur ; les paiements à la caisse ne sont
+   jamais majorés), cochez **Les parents peuvent payer en ligne**, puis
+   enregistrez.
+5. Copiez l'**Adresse de retour (webhook)** affichée et collez-la dans le
+   tableau de bord du compte chez l'opérateur, comme adresse de
+   confirmation des paiements. Sans elle, les paiements resteraient « En
+   attente ».
+
+À l'activation, les administrateurs de l'établissement reçoivent un
+e-mail, et la demande passe d'elle-même en **Activée**. Une demande non
+retenue se passe en **Refusée** : l'établissement peut alors en envoyer
+une nouvelle.
+
+Chaque établissement a son propre compte marchand : les clés d'API ne
+sont jamais réaffichées une fois enregistrées (laissez le champ vide pour
+les garder), et le fichier de configuration du serveur n'est jamais
+utilisé pour un établissement hébergé. Pour suspendre le paiement en
+ligne, décochez **Les parents peuvent payer en ligne** et enregistrez.

@@ -83,6 +83,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Year-end decisions', link: 'admin/decisions-fin-annee' },
         { text: 'Re-enrollments', link: 'admin/reinscriptions' },
         { text: 'Fees and pricing', link: 'admin/frais-tarification' },
+        { text: 'Online payment', link: 'admin/paiement-en-ligne' },
         { text: 'Timetables', link: 'admin/emplois-du-temps' },
         { text: 'Report cards', link: 'admin/bulletins' },
         { text: 'Higher education', link: 'admin/enseignement-superieur' },

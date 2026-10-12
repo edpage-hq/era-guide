@@ -72,6 +72,12 @@ The payment immediately appears in the history with status **Pending**,
 then switches to **Paid** once the transaction is confirmed. If it fails,
 it appears as **Failed** and you can try again.
 
+Some schools add a **surcharge** to online payments, to cover the
+provider's commission. The window shows it under the amount, with the
+total you will be debited: paying 50,000 F with a 2.5% surcharge debits
+you 51,250 F, and 50,000 F comes off your balance. Payments made at the
+cash desk carry no surcharge.
+
 ## Downloading a receipt
 
 Once a payment is confirmed, a **Download receipt** link appears next to

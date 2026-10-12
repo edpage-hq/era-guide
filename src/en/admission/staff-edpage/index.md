@@ -11,8 +11,9 @@ where the team edits Era Admission's **landing page** and handles the
 **contact requests** it receives. It has nothing to do with a client
 school's own user account — it's an entirely separate access.
 
-The menu at the top of the panel leads to its three screens: **Schools**,
-**Landing page** and **Contact requests**. On the right, **View landing
+The menu at the top of the panel leads to its screens: **Schools**,
+**Landing page**, **Contact requests**, **Quotes** and **Online payment**
+(requests to switch online payment on). On the right, **View landing
 page** opens the public page in a new tab, and **Password** leads to
 changing your own password.
 
@@ -169,3 +170,39 @@ and their message. Requests **To handle** come first, newest first.
 
 Once you have got back to the school, click **Mark as handled**. **Mark
 as to handle** undoes it.
+
+## Setting up a school's online payment
+
+A school asks for online payment from its space (**Finances → Online
+payment**). Its request reaches the panel's **Online payment** screen;
+the number of new requests shows as a badge in the menu.
+
+Each request gives what the provider needs to open the merchant account:
+legal name, legal representative, RCCM, NIF, payout number for the funds,
+plus the name, email and phone of the person who asked. Open requests come
+first, oldest first.
+
+1. Call the school back to agree on the set-up, which is paid for and
+   settled outside the platform. Move the request to **In progress** and,
+   if useful, leave a **Note for the school**: the school reads it on its
+   Online payment page.
+2. Once paid, open the school's merchant account with the provider by
+   hand (PayGate today).
+3. Click **Set up payment** (the same screen opens from the schools list,
+   **Online payment** button).
+4. Choose the **Provider**, enter the account's **API key**, any **Online
+   payment surcharge** (in %, to cover the provider's commission; cash
+   desk payments never carry one), tick **Parents can pay online**, then
+   save.
+5. Copy the **Callback address (webhook)** shown and paste it in the
+   account's dashboard at the provider, as the payment confirmation
+   address. Without it, payments would stay "Pending".
+
+On activation, the school's administrators get an email, and the request
+turns **Activated** on its own. A request not taken forward is set to
+**Declined**: the school can then send a new one.
+
+Each school has its own merchant account: API keys are never shown again
+once saved (leave the field blank to keep them), and the server's
+configuration file is never used for a hosted school. To suspend online
+payment, untick **Parents can pay online** and save.

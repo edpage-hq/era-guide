@@ -46,6 +46,9 @@ la description, le montant, qui l'a demandée et son statut :
 | Approuvé   | La dépense a été approuvée                       |
 | Refusé     | La dépense a été refusée, avec un motif consigné |
 
+Quand votre demande est décidée, vous recevez une notification : dépense
+approuvée, ou refusée avec le motif.
+
 Vous pouvez filtrer cette liste par statut pour retrouver rapidement une
 dépense en attente ou déjà décidée. La décision elle-même (approuver ou
 refuser) est réservée à l'administration et à la direction — vous ne verrez donc

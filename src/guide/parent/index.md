@@ -46,6 +46,7 @@ notifications de votre espace, dans ces cas :
 | un conseil de discipline est convoqué, puis quand il a décidé | la date de la séance, puis la décision |
 | votre enfant est renvoyé à la maison par l'infirmerie         | le motif et l'heure du passage         |
 | un paiement est enregistré                                    | le montant et le solde restant         |
+| votre demande de transfert de site aboutit ou est refusée     | la nouvelle classe, ou le motif        |
 
 Vous n'êtes pas prévenu de chaque note : les notes de la période se
 découvrent avec le bulletin, et les moyennes restent consultables à tout

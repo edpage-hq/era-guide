@@ -228,17 +228,19 @@ liste d'un coup.
 ## Décider depuis une notification
 
 Les demandes qui attendent une décision — mobilité d'un élève, mutation
-d'un membre du personnel, dépense — arrivent en notification à ceux qui
-peuvent en décider. Un appui ouvre la page
+d'un membre du personnel, dépense, congé — arrivent en notification à ceux
+qui peuvent en décider. Un appui ouvre la page
 [À approuver](/guide/direction/a-approuver), avec la demande mise en avant :
-**Approuver** tranche en un geste, **Refuser** demande un motif, transmis à
-la personne qui avait déposé la demande.
+**Approuver** tranche en un geste, **Refuser** demande un motif. La
+personne qui avait déposé la demande est prévenue de la décision, avec le
+motif d'un refus.
 
 | Demande                                | Qui la reçoit                                                                                         |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | Mobilité d'un élève vers un autre site | La direction de chaque site concerné ; pour un site sans direction, le secrétariat ; l'administration |
 | Mutation d'un membre du personnel      | La direction des deux sites, la direction générale, l'administration                                  |
 | Dépense                                | La direction du site jusqu'au seuil, la direction générale, l'administration                          |
+| Congé                                  | La direction du site de la personne, la direction générale, l'administration                          |
 
 C'est la même demande que dans les files du menu : une demande décidée
 depuis **À approuver** apparaît comme traitée dans sa file, et inversement.

@@ -20,6 +20,14 @@ Cochez les services que votre enfant prend cette année, puis cliquez sur
 **Enregistrer mes choix** : le **Total dû** et le **Solde** en tiennent
 compte aussitôt, et vous pouvez payer.
 
+Si votre enfant est déjà inscrit pour l'**année suivante** (admission ou
+réinscription), un second bloc, intitulé par exemple **Année 2027-2028 ·
+5e A**, apparaît sous celui de l'année en cours, avec ses propres frais,
+ses services à cocher et son propre bouton de paiement en ligne. Vous
+pouvez ainsi choisir les services et payer l'inscription avant la rentrée.
+La page d'accueil de votre espace le signale sur la carte de l'enfant
+(« Inscrit en 5e A pour 2027-2028 », avec le solde).
+
 Vous pouvez ajouter un service à tout moment. En revanche, un service
 marqué **déjà payé** — un paiement a été enregistré depuis que vous l'avez
 coché — ne peut plus être retiré depuis votre espace : pour l'arrêter,

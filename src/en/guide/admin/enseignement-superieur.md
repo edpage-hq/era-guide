@@ -341,7 +341,10 @@ the year (admitted or excluded).
 For each group, choose the promotion to enrol into, on the same site: when
 there is only one, it is already chosen. Then click **Enrol**. As for
 school classes, unpaid fees are flagged without blocking, and a full
-promotion asks for your approval.
+promotion asks for your approval; you can then give the reason
+(optional). The overrun is recorded for each student beyond the seats, as
+on [re-enrollment](/en/guide/admin/reinscriptions#capacity). A student who
+left during the year is not enrolled again.
 
 What the year leaves follows the student:
 

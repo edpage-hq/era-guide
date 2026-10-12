@@ -211,17 +211,19 @@ approve). Click a notification to open it and mark it as read, or use
 ## Deciding from a notification
 
 Requests waiting for a decision — a student moving site, a staff member
-moving site, an expense — reach the people who can decide them as a
-notification. Tapping it opens the
+moving site, an expense, a leave — reach the people who can decide them as
+a notification. Tapping it opens the
 [To approve](/en/guide/direction/a-approuver) page, with the request
-highlighted: **Approve** decides in one tap, **Reject** asks for a reason,
-passed on to whoever filed the request.
+highlighted: **Approve** decides in one tap, **Reject** asks for a reason.
+Whoever filed the request hears of the decision, with the reason of a
+refusal.
 
 | Request                          | Who receives it                                                                     |
 | -------------------------------- | ----------------------------------------------------------------------------------- |
 | A student moving to another site | Each site's direction; for a site without one, the front desk; the administration   |
 | A staff member moving site       | The direction of both sites, the general direction, the administration              |
 | An expense                       | The site's direction up to the threshold, the general direction, the administration |
+| A leave                          | The direction of the person's site, the general direction, the administration       |
 
 It's the same request as in the menu's queues: one decided from **To
 approve** shows as handled in its queue, and the other way round.

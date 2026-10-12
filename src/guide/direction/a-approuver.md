@@ -16,19 +16,29 @@ Seulement ce que vous pouvez décider vous-même :
 
 - une **direction de site** voit les dépenses de ses sites jusqu'au
   [seuil](/guide/direction/#depenses), les mutations qui touchent l'un de ses
-  sites, et la part de ses sites dans les mobilités d'élèves ;
+  sites, la part de ses sites dans les mobilités d'élèves, et les
+  [congés](/guide/conges) du personnel de ses sites ;
 - la **direction générale** et l'**administrateur** voient tout ;
 - le **secrétariat** y voit la part des mobilités d'élèves des sites qui
   n'ont pas de direction.
 
-Une mobilité dont votre part est déjà validée n'y figure plus : elle attend
+Votre propre demande de congé n'y figure jamais : personne ne décide de la
+sienne. Une mobilité dont votre part est déjà validée n'y figure plus : elle attend
 l'autre site. Une dépense au-delà du seuil n'apparaît pas chez la direction
 de site, puisque la décision revient à la direction générale.
 
 ## Décider
 
-- **Approuver** tranche la demande en un geste.
-- **Refuser** demande un motif, transmis au demandeur.
+- **Approuver** (ou **Accorder**, pour un congé) tranche la demande en un
+  geste.
+- **Refuser** demande un motif.
+
+Dans les deux cas, la personne qui avait fait la demande est prévenue de la
+décision, avec le motif d'un refus : le caissier pour sa dépense, la
+personne mutée et celle qui a demandé la mutation, le membre du personnel
+pour son congé, le parent pour la mobilité de son enfant (par e-mail, une
+fois la mobilité exécutée ou refusée).
+
 - **Détail** ouvre la fiche complète de la demande.
 
 Une demande décidée quitte la liste aussitôt.
@@ -46,7 +56,9 @@ et donnez le motif. Le dépassement est enregistré et apparaît dans la page
 [Pilotage](/guide/direction/pilotage#classes-en-sureffectif).
 
 Le transfert s'exécute dès que les deux sites ont validé, dans n'importe
-quel ordre.
+quel ordre. Si l'élève a des notes dans sa classe actuelle, la fiche de la
+demande l'indique : elles ne compteront plus après le transfert, comme pour
+un [changement de classe](/guide/secretariat/changements-de-classe).
 
 ## Les finances d'un coup d'œil
 

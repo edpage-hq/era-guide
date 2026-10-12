@@ -77,9 +77,12 @@ l'indique simplement.
 
 La dernière section liste les élèves affectés à une classe déjà pleine, dans
 le périmètre choisi : la classe et son site, l'effectif atteint
-(`31/30`), s'il s'agissait d'une admission, d'une mobilité ou d'un
-changement de classe, le **motif**
-saisi, l'élève, la personne qui a forcé l'affectation et la date. Voir
+(`31/30`), l'origine du dépassement (admission, mobilité, changement de
+classe, fiche élève, réinscription ou passage de promotion), le **motif**
+s'il a été donné, l'élève, la personne qui a forcé l'affectation et la
+date. Le motif est obligatoire à l'admission, pour une mobilité et pour un
+changement de classe ; il est facultatif depuis la fiche élève, à la
+réinscription et au passage de promotion. Voir
 [Direction → Classes en sureffectif](/guide/direction/#classes-en-sureffectif).
 
 ## Exporter

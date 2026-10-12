@@ -49,7 +49,22 @@ The form presents two separate sections, one for each site involved:
 
 As soon as both sites have given their approval — in either order — the
 transfer executes automatically: the student is moved to the new site,
-department, and class, with no further action on your part.
+department, and class, with no further action on your part. At that
+point:
+
+- the transfer is written into the
+  [class change](/en/guide/secretariat/changements-de-classe) history,
+  marked "Site transfer", with the abandoned grades;
+- the student's **optional services** (cafeteria, transport…) move to the
+  new site's fee schedule: each one is kept if it exists there (same kind,
+  same label), at the new site's price, and dropped otherwise. A service
+  already paid for stays marked as paid;
+- whoever made the request, usually a parent, is told by email, with the
+  new class.
+
+If the student has grades in their current class, a notice counts them
+above the two blocks: they stay recorded but no longer count after the
+transfer. A transfer cannot be approved while the year is closed.
 
 ::: tip
 The notification of a new request (for example on your phone) opens the
@@ -70,5 +85,6 @@ direction and the administrators are told.
 2. Enter the **Rejection reason** (required).
 3. Confirm by clicking **Reject** again.
 
-A rejected request can no longer be approved: the family must submit a
-new one if they want to try again.
+The family is told by email, with the reason. A rejected request can no
+longer be approved: the family must submit a new one if they want to try
+again.

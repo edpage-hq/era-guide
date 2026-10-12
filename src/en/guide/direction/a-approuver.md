@@ -15,19 +15,28 @@ Only what you may decide yourself:
 
 - a **site director** sees their sites' expenses up to the
   [threshold](/en/guide/direction/#expenses), the staff transfers touching
-  one of their sites, and their sites' side of student transfers;
+  one of their sites, their sites' side of student transfers, and the
+  [leave requests](/en/guide/conges) of their sites' staff;
 - the **general director** and the **administrator** see everything;
 - the **secretariat** sees the student-transfer side of the sites that
   have no director.
 
-A transfer whose side you have already approved is no longer listed: it is
+Your own leave request is never listed: nobody decides their own. A
+transfer whose side you have already approved is no longer listed: it is
 waiting on the other site. An expense above the threshold does not appear
 for a site director, since the general direction decides it.
 
 ## Deciding
 
-- **Approve** settles the request in one gesture.
-- **Reject** asks for a reason, passed on to the requester.
+- **Approve** (or **Grant**, for leave) settles the request in one gesture.
+- **Reject** asks for a reason.
+
+Either way, whoever made the request hears of the decision, with the
+reason of a refusal: the cashier for their expense, the employee moved and
+whoever asked for the transfer, the staff member for their leave, the
+parent for their child's site transfer (by email, once it is carried out
+or refused).
+
 - **Details** opens the request's full page.
 
 A decided request leaves the list straight away.
@@ -45,6 +54,9 @@ the reason. The override is recorded and shows on the
 [Pilotage](/en/guide/direction/pilotage#classes-over-capacity) page.
 
 The transfer is carried out once both sites have approved, in either order.
+If the student has grades in their current class, the request's page says
+so: they will no longer count after the transfer, as with a
+[class change](/en/guide/secretariat/changements-de-classe).
 
 ## The money at a glance
 

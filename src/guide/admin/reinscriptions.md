@@ -47,6 +47,8 @@ Ne sont pas réinscrits :
   niveau de l'établissement ;
 - les élèves **sans décision** : un lien **Décider maintenant** mène aux
   décisions de leur classe ;
+- les élèves dont le [départ](/guide/admin/eleves-tuteurs#depart-d-un-eleve-en-cours-d-annee)
+  a été enregistré en cours d'année ;
 - les élèves **déjà inscrits** dans la nouvelle année, par exemple placés à
   la main : ils ne sont jamais déplacés. Vous pouvez donc relancer la
   réinscription sans risque.
@@ -58,7 +60,8 @@ Ne sont pas réinscrits :
   personnel est gardé dans le même département ; dans un autre département,
   c'est le coefficient de ce département qui s'applique.
 - Ses **frais optionnels** (cantine, transport…) ne sont pas repris : la
-  famille les choisit de nouveau chaque année. La caisse voit ceux de l'an
+  famille les choisit de nouveau chaque année, depuis son espace parent dès
+  que la réinscription est faite. La caisse voit ceux de l'an
   dernier et peut les reprendre en un clic, voir
   [Inscriptions et paiements](/guide/caissier/inscriptions-et-paiements#definir-les-frais-dus).
 
@@ -72,7 +75,12 @@ le solde est à régulariser à la caisse.
 
 Si une classe choisie dépasserait son effectif maximum, cochez **Dépasser
 l'effectif maximum** (la case nomme la classe concernée) pour réinscrire
-quand même.
+quand même. Un champ **Motif du dépassement (facultatif)** apparaît alors.
+
+Le dépassement est enregistré pour chaque élève placé au-delà des places
+restantes : il apparaît dans les
+[classes en sureffectif du pilotage](/guide/direction/pilotage#classes-en-sureffectif),
+et la direction du site reçoit une seule notification pour la classe.
 
 ## Ensuite
 

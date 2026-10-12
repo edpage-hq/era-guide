@@ -74,9 +74,12 @@ says so.
 
 The last section lists the students placed in a class that was already
 full, within the chosen scope: the class and its site, the headcount
-reached (`31/30`), whether it was an admission, a transfer or a class
-change, the
-**reason** given, the student, who forced the assignment and the date. See
+reached (`31/30`), where the overrun came from (admission, transfer, class
+change, student record, re-enrollment or promotion moving up), the
+**reason** if one was given, the student, who forced the assignment and
+the date. The reason is required on admission, for a transfer and for a
+class change; it is optional from the student record, on re-enrollment
+and when a promotion moves up. See
 [Direction → Classes over capacity](/en/guide/direction/#classes-over-capacity).
 
 ## Exporting

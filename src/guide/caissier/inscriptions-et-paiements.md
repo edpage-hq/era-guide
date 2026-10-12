@@ -47,8 +47,9 @@ dans **Facturation**. La liste est filtrable par nom d'élève et par
 année scolaire, et affiche pour chacun le total dû, le total payé et le
 solde restant. Le bouton **En retard** ne garde que les élèves en retard
 sur leur échéancier ; pour chacun, le montant en retard s'affiche en rouge
-sous le solde. Cliquez sur **Voir** pour ouvrir le dossier financier
-complet d'un élève.
+sous le solde. Un élève parti en cours d'année reste dans la liste, grisé
+avec la mention « Parti le… » : ce qu'il doit reste dû. Cliquez sur
+**Voir** pour ouvrir le dossier financier complet d'un élève.
 
 La page de détail affiche quatre chiffres clés : **Total dû**,
 **Remise**, **Total payé** et **Solde**.
@@ -83,11 +84,12 @@ un administrateur de la créer avant de pouvoir facturer l'élève.
 ### Encaisser un paiement
 
 1. Dans le formulaire **Enregistrer un paiement**, saisissez le
-   **Montant**.
+   **Montant**. Il ne peut pas dépasser le solde restant de l'élève :
+   comme pour un paiement en ligne, ERA refuse un trop-perçu.
 2. Choisissez la **Méthode** : Mixx by Yass (ex-T-Money), Flooz,
    Carte bancaire ou Dépôt bancaire.
 3. Si une grille de frais existe, indiquez à quel **Article de frais**
-   se rattache ce paiement, ou laissez le choix **Somme globale (non
+   de la grille de l'élève se rattache ce paiement, ou laissez le choix **Somme globale (non
    liée à un article)** pour un versement qui ne correspond à aucun
    article précis.
 4. Renseignez la **Référence** (numéro de transaction, de chèque, etc.)

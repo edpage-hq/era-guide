@@ -20,6 +20,14 @@ Tick the services your child takes this year, then click **Save my
 choices**: the **Total due** and the **Balance** include them straight
 away, and you can pay.
 
+If your child is already enrolled for **next year** (admission or
+re-enrollment), a second block, titled for instance **2027-2028 · 5e A**,
+appears below the current year's, with its own fees, its own services to
+tick and its own online payment button. You can thus choose the services
+and pay the enrollment before the school year starts. The home page of
+your space mentions it on the child's card ("Enrolled in 5e A for
+2027-2028", with the balance).
+
 You can add a service at any time. A service marked **already paid for** —
 a payment was recorded since you ticked it — can no longer be removed from
 your space: to stop it, ask the school's cash desk. Until you have paid

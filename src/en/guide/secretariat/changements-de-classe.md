@@ -41,7 +41,10 @@ Depending on the situation, a box appears under the chosen class:
   carried over and no longer count for the student. They are not deleted,
   though, and the number of abandoned grades is kept in the history.
 - **The class belongs to another department**: check the student's
-  options and fee schedule, which may differ.
+  options. Their fee schedule may differ: their optional services
+  (cafeteria, transport…) move to the new schedule, kept if they exist
+  there (same kind, same label) at that schedule's price, dropped
+  otherwise. A service already paid for stays marked as paid.
 - **The class is full**: the button stays disabled until you tick **Place
   the student in this class anyway** and write the **Reason**, required in
   this case. As for an admission or a site move, the overrun is recorded,
@@ -59,4 +62,5 @@ Depending on the situation, a box appears under the chosen class:
 Below the form, the **Change history** lists every change: the date, the
 student, the original and destination classes with the year, the reason,
 and who made it. The number of abandoned grades appears when there were
-any.
+any. [Site transfers](/en/guide/secretariat/transferts-sites) show there
+too, marked "Site transfer", with the reason given in the request.

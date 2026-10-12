@@ -33,8 +33,15 @@ Pour créer un élève :
    champs sont facultatifs ; le matricule et le lieu de naissance figurent
    sur les relevés de notes et les attestations de réussite.
 3. Choisissez une **Classe** pour l'année scolaire en cours, ou laissez
-   « Non affecté » pour créer le dossier sans inscription immédiate.
+   « Non affecté » pour créer le dossier sans inscription immédiate. La
+   liste affiche l'effectif de chaque classe et sa capacité.
 4. Cliquez sur **Enregistrer**.
+
+Une classe **complète** n'est pas refusée ici. Un avertissement s'affiche
+avec un champ **Motif du dépassement (facultatif)** : l'inscription
+passe, le dépassement est enregistré (il apparaît dans les
+[classes en sureffectif du pilotage](/guide/direction/pilotage)) et la
+direction du site en est informée.
 
 En modifiant un élève, vous retrouvez les mêmes champs, à une différence
 près pour la classe. Un élève **sans classe** sur l'année en cours peut y
@@ -55,6 +62,40 @@ l'historique :
   la date, l'auteur, et le département et le site de chaque classe : un
   changement de référentiel pédagogique (français ↔ togolais) s'y lit donc
   aussi.
+
+## Départ d'un élève en cours d'année
+
+Un élève n'est **jamais supprimé** : son dossier porte ses notes, ses
+bulletins, ses paiements et son historique. Quand un élève quitte
+l'établissement en cours d'année (déménagement, changement d'école…),
+enregistrez son départ depuis sa fiche, section **Départ de
+l'établissement** :
+
+1. Renseignez la **Date du départ** (aujourd'hui par défaut).
+2. Écrivez le **Motif**.
+3. Cliquez sur **Enregistrer le départ**.
+
+À partir de là :
+
+- l'élève disparaît des listes de classe, des appels, des feuilles de
+  notes, de la publication des bulletins, des décisions de fin d'année et
+  des réinscriptions ;
+- il ne compte plus dans l'effectif de sa classe : sa place est libérée ;
+- son lit d'internat et sa place dans le bus sont libérés ;
+- il reste dans la liste des élèves, grisé, avec la mention « Parti le… » ;
+- la caisse le voit toujours, avec la même mention : ce qu'il doit reste
+  dû.
+
+Si l'élève était déjà inscrit pour l'année suivante, cette inscription est
+marquée partie elle aussi. Un départ enregistré par erreur s'annule avec
+**Annuler le départ** : l'élève revient dans sa classe. Son lit et sa
+place de bus, eux, ne lui sont pas rendus automatiquement : ils ont pu être
+attribués entre-temps.
+
+Un élève qui revient plus tard dans l'établissement est inscrit à nouveau,
+par une admission ou par sa fiche : son dossier est le même.
+
+## Écrans rattachés à la fiche
 
 Depuis la fiche d'un élève, trois boutons ouvrent des écrans dédiés :
 **Matières de spécialité**, **Tuteurs** et **Compte élève** (détaillés
@@ -88,7 +129,9 @@ d'inéligibilité et rien d'autre.
 Pour un élève éligible :
 
 - **Créer le compte** — renseignez une adresse e-mail, cliquez sur
-  **Créer le compte** ; l'élève peut alors se connecter avec cette adresse.
+  **Créer le compte**. L'élève reçoit un e-mail d'accueil avec un lien pour
+  choisir son mot de passe (valable 60 minutes ; passé ce délai, « Mot de
+  passe oublié ? » sur la page de connexion).
 - **Mettre à jour l'e-mail** — si un compte existe déjà, changez l'adresse
   et cliquez sur **Mettre à jour l'e-mail**.
 - **Révoquer l'accès** — supprime l'accès personnel de l'élève sans

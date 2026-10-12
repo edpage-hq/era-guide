@@ -45,3 +45,9 @@ La demande apparaît dans le tableau en dessous avec la date, le site
 d'origine, le site de destination et son statut : **En attente**,
 **Approuvé** ou **Refusé**. Tant qu'une demande est en attente, vous ne
 pouvez pas en soumettre une nouvelle pour le même enfant.
+
+Vous êtes prévenu par e-mail quand la demande aboutit : quand les deux
+sites l'ont acceptée, avec la nouvelle classe de votre enfant, ou quand
+elle est refusée, avec le motif. Les services que votre enfant avait
+choisis (cantine, transport…) le suivent sur le nouveau site s'ils y sont
+proposés, au tarif de ce site.

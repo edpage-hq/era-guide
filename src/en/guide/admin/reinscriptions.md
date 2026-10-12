@@ -44,6 +44,8 @@ Not re-enrolled:
   last level;
 - students **without a decision**: a **Decide now** link leads to their
   class's decisions;
+- students whose [departure](/en/guide/admin/eleves-tuteurs#a-student-leaving-during-the-year)
+  was recorded during the year;
 - students **already enrolled** in the new year, e.g. placed by hand: they
   are never moved. Running the re-enrollment again is therefore safe.
 
@@ -54,7 +56,8 @@ Not re-enrolled:
   kept within the same department; in another department, that
   department's coefficient applies.
 - Their **optional fees** (cafeteria, transport…) are not carried over: the
-  family chooses them again every year. The cashier sees last year's and
+  family chooses them again every year, from their parent space as soon
+  as the re-enrollment is done. The cashier sees last year's and
   can pick them again in one click, see
   [Enrollments and payments](/en/guide/caissier/inscriptions-et-paiements#setting-the-fees-due).
 
@@ -67,7 +70,13 @@ settled at the cash desk.
 ## Capacity
 
 If a chosen class would go over its capacity, tick **Go over the capacity
-of …** (the checkbox names the class) to re-enroll anyway.
+of …** (the checkbox names the class) to re-enroll anyway. A **Reason for
+going over capacity (optional)** field then appears.
+
+The overrun is recorded for each student placed beyond the seats left: it
+shows among the
+[classes over capacity in pilotage](/en/guide/direction/pilotage#classes-over-capacity),
+and the site's direction gets a single notification for the class.
 
 ## Afterwards
 

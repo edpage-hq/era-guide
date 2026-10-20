@@ -36,6 +36,27 @@ matière.
    travail**, **Alerte conduite**.
 4. Cliquez sur **Enregistrer**.
 
+## Consulter les récapitulatifs de notes
+
+**Enseignement → Récapitulatifs de notes** affiche les classes où vous
+enseignez :
+
+- pour chaque matière que vous y enseignez, son **relevé** : chaque
+  évaluation de la période, la note de chaque élève telle que saisie, et sa
+  moyenne dans la matière, celle du bulletin ;
+- si vous êtes **professeur principal** de la classe, le **récap des notes**
+  de toute la classe (chaque élève dans chaque matière, avec sa moyenne
+  générale), le relevé de toutes les matières, et le relevé de notes de
+  chaque élève.
+
+Chaque écran se télécharge en PDF ou en Excel, avec les rangs. Le fichier
+Excel d'une matière que vous enseignez sert aussi à **importer** vos notes
+et appréciations : remplissez-le, puis renvoyez-le avec **Importer** ; le
+professeur principal importe de la même façon les appréciations du conseil.
+Le détail est dans le guide de l'administration :
+[Récapitulatifs de notes](/guide/admin/bulletins#recapitulatifs-de-notes) et
+[Importer depuis Excel](/guide/admin/bulletins#importer-depuis-excel).
+
 ## Tenir le cahier de textes
 
 Le cahier de textes trace, séance par séance, ce qui a été fait en cours et

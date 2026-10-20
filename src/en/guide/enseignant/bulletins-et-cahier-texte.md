@@ -47,9 +47,13 @@ end-of-period general appreciation, separate from the per-subject ones.
   summary** (each student in each subject, with their overall average),
   every subject's mark sheet, and each student's grade report.
 
-Each screen downloads as a PDF or a CSV (spreadsheet). The details are in
+Each screen downloads as a PDF or an Excel file, with the ranks. The Excel
+file of a subject you teach is also how you **import** your grades and
+appreciations: fill it in, then send it back with **Import**; the homeroom
+teacher imports the council appreciations the same way. The details are in
 the admin guide:
-[Grade summaries](/en/guide/admin/bulletins#grade-summaries).
+[Grade summaries](/en/guide/admin/bulletins#grade-summaries) and
+[Import from Excel](/en/guide/admin/bulletins#import-from-excel).
 
 ## Keep the lesson log
 

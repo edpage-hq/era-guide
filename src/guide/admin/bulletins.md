@@ -53,28 +53,62 @@ des bulletins d'une classe mène au même endroit.
   avec dessous le détail par type d'évaluation (D = devoir, C =
   composition…). Un point signale une option que l'élève ne suit pas ; une
   spécialité abandonnée est marquée. La dernière colonne donne la moyenne
-  générale ; les trois dernières lignes, la moyenne de la classe, la plus
-  basse et la plus haute.
+  générale, puis le rang de l'élève dans la classe ; les trois dernières
+  lignes, la moyenne de la classe, la plus basse et la plus haute.
 - **Une matière** — le relevé de la matière : chaque évaluation de la
   période, la note de chaque élève telle que saisie (sur le barème de
   l'évaluation, avec bonus ou malus, absent ou dispensé), puis sa moyenne
-  dans la matière. Seuls les élèves qui suivent la matière y figurent ; les
-  types hors moyenne sont signalés.
+  dans la matière et son rang dans la matière. Seuls les élèves qui suivent
+  la matière y figurent ; les types hors moyenne sont signalés.
 
 Les moyennes sont **exactement celles des bulletins** : un récapitulatif ne
-peut pas afficher une autre moyenne que le bulletin du même élève. Il n'y a
-pas de rang, comme sur le bulletin.
+peut pas afficher une autre moyenne que le bulletin du même élève. Deux
+élèves à la même moyenne (au centième près, telle qu'affichée) partagent le
+même rang, « 2e ex æquo », et le rang suivant est sauté (1er, 2e, 2e, 4e).
 
 Chaque écran se télécharge :
 
 - en **PDF**, pour l'imprimer ou le présenter en conseil de classe ;
-- en **CSV**, pour l'ouvrir dans un tableur (Excel, LibreOffice) : en
-  français, le fichier utilise le point-virgule et la virgule décimale, et
-  s'ouvre directement en colonnes.
+- en **Excel** (.xlsx), pour le retravailler dans un tableur. Le fichier
+  d'une classe a deux feuilles : le récapitulatif, et les **appréciations du
+  conseil** à remplir.
 
 L'icône à côté du nom d'un élève, dans le récap de la classe, télécharge
 son **relevé de notes** en PDF : chacune de ses évaluations, matière par
-matière, avec ses moyennes.
+matière, avec ses moyennes et son rang dans la classe.
+
+### Importer des notes et des appréciations depuis Excel {#importer-depuis-excel}
+
+Le fichier Excel téléchargé sert aussi de modèle : on le remplit, puis on le
+renvoie avec le bouton **Importer** du même écran.
+
+- **Notes et appréciations d'une matière** — depuis le relevé de la matière.
+  Dans chaque colonne d'évaluation, saisissez la note sur le barème de
+  l'évaluation (12 ou 12,5), « Absent » (ou « abs ») ou « Dispensé » (ou
+  « disp ») ; dans la colonne **Appréciation**, l'appréciation du bulletin.
+  Les évaluations doivent d'abord être créées dans ERA : l'import remplit
+  leurs notes, il n'en crée pas. Un bonus ou un malus déjà donné est
+  conservé. Réservé à l'administration et à l'enseignant de la matière.
+- **Appréciations du conseil** — depuis le récap de la classe, feuille
+  « Appréciations du conseil » : appréciation générale, conduite, et un « x »
+  pour chaque distinction ou alerte (félicitations, compliments,
+  encouragements, alerte travail, alerte conduite). Réservé à
+  l'administration et au professeur principal.
+
+Les règles de l'import :
+
+- **une case vide ne change rien** à ce qui est déjà dans ERA : on peut
+  réimporter le même fichier après l'avoir complété. Pour les distinctions,
+  sur une ligne remplie, une case vide veut dire « non » ;
+- **tout ou rien** : le fichier est vérifié en entier avant d'être
+  enregistré. S'il contient une erreur (note hors barème, mot non reconnu,
+  élève inconnu), rien n'est enregistré et chaque ligne à corriger est
+  listée ;
+- ne modifiez pas la première colonne (**N° élève**) : c'est elle qui relie
+  chaque ligne à l'élève. Le fichier d'une autre classe, matière ou période
+  est refusé, comme tout import dans une période clôturée ;
+- un fichier CSV enregistré depuis Excel est aussi accepté, tant que ses
+  en-têtes de colonnes sont ceux du fichier téléchargé.
 
 ## Modèle de bulletin
 

@@ -49,9 +49,13 @@ enseignez :
   générale), le relevé de toutes les matières, et le relevé de notes de
   chaque élève.
 
-Chaque écran se télécharge en PDF ou en CSV (tableur). Le détail est dans
-le guide de l'administration :
-[Récapitulatifs de notes](/guide/admin/bulletins#recapitulatifs-de-notes).
+Chaque écran se télécharge en PDF ou en Excel, avec les rangs. Le fichier
+Excel d'une matière que vous enseignez sert aussi à **importer** vos notes
+et appréciations : remplissez-le, puis renvoyez-le avec **Importer** ; le
+professeur principal importe de la même façon les appréciations du conseil.
+Le détail est dans le guide de l'administration :
+[Récapitulatifs de notes](/guide/admin/bulletins#recapitulatifs-de-notes) et
+[Importer depuis Excel](/guide/admin/bulletins#importer-depuis-excel).
 
 ## Tenir le cahier de textes
 

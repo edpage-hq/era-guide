@@ -280,12 +280,16 @@ comme un examen blanc : ses notes restent saisies et visibles, mais
 n'entrent dans aucune moyenne. La liste signale ces types par un badge
 « Hors moyenne ».
 
-::: tip Moyenne « (devoir + composition) / 2 »
-Pour qu'une moyenne de matière soit la moyenne des devoirs et celle des
-compositions à parts égales, quel que soit le nombre de notes de chaque
-type, activez le réglage de [notation](/guide/admin/parametres-application#notation)
-(chaque type d'évaluation pèse autant) et décochez **Compte dans la moyenne
-du bulletin** pour tous les autres types.
+::: tip Toutes les notes comptent
+Par défaut, chaque note saisie par un enseignant compte dans la moyenne de
+la matière, interrogations comprises, et plusieurs devoirs sont moyennés
+entre eux : inutile de calculer une moyenne avant de la saisir. Pour que la
+moyenne des devoirs et celle des compositions pèsent autant l'une que
+l'autre, quel que soit le nombre de notes de chaque type, activez le
+réglage de [notation](/guide/admin/parametres-application#notation)
+(chaque type d'évaluation pèse autant). Ne décochez **Compte dans la
+moyenne du bulletin** que pour une épreuve qui ne doit pas peser, comme un
+examen blanc.
 :::
 
 ## Périodes scolaires

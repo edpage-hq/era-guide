@@ -270,12 +270,15 @@ type that is graded but must not weigh on the report card, such as a mock
 exam: its marks are still entered and shown, but stay out of every average.
 The list flags these types with a "Not counted" badge.
 
-::: tip "(homework + composition) / 2" averages
-For a subject average to be the homework average and the composition
-average in equal parts, however many marks each holds, turn on the
+::: tip Every mark counts
+By default every mark a teacher enters counts in the subject average,
+quizzes included, and several homework marks are averaged together: there
+is no need to work out an average before entering it. For the homework
+average and the composition average to weigh the same, however many marks
+each holds, turn on the
 [grading](/en/guide/admin/parametres-application#grading) setting (each
-evaluation type counts equally) and uncheck **Counts in the bulletin
-average** for every other type.
+evaluation type counts equally). Only uncheck **Counts in the bulletin
+average** for a test that must not weigh, such as a mock exam.
 :::
 
 ## Academic periods

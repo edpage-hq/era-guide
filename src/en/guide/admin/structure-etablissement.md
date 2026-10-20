@@ -221,10 +221,11 @@ scale.
 To create a subject: **School setup → Subjects**, **New subject**, fill in the
 name, **Save**.
 
-## Subjects by department
+## Subjects by department {#subjects-by-department}
 
 **School setup → Subjects by Department** attaches a catalog subject to a
-department, with the grading rules specific to that department.
+department, with the grading rules specific to that department — for all
+its levels, or for one level only.
 
 To create an assignment:
 
@@ -235,12 +236,26 @@ To create an assignment:
 | Field                                 | Detail                                                                                                                                                                                                                             |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Department                            | —                                                                                                                                                                                                                                  |
+| Level                                 | "All levels", or one of the department's levels (seconde, première, terminale…); see below                                                                                                                                         |
 | Subject                               | —                                                                                                                                                                                                                                  |
 | Coefficient                           | —                                                                                                                                                                                                                                  |
-| Grading scale                         | maximum possible score; 20 by default                                                                                                                                                                                              |
-| Specialty subject (chosen by student) | check if this subject isn't taken by every student in the department but chosen individually (see [Students and guardians](/en/guide/admin/eleves-tuteurs)); leave unchecked for a core subject, applied automatically to everyone |
+| Grading scale                         | the subject's maximum on the report card; 20 by default. Every mark is brought to this scale before averaging, whatever the evaluation's own maximum (5/10 counts as 10/20)                                                        |
+| Optional subject (chosen per student) | check if this subject isn't taken by every student but chosen individually (see [Students and guardians](/en/guide/admin/eleves-tuteurs#optional-subjects)); leave unchecked for a core subject, applied automatically to everyone |
+| Option kind                           | for an optional subject: Exploration, Specialty or Modern language. Specialties get their own block on the report card                                                                                                             |
+| Bulletin heading                      | optional: a heading (e.g. "Tronc commun", "Sciences") under which the report card groups the subjects that share it                                                                                                                |
+| Order                                 | the subject's position on the report card; subjects are sorted by order, then by name                                                                                                                                              |
 
-## Evaluation types
+### A subject for one level
+
+A subject given to "All levels" applies to every class of the department.
+For one level to use a different coefficient or scale — French in
+première, for instance — create a second assignment of the same subject for
+that level: for that level's classes it **replaces** the department-wide
+one, while the other levels keep the general setting. A subject that only
+exists at one level (a terminale specialty, for instance) only needs its
+level assignment.
+
+## Evaluation types {#evaluation-types}
 
 **School setup → Evaluation Types** defines the evaluation categories used by
 teachers (homework, exam, quiz...) and the weight of each in a subject's
@@ -249,6 +264,19 @@ average calculation.
 To create a type: **School setup → Evaluation Types**, **New evaluation type**,
 fill in the **Name** and the **Weight** (e.g. 1 for homework, 2 for an
 exam), **Save**.
+
+**Counts in the bulletin average** is checked by default. Uncheck it for a
+type that is graded but must not weigh on the report card, such as a mock
+exam: its marks are still entered and shown, but stay out of every average.
+The list flags these types with a "Not counted" badge.
+
+::: tip "(homework + composition) / 2" averages
+For a subject average to be the homework average and the composition
+average in equal parts, however many marks each holds, turn on the
+[grading](/en/guide/admin/parametres-application#grading) setting (each
+evaluation type counts equally) and uncheck **Counts in the bulletin
+average** for every other type.
+:::
 
 ## Academic periods
 

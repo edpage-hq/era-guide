@@ -49,3 +49,22 @@ française) se choisit par classe, dans le formulaire de la classe — voir
 [Structure de l'établissement](/guide/admin/structure-etablissement#classes).
 Si aucun modèle n'est choisi pour une classe, le modèle par défaut de
 l'établissement s'applique.
+
+Quel que soit le modèle, les matières du bulletin suivent le paramétrage des
+[matières par département](/guide/admin/structure-etablissement#matieres-par-departement) :
+
+- elles sont regroupées sous leur **rubrique** (« Tronc commun »,
+  « Sciences »…), dans l'**ordre** indiqué ; les matières sans rubrique
+  viennent sans intitulé ;
+- les **spécialités** forment un bloc à part, « Enseignements de
+  spécialité » : d'abord celles que l'élève suit, puis celles qu'il a
+  abandonnées, marquées « (abandonnée) ».
+
+Le modèle **Traditionnel** ajoute une colonne par type d'évaluation qui
+compte dans la moyenne (la moyenne de l'élève en devoirs, en compositions…)
+et une colonne « Moy. × coef. ». Les types
+[hors moyenne](/guide/admin/structure-etablissement#types-d-evaluation)
+n'y figurent pas.
+
+Un bulletin déjà publié est un document figé : un changement de paramétrage
+n'apparaît qu'après avoir republié les bulletins de la classe.

@@ -51,10 +51,11 @@ Not re-enrolled:
 
 ## What follows the student
 
-- Their **specialty subjects** are carried into the new enrollment when the
-  new class still offers them as a choice. Their personal coefficient is
-  kept within the same department; in another department, that
-  department's coefficient applies.
+- Their **optional subjects** are carried into the new enrollment when the
+  new class still offers them as a choice, with their status (kept or
+  dropped). Their personal coefficient is only kept when they stay in the
+  same department and at the same level; otherwise the coefficient set for
+  their new class applies.
 - Their **optional fees** (cafeteria, transport…) are not carried over: the
   family chooses them again every year, from their parent space as soon
   as the re-enrollment is done. The cashier sees last year's and

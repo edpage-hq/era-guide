@@ -55,10 +55,11 @@ Ne sont pas réinscrits :
 
 ## Ce qui suit l'élève
 
-- Ses **matières de spécialité** sont reprises dans sa nouvelle inscription
-  si la classe d'arrivée les propose toujours au choix. Son coefficient
-  personnel est gardé dans le même département ; dans un autre département,
-  c'est le coefficient de ce département qui s'applique.
+- Ses **matières à option** sont reprises dans sa nouvelle inscription si
+  la classe d'arrivée les propose toujours au choix, avec leur statut
+  (suivie ou abandonnée). Son coefficient personnel n'est gardé que s'il
+  reste dans le même département et au même niveau ; sinon, c'est le
+  coefficient prévu pour sa nouvelle classe qui s'applique.
 - Ses **frais optionnels** (cantine, transport…) ne sont pas repris : la
   famille les choisit de nouveau chaque année, depuis son espace parent dès
   que la réinscription est faite. La caisse voit ceux de l'an

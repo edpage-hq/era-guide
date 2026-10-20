@@ -6,7 +6,7 @@ layout: doc
 
 Cette section couvre le dossier d'un élève et tout ce qui s'y rattache :
 son inscription en classe, ses tuteurs (parents), son éventuel accès
-personnel au portail élève, et ses matières de spécialité.
+personnel au portail élève, et ses matières à option.
 
 ## Dossiers élèves
 
@@ -98,7 +98,7 @@ par une admission ou par sa fiche : son dossier est le même.
 ## Écrans rattachés à la fiche
 
 Depuis la fiche d'un élève, trois boutons ouvrent des écrans dédiés :
-**Matières de spécialité**, **Tuteurs** et **Compte élève** (détaillés
+**Matières à option**, **Tuteurs** et **Compte élève** (détaillés
 ci-dessous).
 
 ## Tuteurs (parents)
@@ -137,17 +137,26 @@ Pour un élève éligible :
 - **Révoquer l'accès** — supprime l'accès personnel de l'élève sans
   toucher à son dossier.
 
-## Matières de spécialité
+## Matières à option {#matieres-a-option}
 
-Depuis la fiche d'un élève, cliquez sur **Matières de spécialité**. Cet
-écran n'affiche quelque chose que si l'élève a une inscription active et
-que son département a des matières marquées « de spécialité » (voir
-[Structure de l'établissement](/guide/admin/structure-etablissement)).
+Depuis la fiche d'un élève, cliquez sur **Matières à option**. Cet écran
+n'affiche quelque chose que si l'élève a une inscription active et que sa
+classe propose des matières à option — celles de son département données à
+tous les niveaux, ou au niveau de sa classe (voir
+[Structure de l'établissement](/guide/admin/structure-etablissement#matieres-par-departement)).
+Chaque matière indique son type (exploration, spécialité, langue vivante) et
+son coefficient par défaut.
 
-Pour chaque matière de spécialité proposée :
+Pour chaque matière proposée :
 
 1. Cochez la case pour la sélectionner pour cet élève.
-2. Renseignez, si besoin, un **coefficient** personnalisé qui remplace
-   celui défini par défaut au niveau du département — sinon le
-   coefficient par défaut du département s'applique.
-3. Cliquez sur **Enregistrer les modifications**.
+2. Choisissez son **statut** : « Suivie », ou « Abandonnée » pour une
+   spécialité que l'élève a arrêtée en cours de route.
+3. Renseignez, si besoin, un **coefficient** personnalisé qui remplace
+   celui défini pour le département ou le niveau — sinon c'est ce dernier
+   qui s'applique.
+4. Cliquez sur **Enregistrer les modifications**.
+
+Une spécialité abandonnée garde ses notes et **compte toujours dans les
+moyennes**. Sur le bulletin, elle reste dans le bloc des spécialités, après
+les spécialités suivies, avec la mention « (abandonnée) ».

@@ -49,3 +49,22 @@ The visual template used (Classic, Compact, or Traditional French-style)
 is chosen per class, in the class's form — see
 [School structure](/en/guide/admin/structure-etablissement#classes). If no
 template is chosen for a class, the school's default template applies.
+
+Whatever the template, the report card's subjects follow the
+[subjects by department](/en/guide/admin/structure-etablissement#subjects-by-department)
+setup:
+
+- they are grouped under their **heading** ("Tronc commun", "Sciences"…),
+  in the **order** given; subjects without a heading come without a title;
+- **specialties** form a separate block, "Enseignements de spécialité":
+  first those the student keeps, then those they dropped, marked
+  "(abandonnée)".
+
+The **Traditional** template adds one column per evaluation type that
+counts in the average (the student's homework average, composition
+average…) and a "Moy. × coef." column. Types
+[not counted](/en/guide/admin/structure-etablissement#evaluation-types)
+don't appear there.
+
+A published report card is a fixed document: a setup change only shows once
+the class's report cards are published again.

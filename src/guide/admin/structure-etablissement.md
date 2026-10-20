@@ -233,7 +233,8 @@ renseignez le nom, **Enregistrer**.
 ## Matières par département {#matieres-par-departement}
 
 **Paramétrage scolaire → Matières par département** rattache une matière du catalogue à un
-département, avec les règles de notation propres à ce département.
+département, avec les règles de notation propres à ce département — pour
+tous ses niveaux, ou pour un niveau précis.
 
 Pour créer un rattachement :
 
@@ -241,13 +242,27 @@ Pour créer un rattachement :
 2. Renseignez les champs ci-dessous.
 3. Cliquez sur **Enregistrer**.
 
-| Champ                                     | Détail                                                                                                                                                                                                                                                 |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Département                               | —                                                                                                                                                                                                                                                      |
-| Matière                                   | —                                                                                                                                                                                                                                                      |
-| Coefficient                               | —                                                                                                                                                                                                                                                      |
-| Barème                                    | note maximale possible ; 20 par défaut                                                                                                                                                                                                                 |
-| Matière de spécialité (choisie par élève) | cochez si cette matière n'est pas suivie par tous les élèves du département mais choisie individuellement (voir [Élèves et tuteurs](/guide/admin/eleves-tuteurs)) ; laissez décoché pour une matière de tronc commun, appliquée automatiquement à tous |
+| Champ                                | Détail                                                                                                                                                                                                                                                    |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Département                          | —                                                                                                                                                                                                                                                         |
+| Niveau                               | « Tous les niveaux », ou un niveau du département (seconde, première, terminale…) ; voir ci-dessous                                                                                                                                                       |
+| Matière                              | —                                                                                                                                                                                                                                                         |
+| Coefficient                          | —                                                                                                                                                                                                                                                         |
+| Barème                               | note maximale de la matière sur le bulletin ; 20 par défaut. Chaque note est ramenée sur ce barème avant le calcul, quelle que soit la note maximale de l'évaluation (un 5/10 compte pour 10/20)                                                          |
+| Matière à option (choisie par élève) | cochez si cette matière n'est pas suivie par tous les élèves mais choisie individuellement (voir [Élèves et tuteurs](/guide/admin/eleves-tuteurs#matieres-a-option)) ; laissez décoché pour une matière de tronc commun, appliquée automatiquement à tous |
+| Type d'option                        | pour une matière à option : Enseignement d'exploration, Spécialité ou Langue vivante. Les spécialités ont leur propre bloc sur le bulletin                                                                                                                |
+| Rubrique du bulletin                 | facultatif : un intitulé (ex. « Tronc commun », « Sciences ») sous lequel le bulletin regroupe les matières qui le partagent                                                                                                                              |
+| Ordre                                | position de la matière sur le bulletin ; les matières sont classées par ordre, puis par nom                                                                                                                                                               |
+
+### Une matière propre à un niveau
+
+Une matière donnée à « Tous les niveaux » s'applique à toutes les classes du
+département. Pour qu'un niveau ait un coefficient ou un barème différent —
+le français de première, par exemple — créez un second rattachement de la
+même matière pour ce niveau : pour les classes de ce niveau, il **remplace**
+celui de tout le département ; les autres niveaux gardent le réglage
+général. Une matière qui n'existe que pour un niveau (une spécialité de
+terminale, par exemple) n'a besoin que de son rattachement au niveau.
 
 ## Types d'évaluation
 
@@ -258,6 +273,20 @@ poids de chacune dans le calcul de la moyenne d'une matière.
 Pour créer un type : **Paramétrage scolaire → Types d'évaluation**, **Nouveau type
 d'évaluation**, renseignez le **Nom** et le **Poids** (ex. 1 pour un devoir,
 2 pour une composition), **Enregistrer**.
+
+La case **Compte dans la moyenne du bulletin** est cochée par défaut.
+Décochez-la pour un type noté mais qui ne doit pas peser sur le bulletin,
+comme un examen blanc : ses notes restent saisies et visibles, mais
+n'entrent dans aucune moyenne. La liste signale ces types par un badge
+« Hors moyenne ».
+
+::: tip Moyenne « (devoir + composition) / 2 »
+Pour qu'une moyenne de matière soit la moyenne des devoirs et celle des
+compositions à parts égales, quel que soit le nombre de notes de chaque
+type, activez le réglage de [notation](/guide/admin/parametres-application#notation)
+(chaque type d'évaluation pèse autant) et décochez **Compte dans la moyenne
+du bulletin** pour tous les autres types.
+:::
 
 ## Périodes scolaires
 

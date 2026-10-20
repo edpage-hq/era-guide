@@ -6,7 +6,7 @@ layout: doc
 
 This section covers a student's record and everything attached to it:
 their class enrollment, their guardians (parents), their possible personal
-access to the student portal, and their specialty subjects.
+access to the student portal, and their optional subjects.
 
 ## Student records
 
@@ -93,7 +93,7 @@ from their record: their record is the same.
 
 ## Screens attached to the record
 
-From a student's record, three buttons open dedicated screens: **Specialty
+From a student's record, three buttons open dedicated screens: **Optional
 subjects**, **Guardians**, and **Student account** (detailed below).
 
 ## Guardians (parents)
@@ -132,17 +132,25 @@ For an eligible student:
 - **Revoke access** — removes the student's personal access without
   touching their record.
 
-## Specialty subjects
+## Optional subjects {#optional-subjects}
 
-From a student's record, click **Specialty subjects**. This screen only
-shows something if the student has an active enrollment and their
-department has subjects marked "specialty" (see
-[School structure](/en/guide/admin/structure-etablissement)).
+From a student's record, click **Optional subjects**. This screen only
+shows something if the student has an active enrollment and their class
+offers optional subjects — the department's ones given to all levels, or
+to the class's level (see
+[School structure](/en/guide/admin/structure-etablissement#subjects-by-department)).
+Each subject shows its kind (exploration, specialty, modern language) and
+its default coefficient.
 
-For each specialty subject offered:
+For each subject offered:
 
 1. Check the box to select it for this student.
-2. Optionally fill in a personal **coefficient** that replaces the
-   department's default — otherwise the department's default coefficient
-   applies.
-3. Click **Save changes**.
+2. Pick its **status**: "Kept", or "Dropped" for a specialty the student
+   gave up along the way.
+3. Optionally fill in a personal **coefficient** that replaces the one set
+   for the department or level — otherwise that one applies.
+4. Click **Save changes**.
+
+A dropped specialty keeps its marks and **still counts in the averages**.
+On the report card it stays in the specialty block, after the kept ones,
+marked "(abandonnée)".

@@ -16,9 +16,10 @@ votre e-mail et votre mot de passe sur l'écran de connexion. Si votre
 établissement l'a activé, vous pouvez aussi vous connecter avec un compte
 Google ou Apple.
 
-Si l'authentification à deux facteurs est activée sur votre compte, un
-code supplémentaire vous sera demandé après le mot de passe (voir
-« Authentification à deux facteurs » plus bas).
+Si vous avez activé la double authentification, un code supplémentaire
+vous est demandé après le mot de passe : celui reçu par e-mail, ou celui
+de votre application d'authentification (voir « Authentification à deux
+facteurs » plus bas).
 
 Une fois connecté, vous arrivez sur votre tableau de bord (voir
 ci-dessous). Les parents et les élèves arrivent directement sur leur propre
@@ -178,8 +179,9 @@ soit votre rôle :
   l'établissement (emploi du temps, notes, dépenses) : sa suppression se
   demande à l'administration.
 - **Sécurité** — changer votre mot de passe, activer l'authentification à
-  deux facteurs, gérer vos clés d'accès (connexion sans mot de passe) et
-  consulter vos sessions actives.
+  deux facteurs (code par e-mail ou application), gérer vos appareils
+  mémorisés et vos clés d'accès (connexion sans mot de passe), et consulter
+  vos sessions actives.
 - **Apparence** — choisir entre thème clair, sombre ou automatique.
 - **Langue** — choisir la langue de l'application (français ou anglais).
   Ce choix change immédiatement tous les libellés, sans reconnexion, y
@@ -188,12 +190,63 @@ soit votre rôle :
 
 ### Authentification à deux facteurs (2FA)
 
-Dans **Paramètres → Sécurité → Authentification à deux facteurs**, cliquez
-sur **Activer la 2FA**. Un code secret vous sera ensuite demandé à chaque
-connexion ; il se récupère depuis une application d'authentification
-(TOTP) installée sur votre téléphone, après avoir scanné le code affiché à
-l'écran. Pour désactiver la 2FA, retournez sur cette même page et cliquez
-sur **Désactiver la 2FA**.
+La double authentification protège votre compte même si quelqu'un découvre
+votre mot de passe : après celui-ci, un code à usage unique vous est
+demandé. Elle est facultative, et deux façons de recevoir ce code sont
+proposées dans **Paramètres → Sécurité**.
+
+#### Code de connexion par e-mail (le plus simple)
+
+Aucune application n'est nécessaire : le code arrive dans votre boîte mail.
+
+1. Dans **Code de connexion par e-mail**, cliquez sur **Activer le code par
+   e-mail**.
+2. Un premier code à 6 chiffres est envoyé à votre adresse. Saisissez-le,
+   puis cliquez sur **Confirmer et activer**. Cette étape vérifie que vous
+   recevez bien nos e-mails : sans elle, une adresse erronée vous
+   empêcherait de vous reconnecter.
+
+Ensuite, à chaque connexion, après votre mot de passe (ou après Google ou
+Apple), l'écran **Saisissez le code reçu par e-mail** s'affiche :
+
+- le code est valable **15 minutes** et ne sert qu'une fois ;
+- après 5 codes erronés, il faut en demander un nouveau ;
+- rien reçu ? Regardez dans les courriers indésirables, puis cliquez sur
+  **envoyez un nouveau code** (au plus un par minute) ;
+- cochez **Se souvenir de cet appareil pendant 30 jours** sur votre
+  ordinateur ou votre téléphone personnel : le code n'y sera plus demandé
+  pendant 30 jours. Ne la cochez pas sur un poste partagé.
+
+Si vous recevez un code alors que vous n'avez pas essayé de vous connecter,
+quelqu'un connaît votre mot de passe : changez-le aussitôt.
+
+**Appareils mémorisés** — la liste, sous le code par e-mail, montre chaque
+appareil mémorisé, sa dernière utilisation et la date jusqu'à laquelle il
+l'est. **Oublier** fait redemander le code sur cet appareil ; **Oublier tous
+les appareils** le fait partout. Changer votre mot de passe les oublie tous
+automatiquement.
+
+Pour revenir au mot de passe seul, cliquez sur **Désactiver le code par
+e-mail**.
+
+::: tip Plus d'accès à votre boîte mail ?
+Demandez à l'administration de corriger l'adresse e-mail de votre compte :
+les codes partiront alors vers la nouvelle. Une clé d'accès, si vous en
+avez créé une, vous connecte aussi sans code.
+:::
+
+#### Application d'authentification
+
+Si vous utilisez déjà une application comme Google Authenticator, dans
+**Application d'authentification**, cliquez sur **Activer la 2FA**, puis
+scannez le code affiché à l'écran avec l'application. C'est elle qui vous
+donne ensuite le code à chaque connexion, et elle remplace le code par
+e-mail tant qu'elle est activée. Conservez les codes de récupération
+proposés : ils vous dépannent si vous perdez votre téléphone. Pour la
+désactiver, cliquez sur **Désactiver la 2FA**.
+
+Une connexion par **clé d'accès** ne demande aucun de ces codes : la clé
+vaut à elle seule double authentification.
 
 ### Sessions actives
 

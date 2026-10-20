@@ -15,9 +15,9 @@ Open your school's address in a browser and enter your email and password
 on the sign-in screen. If your school has enabled it, you can also sign in
 with a Google or Apple account.
 
-If two-factor authentication is enabled on your account, you'll be asked
-for an extra code after your password (see "Two-factor authentication"
-below).
+If you turned on two-factor authentication, you'll be asked for an extra
+code after your password: the one e-mailed to you, or the one from your
+authenticator app (see "Two-factor authentication" below).
 
 Once signed in, you land on your dashboard (see below). Parents and
 students go straight to their own area instead: **My children** for a
@@ -165,9 +165,9 @@ everything related to your personal account, regardless of your role:
   student account can also be deleted there. A staff account is tied to
   school records (timetable, grades, expenses), so deleting it is a
   request to the administration.
-- **Security** — change your password, enable two-factor authentication,
-  manage your passkeys (passwordless sign-in) and review your active
-  sessions.
+- **Security** — change your password, turn on two-factor authentication
+  (code by e-mail or app), manage your remembered devices and passkeys
+  (passwordless sign-in), and review your active sessions.
 - **Appearance** — choose between light, dark or automatic theme.
 - **Language** — choose the app's language (French or English). This
   choice immediately changes every label, with no need to sign in again,
@@ -176,11 +176,57 @@ everything related to your personal account, regardless of your role:
 
 ### Two-factor authentication (2FA)
 
-Under **Settings → Security → Two-factor authentication**, click
-**Enable 2FA**. You'll then be asked for a secret code at every sign-in;
-it comes from an authenticator app (TOTP) on your phone, after scanning
-the code shown on screen. To turn it off, go back to that same page and
-click **Disable 2FA**.
+Two-factor protects your account even if someone learns your password:
+after it, you're asked for a one-time code. It is optional, and
+**Settings → Security** offers two ways to get that code.
+
+#### Sign-in code by e-mail (the simplest)
+
+No app needed: the code arrives in your mailbox.
+
+1. Under **Sign-in code by e-mail**, click **Turn on the e-mailed code**.
+2. A first 6-digit code is sent to your address. Enter it, then click
+   **Confirm and turn on**. This step checks that you do receive our
+   e-mails: without it, a wrong address would keep you from signing in.
+
+From then on, at each sign-in, after your password (or after Google or
+Apple), the **Enter the code we e-mailed you** screen appears:
+
+- the code is valid for **15 minutes** and works once;
+- after 5 wrong codes, ask for a new one;
+- nothing arrived? Check your spam folder, then click **send a new code**
+  (at most one a minute);
+- tick **Remember this device for 30 days** on your own computer or phone:
+  the code won't be asked there for 30 days. Don't tick it on a shared
+  computer.
+
+If you get a code when you did not try to sign in, someone knows your
+password: change it right away.
+
+**Remembered devices** — the list under the e-mailed code shows each
+remembered device, when it was last used and until when it is remembered.
+**Forget** asks for the code again on that device; **Forget all devices**
+does so everywhere. Changing your password forgets them all automatically.
+
+To go back to your password alone, click **Turn off the e-mailed code**.
+
+::: tip Lost access to your mailbox?
+Ask the administration to correct your account's e-mail address: the codes
+then go to the new one. A passkey, if you created one, also signs you in
+without a code.
+:::
+
+#### Authenticator app
+
+If you already use an app such as Google Authenticator, under
+**Authenticator app**, click **Enable 2FA**, then scan the code shown on
+screen with the app. It then gives you the code at every sign-in, and it
+replaces the e-mailed code while it is on. Keep the recovery codes it
+offers: they help if you lose your phone. To turn it off, click
+**Disable 2FA**.
+
+A **passkey** sign-in asks for none of these codes: the passkey counts as
+two-factor on its own.
 
 ### Active sessions
 

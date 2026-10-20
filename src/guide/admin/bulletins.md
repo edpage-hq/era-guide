@@ -42,6 +42,40 @@ avec :
 - Un bouton de téléchargement (icône), disponible dès qu'un bulletin a été
   généré pour cet élève.
 
+## Récapitulatifs de notes {#recapitulatifs-de-notes}
+
+**Enseignement → Récapitulatifs de notes** liste les classes de l'année et,
+pour chacune, deux portes d'entrée. Le bouton **Récap des notes** de la page
+des bulletins d'une classe mène au même endroit.
+
+- **Récap des notes** — tous les élèves face à toutes les matières, pour la
+  période choisie. Chaque case donne la moyenne de l'élève dans la matière,
+  avec dessous le détail par type d'évaluation (D = devoir, C =
+  composition…). Un point signale une option que l'élève ne suit pas ; une
+  spécialité abandonnée est marquée. La dernière colonne donne la moyenne
+  générale ; les trois dernières lignes, la moyenne de la classe, la plus
+  basse et la plus haute.
+- **Une matière** — le relevé de la matière : chaque évaluation de la
+  période, la note de chaque élève telle que saisie (sur le barème de
+  l'évaluation, avec bonus ou malus, absent ou dispensé), puis sa moyenne
+  dans la matière. Seuls les élèves qui suivent la matière y figurent ; les
+  types hors moyenne sont signalés.
+
+Les moyennes sont **exactement celles des bulletins** : un récapitulatif ne
+peut pas afficher une autre moyenne que le bulletin du même élève. Il n'y a
+pas de rang, comme sur le bulletin.
+
+Chaque écran se télécharge :
+
+- en **PDF**, pour l'imprimer ou le présenter en conseil de classe ;
+- en **CSV**, pour l'ouvrir dans un tableur (Excel, LibreOffice) : en
+  français, le fichier utilise le point-virgule et la virgule décimale, et
+  s'ouvre directement en colonnes.
+
+L'icône à côté du nom d'un élève, dans le récap de la classe, télécharge
+son **relevé de notes** en PDF : chacune de ses évaluations, matière par
+matière, avec ses moyennes.
+
 ## Modèle de bulletin
 
 Le modèle visuel utilisé (Classique, Compact ou Traditionnel à la

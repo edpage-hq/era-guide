@@ -36,6 +36,21 @@ end-of-period general appreciation, separate from the per-subject ones.
    warning**.
 4. Click **Save**.
 
+## View grade summaries
+
+**Teaching → Grade summaries** shows the classes you teach:
+
+- for each subject you teach there, its **mark sheet**: every evaluation of
+  the period, each student's grade as entered, and their subject average,
+  the report card's;
+- if you are the class's **homeroom teacher**, the whole class's **grade
+  summary** (each student in each subject, with their overall average),
+  every subject's mark sheet, and each student's grade report.
+
+Each screen downloads as a PDF or a CSV (spreadsheet). The details are in
+the admin guide:
+[Grade summaries](/en/guide/admin/bulletins#grade-summaries).
+
 ## Keep the lesson log
 
 The lesson log tracks, session by session, what was covered in class and

@@ -9,6 +9,14 @@ notifications and language work the same way whether you're an
 administrator, a teacher, a parent or a student. The role-specific guides
 don't repeat this information.
 
+## Activating your account
+
+Your account is created by your school's administrator. You then get an
+e-mail "Your … account is ready": click **Activate my account**, choose
+your password (twice), and confirm. You're signed in right away. The link
+is valid for 7 days; past that, or if it no longer works, ask your
+administrator for a new invitation.
+
 ## Signing in
 
 Open your school's address in a browser and enter your email and password

@@ -15,19 +15,56 @@ screens.
 
 **Users** (in the menu's **Administration** group) lists every account in the school,
 with a search by name/email, a filter by role, and each account's
-verified/unverified and active/inactive status.
+**Sign-in** (Invitation sent, Invitation expired or Activated) and
+active/inactive status.
 
 To create a user:
 
 1. Click **New user**.
-2. Fill in the **Name**, **Email address**, **Password**, and its
-   confirmation.
+2. Fill in the **Name** and **Email address**. There's no password to
+   enter: the person chooses their own.
 3. Choose the **Role**: User, Admin, Teacher, Secretariat, Cashier,
    School life, Boarding manager, Nurse, or Document manager — and, if the
    school has the Pilotage module, **Site director** or **General
    director**.
 4. For a **Site director**, tick the **Sites run** (at least one).
 5. Click **Create the user**.
+
+The person immediately gets an invitation e-mail with an **Activate my
+account** button. The link, valid for **7 days**, takes them to a page
+where they choose their password; they are then signed straight in. You
+never know their password, and have nothing to hand over.
+
+### Following up an invitation
+
+The list's **Sign-in** column shows where each account stands:
+
+| Sign-in            | Meaning                                                               |
+| ------------------ | --------------------------------------------------------------------- |
+| Invitation sent    | the link went out and is still valid (its deadline is on the account) |
+| Invitation expired | 7 days passed without activation: resend the invitation               |
+| Activated          | the person chose their password                                       |
+
+On an account not yet activated (**Edit**), the **Sign-in** section
+offers:
+
+- **Resend invitation** — sends a new e-mail, with a new link valid for 7
+  days. The old link stops working.
+- **Copy invitation link** — for someone who doesn't get the e-mail (full
+  mailbox, message in spam): a new link is shown and copied, for you to
+  hand over yourself (WhatsApp, text message…). It replaces the e-mailed
+  link, which stops working. Only give it to the person concerned: it
+  opens the account.
+
+If you correct the **Email address** of an account not yet activated, a
+new invitation goes out to the right address automatically.
+
+::: tip Forgotten password
+For an account already activated, the **Sign-in** section offers **Send a
+password reset link**: the person gets the usual "forgot password" e-mail
+and chooses a new password themselves. They can also ask for it on their
+own, from the sign-in screen.
+:::
 
 ::: tip The direction profiles
 They go to the people who run the school without doing its data entry:
@@ -39,8 +76,8 @@ which can already approve everything. See [Direction](/en/guide/direction/).
 
 From the list, each account offers:
 
-- **Edit** — change the name, email, role, or set a new password (leave
-  the field blank to keep the current one). Changing the role of a staff
+- **Edit** — change the name, email or role, and manage sign-in (see
+  above). Changing the role of a staff
   member who is also a parent keeps their parent access: only the work
   role is replaced.
 - **Activate** / **Deactivate** — deactivating an account signs it out

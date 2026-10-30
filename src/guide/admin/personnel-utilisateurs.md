@@ -14,14 +14,15 @@ contrats — mais ce sont deux écrans séparés.
 ## Créer un compte utilisateur et lui assigner un rôle
 
 **Utilisateurs** (groupe **Administration** du menu) liste tous les comptes de l'établissement,
-avec une recherche par nom/e-mail, un filtre par rôle, et le statut
-vérifié/non vérifié et actif/inactif de chacun.
+avec une recherche par nom/e-mail, un filtre par rôle, et pour chacun sa
+**Connexion** (Invitation envoyée, Invitation expirée ou Activé) et son
+statut actif/inactif.
 
 Pour créer un utilisateur :
 
 1. Cliquez sur **Nouvel utilisateur**.
-2. Renseignez le **Nom**, l'**Adresse e-mail**, le **Mot de passe** et sa
-   confirmation.
+2. Renseignez le **Nom** et l'**Adresse e-mail**. Aucun mot de passe à
+   saisir : c'est la personne qui choisira le sien.
 3. Choisissez le **Rôle** : Utilisateur, Administrateur, Enseignant,
    Secrétariat, Caisse, Vie scolaire, Gestionnaire internat, Infirmerie ou
    Gestionnaire documentaire — et, si l'établissement a le module
@@ -29,6 +30,43 @@ Pour créer un utilisateur :
 4. Pour une **Direction de site**, cochez le ou les **Sites dirigés**
    (au moins un).
 5. Cliquez sur **Créer l'utilisateur**.
+
+La personne reçoit aussitôt un e-mail d'invitation avec un bouton
+**Activer mon compte**. Ce lien, valable **7 jours**, l'amène sur une page
+où elle choisit son mot de passe ; elle est ensuite connectée directement.
+Vous ne connaissez donc jamais son mot de passe, et vous n'avez rien à lui
+transmettre.
+
+### Suivre et relancer une invitation
+
+La colonne **Connexion** de la liste indique où en est chaque compte :
+
+| Connexion          | Signification                                                        |
+| ------------------ | -------------------------------------------------------------------- |
+| Invitation envoyée | le lien est parti et reste valable (sa date limite est sur la fiche) |
+| Invitation expirée | les 7 jours sont passés sans activation : relancez l'invitation      |
+| Activé             | la personne a choisi son mot de passe                                |
+
+Sur la fiche d'un compte pas encore activé (**Modifier**), la section
+**Connexion** propose :
+
+- **Renvoyer l'invitation** — envoie un nouvel e-mail, avec un nouveau
+  lien valable 7 jours. L'ancien lien ne fonctionne plus.
+- **Copier le lien d'invitation** — pour une personne qui ne reçoit pas
+  l'e-mail (adresse saturée, message en indésirables) : un nouveau lien
+  s'affiche et est copié, à lui transmettre vous-même (WhatsApp, SMS…).
+  Ce lien remplace celui de l'e-mail, qui ne fonctionne plus. Ne le
+  transmettez qu'à la personne concernée : il donne accès au compte.
+
+Si vous corrigez l'**Adresse e-mail** d'un compte pas encore activé, une
+nouvelle invitation part automatiquement vers la bonne adresse.
+
+::: tip Mot de passe oublié
+Pour un compte déjà activé, la section **Connexion** propose **Envoyer un
+lien de réinitialisation** : la personne reçoit l'e-mail habituel « mot de
+passe oublié » et choisit elle-même un nouveau mot de passe. Elle peut
+aussi le demander seule, depuis l'écran de connexion.
+:::
 
 ::: tip Les profils de direction
 Ils vont à ceux qui dirigent sans saisir : directeur de campus, chef
@@ -40,9 +78,8 @@ Administrateur, qui peut déjà tout valider. Voir [Direction](/guide/direction/
 
 Depuis la liste, chaque compte propose :
 
-- **Modifier** — changer le nom, l'e-mail, le rôle, ou définir un nouveau
-  mot de passe (laissez le champ vide pour conserver l'actuel). Changer le
-  rôle d'un membre du personnel qui est aussi parent d'élève lui laisse son
+- **Modifier** — changer le nom, l'e-mail ou le rôle, et gérer la
+  connexion (voir ci-dessus). Changer le rôle d'un membre du personnel qui est aussi parent d'élève lui laisse son
   accès parent : seul le rôle professionnel est remplacé.
 - **Activer** / **Désactiver** — désactiver un compte le déconnecte
   immédiatement partout et bloque toute nouvelle connexion, sans supprimer

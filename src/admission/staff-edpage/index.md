@@ -301,6 +301,24 @@ boutons, que les admissions en ligne sont gratuites sans limite de durée
 et la durée de la démonstration, reprise des réglages de la plateforme
 (60 jours par défaut).
 
+### Ce que montre le configurateur de tarifs
+
+Le visiteur coche les pôles et modules qu'il veut ; l'estimation se met à
+jour à côté :
+
+- **Choisir la licence complète du pôle** coche d'un coup tous les pôles
+  de l'enseignement scolaire, facturés au prix de l'offre complète
+  (réglé dans **Conditions tarifaires**).
+- **Total an 1** additionne la licence, la maintenance de la première
+  année et l'hébergement choisi.
+- **Dès l'an 2, par an** donne ce qui revient chaque année : la
+  maintenance, plus l'hébergement clé en main s'il est choisi.
+- La GED et les modules complémentaires restent « Sur devis » ; la note
+  sous le total rappelle la durée de la démonstration.
+
+Le texte d'introduction par défaut cite le taux de maintenance réglé
+dans **Conditions tarifaires** : changer le taux met le texte à jour.
+
 ## Traiter les demandes de contact
 
 Le formulaire de la vitrine envoie ses demandes dans l'écran **Demandes de

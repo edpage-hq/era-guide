@@ -129,15 +129,25 @@ sections). It then lists each part in display order, and ends with
 | Part                           | Editable content                             | Shown                                         |
 | ------------------------------ | -------------------------------------------- | --------------------------------------------- |
 | **Header**                     | Eyebrow, headline title and text             | Always                                        |
+| **In short**                   | One card per point (four recommended)        | If **Show** is ticked and there is a card     |
+| **Levels**                     | Eyebrow, title, text, one card per pôle      | If **Show** is ticked and there is a card     |
 | **Free offer**                 | Eyebrow, title and text                      | If **Show** is ticked                         |
+| **Curricula**                  | Eyebrow, title, text, one card per table row | If **Show** is ticked and there is a card     |
 | **Modules**                    | Eyebrow, title, text, one card per module    | If **Show** is ticked and there is a card     |
+| **Higher education**           | Eyebrow, title, text, one card per point     | If **Show** is ticked and there is a card     |
+| **On site**                    | Eyebrow, title, text, one card per need      | If **Show** is ticked and there is a card     |
 | **Pricing & quote**            | Eyebrow, title, text, priced cards and terms | If **Show** is ticked and there is a card     |
 | **Onboarding**                 | Eyebrow, title, text, one card per step      | If **Show** is ticked and there is a card     |
 | **Frequently asked questions** | Eyebrow, title, questions and answers        | If **Show** is ticked and there is a question |
 | **Contact**                    | Eyebrow, title and text above the form       | Always                                        |
 
+The page's drawings (the header's dashboard and family portal, the levels
+timeline, the application form, the report card, the payment tracking,
+the messages to families, the student path, the "offline" diagram) aren't
+editable: their texts follow the page's language, with fictitious names.
+
 The **eyebrow** is the small uppercase line above a part's title
-("MODULES", "CONTACT"…). The contact and quote forms' fields aren't
+("CURRICULA", "CONTACT"…). The contact and quote forms' fields aren't
 editable.
 
 ### Choosing the appearance
@@ -145,8 +155,9 @@ editable.
 The **Appearance** part sets the look of the whole page. Colors and logo
 stay ERA's: the landing page presents the product.
 
-- **Layout of the top of the page**: **Centered** (the title in the middle, the
-  original look), **Full screen** (a photo across the full width, the
+- **Layout of the top of the page**: **Illustrated** (the title on the
+  left, a drawing of the product on the right, no photo; the default
+  layout), **Centered** (the title in the middle), **Full screen** (a photo across the full width, the
   text over it), **Side by side** (the text on the left, the photo on the
   right) or **Editorial** (a large title, then the photo as a banner).
   The module chips under the buttons only appear with **Centered**.
@@ -156,12 +167,15 @@ stay ERA's: the landing page presents the product.
 - **Page background**: colored glow, plain or tinted.
 - **Show the logo icon** above the title (the full logo stays in the top
   bar).
-- **Ambiance**: the **fonts**, the frames' **corners**, the **buttons'**
-  shape and the **section backgrounds**. With **Solid color**, modules and
-  onboarding move onto the main color; pricing, denser, stays on a tint
-  to remain legible.
+- **Ambiance**: the **fonts** (**Bold** by default: very heavy titles),
+  the frames' **corners**, the **buttons'** shape and the **section
+  backgrounds**. With **Solid color**, onboarding moves onto the main
+  color; the denser parts (levels, curricula, higher education, pricing)
+  stay on a tint to remain legible.
 
-Left untouched, the page keeps its original look.
+Left untouched, the page uses the **Illustrated** layout and the **Bold**
+font. An appearance already saved is kept: to switch to the new look,
+pick these two options and save.
 
 ### Ordering sections and adding new ones
 
@@ -192,8 +206,8 @@ appear in the menu of the top bar.
 ### Editing the labels
 
 The **Labels** part changes the texts that belong to no part: the
-**Create my free space**, **Create my space** (top bar and footer) and
-**Request a proposal** buttons, the free offer's **Free** badge, and the
+**Create your free account**, **Create my account** (top bar and footer)
+and **Compose my offer** buttons, the free offer's **Free** badge, and the
 name shown in the footer after "© year" (edPage by default).
 
 ### Sharing and search
@@ -218,8 +232,8 @@ its language's default text, visible greyed out in the field. You only
 need to fill in what you want to change. If you write in a single
 language, that text is reused for the other.
 
-At first deployment, the modules, pricing, steps and FAQ are already
-filled in from the commercial proposal. Edit or delete them freely.
+At first deployment, every card part and the FAQ are already filled
+in from the commercial proposal. Edit or delete them freely.
 
 ### Managing cards and questions
 
@@ -231,6 +245,32 @@ filled in from the commercial proposal. Edit or delete them freely.
 
 Each block shows its state: **Shown**, **Hidden** (unticked) or **Empty,
 not shown** (no card or question). Saving is immediate.
+
+### Writing the landing page's texts
+
+A few typing conventions shape the parts:
+
+- **Header title**: words in square brackets show in color with the
+  **Illustrated** layout, e.g. "From early childhood [to university]."
+  The brackets never appear on the page, whatever the layout.
+- **Free offer**: the text's first paragraph introduces the offer; each
+  following paragraph becomes a ticked step, its first sentence in bold
+  ("Step 1, ERA Admissions."). Separate paragraphs with a blank line.
+- **Levels and Modules cards**: the description's first line is the
+  headline (the module's tagline, or the pôle's introduction); each line
+  starting with "- " becomes a point of the list.
+- **Illustrated module** (Modules cards): the module the card presents.
+  **Academic life**, **Finances** and **Family relations** have a drawing
+  and are showcased; the other cards go under "And also", where their
+  "- " lines show as tags. The **Badge** adds a note such as "New".
+- **Curricula cards**: the title is the question, the description the
+  answer, and **Where it is set** the table's third column.
+- **In short**, **Higher education** and **On site**: the title is
+  enough; the optional description shows under it.
+
+The **Illustrated** header also states, under the buttons, that online
+admissions are free with no time limit, and the demo length, taken from
+the platform's settings (60 days by default).
 
 ## Handling contact requests
 

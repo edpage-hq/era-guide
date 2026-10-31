@@ -9,6 +9,15 @@ notifications et langue fonctionnent de la même façon, que vous soyez
 administrateur, enseignant, parent ou élève. Les guides propres à chaque
 rôle ne répètent pas ces informations.
 
+## Activer votre compte
+
+Votre compte est créé par l'administrateur de votre établissement. Vous
+recevez alors un e-mail « Votre compte … est prêt » : cliquez sur
+**Activer mon compte**, choisissez votre mot de passe (deux fois), puis
+validez. Vous êtes aussitôt connecté. Le lien est valable 7 jours ; passé
+ce délai, ou s'il ne fonctionne plus, demandez une nouvelle invitation à
+votre administrateur.
+
 ## Se connecter
 
 Ouvrez l'adresse de votre établissement dans un navigateur et saisissez

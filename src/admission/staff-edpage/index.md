@@ -137,18 +137,29 @@ reprend ensuite chaque partie dans son ordre d'affichage, et se termine par
 les **Libellés** et le **Partage et référencement**. Les parties
 d'origine sont :
 
-| Partie                  | Contenu modifiable                                    | Affichage                                           |
-| ----------------------- | ----------------------------------------------------- | --------------------------------------------------- |
-| **En-tête**             | Surtitre, titre et texte d'accroche                   | Toujours                                            |
-| **Offre gratuite**      | Surtitre, titre et texte                              | Si **Afficher** est coché                           |
-| **Pôles**               | Surtitre, titre, texte, une carte par pôle            | Si **Afficher** est coché et qu'il y a une carte    |
-| **Tarifs & Devis**      | Surtitre, titre, texte, cartes tarifées et conditions | Si **Afficher** est coché et qu'il y a une carte    |
-| **Mise en service**     | Surtitre, titre, texte, une carte par étape           | Si **Afficher** est coché et qu'il y a une carte    |
-| **Foire aux questions** | Surtitre, titre, questions et réponses                | Si **Afficher** est coché et qu'il y a une question |
-| **Contact**             | Surtitre, titre et texte au-dessus du formulaire      | Toujours                                            |
+| Partie                     | Contenu modifiable                                     | Affichage                                           |
+| -------------------------- | ------------------------------------------------------ | --------------------------------------------------- |
+| **En-tête**                | Surtitre, titre et texte d'accroche                    | Toujours                                            |
+| **En bref**                | Une carte par point (quatre conseillés)                | Si **Afficher** est coché et qu'il y a une carte    |
+| **Enseignements**          | Surtitre, titre, texte, une carte par pôle             | Si **Afficher** est coché et qu'il y a une carte    |
+| **Offre gratuite**         | Surtitre, titre et texte                               | Si **Afficher** est coché                           |
+| **Référentiels**           | Surtitre, titre, texte, une carte par ligne du tableau | Si **Afficher** est coché et qu'il y a une carte    |
+| **Modules**                | Surtitre, titre, texte, une carte par module           | Si **Afficher** est coché et qu'il y a une carte    |
+| **Enseignement supérieur** | Surtitre, titre, texte, une carte par point            | Si **Afficher** est coché et qu'il y a une carte    |
+| **Chez vous**              | Surtitre, titre, texte, une carte par besoin           | Si **Afficher** est coché et qu'il y a une carte    |
+| **Tarifs & Devis**         | Surtitre, titre, texte, cartes tarifées et conditions  | Si **Afficher** est coché et qu'il y a une carte    |
+| **Mise en service**        | Surtitre, titre, texte, une carte par étape            | Si **Afficher** est coché et qu'il y a une carte    |
+| **Foire aux questions**    | Surtitre, titre, questions et réponses                 | Si **Afficher** est coché et qu'il y a une question |
+| **Contact**                | Surtitre, titre et texte au-dessus du formulaire       | Toujours                                            |
+
+Les dessins de la page (le tableau de bord et le portail des familles de
+l'en-tête, la frise des niveaux, le formulaire d'inscription, le bulletin,
+le suivi des paiements, les messages aux familles, le parcours de
+l'étudiant, le schéma « hors connexion ») ne se modifient pas : leurs
+textes suivent la langue de la page, avec des noms fictifs.
 
 Le **surtitre** est la petite ligne en capitales au-dessus du titre d'une
-partie (« LES PÔLES », « CONTACT »…). Les champs des formulaires de
+partie (« LES RÉFÉRENTIELS », « CONTACT »…). Les champs des formulaires de
 contact et de devis ne se modifient pas.
 
 ### Choisir l'apparence
@@ -156,8 +167,9 @@ contact et de devis ne se modifient pas.
 La partie **Apparence** règle le look de toute la page. Les couleurs et
 le logo restent ceux d'ERA : la vitrine présente le produit.
 
-- **Mise en page du haut de la page** : **Centrée** (le titre au centre,
-  la présentation d'origine), **Plein écran** (une photo sur toute la
+- **Mise en page du haut de la page** : **Illustrée** (le titre à gauche,
+  un dessin du produit à droite, sans photo ; c'est la mise en page par
+  défaut), **Centrée** (le titre au centre), **Plein écran** (une photo sur toute la
   largeur, le texte par-dessus), **Côte à côte** (le texte à gauche, la
   photo à droite) ou **Éditorial** (un grand titre, puis la photo en
   bandeau). Les pastilles des pôles sous les boutons n'apparaissent
@@ -168,12 +180,16 @@ le logo restent ceux d'ERA : la vitrine présente le produit.
 - **Fond de la page** : halo coloré, uni ou teinté.
 - **Afficher l'icône du logo** au-dessus du titre (le logo complet reste
   dans le bandeau du haut).
-- **Ambiance** : les **polices**, les **angles** des cadres, la forme des
-  **boutons** et le **fond des sections**. Avec **Couleur pleine**, les
-  pôles et la mise en service passent sur la couleur principale ; les
-  tarifs, plus denses, restent sur une teinte pour rester lisibles.
+- **Ambiance** : les **polices** (**Affirmé** par défaut : des titres très
+  gras), les **angles** des cadres, la forme des **boutons** et le **fond
+  des sections**. Avec **Couleur pleine**, la mise en service passe sur la
+  couleur principale ; les parties plus denses (enseignements,
+  référentiels, enseignement supérieur, tarifs) restent sur une teinte
+  pour rester lisibles.
 
-Sans changement, la page garde sa présentation d'origine.
+Sans changement, la page prend la mise en page **Illustrée** et la police
+**Affirmé**. Une apparence déjà enregistrée est conservée : pour passer
+au nouveau look, choisissez ces deux options puis enregistrez.
 
 ### Ordonner les sections et en ajouter
 
@@ -207,8 +223,8 @@ haut.
 ### Modifier les libellés
 
 La partie **Libellés** change les textes qui n'appartiennent à aucune
-partie : les boutons **Créer mon espace gratuit**, **Créer mon espace**
-(bandeau du haut et pied de page) et **Demander une proposition**, la
+partie : les boutons **Créez votre compte gratuit**, **Créer mon compte**
+(bandeau du haut et pied de page) et **Composer mon offre**, la
 pastille **Gratuit** de l'offre gratuite, et le nom affiché dans le pied
 de page après « © année » (edPage par défaut).
 
@@ -236,8 +252,8 @@ affiche le texte par défaut de sa langue, visible en grisé dans le champ.
 Vous n'avez donc à remplir que ce que vous voulez changer. Si vous
 n'écrivez que dans une langue, ce texte est repris dans l'autre.
 
-À la première mise en service, les pôles, les tarifs, les étapes et la
-foire aux questions sont déjà remplis à partir de la proposition
+À la première mise en service, toutes les parties à cartes et la foire
+aux questions sont déjà remplies à partir de la proposition
 commerciale. Modifiez-les ou supprimez-les librement.
 
 ### Gérer les cartes et les questions
@@ -253,6 +269,37 @@ commerciale. Modifiez-les ou supprimez-les librement.
 Chaque bloc indique son état : **Affichée**, **Masquée** (décochée) ou
 **Vide, non affichée** (aucune carte ou question). Les enregistrements
 sont immédiats.
+
+### Écrire les textes de la vitrine
+
+Quelques conventions de saisie donnent leur forme aux parties :
+
+- **Titre de l'en-tête** : les mots entre crochets s'affichent en
+  couleur avec la mise en page **Illustrée**, par exemple « De la petite
+  enfance [à l'université]. » Les crochets n'apparaissent jamais sur la
+  page, quelle que soit la mise en page.
+- **Offre gratuite** : le premier paragraphe du texte présente l'offre ;
+  chaque paragraphe suivant devient une étape cochée, sa première phrase
+  en gras (« Marche 1, ERA Admissions. »). Séparez les paragraphes par
+  une ligne vide.
+- **Cartes Enseignements et Modules** : la première ligne de la
+  description est l'accroche (le titre du module, ou la présentation du
+  pôle) ; chaque ligne qui commence par « - » devient un point de la
+  liste.
+- **Module illustré** (cartes Modules) : le module que la carte présente.
+  **Vie académique**, **Finances** et **Relation famille** ont un dessin
+  et sont mis en avant ; les autres cartes vont dans « Et aussi », où
+  leurs lignes « - » s'affichent en étiquettes. La **Pastille** ajoute une
+  mention comme « Nouveau ».
+- **Cartes Référentiels** : le titre est la question, la description la
+  réponse, et **Où cela se règle** la troisième colonne du tableau.
+- **En bref**, **Enseignement supérieur** et **Chez vous** : le titre
+  suffit ; la description, facultative, s'affiche dessous.
+
+L'en-tête de la mise en page **Illustrée** rappelle aussi, sous les
+boutons, que les admissions en ligne sont gratuites sans limite de durée
+et la durée de la démonstration, reprise des réglages de la plateforme
+(30 jours par défaut).
 
 ## Traiter les demandes de contact
 

@@ -127,25 +127,76 @@ l'établissement de supprimer ses données sans attendre.
 La vitrine est la page publique affichée à l'adresse principale d'Era
 Admission (le domaine central, pas le sous-domaine d'un établissement).
 Elle présente l'offre aux établissements et mène vers l'inscription
-gratuite ou vers une demande de proposition. Aucun tarif n'y figure : les
-prix restent dans la proposition personnalisée envoyée à chaque
-établissement.
+gratuite ou vers une demande de proposition, et son configurateur de
+tarifs permet à un établissement de composer sa licence et de demander un
+devis.
 
-L'écran **Vitrine** reprend les parties de la page, dans leur ordre
-d'affichage :
+L'écran **Vitrine** commence par l'**Apparence** de la page, reprend
+ensuite ses parties dans leur ordre d'affichage, et se termine par les
+**Libellés** et le **Partage et référencement** :
 
-| Partie                  | Contenu modifiable                     | Affichage                                           |
-| ----------------------- | -------------------------------------- | --------------------------------------------------- |
-| **En-tête**             | Titre et texte d'accroche              | Toujours                                            |
-| **Offre gratuite**      | Titre et texte sur ERA Admissions      | Si **Afficher** est coché                           |
-| **Pôles**               | Titre, texte et une carte par pôle     | Si **Afficher** est coché et qu'il y a une carte    |
-| **Formules**            | Titre, texte et une carte par formule  | Si **Afficher** est coché et qu'il y a une carte    |
-| **Mise en service**     | Titre, texte et une carte par étape    | Si **Afficher** est coché et qu'il y a une carte    |
-| **Foire aux questions** | Titre, questions et réponses           | Si **Afficher** est coché et qu'il y a une question |
-| **Contact**             | Titre et texte au-dessus du formulaire | Toujours                                            |
+| Partie                  | Contenu modifiable                                    | Affichage                                           |
+| ----------------------- | ----------------------------------------------------- | --------------------------------------------------- |
+| **En-tête**             | Surtitre, titre et texte d'accroche                   | Toujours                                            |
+| **Offre gratuite**      | Surtitre, titre et texte                              | Si **Afficher** est coché                           |
+| **Pôles**               | Surtitre, titre, texte, une carte par pôle            | Si **Afficher** est coché et qu'il y a une carte    |
+| **Tarifs & Devis**      | Surtitre, titre, texte, cartes tarifées et conditions | Si **Afficher** est coché et qu'il y a une carte    |
+| **Mise en service**     | Surtitre, titre, texte, une carte par étape           | Si **Afficher** est coché et qu'il y a une carte    |
+| **Foire aux questions** | Surtitre, titre, questions et réponses                | Si **Afficher** est coché et qu'il y a une question |
+| **Contact**             | Surtitre, titre et texte au-dessus du formulaire      | Toujours                                            |
 
-Les boutons de l'en-tête (**Créer mon espace gratuit** et **Demander une
-proposition**) et les champs du formulaire de contact ne se modifient pas.
+Le **surtitre** est la petite ligne en capitales au-dessus du titre d'une
+partie (« LES PÔLES », « CONTACT »…). Les champs des formulaires de
+contact et de devis ne se modifient pas.
+
+### Choisir l'apparence
+
+La partie **Apparence** règle le look de toute la page. Les couleurs et
+le logo restent ceux d'ERA : la vitrine présente le produit.
+
+- **Mise en page du haut de la page** : **Centrée** (le titre au centre,
+  la présentation d'origine), **Plein écran** (une photo sur toute la
+  largeur, le texte par-dessus), **Côte à côte** (le texte à gauche, la
+  photo à droite) ou **Éditorial** (un grand titre, puis la photo en
+  bandeau). Les pastilles des pôles sous les boutons n'apparaissent
+  qu'avec la mise en page **Centrée**.
+- **Image du haut de la page** : la photo de l'en-tête (PNG, JPG ou WebP,
+  4 Mo au plus), avec le **voile** qui l'assombrit pour garder le texte
+  lisible et le **cadrage de l'image** (centre, haut, bas).
+- **Fond de la page** : halo coloré, uni ou teinté.
+- **Afficher l'icône du logo** au-dessus du titre (le logo complet reste
+  dans le bandeau du haut).
+- **Ambiance** : les **polices**, les **angles** des cadres, la forme des
+  **boutons** et le **fond des sections**. Avec **Couleur pleine**, les
+  pôles et la mise en service passent sur la couleur principale ; les
+  tarifs, plus denses, restent sur une teinte pour rester lisibles.
+
+Sans changement, la page garde sa présentation d'origine.
+
+### Modifier les libellés
+
+La partie **Libellés** change les textes qui n'appartiennent à aucune
+partie : les boutons **Créer mon espace gratuit**, **Créer mon espace**
+(bandeau du haut et pied de page) et **Demander une proposition**, la
+pastille **Gratuit** de l'offre gratuite, et le nom affiché dans le pied
+de page après « © année » (edPage par défaut).
+
+### Partage et référencement
+
+La partie **Partage et référencement** règle ce que Google et les
+aperçus de lien (WhatsApp, Facebook, LinkedIn…) montrent de la vitrine :
+
+- le **titre de la page**, affiché dans l'onglet du navigateur et dans les
+  résultats de recherche, suivi de « - ERA » : une soixantaine de
+  caractères au plus ;
+- la **description**, le résumé affiché sous le titre : environ 160
+  caractères ;
+- l'**image d'aperçu**, affichée quand le lien est partagé (1200 × 630
+  pixels conseillés). Sans image, la photo de l'en-tête est utilisée.
+
+Les applications de messagerie gardent souvent un aperçu en mémoire
+plusieurs jours : un lien déjà partagé peut montrer l'ancienne version
+un moment.
 
 ### Textes par défaut
 
@@ -154,7 +205,7 @@ affiche le texte par défaut de sa langue, visible en grisé dans le champ.
 Vous n'avez donc à remplir que ce que vous voulez changer. Si vous
 n'écrivez que dans une langue, ce texte est repris dans l'autre.
 
-À la première mise en service, les pôles, les formules, les étapes et la
+À la première mise en service, les pôles, les tarifs, les étapes et la
 foire aux questions sont déjà remplis à partir de la proposition
 commerciale. Modifiez-les ou supprimez-les librement.
 

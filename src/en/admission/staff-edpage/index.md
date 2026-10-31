@@ -117,25 +117,72 @@ waiting.
 
 The landing page is the public page shown at Era Admission's main
 address (the central domain, not a school's subdomain). It presents the
-offer to schools and leads to the free signup or to a proposal request.
-No price appears on it: prices stay in the personalised proposal sent to
-each school.
+offer to schools and leads to the free signup or to a proposal request,
+and its pricing configurator lets a school build its licence and ask for
+a quote.
 
-The **Landing page** screen lists the parts of the page, in display
-order:
+The **Landing page** screen starts with the page's **Appearance**, then
+lists its parts in display order, and ends with **Labels** and **Sharing
+and search**:
 
-| Part                           | Editable content                     | Shown                                         |
-| ------------------------------ | ------------------------------------ | --------------------------------------------- |
-| **Header**                     | Headline title and text              | Always                                        |
-| **Free offer**                 | Title and text about ERA Admissions  | If **Show** is ticked                         |
-| **Modules**                    | Title, text and one card per module  | If **Show** is ticked and there is a card     |
-| **Formulas**                   | Title, text and one card per formula | If **Show** is ticked and there is a card     |
-| **Onboarding**                 | Title, text and one card per step    | If **Show** is ticked and there is a card     |
-| **Frequently asked questions** | Title, questions and answers         | If **Show** is ticked and there is a question |
-| **Contact**                    | Title and text above the form        | Always                                        |
+| Part                           | Editable content                             | Shown                                         |
+| ------------------------------ | -------------------------------------------- | --------------------------------------------- |
+| **Header**                     | Eyebrow, headline title and text             | Always                                        |
+| **Free offer**                 | Eyebrow, title and text                      | If **Show** is ticked                         |
+| **Modules**                    | Eyebrow, title, text, one card per module    | If **Show** is ticked and there is a card     |
+| **Pricing & quote**            | Eyebrow, title, text, priced cards and terms | If **Show** is ticked and there is a card     |
+| **Onboarding**                 | Eyebrow, title, text, one card per step      | If **Show** is ticked and there is a card     |
+| **Frequently asked questions** | Eyebrow, title, questions and answers        | If **Show** is ticked and there is a question |
+| **Contact**                    | Eyebrow, title and text above the form       | Always                                        |
 
-The header buttons (**Create my free space** and **Request a proposal**)
-and the contact form's fields aren't editable.
+The **eyebrow** is the small uppercase line above a part's title
+("MODULES", "CONTACT"…). The contact and quote forms' fields aren't
+editable.
+
+### Choosing the appearance
+
+The **Appearance** part sets the look of the whole page. Colors and logo
+stay ERA's: the landing page presents the product.
+
+- **Layout of the top of the page**: **Centered** (the title in the middle, the
+  original look), **Full screen** (a photo across the full width, the
+  text over it), **Side by side** (the text on the left, the photo on the
+  right) or **Editorial** (a large title, then the photo as a banner).
+  The module chips under the buttons only appear with **Centered**.
+- **Image at the top of the page**: the header photo (PNG, JPG or WebP, 4 MB at
+  most), with the **veil** that darkens it to keep the text legible and
+  the **image framing** (center, top, bottom).
+- **Page background**: colored glow, plain or tinted.
+- **Show the logo icon** above the title (the full logo stays in the top
+  bar).
+- **Ambiance**: the **fonts**, the frames' **corners**, the **buttons'**
+  shape and the **section backgrounds**. With **Solid color**, modules and
+  onboarding move onto the main color; pricing, denser, stays on a tint
+  to remain legible.
+
+Left untouched, the page keeps its original look.
+
+### Editing the labels
+
+The **Labels** part changes the texts that belong to no part: the
+**Create my free space**, **Create my space** (top bar and footer) and
+**Request a proposal** buttons, the free offer's **Free** badge, and the
+name shown in the footer after "© year" (edPage by default).
+
+### Sharing and search
+
+The **Sharing and search** part sets what Google and link previews
+(WhatsApp, Facebook, LinkedIn…) show of the landing page:
+
+- the **page title**, shown in the browser tab and in search results,
+  followed by "- ERA": about sixty characters at most;
+- the **description**, the summary shown under the title: about 160
+  characters;
+- the **preview image**, shown when the link is shared (1200 × 630 pixels
+  recommended). Without one, the header photo is used.
+
+Messaging apps often cache a preview for several days: a link already
+shared may show the old version for a while.
 
 ### Default texts
 
@@ -144,7 +191,7 @@ its language's default text, visible greyed out in the field. You only
 need to fill in what you want to change. If you write in a single
 language, that text is reused for the other.
 
-At first deployment, the modules, formulas, steps and FAQ are already
+At first deployment, the modules, pricing, steps and FAQ are already
 filled in from the commercial proposal. Edit or delete them freely.
 
 ### Managing cards and questions

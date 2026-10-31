@@ -122,8 +122,9 @@ and its pricing configurator lets a school build its licence and ask for
 a quote.
 
 The **Landing page** screen starts with the page's **Appearance**, then
-lists its parts in display order, and ends with **Labels** and **Sharing
-and search**:
+the **Page sections** block (the order of the parts and the added
+sections). It then lists each part in display order, and ends with
+**Labels** and **Sharing and search**. The original parts are:
 
 | Part                           | Editable content                             | Shown                                         |
 | ------------------------------ | -------------------------------------------- | --------------------------------------------- |
@@ -161,6 +162,32 @@ stay ERA's: the landing page presents the product.
   to remain legible.
 
 Left untouched, the page keeps its original look.
+
+### Ordering sections and adding new ones
+
+The **Page sections** block lists every part below the header, in
+display order: the original ones as well as those you add. The arrows
+move them up or down. The header always stays at the top of the page.
+
+**Add a section** offers the same types as a school's homepage. The
+section is added at the bottom of the list, empty, with its own block in
+the editor, and only appears on the landing page once filled in:
+
+| Section                    | Content                                                    | Maximum   |
+| -------------------------- | ---------------------------------------------------------- | --------- |
+| **Key figures**            | A value ("120", "98%") and what it measures                | 8 figures |
+| **Photo gallery**          | Photos (screenshots, training sessions…), optional caption | 24 photos |
+| **Testimonials**           | The quote, its author, their role, an optional photo       | 12        |
+| **News**                   | Title, date, text and image; most recent first             | 12        |
+| **Partners**               | The logo, the name, and the website the logo links to      | 24        |
+| **Contact and directions** | Address, phone, email, hours, a map drawn from the address | —         |
+| **Video**                  | A YouTube or Vimeo video address, and a caption            | —         |
+
+The landing page holds up to 12 added sections, several of the same type
+if needed. Each added section has an **Eyebrow**, a **Section title** and
+the **Show this section on the page** box; **Delete the section** erases it
+with all its content, images included. The first six parts of the list
+appear in the menu of the top bar.
 
 ### Editing the labels
 

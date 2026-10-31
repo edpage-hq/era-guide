@@ -131,9 +131,11 @@ gratuite ou vers une demande de proposition, et son configurateur de
 tarifs permet à un établissement de composer sa licence et de demander un
 devis.
 
-L'écran **Vitrine** commence par l'**Apparence** de la page, reprend
-ensuite ses parties dans leur ordre d'affichage, et se termine par les
-**Libellés** et le **Partage et référencement** :
+L'écran **Vitrine** commence par l'**Apparence** de la page, puis le bloc
+**Sections de la page** (l'ordre des parties et les sections ajoutées). Il
+reprend ensuite chaque partie dans son ordre d'affichage, et se termine par
+les **Libellés** et le **Partage et référencement**. Les parties
+d'origine sont :
 
 | Partie                  | Contenu modifiable                                    | Affichage                                           |
 | ----------------------- | ----------------------------------------------------- | --------------------------------------------------- |
@@ -172,6 +174,35 @@ le logo restent ceux d'ERA : la vitrine présente le produit.
   tarifs, plus denses, restent sur une teinte pour rester lisibles.
 
 Sans changement, la page garde sa présentation d'origine.
+
+### Ordonner les sections et en ajouter
+
+Le bloc **Sections de la page** liste toutes les parties sous l'en-tête,
+dans leur ordre d'affichage : celles d'origine comme celles que vous
+ajoutez. Les flèches les montent ou les descendent. L'en-tête reste
+toujours en haut de la page.
+
+**Ajouter une section** propose les mêmes types que la page d'accueil
+d'un établissement. La section s'ajoute en bas de la liste, vide, avec son
+propre bloc dans l'éditeur, et n'apparaît sur la vitrine qu'une fois
+remplie :
+
+| Section              | Contenu                                                                    | Maximum    |
+| -------------------- | -------------------------------------------------------------------------- | ---------- |
+| **Chiffres clés**    | Une valeur (« 120 », « 98 % ») et ce qu'elle mesure                        | 8 chiffres |
+| **Galerie photos**   | Des photos (captures d'écran, formations…), légende facultative            | 24 photos  |
+| **Témoignages**      | Le témoignage, son auteur, sa fonction, une photo facultative              | 12         |
+| **Actualités**       | Titre, date, texte et image ; les plus récentes en premier                 | 12         |
+| **Partenaires**      | Le logo, le nom, et le site web vers lequel mène le logo                   | 24         |
+| **Contact et accès** | Adresse, téléphone, e-mail, horaires, plan construit à partir de l'adresse | —          |
+| **Vidéo**            | L'adresse d'une vidéo YouTube ou Vimeo, et une légende                     | —          |
+
+La vitrine peut contenir jusqu'à 12 sections ajoutées, plusieurs du même
+type si besoin. Chaque section ajoutée a un **Surtitre**, un **Titre de la
+section** et la case **Afficher cette section sur la page** ; **Supprimer
+la section** l'efface avec tout son contenu, images comprises. Les six
+premières parties de la liste apparaissent dans le menu du bandeau du
+haut.
 
 ### Modifier les libellés
 

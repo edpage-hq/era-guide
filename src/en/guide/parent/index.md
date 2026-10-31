@@ -50,5 +50,7 @@ in these cases:
 You are not told of every grade: the period's grades come with the report
 card, and averages can be checked any time on your child's page.
 
-Account settings (password, notifications, language) work the same way
-for every role: see [Getting started](/en/guide/prise-en-main).
+Each kind can come in the app, by e-mail, both or neither: see
+[Choosing what you receive](/en/guide/prise-en-main#choosing-what-you-receive).
+Other account settings (password, language) work the same way for every
+role: see [Getting started](/en/guide/prise-en-main).

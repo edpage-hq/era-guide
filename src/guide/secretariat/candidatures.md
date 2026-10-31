@@ -11,7 +11,10 @@ une famille venue sur site (canal **Caisse**). C'est depuis cette page
 que vous décidez d'accepter ou de refuser chaque dossier.
 
 Dès l'envoi d'un dossier, en ligne ou au guichet, la famille reçoit un
-e-mail qui en accuse réception et lui annonce la suite.
+e-mail qui en accuse réception et lui annonce la suite. Le secrétariat,
+lui, reçoit une notification **Nouvelle candidature** dans la cloche
+(l'administration, sur une installation sans secrétariat) ; la personne
+qui a saisi le dossier à la caisse ne la reçoit pas.
 
 Les familles accèdent au formulaire public par le bouton **Inscrire mon
 enfant** de la page d'accueil de l'établissement (l'établissement peut lui

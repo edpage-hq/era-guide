@@ -11,7 +11,10 @@ visiting in person (channel **Cashier**). This is the page where you
 decide to accept or reject each application.
 
 As soon as an application is sent, online or at the desk, the family gets
-an email acknowledging it and telling them what comes next.
+an email acknowledging it and telling them what comes next. The
+secretariat gets a **New application** notification in the bell (the
+administration, on an install with no secretariat); whoever entered the
+application at the cash desk doesn't get it.
 
 Families reach the public form through the **Enrol my child** button on
 the school's homepage (the school may give it another label, see

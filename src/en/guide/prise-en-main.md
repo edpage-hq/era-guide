@@ -180,7 +180,8 @@ everything related to your personal account, regardless of your role:
 - **Language** — choose the app's language (French or English). This
   choice immediately changes every label, with no need to sign in again,
   including this guide's if you open it from within the app.
-- **Notifications** — enable push notifications on this device.
+- **Notifications** — choose, for each kind of notification, whether you
+  get it in the app, by e-mail, both or neither.
 
 ### Two-factor authentication (2FA)
 
@@ -247,20 +248,53 @@ The device you're using right now is marked **Current device**. You can:
   one — useful if you think a device should no longer have access to your
   account.
 
+### Choosing what you receive
+
+**Settings → Notifications** lists the kinds of notification that concern
+you, depending on your role — **Schooling** for what relates to your
+children, **Work** for what relates to your job. Each has two boxes:
+
+- **App** — the notification appears in the bell;
+- **E-mail** — it is also sent to you by e-mail.
+
+Untick both to stop receiving it, then click **Save**. Until you change
+anything, the defaults apply:
+
+| You are…            | By default                                                                                                         |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| a parent or student | app and e-mail, for everything                                                                                     |
+| a staff member      | app for everything; e-mail only for requests waiting for your decision (expense, leave, site move, staff transfer) |
+
+Notifications are shown in the language you chose (**Settings →
+Language**), even those sent before you switched. A deactivated account no
+longer receives anything.
+
 ### Push notifications
 
-**Settings → Notifications** lets you enable push notifications on the
-device you're using. Once enabled, you're notified as soon as something
-needs your attention (for example a student's site move or an expense
-waiting for your decision). The **Enable**/**Disable** button toggles this; if it says push
-notifications aren't supported, your browser or device doesn't allow them.
+People who decide on requests (administration, directors, secretariat) also
+find **Push notifications on this device** below the list: once enabled, a
+notification shows on the device even when ERA isn't open. They follow each
+kind's **App** box. The **Enable**/**Disable** button toggles this; if it
+says push notifications aren't supported, your browser or device doesn't
+allow them.
 
 ## The notification bell
 
-At the top of the screen, the bell shows a badge when you have unread
-notifications (for example an application to process, or a request to
-approve). Click a notification to open it and mark it as read, or use
-**Mark all as read** to clear the list at once.
+At the top of the screen, the bell shows a badge with the number of unread
+notifications ("99+" above 99), refreshed every minute without reloading
+the page. It lists the ten most recent: click one to open the page it
+concerns and mark it as read, or use **Mark all as read**. The gear at the
+bottom opens **Settings → Notifications**.
+
+## The Notifications page
+
+**See all notifications**, at the bottom of the bell, opens the full list,
+newest first, page by page. The **Unread** tab shows only those you haven't
+opened yet; a blue dot marks them in **All** too. Hover over the date to
+see the exact day and time.
+
+Notifications read more than 90 days ago are deleted automatically; unread
+ones are kept.
 
 ## Deciding from a notification
 

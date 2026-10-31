@@ -52,5 +52,7 @@ Vous n'êtes pas prévenu de chaque note : les notes de la période se
 découvrent avec le bulletin, et les moyennes restent consultables à tout
 moment sur la fiche de votre enfant.
 
-Les réglages de votre compte (mot de passe, notifications, langue) sont les
-mêmes pour tous les rôles : voir [Bien démarrer](/guide/prise-en-main).
+Chaque type peut être reçu dans l'application, par e-mail, les deux ou
+aucun : voir [Choisir ce que vous recevez](/guide/prise-en-main#choisir-ce-que-vous-recevez).
+Les autres réglages de votre compte (mot de passe, langue) sont les mêmes
+pour tous les rôles : voir [Bien démarrer](/guide/prise-en-main).

@@ -195,7 +195,8 @@ soit votre rôle :
 - **Langue** — choisir la langue de l'application (français ou anglais).
   Ce choix change immédiatement tous les libellés, sans reconnexion, y
   compris ceux de ce guide si vous y accédez depuis l'app.
-- **Notifications** — activer les notifications push sur cet appareil.
+- **Notifications** — choisir, pour chaque type de notification, si vous
+  la recevez dans l'application, par e-mail, les deux ou aucun.
 
 ### Authentification à deux facteurs (2FA)
 
@@ -269,23 +270,58 @@ dernière activité. L'appareil que vous utilisez en ce moment est marqué
   sauf celle en cours — utile si vous pensez qu'un appareil ne devrait
   plus avoir accès à votre compte.
 
+### Choisir ce que vous recevez
+
+**Paramètres → Notifications** liste les types de notification qui vous
+concernent, selon votre rôle — rubrique **Scolarité** pour ce qui touche
+vos enfants, **Travail** pour ce qui touche votre poste. Pour chacun, deux
+cases :
+
+- **Application** — la notification apparaît dans la cloche ;
+- **E-mail** — elle vous est aussi envoyée par e-mail.
+
+Décochez les deux pour ne plus la recevoir du tout, puis cliquez sur
+**Enregistrer**. Tant que vous n'avez rien changé, les réglages par défaut
+s'appliquent :
+
+| Vous êtes…          | Par défaut                                                                                                                             |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| parent ou élève     | application et e-mail, pour tout                                                                                                       |
+| membre du personnel | application pour tout ; e-mail seulement pour les demandes qui attendent votre décision (dépense, congé, changement de site, mutation) |
+
+Les notifications s'affichent dans la langue que vous avez choisie
+(**Paramètres → Langue**), même si elles ont été envoyées avant que vous en
+changiez. Un compte désactivé ne reçoit plus rien.
+
 ### Notifications push
 
-**Paramètres → Notifications** vous permet d'activer les notifications
-push sur l'appareil que vous utilisez. Une fois activées, vous êtes
-notifié dès qu'une action nécessite votre attention (par exemple une
-mobilité d'élève ou une dépense à décider). Le bouton **Activer**/
-**Désactiver** bascule cet état ; s'il indique que les notifications ne
-sont pas prises en charge, c'est que votre navigateur ou votre appareil ne
-le permet pas.
+Les personnes qui décident des demandes (administration, direction,
+secrétariat) trouvent, sous la liste, **Notifications push sur cet
+appareil** : une fois activées, une notification s'affiche sur l'appareil
+même quand ERA n'est pas ouvert. Elles suivent la case **Application** de
+chaque type. Le bouton **Activer**/**Désactiver** bascule cet état ; s'il
+indique que les notifications ne sont pas prises en charge, c'est que votre
+navigateur ou votre appareil ne le permet pas.
 
 ## La cloche de notifications
 
-En haut de l'écran, la cloche affiche un badge quand vous avez des
-notifications non lues (par exemple une candidature à traiter, ou une
-demande à valider). Cliquez sur une notification pour l'ouvrir et la
-marquer comme lue, ou utilisez **Tout marquer comme lu** pour vider la
-liste d'un coup.
+En haut de l'écran, la cloche affiche un badge avec le nombre de
+notifications non lues (« 99+ » au-delà de 99), mis à jour toutes les
+minutes sans recharger la page. Elle liste les dix plus récentes : cliquez
+sur l'une d'elles pour ouvrir la page concernée et la marquer comme lue, ou
+utilisez **Tout marquer comme lu**. L'engrenage, en bas, ouvre **Paramètres
+→ Notifications**.
+
+## La page Notifications
+
+**Voir toutes les notifications**, en bas de la cloche, ouvre la liste
+complète, de la plus récente à la plus ancienne, page par page. L'onglet
+**Non lues** n'affiche que celles que vous n'avez pas encore ouvertes ; un
+point bleu les signale aussi dans **Toutes**. Survolez la date pour voir
+le jour et l'heure exacts.
+
+Les notifications lues depuis plus de 90 jours sont effacées
+automatiquement ; celles que vous n'avez pas lues sont gardées.
 
 ## Décider depuis une notification
 

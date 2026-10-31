@@ -272,6 +272,22 @@ The **Illustrated** header also states, under the buttons, that online
 admissions are free with no time limit, and the demo length, taken from
 the platform's settings (60 days by default).
 
+### What the pricing configurator shows
+
+Visitors tick the modules they want; the estimate updates beside them:
+
+- **Choose the full school licence** ticks every school module at once,
+  billed at the full-offer price (set under **Pricing terms**).
+- **Year 1 total** adds up the licence, first-year maintenance and the
+  chosen hosting.
+- **From year 2, per year** shows what comes back each year: maintenance,
+  plus managed hosting when it is chosen.
+- Document management and the additional modules stay "On quote"; the
+  note under the total gives the demo's length.
+
+The default introduction quotes the maintenance rate set under **Pricing
+terms**: changing the rate updates the text.
+
 ## Handling contact requests
 
 The landing page's form sends its requests to the **Contact requests**

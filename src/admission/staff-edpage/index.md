@@ -299,7 +299,7 @@ Quelques conventions de saisie donnent leur forme aux parties :
 L'en-tête de la mise en page **Illustrée** rappelle aussi, sous les
 boutons, que les admissions en ligne sont gratuites sans limite de durée
 et la durée de la démonstration, reprise des réglages de la plateforme
-(30 jours par défaut).
+(60 jours par défaut).
 
 ## Traiter les demandes de contact
 

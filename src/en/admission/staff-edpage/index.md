@@ -270,7 +270,7 @@ A few typing conventions shape the parts:
 
 The **Illustrated** header also states, under the buttons, that online
 admissions are free with no time limit, and the demo length, taken from
-the platform's settings (30 days by default).
+the platform's settings (60 days by default).
 
 ## Handling contact requests
 

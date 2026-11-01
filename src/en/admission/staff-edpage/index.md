@@ -210,14 +210,12 @@ The **Labels** part changes the texts that belong to no part: the
 **Compose my offer** buttons, the free offer's **Free** badge, and the
 name shown in the footer after "© year" (edPage by default).
 
-It also holds the contact details of the Contact section and the footer,
-filled at first with edPage's:
+It also holds the footer's contact details, filled at first with
+edPage's:
 
-- **Emails** and **Phone numbers**: several values separated by commas. They
-  appear in the Contact section's details card and in the footer.
-- **Address**: shown in the Contact section.
+- **Emails** and **Phone numbers**: several values separated by commas.
 - **Legal line**: the line shown after "© year" at the bottom of the
-  footer.
+  footer. edPage's address is part of it.
 
 An empty field hides its line.
 

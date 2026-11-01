@@ -228,15 +228,13 @@ partie : les boutons **Créez votre compte gratuit**, **Créer mon compte**
 l'offre gratuite, et le nom affiché dans le pied de page après
 « © année » (edPage par défaut).
 
-Elle contient aussi les coordonnées de la section Contact et du pied de
-page, remplies au départ avec celles d'edPage :
+Elle contient aussi les coordonnées du pied de page, remplies au départ
+avec celles d'edPage :
 
 - **E-mails** et **Téléphones** : plusieurs valeurs séparées par des
-  virgules. Ils apparaissent dans la carte de coordonnées de la section
-  Contact et dans le pied de page.
-- **Adresse** : affichée dans la section Contact.
+  virgules.
 - **Mentions légales** : la ligne affichée après « © année » en bas du
-  pied de page.
+  pied de page. L'adresse d'edPage y figure.
 
 Un champ laissé vide fait disparaître sa ligne.
 

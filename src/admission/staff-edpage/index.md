@@ -224,9 +224,21 @@ haut.
 
 La partie **Libellés** change les textes qui n'appartiennent à aucune
 partie : les boutons **Créez votre compte gratuit**, **Créer mon compte**
-(bandeau du haut et pied de page) et **Composer mon offre**, la
-pastille **Gratuit** de l'offre gratuite, et le nom affiché dans le pied
-de page après « © année » (edPage par défaut).
+(bandeau du haut) et **Composer mon offre**, la pastille **Gratuit** de
+l'offre gratuite, et le nom affiché dans le pied de page après
+« © année » (edPage par défaut).
+
+Elle contient aussi les coordonnées de la section Contact et du pied de
+page, remplies au départ avec celles d'edPage :
+
+- **E-mails** et **Téléphones** : plusieurs valeurs séparées par des
+  virgules. Ils apparaissent dans la carte de coordonnées de la section
+  Contact et dans le pied de page.
+- **Adresse** : affichée dans la section Contact.
+- **Mentions légales** : la ligne affichée après « © année » en bas du
+  pied de page.
+
+Un champ laissé vide fait disparaître sa ligne.
 
 ### Partage et référencement
 

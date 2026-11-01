@@ -206,9 +206,20 @@ appear in the menu of the top bar.
 ### Editing the labels
 
 The **Labels** part changes the texts that belong to no part: the
-**Create your free account**, **Create my account** (top bar and footer)
-and **Compose my offer** buttons, the free offer's **Free** badge, and the
+**Create your free account**, **Create my account** (top bar) and
+**Compose my offer** buttons, the free offer's **Free** badge, and the
 name shown in the footer after "© year" (edPage by default).
+
+It also holds the contact details of the Contact section and the footer,
+filled at first with edPage's:
+
+- **Emails** and **Phone numbers**: several values separated by commas. They
+  appear in the Contact section's details card and in the footer.
+- **Address**: shown in the Contact section.
+- **Legal line**: the line shown after "© year" at the bottom of the
+  footer.
+
+An empty field hides its line.
 
 ### Sharing and search
 

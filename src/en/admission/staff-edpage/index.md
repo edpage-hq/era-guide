@@ -6,7 +6,7 @@ layout: doc
 
 The internal Era Admission panel is the tool reserved for the edPage
 team to manage the lifecycle of schools signed up online: granting a
-license, ending a demo early, or purging an expired school. It's also
+license, ending a demo early, or deleting a school at its request. It's also
 where the team edits Era Admission's **landing page** and handles the
 **contact requests** it receives. It has nothing to do with a client
 school's own user account — it's an entirely separate access.
@@ -49,12 +49,12 @@ Once logged in, the "Schools" page lists every school that has signed
 up, with for each one:
 
 - its name and subdomain;
-- its **status**: free, demo, licensed, or expired;
+- its **status**: free, demo, or licensed;
 - its active **modules** (none on free; all on demo; whichever are
-  actually licensed on licensed; none on expired);
+  actually licensed on licensed);
 - its **hosting formula** (self-hosted or managed);
-- the demo end date, the date maintenance is paid through, and how long
-  the school has been expired, whichever applies.
+- the demo end date (including for a free school whose demo has ended)
+  and the date maintenance is paid through, whichever applies.
 
 Each row then offers the actions available for that school, described
 below — some only appear for certain statuses.
@@ -90,28 +90,25 @@ appear on other statuses.
 1. On the school's row, click **End demo**.
 2. Confirm in the dialog — the action is immediate.
 
-The school moves to "Expired" status and switches to read-only, exactly
-as if its demo had ended naturally at its scheduled deadline. Use this
+The school goes back to "Free" status (ERA Admissions), exactly as if its demo had ended naturally at its scheduled deadline. Use this
 action to end a demo before its normal term (for example at the
 school's request, or in case of misuse) — it isn't needed in the
 ordinary course of things, since the demo ends on its own.
 
-## Purging an expired school
+## Deleting a school
 
-Available only for a school with "Expired" status. This action is
-**final and irreversible**.
+Available for any school that isn't licensed (free or on demo). This
+action is **final and irreversible**.
 
-1. On the school's row, click **Purge**.
-2. Read the warning message in the dialog carefully: it states that the
-   school, its database, and its storage will be deleted immediately,
-   with no grace period and no way to undo it.
+1. On the school's row, click **Delete**.
+2. Read the warning message in the dialog carefully: the school, its
+   database, and its storage are deleted immediately, after an archive
+   is written, with no way to undo it.
 3. Confirm with **Delete permanently**.
 
-In the ordinary course of things, a school expired for too long is
-purged automatically once its grace period elapses. Use this manual
-action only to purge a school ahead of that automatic deadline — for
-example at the school's explicit request to delete its data without
-waiting.
+Nothing is ever deleted automatically: an ended demo returns the school
+to the free tier with its data kept. Use this action only at the
+school's explicit request.
 
 ## Editing the landing page
 
@@ -278,7 +275,7 @@ A few typing conventions shape the parts:
   enough; the optional description shows under it.
 
 The **Illustrated** header also states, under the buttons, that online
-admissions are free with no time limit, and the demo length, taken from
+admissions are free for a year, renewable, and the demo length, taken from
 the platform's settings (60 days by default).
 
 ### What the pricing configurator shows

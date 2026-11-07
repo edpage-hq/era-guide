@@ -6,8 +6,8 @@ layout: doc
 
 Le panel interne Era Admission est l'outil réservé à l'équipe edPage
 pour gérer le cycle de vie des établissements inscrits en ligne : accorder
-une licence, clore une démonstration avant terme, ou purger un
-établissement expiré. C'est aussi là que l'équipe modifie la **vitrine**
+une licence, clore une démonstration avant terme, ou supprimer un
+établissement à sa demande. C'est aussi là que l'équipe modifie la **vitrine**
 d'Era Admission et traite les **demandes de contact** qu'elle reçoit. Il
 n'a aucun rapport avec un compte utilisateur d'un établissement client —
 c'est un accès entièrement séparé.
@@ -53,13 +53,13 @@ Une fois connecté, la page « Établissements » liste tous les
 établissements inscrits, avec pour chacun :
 
 - son nom et son sous-domaine ;
-- son **statut** : gratuit, démo, licencié ou expiré ;
+- son **statut** : gratuit, démo ou licencié ;
 - ses **pôles** actifs (aucun en gratuit ; tous en démo ; ceux
-  effectivement licenciés en licencié ; aucun en expiré) ;
+  effectivement licenciés en licencié) ;
 - sa **formule d'hébergement** (autonome ou clé en main) ;
-- la date de fin de démo, la date jusqu'à laquelle la maintenance est
-  payée, et depuis quand l'établissement est expiré, selon ce qui
-  s'applique.
+- la date de fin de démo (y compris pour un établissement gratuit dont
+  la démo est terminée) et la date jusqu'à laquelle la maintenance est
+  payée, selon ce qui s'applique.
 
 Chaque ligne propose ensuite les actions disponibles pour cet
 établissement, décrites ci-dessous — certaines n'apparaissent que pour
@@ -97,30 +97,28 @@ n'apparaît pas sur les autres statuts.
 1. Sur la ligne de l'établissement, cliquez sur **Terminer la démo**.
 2. Confirmez dans la boîte de dialogue — l'action est immédiate.
 
-L'établissement passe au statut « Expiré » et repasse en lecture seule,
-exactement comme si sa démo s'était terminée naturellement à l'échéance
+L'établissement revient au statut « Gratuit » (ERA Admissions), exactement
+comme si sa démo s'était terminée naturellement à l'échéance
 prévue. Utilisez cette action pour mettre fin à une démo avant son terme
 normal (par exemple à la demande de l'établissement, ou en cas d'usage
 abusif) — ce n'est pas nécessaire dans le cours normal des choses, la
 démo se termine d'elle-même.
 
-## Purger un établissement expiré
+## Supprimer un établissement
 
-Disponible uniquement pour un établissement au statut « Expiré ». Cette
-action est **définitive et irréversible**.
+Disponible pour tout établissement qui n'est pas licencié (gratuit ou en
+démo). Cette action est **définitive et irréversible**.
 
-1. Sur la ligne de l'établissement, cliquez sur **Purger**.
+1. Sur la ligne de l'établissement, cliquez sur **Supprimer**.
 2. Relisez attentivement le message d'avertissement dans la boîte de
-   dialogue : il rappelle que l'établissement, sa base de données et son
-   stockage seront supprimés immédiatement, sans délai de grâce ni
-   possibilité d'annulation.
+   dialogue : l'établissement, sa base de données et son stockage sont
+   supprimés immédiatement, après écriture d'une archive, sans
+   annulation possible.
 3. Confirmez avec **Supprimer définitivement**.
 
-Dans le cours normal des choses, un établissement expiré depuis trop
-longtemps est purgé automatiquement à l'issue de son délai de grâce.
-Utilisez cette action manuelle uniquement pour purger un établissement
-avant l'échéance automatique — par exemple à la demande explicite de
-l'établissement de supprimer ses données sans attendre.
+Rien n'est jamais supprimé automatiquement : une démo terminée ramène
+l'établissement à l'offre gratuite en conservant ses données. Utilisez
+cette action uniquement à la demande explicite de l'établissement.
 
 ## Modifier la vitrine
 
@@ -307,7 +305,7 @@ Quelques conventions de saisie donnent leur forme aux parties :
   suffit ; la description, facultative, s'affiche dessous.
 
 L'en-tête de la mise en page **Illustrée** rappelle aussi, sous les
-boutons, que les admissions en ligne sont gratuites sans limite de durée
+boutons, que les admissions en ligne sont gratuites un an, renouvelables,
 et la durée de la démonstration, reprise des réglages de la plateforme
 (60 jours par défaut).
 

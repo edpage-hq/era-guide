@@ -5,8 +5,8 @@ layout: doc
 # Free signup and full-feature demo
 
 Discovering ERA requires no installation and no commitment: your school
-can create its own online space in a few minutes, for free and with no
-time limit, then switch to a full-feature demo to evaluate the whole
+can create its own online space in a few minutes, free for a year,
+renewable, then switch to a full-feature demo to evaluate the whole
 solution before choosing a license.
 
 ## Creating your school's account
@@ -69,7 +69,7 @@ temporarily unlocks every ERA module, with no commitment, so you can
 evaluate the solution under real conditions before choosing a license.
 
 Activation itself — and how the demo winds down (duration, the
-"expiring soon" banner, the read-only freeze) — is covered from the
+"expiring soon" banner, the return to the free tier) — is covered from the
 administrator's point of view in
 [Full-feature demo and activity log](/en/guide/admin/demo-et-journal);
 this guide doesn't duplicate that content.
@@ -87,20 +87,19 @@ In short, what matters before you decide:
 
 You don't have to watch the calendar: a week before the deadline, an
 email warns the school's administrator accounts, with the exact date. A
-second message goes out on the day the demo ends, naming the date the
-data will be deleted.
+second message goes out on the day the demo ends.
 
-If no license has been purchased by the time the demo period ends,
-access to your space automatically switches to **read-only**: you can
-still view your data, but no longer change it. It's the same state a
-demo manually ended by the edPage team would reach.
+If no license has been purchased by the time the demo period ends, your
+space **automatically returns to the free ERA Admissions tier**: the
+public application form and the application queue keep working, and the
+other modules lock again. It's the same state a demo manually ended by
+the edPage team reaches.
 
-This read-only state isn't final right away, but it isn't permanent
-either: you're given a **grace period** to choose a license or contact
-us. Past that period with no action on your part, the school —
-including its data — is **permanently deleted**, with no way to recover
-it.
+**Nothing is deleted.** What you entered during the demo (classes,
+students, grades, payments...) is kept, only hidden while the modules
+are locked. It comes back as it was the day you take a license: no
+re-entry.
 
-To avoid reaching that point, see
-[Moving to a license](/en/admission/ecoles/passage-licence) as soon as
-you're ready to commit.
+The demo can't be started a second time. To get the whole of ERA back,
+see [Moving to a license](/en/admission/ecoles/passage-licence) as soon
+as you're ready to commit.

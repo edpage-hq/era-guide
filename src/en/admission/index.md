@@ -17,7 +17,7 @@ Two distinct audiences meet here:
   module) with edPage's support.
 - **[The edPage team](/en/admission/staff-edpage/)** — edPage's
   sales/support staff have a separate internal panel to manage signed-up
-  schools: grant a license, end a demo, purge an expired account.
+  schools: grant a license, end a demo, delete a school at its request.
 
 Neither of these two journeys has anything to do with a school's own user
 accounts (admin, teacher, etc. roles): they happen on ERA's central

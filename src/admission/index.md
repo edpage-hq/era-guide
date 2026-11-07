@@ -17,8 +17,8 @@ Deux publics bien distincts se croisent ici :
   licence payante (à la carte, par pôle) accompagnée par l'équipe edPage.
 - **[L'équipe edPage](/admission/staff-edpage/)** — le personnel commercial/support
   edPage dispose d'un panneau interne séparé pour gérer les établissements
-  inscrits : accorder une licence, clore une démonstration, purger un
-  compte expiré.
+  inscrits : accorder une licence, clore une démonstration, supprimer un
+  établissement à sa demande.
 
 Ces deux parcours n'ont rien à voir avec les comptes utilisateurs d'un
 établissement (rôles admin, enseignant, etc.) : ils se déroulent sur le

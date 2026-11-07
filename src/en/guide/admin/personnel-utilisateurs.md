@@ -104,6 +104,7 @@ To create an employee record:
 | ------------- | ----------------------------------------------------------------------- |
 | Staff account | chosen from staff accounts, direction included, that have no record yet |
 | Position      | free text                                                               |
+| Base salary   | optional; used to prepare the [payroll](/en/guide/admin/paie)           |
 
 "Assignment" section:
 

@@ -12,16 +12,19 @@ tourne mal.
 La page s'ouvre par **Administration → Sauvegardes**. Elle n'est visible que par les
 administrateurs.
 
-::: info Elle n'apparaît pas chez vous ?
-Cette page n'existe que si votre établissement est seul sur son
-installation. Les écoles hébergées par edPage partagent un même serveur,
-où une sauvegarde couvrirait les données de toutes les écoles : elle est
-donc faite par edPage, pas depuis votre espace.
+::: info Établissement hébergé par edPage
+Vos données vous appartiennent, et cette page sert à les exporter. Sur le
+serveur partagé d'edPage, une archive ne contient **que votre
+établissement** : sa base de données et ses fichiers (documents, photos,
+pièces jointes). Il n'y a pas de sauvegarde de nuit ici : edPage
+sauvegarde le serveur de son côté, et vous demandez une archive quand vous
+en voulez une. Seules les **deux plus récentes** sont gardées sur le
+serveur : téléchargez celles que vous voulez conserver.
 :::
 
 ## Chaque nuit, sans rien faire
 
-ERA prend une sauvegarde automatique toutes les nuits. Les plus récentes
+Sur une installation propre à votre établissement, ERA prend une sauvegarde automatique toutes les nuits. Les plus récentes
 sont conservées, les plus anciennes disparaissent d'elles-mêmes pour ne
 pas saturer le serveur. Le nombre conservé est indiqué en haut de la page.
 

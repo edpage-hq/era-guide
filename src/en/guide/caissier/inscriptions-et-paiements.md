@@ -82,8 +82,8 @@ administrator to create one before you can bill the student.
 1. In the **Record a payment** form, enter the **Amount**. It cannot be
    more than the student's remaining balance: as with an online payment,
    ERA refuses an overpayment.
-2. Choose the **Method**: Mixx by Yass (formerly T-Money), Flooz,
-   Card, or Bank deposit.
+2. Choose the **Method**: Cash, Mixx by Yass (formerly T-Money), Flooz,
+   Card, Bank deposit, or Bank transfer.
 3. If a fee structure exists, indicate which **Fee item** of the
    student's schedule this payment
    relates to, or leave the **Lump sum (not tied to an item)** choice

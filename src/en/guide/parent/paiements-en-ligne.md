@@ -48,7 +48,7 @@ each installment with its label, amount, due date and status (**Paid**,
 **Overdue** or **Upcoming**).
 
 The full payment history is shown in a second table, with the date,
-amount, method (mobile money, card, bank deposit…), the fee item involved
+amount, method (cash, mobile money, card, bank transfer…), the fee item involved
 and the payment's status (**Paid**, **Pending** or **Failed**). This
 history includes both your online payments and those collected in person
 at the school.

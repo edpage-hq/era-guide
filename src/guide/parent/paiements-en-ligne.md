@@ -49,8 +49,8 @@ Si un plan de paiement par tranches a été mis en place, un tableau
 sa date d'échéance et son statut (**Payée**, **En retard** ou **À venir**).
 
 L'historique complet des paiements figure dans un second tableau, avec la
-date, le montant, la méthode (mobile money, carte bancaire, dépôt
-bancaire…), l'article de frais concerné et le statut du paiement
+date, le montant, la méthode (espèces, mobile money, carte
+bancaire, virement bancaire…), l'article de frais concerné et le statut du paiement
 (**Payé**, **En attente** ou **Échoué**). Cet historique regroupe aussi
 bien vos paiements en ligne que ceux encaissés directement à l'accueil de
 l'établissement.

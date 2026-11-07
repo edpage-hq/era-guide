@@ -22,7 +22,9 @@ To create a user:
 
 1. Click **New user**.
 2. Fill in the **Name** and **Email address**. There's no password to
-   enter: the person chooses their own.
+   enter: the person chooses their own. The **Phone** is optional: it is
+   used for SMS or WhatsApp notifications (see
+   [SMS & WhatsApp](/en/guide/admin/sms-whatsapp)).
 3. Choose the **Role**: User, Admin, Teacher, Secretariat, Cashier,
    School life, Boarding manager, Nurse, or Document manager — and, if the
    school has the Pilotage module, **Site director** or **General
@@ -76,7 +78,7 @@ which can already approve everything. See [Direction](/en/guide/direction/).
 
 From the list, each account offers:
 
-- **Edit** — change the name, email or role, and manage sign-in (see
+- **Edit** — change the name, email, phone or role, and manage sign-in (see
   above). Changing the role of a staff
   member who is also a parent keeps their parent access: only the work
   role is replaced.

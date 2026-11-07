@@ -115,6 +115,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Réinscriptions', link: 'admin/reinscriptions' },
         { text: 'Frais et tarification', link: 'admin/frais-tarification' },
         { text: 'Paiement en ligne', link: 'admin/paiement-en-ligne' },
+        { text: 'SMS et WhatsApp', link: 'admin/sms-whatsapp' },
         { text: 'Emplois du temps', link: 'admin/emplois-du-temps' },
         { text: 'Bulletins', link: 'admin/bulletins' },
         { text: 'Enseignement supérieur', link: 'admin/enseignement-superieur' },

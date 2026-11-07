@@ -167,7 +167,10 @@ The **Settings** menu (from your avatar, at the bottom of the spaces
 column, or top right on a phone) groups
 everything related to your personal account, regardless of your role:
 
-- **Profile** — change your name, email address and profile picture. If
+- **Profile** — change your name, email address, phone number and profile
+  picture. The number, with its country code (for example
+  `+228 90 11 22 33`), is used for SMS or WhatsApp notifications if your
+  school sends them. If
   you change your email, a "Your email address is not verified" message
   appears until you click the link sent to that address. A parent or
   student account can also be deleted there. A staff account is tied to
@@ -181,7 +184,8 @@ everything related to your personal account, regardless of your role:
   choice immediately changes every label, with no need to sign in again,
   including this guide's if you open it from within the app.
 - **Notifications** — choose, for each kind of notification, whether you
-  get it in the app, by e-mail, both or neither.
+  get it in the app, by e-mail, both or neither (and, if your school sends
+  them, by SMS or WhatsApp).
 
 ### Two-factor authentication (2FA)
 
@@ -256,6 +260,11 @@ children, **Work** for what relates to your job. Each has two boxes:
 
 - **App** — the notification appears in the bell;
 - **E-mail** — it is also sent to you by e-mail.
+
+If your school sends some family notifications by SMS or WhatsApp, a third
+box, **SMS** or **WhatsApp**, appears for those. It is ticked by default,
+but only works with a phone number: without one, a message invites you to
+add it to your profile (**Add my number**).
 
 Untick both to stop receiving it, then click **Save**. Until you change
 anything, the defaults apply:

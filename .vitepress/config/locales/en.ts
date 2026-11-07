@@ -84,6 +84,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Re-enrollments', link: 'admin/reinscriptions' },
         { text: 'Fees and pricing', link: 'admin/frais-tarification' },
         { text: 'Online payment', link: 'admin/paiement-en-ligne' },
+        { text: 'SMS & WhatsApp', link: 'admin/sms-whatsapp' },
         { text: 'Timetables', link: 'admin/emplois-du-temps' },
         { text: 'Report cards', link: 'admin/bulletins' },
         { text: 'Higher education', link: 'admin/enseignement-superieur' },

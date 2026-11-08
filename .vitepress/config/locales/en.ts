@@ -79,6 +79,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Dashboard', link: 'admin/tableau-de-bord' },
         { text: 'School structure', link: 'admin/structure-etablissement' },
         { text: 'Staff and user accounts', link: 'admin/personnel-utilisateurs' },
+        { text: 'Payroll', link: 'admin/paie' },
         { text: 'Students and guardians', link: 'admin/eleves-tuteurs' },
         { text: 'Year-end decisions', link: 'admin/decisions-fin-annee' },
         { text: 'Re-enrollments', link: 'admin/reinscriptions' },

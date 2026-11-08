@@ -110,6 +110,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Tableau de bord', link: 'admin/tableau-de-bord' },
         { text: "Structure de l'établissement", link: 'admin/structure-etablissement' },
         { text: 'Personnel et comptes utilisateurs', link: 'admin/personnel-utilisateurs' },
+        { text: 'Paie', link: 'admin/paie' },
         { text: 'Élèves et tuteurs', link: 'admin/eleves-tuteurs' },
         { text: "Décisions de fin d'année", link: 'admin/decisions-fin-annee' },
         { text: 'Réinscriptions', link: 'admin/reinscriptions' },

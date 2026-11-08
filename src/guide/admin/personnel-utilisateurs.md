@@ -108,6 +108,7 @@ Section « Personne » :
 | ------------------- | ---------------------------------------------------------------------------------------- |
 | Compte du personnel | choisi parmi les comptes du personnel, direction comprise, qui n'ont pas encore de fiche |
 | Poste               | intitulé libre                                                                           |
+| Salaire de base     | facultatif ; sert à préparer la [paie](/guide/admin/paie)                                |
 
 Section « Affectation » :
 

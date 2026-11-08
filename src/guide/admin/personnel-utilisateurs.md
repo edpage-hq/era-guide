@@ -22,7 +22,9 @@ Pour créer un utilisateur :
 
 1. Cliquez sur **Nouvel utilisateur**.
 2. Renseignez le **Nom** et l'**Adresse e-mail**. Aucun mot de passe à
-   saisir : c'est la personne qui choisira le sien.
+   saisir : c'est la personne qui choisira le sien. Le **Téléphone** est
+   facultatif : il sert aux notifications par SMS ou WhatsApp (voir
+   [SMS et WhatsApp](/guide/admin/sms-whatsapp)).
 3. Choisissez le **Rôle** : Utilisateur, Administrateur, Enseignant,
    Secrétariat, Caisse, Vie scolaire, Gestionnaire internat, Infirmerie ou
    Gestionnaire documentaire — et, si l'établissement a le module
@@ -78,7 +80,7 @@ Administrateur, qui peut déjà tout valider. Voir [Direction](/guide/direction/
 
 Depuis la liste, chaque compte propose :
 
-- **Modifier** — changer le nom, l'e-mail ou le rôle, et gérer la
+- **Modifier** — changer le nom, l'e-mail, le téléphone ou le rôle, et gérer la
   connexion (voir ci-dessus). Changer le rôle d'un membre du personnel qui est aussi parent d'élève lui laisse son
   accès parent : seul le rôle professionnel est remplacé.
 - **Activer** / **Désactiver** — désactiver un compte le déconnecte

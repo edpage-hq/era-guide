@@ -180,8 +180,10 @@ Le menu **Paramètres** (accessible depuis votre avatar, en bas de la
 colonne des espaces, ou en haut à droite sur téléphone) regroupe tout ce qui concerne votre compte personnel, quel que
 soit votre rôle :
 
-- **Profil** — modifier votre nom, votre adresse e-mail et votre photo de
-  profil. Si vous changez d'adresse e-mail, un message « Votre adresse
+- **Profil** — modifier votre nom, votre adresse e-mail, votre numéro de
+  téléphone et votre photo de profil. Le numéro, avec l'indicatif du pays
+  (par exemple `+228 90 11 22 33`), sert aux notifications par SMS ou
+  WhatsApp si votre établissement en envoie. Si vous changez d'adresse e-mail, un message « Votre adresse
   e-mail n'est pas vérifiée » apparaît jusqu'à ce que vous cliquiez sur le
   lien reçu par e-mail. Un compte parent ou élève peut aussi y être
   supprimé. Un compte du personnel, lui, est rattaché à des données de
@@ -196,7 +198,8 @@ soit votre rôle :
   Ce choix change immédiatement tous les libellés, sans reconnexion, y
   compris ceux de ce guide si vous y accédez depuis l'app.
 - **Notifications** — choisir, pour chaque type de notification, si vous
-  la recevez dans l'application, par e-mail, les deux ou aucun.
+  la recevez dans l'application, par e-mail, les deux ou aucun (et, si
+  votre établissement en envoie, par SMS ou WhatsApp).
 
 ### Authentification à deux facteurs (2FA)
 
@@ -279,6 +282,12 @@ cases :
 
 - **Application** — la notification apparaît dans la cloche ;
 - **E-mail** — elle vous est aussi envoyée par e-mail.
+
+Si votre établissement envoie certaines notifications aux familles par SMS
+ou sur WhatsApp, une troisième case, **SMS** ou **WhatsApp**, apparaît pour
+ces notifications-là. Elle est cochée par défaut, mais ne sert qu'avec un
+numéro de téléphone : sans numéro, un message vous invite à l'ajouter dans
+votre profil (**Ajouter mon numéro**).
 
 Décochez les deux pour ne plus la recevoir du tout, puis cliquez sur
 **Enregistrer**. Tant que vous n'avez rien changé, les réglages par défaut

@@ -24,8 +24,11 @@ When available, the offer appears on the **Dashboard**:
 3. Click **Activate demo** to confirm.
 
 Once activated, a banner on the dashboard shows how many days are left,
-then warns you as the end approaches. After that period, access switches
-to read-only until you purchase a license.
+then warns you as the end approaches. After that period, the school
+returns to the free ERA Admissions tier: the application form keeps
+working, the other modules lock, and nothing is deleted — what you
+entered during the demo comes back as soon as you purchase a license. A
+banner on the dashboard says so. The demo can only be activated once.
 
 ## Review the activity log
 

@@ -87,7 +87,7 @@ avoir) la main sur leur infrastructure.
 Avec cette formule, edPage continue d'héberger votre établissement sur
 son infrastructure — exactement comme pendant votre inscription gratuite
 et votre démonstration, à ceci près que l'accès en lecture-écriture
-reste ouvert en continu, sans limite de durée ni gel en lecture seule.
+reste ouvert en continu, sans fin de démo ni retour à l'offre gratuite.
 Cette prise en charge de l'hébergement est facturée en plus de la
 licence elle-même.
 

@@ -6,7 +6,7 @@ layout: doc
 
 Découvrir ERA ne demande ni installation ni engagement : votre
 établissement peut créer son propre espace en ligne en quelques minutes,
-gratuitement et sans limite de durée, puis basculer vers une
+gratuitement pour un an, renouvelable, puis basculer vers une
 démonstration complète pour évaluer l'ensemble de la solution avant de
 choisir une licence.
 
@@ -76,7 +76,7 @@ pôles d'ERA, sans engagement, pour évaluer la solution en conditions
 réelles avant de choisir une licence.
 
 L'activation elle-même — et la fin de vie de cette démo (durée, banderole
-d'expiration proche, gel en lecture seule) — est détaillée du point de
+d'expiration proche, retour à l'offre gratuite) — est détaillée du point de
 vue de l'administrateur dans
 [Démo complète et journal d'activité](/guide/admin/demo-et-journal) ;
 ce guide-ci ne la duplique pas.
@@ -95,21 +95,21 @@ En résumé, ce qu'il faut retenir avant de vous décider :
 
 Vous n'avez pas à surveiller le calendrier : une semaine avant l'échéance,
 un e-mail prévient les comptes administrateurs de l'établissement, avec la
-date exacte. Un second message part le jour où la démo se termine ; il
-indique la date à laquelle les données seront supprimées.
+date exacte. Un second message part le jour où la démo se termine.
 
 Si aucune licence n'a été achetée avant la fin de la période de
-démonstration, l'accès à votre espace passe automatiquement en **lecture
-seule** : vous pouvez toujours consulter vos données, mais plus les
-modifier. C'est le même état qu'atteindrait un compte dont la démo a été
-close manuellement par l'équipe edPage.
+démonstration, votre espace **revient automatiquement à l'offre gratuite
+ERA Admissions** : le formulaire public de candidature et la file des
+candidatures continuent de fonctionner, et les autres pôles se
+verrouillent à nouveau. C'est le même état qu'atteint un compte dont la
+démo a été close manuellement par l'équipe edPage.
 
-Cet état de lecture seule n'est pas définitif dans l'immédiat, mais il
-n'est pas non plus permanent : un **délai de grâce** vous est laissé pour
-choisir votre licence ou nous contacter. Passé ce délai sans action de
-votre part, l'établissement — ses données comprises — est **supprimé
-définitivement**, sans possibilité de récupération.
+**Rien n'est supprimé.** Ce que vous avez saisi pendant la démo (classes,
+élèves, notes, paiements...) reste conservé, simplement masqué tant que
+les pôles sont verrouillés. Il réapparaît tel quel le jour où vous
+prenez une licence : aucune ressaisie.
 
-Pour éviter d'en arriver là, voir
+La démonstration ne peut pas être relancée une seconde fois. Pour
+retrouver l'ensemble d'ERA, voir
 [Passer à une licence](/admission/ecoles/passage-licence) dès que vous
 êtes prêts à vous engager.

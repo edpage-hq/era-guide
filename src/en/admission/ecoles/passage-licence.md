@@ -82,8 +82,8 @@ their own infrastructure.
 
 With this formula, edPage keeps hosting your school on its
 infrastructure — exactly as during your free signup and demo, except
-that read-write access stays open continuously, with no time limit and
-no read-only freeze. This hosting service is billed on top of the
+that access stays open continuously, with no demo end and no return to
+the free tier. This hosting service is billed on top of the
 license itself.
 
 This formula suits schools that would rather not manage a server at all

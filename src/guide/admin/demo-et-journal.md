@@ -26,7 +26,11 @@ Quand elle est disponible, l'offre apparaît sur le **Tableau de bord** :
 
 Une fois activée, une bannière sur le tableau de bord indique le nombre de
 jours restants, puis vous alerte quand la fin approche. Passé le délai,
-l'accès repasse en lecture seule jusqu'à l'achat d'une licence.
+l'établissement revient à l'offre gratuite ERA Admissions : le formulaire
+de candidature fonctionne toujours, les autres pôles se verrouillent, et
+rien n'est supprimé — ce que vous avez saisi pendant la démo réapparaît
+dès l'achat d'une licence. Une bannière le rappelle sur le tableau de
+bord. La démo ne peut être activée qu'une fois.
 
 ## Consulter le journal d'activité
 

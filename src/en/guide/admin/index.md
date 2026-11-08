@@ -33,8 +33,9 @@ bottom of the column:
   extracurricular activities and sessions.
 - **Administration**: users, activity log,
   [Homepage](/en/guide/admin/page-accueil),
-  [App settings](/en/guide/admin/parametres-application) and, on the
-  school's own installation, [Backups](/en/guide/admin/sauvegardes).
+  [App settings](/en/guide/admin/parametres-application) and
+  [Backups](/en/guide/admin/sauvegardes) (the export of the school's data,
+  when edPage hosts it).
 
 The **School setup** space holds many pages: scroll its tabs sideways to see them
 all.
@@ -58,7 +59,7 @@ all.
 | [Higher education](/en/guide/admin/enseignement-superieur)             | Programmes, LMD curricula, admissions, grades per course element, deliberations, transcripts and certificates                                                                                   |
 | [App settings](/en/guide/admin/parametres-application)                 | Identity, colors, logos, receipt customisation, and the two settings that change how the app behaves                                                                                            |
 | [Full demo and activity log](/en/guide/admin/demo-et-journal)          | Activating the full demo (Era Admission tenants on the free tier) and reviewing the action history                                                                                              |
-| [Backups](/en/guide/admin/sauvegardes)                                 | The safety copies of your data: the nightly ones, the ones you ask for, and how to get hold of them                                                                                             |
+| [Backups](/en/guide/admin/sauvegardes)                                 | The safety copies of your data (the nightly ones, the ones you ask for) or, at edPage, your school's export                                                                                     |
 
 Settings that relate to your own account (profile, security,
 notifications, language) are shared by all roles — see

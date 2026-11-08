@@ -36,9 +36,9 @@ espaces à part, en bas de la colonne :
   de transport, activités et séances périscolaires.
 - **Administration** : utilisateurs, journal d'activité,
   [Page d'accueil](/guide/admin/page-accueil),
-  [Paramètres de l'application](/guide/admin/parametres-application) et,
-  sur une installation propre à l'établissement,
-  [Sauvegardes](/guide/admin/sauvegardes).
+  [Paramètres de l'application](/guide/admin/parametres-application) et
+  [Sauvegardes](/guide/admin/sauvegardes) (l'export des données de
+  l'établissement, quand il est hébergé par edPage).
 
 L'espace **Paramétrage scolaire** compte beaucoup de pages : faites défiler ses
 onglets horizontalement pour les voir toutes.
@@ -62,7 +62,7 @@ onglets horizontalement pour les voir toutes.
 | [Enseignement supérieur](/guide/admin/enseignement-superieur)            | Filières, maquettes LMD, admissions, notes par EC, délibérations, relevés et attestations                                                                                                                                 |
 | [Paramètres de l'application](/guide/admin/parametres-application)       | Identité, couleurs, logos, personnalisation des reçus, et les deux réglages qui changent le comportement de l'app                                                                                                         |
 | [Démo complète et journal d'activité](/guide/admin/demo-et-journal)      | Activer la démo complète (établissements Era Admission en version gratuite) et consulter l'historique des actions                                                                                                         |
-| [Sauvegardes](/guide/admin/sauvegardes)                                  | Les copies de sécurité de vos données : celles prises chaque nuit, celles que vous demandez, et comment les récupérer                                                                                                     |
+| [Sauvegardes](/guide/admin/sauvegardes)                                  | Les copies de sécurité de vos données (celles prises chaque nuit, celles que vous demandez) ou, chez edPage, l'export de votre établissement                                                                              |
 
 Les paramètres qui concernent votre propre compte (profil, sécurité,
 notifications, langue) sont communs à tous les rôles — voir

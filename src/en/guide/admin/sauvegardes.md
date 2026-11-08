@@ -10,16 +10,18 @@ what lets you go back if something goes wrong.
 
 The page is at **Administration → Backups**, and only administrators see it.
 
-::: info Not there for you?
-This page only exists when your school is the sole occupant of its
-installation. Schools hosted by edPage share a server, where one backup
-would cover every school's data: yours are taken by edPage rather than
-from your own space.
+::: info School hosted by edPage
+Your data belongs to you, and this page is how you export it. On edPage's
+shared server, an archive holds **your school only**: its database and
+its files (documents, photos, attachments). There is no nightly backup
+here: edPage backs the server up on its side, and you ask for an archive
+whenever you want one. Only the **two most recent** stay on the server:
+download the ones you want to keep.
 :::
 
 ## Every night, with nothing to do
 
-ERA takes an automatic backup every night. The most recent ones are kept
+On an installation of your school's own, ERA takes an automatic backup every night. The most recent ones are kept
 and the oldest go on their own, so the server never fills up. How many are
 kept is shown at the top of the page.
 

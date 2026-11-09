@@ -93,6 +93,7 @@ function sidebarGuide(): SidebarItemType[] {
   return [
     { text: 'Bien démarrer', link: 'prise-en-main' },
     { text: 'Demandes de congé', link: 'conges' },
+    { text: 'Recette', link: 'recette' },
     {
       text: 'Direction',
       link: 'direction/',

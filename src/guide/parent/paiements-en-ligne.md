@@ -42,7 +42,11 @@ La même section affiche quatre chiffres :
   obligatoires et les services choisis.
 - **Remise** — le montant des remises éventuellement accordées.
 - **Total payé** — ce qui a déjà été réglé, en ligne ou à l'accueil.
-- **Solde** — ce qu'il reste à payer.
+- **Solde** — ce qu'il reste à payer. Si vous avez payé plus que ce qui
+  est désormais dû (une remise accordée après coup, par exemple), la carte
+  devient **Avoir** et indique le montant en votre faveur ; l'école peut
+  vous le rembourser, et le montant remboursé apparaît alors sous le total
+  payé.
 
 Si un plan de paiement par tranches a été mis en place, un tableau
 **Plan de paiement** liste chaque tranche avec son libellé, son montant,

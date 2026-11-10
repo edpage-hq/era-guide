@@ -45,6 +45,7 @@ the field at fault.
 | School year                       | the current school year                                | all      |
 | Full name, Last name, First names | the student's record                                   | student  |
 | Date and place of birth           | the student's record                                   | student  |
+| Sex                               | the student's record (Male or Female)                  | student  |
 | Registration number               | the student's registration number                      | student  |
 | Class, Site                       | their enrolment for the current year                   | student  |
 | Name, Position, Hire date, Site   | the employee's record                                  | employee |

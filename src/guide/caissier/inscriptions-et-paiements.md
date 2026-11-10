@@ -17,7 +17,7 @@ candidature.
 
 1. Ouvrez **Élèves et admissions → Nouveau dossier**.
 2. Renseignez le **Prénom**, le **Nom**, la **Date de naissance** et, si
-   vous le connaissez, le **Lieu de naissance** de l'élève, puis le **Site** et le **Département** souhaités.
+   vous le connaissez, le **Lieu de naissance** et le **Sexe** de l'élève, puis le **Site** et le **Département** souhaités.
 3. Ajoutez au moins un **Parent / tuteur** : prénom, nom, e-mail,
    téléphone (facultatif) et lien de parenté (**Père**, **Mère**,
    **Tuteur légal** ou **Autre**). Cochez **Contact principal** pour la

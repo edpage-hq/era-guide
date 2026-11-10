@@ -46,6 +46,7 @@ refuse l'enregistrement et nomme le champ en cause.
 | Année scolaire                    | l'année scolaire en cours                                                     | tous     |
 | Nom complet, Nom, Prénoms         | la fiche de l'élève                                                           | élève    |
 | Date et lieu de naissance         | la fiche de l'élève                                                           | élève    |
+| Sexe                              | la fiche de l'élève (Masculin ou Féminin)                                     | élève    |
 | Matricule                         | le numéro matricule de l'élève                                                | élève    |
 | Classe, Site                      | son inscription de l'année en cours                                           | élève    |
 | Nom, Poste, Date d'embauche, Site | la fiche de l'employé                                                         | employé  |

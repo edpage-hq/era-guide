@@ -27,7 +27,8 @@ To create a student:
 
 1. Click **New student**.
 2. Fill in the **First name** and **Last name**, then, when known, the
-   **Date of birth** and **Place of birth**. If the school uses
+   **Date of birth**, **Place of birth** and **Sex** (Male or Female).
+   If the school uses
    registration numbers, also fill in the **Registration number**: no two
    students can share one. All these fields are optional; the registration
    number and place of birth are printed on transcripts and certificates

@@ -17,7 +17,7 @@ you're the one who submits their application.
 
 1. Open **Students & admissions → New application**.
 2. Enter the student's **First name**, **Last name**, **Date of
-   birth** and, if you know it, **Place of birth**, then the desired **Site** and **Department**.
+   birth** and, if you know it, **Place of birth** and **Sex**, then the desired **Site** and **Department**.
 3. Add at least one **Parent / guardian**: first name, last name,
    email, phone (optional), and relationship (**Father**, **Mother**,
    **Legal guardian**, or **Other**). Check **Primary contact** for the

@@ -57,10 +57,20 @@ Sur la page d'un conseil convoqué, vous pouvez encore :
 - **Supprimer** le conseil (avec confirmation, action irréversible) ;
 - **Enregistrer la décision** : choisissez la **Décision** — Avertissement,
   Blâme, Exclusion temporaire, Exclusion définitive ou Non-lieu — et
-  ajoutez si besoin des **Détails de la décision**, puis validez.
+  ajoutez si besoin des **Détails de la décision**, puis validez. Une
+  exclusion se date :
+  - pour une **exclusion temporaire**, indiquez le jour où elle commence
+    (**Exclu(e) à compter du**) et son **Dernier jour d'exclusion** ;
+  - pour une **exclusion définitive**, indiquez le jour où elle prend
+    effet. Ce jour-là, ERA enregistre aussi le
+    [départ de l'élève](../admin/eleves-tuteurs.md#depart-d-un-eleve-en-cours-d-annee),
+    avec pour motif le conseil de discipline et sa date : l'élève quitte
+    les listes de classe et les appels, son lit et sa place de bus sont
+    libérés, et ses notes et paiements restent dans son dossier.
 
 Une fois la décision enregistrée, le conseil passe au statut **Décidé** :
-la décision et sa date s'affichent, les parents en sont prévenus, et un
+la décision, sa date et, pour une exclusion, ses dates s'affichent, les
+parents en sont prévenus avec ces dates, et un
 bouton **Télécharger le procès-verbal** génère le document correspondant. Un conseil décidé ou
 annulé ne peut plus être modifié.
 

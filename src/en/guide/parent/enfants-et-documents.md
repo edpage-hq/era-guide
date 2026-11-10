@@ -71,7 +71,7 @@ On a child's record (opened from **My children**), you'll find, in order:
   description and any sanction.
 - **Disciplinary councils** — the disciplinary council sessions held for
   this child and their decision (warning, reprimand, temporary or
-  permanent exclusion, or no sanction).
+  permanent exclusion, or no sanction), with the dates of an exclusion.
 
 ## Downloading your child's documents
 

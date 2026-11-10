@@ -53,10 +53,19 @@ On a scheduled council's page, you can still:
 - **Delete** the council (with confirmation, this cannot be undone);
 - **Record decision**: choose the **Decision** — Warning, Reprimand,
   Temporary exclusion, Permanent exclusion or No sanction — and add
-  **Decision details** if needed, then confirm.
+  **Decision details** if needed, then confirm. An exclusion is dated:
+  - for a **temporary exclusion**, enter the day it starts (**Excluded
+    from**) and its **Last day of exclusion**;
+  - for a **permanent exclusion**, enter the day it takes effect. On that
+    day ERA also records the
+    [student's departure](../admin/eleves-tuteurs.md#a-student-leaving-during-the-year),
+    giving the disciplinary council and its date as the reason: the
+    student leaves the class lists and rolls, their bed and bus seat are
+    freed, and their grades and payments stay on their record.
 
 Once the decision is recorded, the council moves to the status
-**Decided**: the decision and its date are shown, the parents are told,
+**Decided**: the decision, its date and, for an exclusion, its dates are
+shown, the parents are told with those dates,
 and a **Download minutes** button generates the corresponding document. A decided or
 cancelled council can no longer be edited.
 

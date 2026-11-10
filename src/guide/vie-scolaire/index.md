@@ -10,6 +10,14 @@ extrascolaires. Certaines de ces pages sont aussi accessibles aux
 enseignants ou au secrétariat pour la seule consultation ; ce guide décrit
 la vue vie scolaire, qui a accès à toutes les actions.
 
+::: info Un seul site
+Si votre fiche employé indique un site, ERA ne vous montre que ce site :
+élèves, classes, présences, incidents, conseils de discipline, cantine, transport, activités et tableau de bord. Une fiche d'un autre site n'apparaît pas et
+ne s'ouvre pas. Sans site sur votre fiche, vous voyez tout l'établissement.
+Le site se règle par l'administrateur, dans la
+[fiche employé](/guide/admin/personnel-utilisateurs#gerer-les-fiches-et-contrats-du-personnel).
+:::
+
 Les présences et les absences font partie de la vie académique. Les autres
 activités sont des modules distincts de la licence : la vie scolaire
 (discipline), la restauration scolaire, le transport scolaire et les

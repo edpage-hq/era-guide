@@ -10,6 +10,14 @@ outcome (returned to class or sent home). The **Student services** space gives
 you access to one page, **Infirmary visits**, which lists every visit and
 lets you create, view, or edit them.
 
+::: info One site
+If your employee profile names a site, ERA only shows you that site:
+students, classes, infirmary visits and dashboard. A record from another site is neither listed
+nor opened. With no site on your profile, you see the whole school. The
+administrator sets the site on the
+[employee record](/en/guide/admin/personnel-utilisateurs#manage-staff-records-and-contracts).
+:::
+
 ## Viewing visits
 
 The **Infirmary visits** page lists recorded visits, with the date and

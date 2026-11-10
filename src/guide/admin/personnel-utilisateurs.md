@@ -118,6 +118,16 @@ Section « Affectation » :
 | Date d'embauche | —                                 |
 | Statut          | Actif ou Inactif                  |
 
+Le site cloisonne les profils de terrain : un caissier, un membre de la vie
+scolaire, un responsable de l'internat ou un responsable de l'infirmerie
+affecté à un site ne voit, ne choisit et n'ouvre que les élèves, classes,
+paiements, lits, passages et autres fiches de ce site, tableau de bord
+compris. Laissé « Non affecté », il voit tout l'établissement. Les
+administrateurs et la direction générale voient toujours tous les sites ;
+un directeur de site voit les sites qu'il dirige. Une
+[mutation](#traiter-une-mutation-de-personnel-entre-sites) acceptée change
+le site de la fiche, et donc ce que la personne voit.
+
 Supprimer une fiche employé supprime aussi définitivement ses contrats.
 
 ### Contrats

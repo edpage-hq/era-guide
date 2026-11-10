@@ -10,6 +10,14 @@ passage d'un élève à l'infirmerie : le motif, les soins donnés et l'issue
 donne accès à une page, **Passages à l'infirmerie**, qui liste tous les passages
 et permet d'en créer, consulter ou modifier.
 
+::: info Un seul site
+Si votre fiche employé indique un site, ERA ne vous montre que ce site :
+élèves, classes, passages à l'infirmerie et tableau de bord. Une fiche d'un autre site n'apparaît pas et
+ne s'ouvre pas. Sans site sur votre fiche, vous voyez tout l'établissement.
+Le site se règle par l'administrateur, dans la
+[fiche employé](/guide/admin/personnel-utilisateurs#gerer-les-fiches-et-contrats-du-personnel).
+:::
+
 ## Consulter les passages
 
 La page **Passages à l'infirmerie** liste les passages enregistrés, avec

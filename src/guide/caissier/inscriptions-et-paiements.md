@@ -113,6 +113,26 @@ connexion, puis se synchronise automatiquement (ou via **Synchroniser
 maintenant**).
 :::
 
+#### Paiements hors ligne à vérifier
+
+Pendant la coupure, la situation de l'élève a pu changer : une remise
+accordée, un frais retiré de la grille… Un paiement saisi hors ligne est
+**toujours enregistré** à la synchronisation, puisque l'argent a été
+encaissé, même s'il aurait été refusé en ligne. Il est alors signalé :
+
+- **Dépassait le reste à payer** : l'excédent devient un avoir de la
+  famille (voir [Rembourser un avoir](#rembourser-un-avoir)).
+- **Le frais choisi n'est plus sur la grille** : le paiement est
+  enregistré sans frais précis.
+
+Ces paiements sont listés en haut de la page **Facturation**, dans le
+bloc **paiement(s) hors ligne à vérifier**, avec un lien vers chaque
+élève. Sur la fiche, le paiement porte le badge **Conflit de
+synchronisation** et le motif. Faites le nécessaire (rembourser
+l'avoir, prévenir la famille…), puis cliquez sur **Marquer comme
+réglé** : le badge devient **Conflit réglé**, avec qui l'a réglé et
+quand.
+
 ### Mettre en place un échéancier de paiement
 
 Pour étaler les frais d'un élève sur plusieurs versements plutôt que

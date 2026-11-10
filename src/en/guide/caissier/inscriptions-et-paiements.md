@@ -107,6 +107,26 @@ A payment can be collected even without a connection: it appears in a
 automatically (or via **Sync now**).
 :::
 
+#### Offline payments to check
+
+While the connection was down, the student's situation may have
+changed: a discount granted, a fee taken off the grid… A payment entered
+offline is **always recorded** when it syncs, since the money was
+collected, even if it would have been refused online. It is then
+flagged:
+
+- **Exceeded what was left to pay**: the surplus becomes the family's
+  credit (see [Refunding a credit](#refunding-a-credit)).
+- **The fee chosen is no longer on the grid**: the payment is recorded
+  without a specific fee.
+
+These payments are listed at the top of the **Billing** page, in the
+**offline payment(s) to check** block, with a link to each student. On
+the student's page, the payment carries a **Sync conflict** badge and
+the reason. Do what is needed (refund the credit, tell the family…),
+then click **Mark as resolved**: the badge becomes **Conflict
+resolved**, with who resolved it and when.
+
 ### Setting up a payment plan
 
 To spread a student's fees over several installments instead of

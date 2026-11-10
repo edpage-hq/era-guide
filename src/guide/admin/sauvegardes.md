@@ -76,7 +76,10 @@ du fichier.
 Conséquence pratique : si votre serveur était perdu et qu'il fallait tout
 remonter à partir d'une archive téléchargée, quelques réglages techniques
 seraient à refaire — notamment la double authentification, à reconfigurer
-par les personnes qui l'utilisaient. Vos données, elles, seraient intactes.
+par les personnes qui l'utilisaient. Vos données, elles, seraient intactes,
+à une exception près : le motif et les soins des passages à l'infirmerie
+sont chiffrés avec ces clés et resteraient illisibles sans elles. Demandez
+à la personne qui gère votre serveur d'en garder une copie en lieu sûr.
 
 ## Restaurer
 

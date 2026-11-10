@@ -60,6 +60,14 @@ la ligne du passage concerné, puis confirmez dans la fenêtre qui
 s'affiche. Cette action supprime définitivement l'enregistrement et ne
 peut pas être annulée.
 
+## Confidentialité des passages
+
+Le motif et les soins donnés sont des données de santé : ERA les
+enregistre **chiffrés**, illisibles pour qui accéderait directement à la
+base de données. Le journal d'activité n'en garde aucune copie : il
+indique seulement qu'ils ont changé. Chaque ouverture de la liste des
+passages ou d'un passage y est inscrite.
+
 ## Les dossiers médicaux
 
 Si l'établissement a activé la gestion documentaire, l'espace

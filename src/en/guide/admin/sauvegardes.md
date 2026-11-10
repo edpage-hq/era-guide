@@ -71,7 +71,10 @@ downloadable file would be far more dangerous if the file were ever lost.
 In practice: if the server were lost and everything had to be rebuilt from
 a downloaded archive, a few technical settings would need redoing —
 two-factor authentication in particular, which the people using it would
-set up again. Your data itself would be intact.
+set up again. Your data itself would be intact, with one exception: the
+reason and care of infirmary visits are encrypted with those keys and
+would stay unreadable without them. Ask whoever runs your server to keep
+a copy of them somewhere safe.
 
 ## Restoring
 

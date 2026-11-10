@@ -55,6 +55,13 @@ From the **Infirmary visits** page, click **Delete** on the row for the
 visit in question, then confirm in the dialog that appears. This
 permanently deletes the record and cannot be undone.
 
+## Keeping visits confidential
+
+The reason and the care given are health data: ERA stores them
+**encrypted**, unreadable to anyone reaching the database directly. The
+activity log keeps no copy of them: it only shows that they changed.
+Each time the visit list or a visit is opened, it is recorded there.
+
 ## Medical records
 
 If the school has activated document management, the **Documents** space

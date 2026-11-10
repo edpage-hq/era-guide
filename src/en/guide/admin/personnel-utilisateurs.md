@@ -116,6 +116,15 @@ To create an employee record:
 | Hire date | —                            |
 | Status    | Active or Inactive           |
 
+The site partitions the field roles: a cashier, a school life staff member,
+a boarding manager or an infirmary manager assigned to a site only sees,
+picks and opens the students, classes, payments, beds, visits and other
+records of that site, dashboard included. Left "Unassigned", they see the
+whole school. Administrators and the general direction always see every
+site; a site director sees the sites they direct. An accepted
+[transfer](#handle-a-staff-transfer-between-sites) changes the record's
+site, and so what the person sees.
+
 Deleting an employee record also permanently deletes its contracts.
 
 ### Contracts

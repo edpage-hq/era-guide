@@ -10,6 +10,14 @@ chacun) et enregistrer chaque jour les présences en internat, le soir et le
 matin. L'espace **Services aux élèves** vous donne accès à deux pages : **Lits de
 l'internat** et **Présences internat**.
 
+::: info Un seul site
+Si votre fiche employé indique un site, ERA ne vous montre que ce site :
+élèves, classes, lits, présences en internat et tableau de bord. Une fiche d'un autre site n'apparaît pas et
+ne s'ouvre pas. Sans site sur votre fiche, vous voyez tout l'établissement.
+Le site se règle par l'administrateur, dans la
+[fiche employé](/guide/admin/personnel-utilisateurs#gerer-les-fiches-et-contrats-du-personnel).
+:::
+
 ## Gérer les lits
 
 La page **Lits de l'internat** liste tous les lits de l'internat, avec le

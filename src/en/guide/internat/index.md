@@ -10,6 +10,14 @@ each) and recording boarding attendance every day, both in the evening
 and in the morning. The **Student services** space gives you access to two pages: **Boarding beds**
 and **Boarding attendance**.
 
+::: info One site
+If your employee profile names a site, ERA only shows you that site:
+students, classes, beds, boarding attendance and dashboard. A record from another site is neither listed
+nor opened. With no site on your profile, you see the whole school. The
+administrator sets the site on the
+[employee record](/en/guide/admin/personnel-utilisateurs#manage-staff-records-and-contracts).
+:::
+
 ## Managing beds
 
 The **Boarding beds** page lists every bed in the boarding house, with

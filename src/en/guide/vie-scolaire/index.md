@@ -10,6 +10,14 @@ activities. Some of these pages are also accessible to teachers or the
 registrar's office for viewing only; this guide describes the school life
 view, which has access to every action.
 
+::: info One site
+If your employee profile names a site, ERA only shows you that site:
+students, classes, attendance, incidents, discipline councils, cafeteria, transport, activities and dashboard. A record from another site is neither listed
+nor opened. With no site on your profile, you see the whole school. The
+administrator sets the site on the
+[employee record](/en/guide/admin/personnel-utilisateurs#manage-staff-records-and-contracts).
+:::
+
 Attendance and absences are part of academic life. The other activities
 are separate modules of the licence: school life (discipline), school
 catering, school transport and extracurricular activities. Only the ones

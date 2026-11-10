@@ -10,6 +10,14 @@ remises accordées et les échéanciers de paiement. Elle suit aussi les
 dépenses de l'établissement et produit les exports comptables. Vos pages se
 trouvent dans les espaces **Élèves et admissions** et **Finances** :
 
+::: info Un seul site
+Si votre fiche employé indique un site, ERA ne vous montre que ce site :
+élèves, classes, comptes des familles, paiements, dépenses et tableau de bord. Une fiche d'un autre site n'apparaît pas et
+ne s'ouvre pas. Sans site sur votre fiche, vous voyez tout l'établissement.
+Le site se règle par l'administrateur, dans la
+[fiche employé](/guide/admin/personnel-utilisateurs#gerer-les-fiches-et-contrats-du-personnel).
+:::
+
 - **[Inscriptions et paiements](/guide/caissier/inscriptions-et-paiements)**
   — saisir un nouveau dossier pour une famille présente sur site, suivre
   les frais dus par élève, encaisser un paiement, imprimer un reçu,

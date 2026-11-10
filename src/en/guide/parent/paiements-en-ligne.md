@@ -41,7 +41,10 @@ The same section shows four figures:
   the services chosen.
 - **Discount** — the amount of any discounts granted.
 - **Total paid** — what has already been paid, online or at the school.
-- **Balance** — what's still owed.
+- **Balance** — what's still owed. If you've paid more than is now due
+  (a discount granted afterwards, for example), the card becomes
+  **Credit** and shows the amount in your favour; the school can refund
+  it, and the refunded amount then shows under the total paid.
 
 If an installment plan has been set up, a **Payment plan** table lists
 each installment with its label, amount, due date and status (**Paid**,

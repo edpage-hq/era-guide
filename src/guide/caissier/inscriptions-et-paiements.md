@@ -128,6 +128,12 @@ Chaque tranche affiche ensuite un statut : **À venir**, **Payée** ou
 **En retard**, selon la date d'échéance et les paiements déjà reçus. Une
 tranche passe en retard le lendemain de sa date d'échéance si les
 paiements ne la couvrent pas encore.
+Le plan suit le montant réellement dû : si une remise est accordée ou un
+service ajouté ou retiré après sa création, les tranches sont recalées.
+Une baisse est retirée en partant de la dernière tranche ; une hausse
+s'ajoute à la dernière. Le montant prévu à l'origine reste affiché sous
+le nouveau (« prévu : … »), et les retards sont calculés sur le nouveau
+montant.
 Mettre en place un nouveau plan remplace automatiquement l'ancien s'il en
 existait un. Pour supprimer un plan sans le remplacer, cliquez sur
 **Supprimer** au-dessus du tableau des tranches et confirmez.
@@ -155,3 +161,29 @@ Une remise accordée ne change pas le **Total dû**, qui reste la somme des
 frais : elle s'affiche dans **Remise** et réduit immédiatement le
 **Solde**. Par exemple, pour 300 000 de frais, une remise de 50 000 et
 100 000 déjà payés, le solde est de 150 000.
+
+### Rembourser un avoir
+
+Quand une famille a payé plus que ce qu'elle doit désormais (une remise
+accordée ou un service retiré après le paiement), la carte **Solde**
+devient **Avoir**, en vert, avec le montant en faveur de la famille. La
+liste **Facturation** l'indique aussi.
+
+Le bloc **Avoir et remboursements** apparaît alors. Vous pouvez laisser
+l'avoir en place ou rendre l'argent :
+
+1. Vérifiez le **Montant** (prérempli avec l'avoir ; il ne peut pas le
+   dépasser).
+2. Choisissez la **Méthode** utilisée pour rembourser.
+3. Renseignez **Remboursé le**, et si besoin une **Référence** et un
+   **Motif**.
+4. Cliquez sur **Enregistrer le remboursement**.
+
+Le remboursement apparaît dans la liste du bloc, avec qui l'a saisi. La
+carte **Total payé** indique « dont … remboursé ». Supprimer
+un remboursement saisi par erreur redonne l'avoir à la famille.
+
+Les remboursements sortent de la caisse : ils figurent en ligne négative
+dans l'export CSV des encaissements, au journal **DC** dans l'export
+SYSCOHADA (l'écriture inverse du paiement), et ils sont déduits du montant
+encaissé dans le pilotage.

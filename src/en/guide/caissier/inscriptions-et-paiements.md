@@ -122,6 +122,12 @@ Each installment then shows a status: **Upcoming**, **Paid**, or
 **Overdue**, based on the due date and payments already received. An
 installment becomes overdue the day after its due date if payments don't
 cover it yet.
+The plan follows what is actually due: if a discount is granted or a
+service added or dropped after it was set up, the installments are
+adjusted. A decrease is taken off starting from the last installment; an
+increase is added to the last one. The originally planned amount stays
+shown under the new one ("planned: …"), and overdue amounts are worked out
+on the new amount.
 Setting up a new plan automatically replaces the previous one, if there
 was one. To delete a plan without replacing it, click **Delete** above
 the installments table and confirm.
@@ -149,3 +155,27 @@ A granted discount does not change the **Total due**, which stays the sum
 of the fees: it shows under **Discount** and immediately lowers the
 **Balance**. For instance, with 300,000 in fees, a 50,000 discount and
 100,000 already paid, the balance is 150,000.
+
+### Refunding a credit
+
+When a family has paid more than it now owes (a discount granted or a
+service dropped after the payment), the **Balance** card becomes
+**Credit**, in green, with the amount in the family's favour. The
+**Billing** list shows it too.
+
+The **Credit and refunds** section then appears. You can leave the credit
+in place or hand the money back:
+
+1. Check the **Amount** (prefilled with the credit; it can't exceed it).
+2. Choose the **Method** used for the refund.
+3. Fill in **Refunded on**, and if needed a **Reference** and a
+   **Reason**.
+4. Click **Record the refund**.
+
+The refund shows in the section's list, with who entered it. The
+**Total paid** card says "of which … refunded".
+Deleting a refund entered by mistake gives the family its credit back.
+
+Refunds leave the till: they appear as a negative line in the payments CSV
+export, in journal **DC** in the SYSCOHADA export (the reverse of the
+payment's entry), and they come off the amount collected in pilotage.

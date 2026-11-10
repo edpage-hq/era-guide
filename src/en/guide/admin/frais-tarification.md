@@ -11,18 +11,29 @@ pricing and discounts.
 
 ## Fee structures
 
-**School setup → Fee Structures** defines, for a given site, department, and
-academic year, the list of fees owed by students in that department, at
-that site, for that year. A student with no fee structure matching their
-site/department/year has no amount calculated.
+**School setup → Fee Structures** defines the list of fees owed by the
+students of a site for an academic year. A structure applies to one of
+three choices (**Applies to**):
+
+- **The whole department**: every class of the department on that site;
+- **A level**: every class of that level (for instance 6e);
+- **A class**: a single class (for instance 6e A).
+
+The most specific structure wins: a student is billed by their class's
+structure, failing that their level's, failing that their department's. You
+can therefore keep a department structure for the general case and add a
+level or class structure only where the amounts differ. A student with no
+matching structure at all has no amount calculated.
 
 To create a fee structure:
 
 1. Click **New fee structure**.
 2. Choose the **Site**, the **Department**, and the **Academic year**.
-3. Add one or more fee items with **Add a fee item**, filling in the
+3. Under **Applies to**, choose the whole department, a level or a class,
+   then the level or class concerned.
+4. Add one or more fee items with **Add a fee item**, filling in the
    fields below for each.
-4. Click **Save**.
+5. Click **Save**.
 
 | Field    | Detail                                                                                                                                  |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,8 +42,21 @@ To create a fee structure:
 | Optional | check for a service to choose (cafeteria, transport…): the parent ticks it from their space, or the cash desk from the student's record |
 | Category | General, Cafeteria, or Transport                                                                                                        |
 
-Editing an existing fee structure lets you add, change, or remove items.
+Editing an existing fee structure lets you add, change, or remove items. A
+structure already in use (a payment or a chosen service) can no longer
+change its site, department, year or target: create a new one instead.
 Deleting a fee structure also permanently deletes all its items.
+
+::: info Optional services
+When a level or class structure takes over from a department structure, the
+optional services the students concerned already chose move to the new
+structure if it has an equivalent service (same category and same label). A
+service the new structure doesn't offer is removed.
+:::
+
+When a new year is prepared, level and class structures are copied like the
+others; a class structure goes to the class of the same name on the same
+site, and isn't copied if that class doesn't exist yet.
 
 ## Discounts
 

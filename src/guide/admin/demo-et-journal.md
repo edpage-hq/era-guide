@@ -46,9 +46,21 @@ Vous pouvez filtrer la liste par :
 | Action | Créé, Modifié, Supprimé ou Consulté                                |
 | Date   | une période « du » / « au »                                        |
 
-L'action **Consulté** n'apparaît que pour les documents confidentiels de la
-[gestion documentaire](/guide/gestion-documentaire/) : chaque ouverture de
-l'un d'eux y est inscrite.
+L'action **Consulté** trace les lectures de données sensibles par le
+personnel :
+
+- les documents confidentiels de la
+  [gestion documentaire](/guide/gestion-documentaire/), à chaque ouverture ;
+- les **notes** : récapitulatifs de classe ou de matière et leurs exports,
+  saisie des notes d'une évaluation, résultats, notes et relevés du
+  supérieur ;
+- les **bulletins** : liste des bulletins d'une classe et chaque
+  téléchargement ;
+- les **passages à l'infirmerie** : la liste et chaque passage ouvert.
+
+Chaque ligne indique qui a consulté quoi et quand ; le détail précise la
+page ouverte (et, pour une liste, la recherche faite). Les parents et les
+élèves qui consultent leurs propres bulletins ne sont pas inscrits.
 
 Cliquez sur **Voir le détail** sur une ligne pour afficher, dans une boîte
 de dialogue, le détail technique des champs modifiés par cette action.

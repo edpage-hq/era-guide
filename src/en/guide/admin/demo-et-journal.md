@@ -44,9 +44,20 @@ You can filter the list by:
 | Action | Created, Updated, Deleted, or Viewed                        |
 | Date   | a "from" / "to" range                                       |
 
-The **Viewed** action only appears for the confidential documents of
-[document management](/en/guide/gestion-documentaire/): each time one of
-them is opened, it is recorded here.
+The **Viewed** action records staff reads of sensitive data:
+
+- the confidential documents of
+  [document management](/en/guide/gestion-documentaire/), each time one is
+  opened;
+- **grades**: class or subject summaries and their exports, an
+  evaluation's grade entry, results, higher-education grades and
+  transcripts;
+- **bulletins**: a class's bulletin list and each download;
+- **infirmary visits**: the list and each visit opened.
+
+Each row says who looked at what and when; the detail gives the page
+opened (and, for a list, the search made). Parents and students viewing
+their own bulletins are not recorded.
 
 Click **View details** on a row to show, in a dialog, the technical
 detail of the fields changed by that action.

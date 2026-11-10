@@ -74,7 +74,7 @@ retrouvez, dans l'ordre :
   description et sanction éventuelle.
 - **Conseils de discipline** — les séances de conseil de discipline tenues
   pour cet enfant et leur décision (avertissement, blâme, exclusion
-  temporaire ou définitive, ou non-lieu).
+  temporaire ou définitive, ou non-lieu), avec les dates d'une exclusion.
 
 ## Télécharger les documents de votre enfant
 

@@ -70,7 +70,11 @@ If no documents were attached, the page states this clearly.
    (for example `24/30`, or `∞` if it has no maximum capacity set).
    Classes of the next year, once prepared, are offered too: an
    application approved in June can go straight into the class of the
-   new school year.
+   new school year. When the application gives a **Level applied for**,
+   only the classes of that level are offered; tick **Also show the
+   classes of other levels** for an exception (a repeated year, a
+   mistaken level). An application sent online may come without a level:
+   every class is then offered.
 3. If the class has reached its capacity, you can't select it normally:
    check **Force assignment even if the class has reached its
    capacity** to assign it anyway, and enter the **Reason for going over

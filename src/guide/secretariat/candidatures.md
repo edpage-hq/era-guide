@@ -70,7 +70,11 @@ Si aucun document n'a été joint, la page l'indique clairement.
    actuelle (par exemple `24/30`, ou `∞` si elle n'a pas de capacité
    maximale définie). Les classes de l'année suivante, si elle est déjà
    préparée, sont proposées aussi : un dossier validé en juin peut entrer
-   directement dans la classe de la rentrée.
+   directement dans la classe de la rentrée. Quand le dossier indique un
+   **Niveau demandé**, seules les classes de ce niveau sont proposées ;
+   cochez **Afficher aussi les classes des autres niveaux** pour une
+   exception (redoublement, niveau mal saisi). Un dossier envoyé en ligne
+   peut arriver sans niveau : toutes les classes sont alors proposées.
 3. Si la classe a atteint sa capacité, vous ne pouvez pas la sélectionner
    normalement : cochez **Forcer l'affectation même si la classe a
    atteint sa capacité** pour l'assigner malgré tout, et saisissez le

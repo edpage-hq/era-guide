@@ -17,7 +17,7 @@ you're the one who submits their application.
 
 1. Open **Students & admissions → New application**.
 2. Enter the student's **First name**, **Last name**, **Date of
-   birth** and, if you know it, **Place of birth** and **Sex**, then the desired **Site** and **Department**.
+   birth** and, if you know it, **Place of birth** and **Sex**, then the desired **Site** and **Department**, and the **Level applied for** (6e, 2nde…). The level is required as soon as the department has levels, offline too: it lets the secretariat offer the right classes on approval.
 3. Add at least one **Parent / guardian**: first name, last name,
    email, phone (optional), and relationship (**Father**, **Mother**,
    **Legal guardian**, or **Other**). Check **Primary contact** for the

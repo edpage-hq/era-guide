@@ -105,6 +105,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Applications', link: 'secretariat/candidatures' },
         { text: 'Site transfers', link: 'secretariat/transferts-sites' },
         { text: 'Class changes', link: 'secretariat/changements-de-classe' },
+        { text: 'Parents', link: 'secretariat/parents' },
         { text: 'Transcripts and certificates', link: 'secretariat/releves-attestations' },
       ],
     },

@@ -9,7 +9,7 @@ examinez les dossiers déposés par les familles — en ligne via le
 formulaire public, ou saisis directement par la caisse pour une famille
 présente sur site — et qui décidez de les valider ou de les refuser.
 Vous gérez également les demandes de transfert d'un élève déjà inscrit
-d'un site à un autre, et les changements de classe au sein d'un même site. L'espace **Élèves et admissions** vous donne accès à trois pages :
+d'un site à un autre, et les changements de classe au sein d'un même site. L'espace **Élèves et admissions** vous donne accès à quatre pages :
 
 - **[Dossiers à traiter](/guide/secretariat/candidatures)** — la file
   d'attente des candidatures reçues, avec les documents joints et la
@@ -19,6 +19,9 @@ d'un site à un autre, et les changements de classe au sein d'un même site. L'e
 - **[Changements de classe](/guide/secretariat/changements-de-classe)** —
   faire passer un élève dans une autre classe du même site, par exemple
   après un changement d'orientation.
+- **[Parents](/guide/secretariat/parents)** — les parents de vos élèves :
+  compléter leurs adresses e-mail et téléphones, et les inviter dans
+  l'application.
 
 Pour les sites qui n'ont pas de direction, c'est vous qui validez leur part
 des mobilités d'élèves. La page **[À approuver](/guide/direction/a-approuver)**,

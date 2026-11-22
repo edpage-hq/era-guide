@@ -9,7 +9,7 @@ the applications submitted by families — online through the public
 form, or entered directly by the cashier for a family visiting in
 person — and decide whether to approve or reject them. You also handle
 requests to transfer an already-enrolled student from one site to
-another, and class changes within a site. The **Students & admissions** space gives you access to three pages:
+another, and class changes within a site. The **Students & admissions** space gives you access to four pages:
 
 - **[Applications to review](/en/guide/secretariat/candidatures)** — the
   queue of applications received, with their attached documents and the
@@ -19,6 +19,9 @@ another, and class changes within a site. The **Students & admissions** space gi
 - **[Class changes](/en/guide/secretariat/changements-de-classe)** —
   moving a student to another class on the same site, for instance after
   a change of orientation.
+- **[Parents](/en/guide/secretariat/parents)** — your students' parents:
+  filling in their e-mail addresses and phones, and inviting them into the
+  application.
 
 For sites without a direction, you approve their share of students' site
 moves. The **[To approve](/en/guide/direction/a-approuver)** page, in the

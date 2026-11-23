@@ -255,6 +255,32 @@ one, while the other levels keep the general setting. A subject that only
 exists at one level (a terminale specialty, for instance) only needs its
 level assignment.
 
+## Optional subjects {#optional-subjects}
+
+**School setup → Optional subjects** is the quickest way to say who takes which
+option: you start from the **subject**, not from the student. It complements
+the [Optional subjects](/en/guide/admin/eleves-tuteurs#optional-subjects)
+screen on a student's record, which remains the right place for a single
+student.
+
+1. Pick an **option type** (exploration, specialty, modern language) if you
+   want to narrow the list, then the **subject**.
+2. The screen lists the year's classes whose department offers this subject as
+   an option, with their enrolled students. Tick the students who take it.
+   **Tick all** and **Untick all** act on one class; to give the ticked
+   students a common coefficient, type it and click **Apply**.
+3. For a specialty, also pick the **status** ("Kept" or "Dropped"). A
+   coefficient left empty is the department's or level's.
+4. Click **Save**.
+
+Saving touches **this subject only**: the student's other options stay as they
+are, and unticking a student only removes their choice for this subject. Grades
+already entered are never erased.
+
+Each class's **List (PDF)** button downloads the list of students taking the
+subject, with their status and coefficient. Without a specific class, the list
+covers every class.
+
 ## Bulletin headings {#bulletin-headings}
 
 **School setup → Bulletin headings** is the list of headings the report card

@@ -73,9 +73,13 @@ Chaque écran se télécharge :
   d'une classe a deux feuilles : le récapitulatif, et les **appréciations du
   conseil** à remplir.
 
-L'icône à côté du nom d'un élève, dans le récap de la classe, télécharge
-son **relevé de notes** en PDF : chacune de ses évaluations, matière par
-matière, avec ses moyennes et son rang dans la classe.
+Dans le récap de la classe, les icônes à côté du nom d'un élève
+téléchargent :
+
+- son **relevé de notes** en PDF : chacune de ses évaluations, matière par
+  matière, avec ses moyennes et son rang dans la classe ;
+- son **fichier Excel**, toutes matières confondues, à remplir et importer
+  (voir ci-dessous).
 
 ### Importer des notes et des appréciations depuis Excel {#importer-depuis-excel}
 
@@ -92,6 +96,14 @@ renvoie avec le bouton **Importer** du même écran.
   leurs notes, il n'en crée pas. Un bonus ou un malus déjà donné est
   conservé. Réservé à l'administration, à l'enseignant de la matière et au
   professeur principal de la classe.
+- **Notes et appréciations d'un élève, toutes matières** — depuis le récap
+  de la classe : l'icône Excel à côté du nom de l'élève télécharge son
+  fichier, l'icône d'import le renvoie. Le fichier a deux feuilles :
+  « Notes », une ligne par évaluation de la période dans chaque matière
+  (saisissez la note dans la colonne **Note**), et « Appréciations », une
+  ligne par matière (une colonne par rubrique, s'il y en a). Seul le
+  fichier Excel est accepté, pas un CSV. Réservé à l'administration et au
+  professeur principal de la classe.
 - **Appréciations du conseil** — depuis le récap de la classe, feuille
   « Appréciations du conseil » : appréciation générale, conduite, et un « x »
   pour chaque distinction ou alerte (félicitations, compliments,
@@ -107,9 +119,11 @@ Les règles de l'import :
   enregistré. S'il contient une erreur (note hors barème, mot non reconnu,
   élève inconnu), rien n'est enregistré et chaque ligne à corriger est
   listée ;
-- ne modifiez pas la première colonne (**N° élève**) : c'est elle qui relie
-  chaque ligne à l'élève. Le fichier d'une autre classe, matière ou période
-  est refusé, comme tout import dans une période clôturée ;
+- ne modifiez pas la première colonne (**N° élève**, ou **Référence** dans
+  le fichier d'un élève) : c'est elle qui relie chaque ligne à l'élève, à
+  l'évaluation ou à la matière. Le fichier d'une autre classe, matière,
+  période ou d'un autre élève est refusé, comme tout import dans une
+  période clôturée ;
 - un fichier CSV enregistré depuis Excel est aussi accepté, tant que ses
   en-têtes de colonnes sont ceux du fichier téléchargé.
 

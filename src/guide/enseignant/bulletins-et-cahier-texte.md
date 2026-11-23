@@ -57,7 +57,9 @@ Chaque écran se télécharge en PDF ou en Excel, avec les rangs. Le fichier
 Excel d'une matière que vous enseignez sert aussi à **importer** vos notes
 et appréciations : remplissez-le, puis renvoyez-le avec **Importer**. Le
 professeur principal importe de la même façon les notes et appréciations de
-toutes les matières de sa classe, ainsi que les appréciations du conseil.
+toutes les matières de sa classe, ainsi que les appréciations du conseil ;
+il peut aussi importer **toutes les matières d'un élève** en un seul
+fichier, avec les icônes à côté de son nom dans le récap de la classe.
 Depuis la liste des **Évaluations**, **Fichier Excel** mène directement au
 relevé de la matière.
 Le détail est dans le guide de l'administration :

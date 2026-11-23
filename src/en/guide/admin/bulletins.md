@@ -74,9 +74,12 @@ Each screen downloads:
   has two sheets: the summary, and the **council appreciations** to fill
   in.
 
-The icon next to a student's name, in the class summary, downloads their
-**grade report** as a PDF: each of their evaluations, subject by subject,
-with their averages and their rank in the class.
+In the class summary, the icons next to a student's name download:
+
+- their **grade report** as a PDF: each of their evaluations, subject by
+  subject, with their averages and their rank in the class;
+- their **Excel file**, across all subjects, to fill in and import (see
+  below).
 
 ### Import grades and appreciations from Excel {#import-from-excel}
 
@@ -92,6 +95,13 @@ back with the **Import** button of the same screen.
   first be created in ERA: the import fills in their grades, it doesn't
   create any. A bonus or malus already given is kept. Admins, the
   subject's teacher and the class's homeroom teacher only.
+- **A student's grades and appreciations, all subjects** — from the class
+  summary: the Excel icon next to the student's name downloads their file,
+  the import icon sends it back. The file has two sheets: "Grades", one row
+  per evaluation of the period in every subject (type the grade in the
+  **Grade** column), and "Appreciations", one row per subject (one column
+  per rubric, if any). Only the Excel file is accepted, not a CSV. Admins
+  and the class's homeroom teacher only.
 - **Council appreciations** — from the class summary, "Council
   appreciations" sheet: general appreciation, conduct, and an "x" for each
   distinction or warning (congratulations, compliments, encouragements,
@@ -105,8 +115,9 @@ The import's rules:
 - **all or nothing**: the whole file is checked before anything is saved.
   If it has an error (a grade off the scale, an unknown word, an unknown
   student), nothing is saved and each row to fix is listed;
-- don't change the first column (**Student no.**): it links each row to its
-  student. The file of another class, subject or period is refused, as is
+- don't change the first column (**Student no.**, or **Reference** in a
+  student's file): it links each row to its student, evaluation or subject.
+  The file of another class, subject, period or student is refused, as is
   any import into a closed period;
 - a CSV saved from Excel is accepted too, as long as its column headers are
   the downloaded file's.

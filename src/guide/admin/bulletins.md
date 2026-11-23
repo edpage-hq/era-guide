@@ -188,9 +188,10 @@ l'établissement s'applique.
 Quel que soit le modèle, les matières du bulletin suivent le paramétrage des
 [matières par département](/guide/admin/structure-etablissement#matieres-par-departement) :
 
-- elles sont regroupées sous leur **rubrique** (« Tronc commun »,
-  « Sciences »…), dans l'**ordre** indiqué ; les matières sans rubrique
-  viennent sans intitulé ;
+- elles sont regroupées sous leur [**rubrique**](/guide/admin/structure-etablissement#rubriques-de-bulletin)
+  (« Tronc commun », « Sciences »…), choisie dans une liste, dans l'ordre des
+  rubriques puis des matières ; les matières sans rubrique viennent en
+  premier, sans intitulé ;
 - les **spécialités** forment un bloc à part, « Enseignements de
   spécialité » : d'abord celles que l'élève suit, puis celles qu'il a
   abandonnées, marquées « (abandonnée) ».

@@ -61,3 +61,17 @@ vous pouvez les déplacer ou en ajouter d'autres, qui sont ignorées.
   Complétez les adresses ensuite depuis la page [Parents](/guide/secretariat/parents).
 - **Aucun e-mail n'est envoyé.** Les invitations se font ensuite, depuis la
   page Parents.
+
+## Exporter les élèves
+
+La même page propose aussi l'**export** : la liste des élèves inscrits cette
+année, dans un fichier Excel. Choisissez **Toutes les classes** ou une seule
+classe, puis téléchargez.
+
+- Le fichier a **exactement les colonnes de l'import**, parents compris (les
+  deux premiers, le contact principal en premier). Vous pouvez le corriger
+  dans Excel, puis le réimporter : les élèves déjà présents sont reconnus et
+  ne sont pas recréés.
+- Une adresse provisoire (parent sans e-mail) est laissée **vide**.
+- L'administration exporte les classes de tous les sites ; le secrétariat,
+  celles de son site.

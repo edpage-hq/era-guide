@@ -60,3 +60,16 @@ move them or add others, which are ignored.
   [Parents](/en/guide/secretariat/parents) page.
 - **No e-mail is sent.** Invitations go out afterwards, from the Parents
   page.
+
+## Export students
+
+The same page also offers the **export**: the list of students enrolled this
+year, as an Excel file. Choose **All classes** or a single class, then
+download.
+
+- The file has **exactly the import's columns**, parents included (the
+  first two, the main contact first). You can fix it in Excel and import it
+  again: students already in ERA are recognised and not created twice.
+- A placeholder address (a parent without e-mail) is left **blank**.
+- The administration exports the classes of every site; the secretariat,
+  those of its site.

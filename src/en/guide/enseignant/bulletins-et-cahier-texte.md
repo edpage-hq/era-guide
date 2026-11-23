@@ -55,7 +55,9 @@ Each screen downloads as a PDF or an Excel file, with the ranks. The Excel
 file of a subject you teach is also how you **import** your grades and
 appreciations: fill it in, then send it back with **Import**. The homeroom
 teacher imports the grades and appreciations of every subject of their
-class the same way, as well as the council appreciations. From the
+class the same way, as well as the council appreciations; they can also
+import **all of a student's subjects** in one file, with the icons next to
+the student's name in the class summary. From the
 **Evaluations** list, **Excel file** goes straight to the subject's mark
 sheet. The details are in
 the admin guide:

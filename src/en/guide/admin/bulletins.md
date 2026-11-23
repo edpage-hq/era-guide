@@ -86,7 +86,9 @@ back with the **Import** button of the same screen.
 - **A subject's grades and appreciations** — from the subject's mark sheet.
   In each evaluation column, type the grade on the evaluation's scale (12 or
   12.5), "Absent" (or "abs") or "Excused" ("Dispensé" in French); in the
-  **Appreciation** column, the report card appreciation. Evaluations must
+  **Appreciation** column, the report card appreciation (one column per
+  rubric if the school has
+  [appreciation rubrics](#appreciation-rubrics)). Evaluations must
   first be created in ERA: the import fills in their grades, it doesn't
   create any. A bonus or malus already given is kept. Admins, the
   subject's teacher and the class's homeroom teacher only.
@@ -108,6 +110,32 @@ The import's rules:
   any import into a closed period;
 - a CSV saved from Excel is accepted too, as long as its column headers are
   the downloaded file's.
+
+## Appreciation rubrics {#appreciation-rubrics}
+
+By default, a subject's appreciation is a free comment. You can split it
+into **appreciation rubrics**: for instance "Attitude", "Progression" and
+"Advice". Not to be confused with subject sections ("Core curriculum",
+"Sciences"…), which group subjects on the report card.
+
+1. Open **App settings**, **Bulletins** section.
+2. Under **Subject appreciation rubrics**, click **Add a rubric** and name
+   it (60 characters at most). Six rubrics at most.
+3. Order them with the arrows, as the report card will show them, then
+   click **Save changes**.
+
+Then:
+
+- teachers fill in each rubric for each student, on the appreciations page
+  as in the subject's Excel file, which has one column per rubric;
+- the report card shows the filled-in rubrics one after the other in the
+  appreciation cell: "Attitude: … · Progression: …".
+
+**Renaming** a rubric keeps the texts already entered. **Removing** a
+rubric hides it everywhere, but its texts stay saved. Without any rubric,
+the appreciation is a free comment again. A free comment entered before
+the rubrics were added stays on the report card as long as no rubric is
+filled in for that student.
 
 ## Report card template
 

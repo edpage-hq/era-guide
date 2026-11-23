@@ -18,7 +18,10 @@ principal le peut aussi pour toutes les matières de sa classe.
    ligne d'une évaluation de la classe et de la matière concernées.
 2. Choisissez la **période scolaire** dans le sélecteur en haut de page.
 3. Pour chaque élève, saisissez son **Appréciation** dans le champ de texte
-   (facultatif).
+   (facultatif). Si l'établissement a défini des
+   [rubriques d'appréciation](/guide/admin/bulletins#rubriques-d-appreciation)
+   (Attitude, Progression, Conseils…), chaque élève a un champ par
+   rubrique, tous facultatifs.
 4. Cliquez sur **Enregistrer** — toutes les appréciations de la liste sont
    enregistrées en une fois.
 

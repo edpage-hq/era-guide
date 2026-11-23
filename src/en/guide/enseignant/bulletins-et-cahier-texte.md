@@ -25,7 +25,7 @@ it for every subject of their class.
    all optional.
 4. Click **Save** — every appreciation in the list is saved at once.
 
-## Write the end-of-period general appreciation (homeroom teacher)
+## Write the end-of-period general appreciation (homeroom teacher) {#end-of-period-appreciation}
 
 If you are the homeroom teacher of a class, you also enter an
 end-of-period general appreciation, separate from the per-subject ones.
@@ -38,7 +38,10 @@ end-of-period general appreciation, separate from the per-subject ones.
    fields, and check any relevant flags: **Congratulations**,
    **Compliments**, **Encouragements**, **Work warning**, **Conduct
    warning**.
-4. Click **Save**.
+4. If the school has set up
+   [report card activities](/en/guide/admin/bulletins#report-card-activities),
+   tick the student's: they are printed on their report card.
+5. Click **Save**.
 
 ## View grade summaries
 

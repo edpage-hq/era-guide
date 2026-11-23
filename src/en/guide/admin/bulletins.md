@@ -43,6 +43,13 @@ with:
 - A download button (icon), available as soon as a report card has been
   generated for that student.
 
+The **Download all bulletins** button at the top of the page gives the
+period's published report cards in a single **ZIP** file: one PDF per
+student of the class, named after the student. They are the report cards
+exactly as families download them. A student whose report card isn't
+published yet, or who has left the class, isn't in it. The button only
+appears when at least one report card is published for the period.
+
 ## Grade summaries {#grade-summaries}
 
 **Teaching → Grade summaries** lists the year's classes and, for each one,

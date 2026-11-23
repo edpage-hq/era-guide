@@ -179,8 +179,10 @@ Whatever the template, the report card's subjects follow the
 [subjects by department](/en/guide/admin/structure-etablissement#subjects-by-department)
 setup:
 
-- they are grouped under their **heading** ("Tronc commun", "Sciences"…),
-  in the **order** given; subjects without a heading come without a title;
+- they are grouped under their [**heading**](/en/guide/admin/structure-etablissement#bulletin-headings)
+  ("Tronc commun", "Sciences"…), picked from a list, in the order of the
+  headings then of the subjects; subjects without a heading come first,
+  without a title;
 - **specialties** form a separate block, "Enseignements de spécialité":
   first those the student keeps, then those they dropped, marked
   "(abandonnée)".

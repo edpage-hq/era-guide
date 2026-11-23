@@ -251,8 +251,8 @@ Pour créer un rattachement :
 | Barème                               | note maximale de la matière sur le bulletin ; 20 par défaut. Chaque note est ramenée sur ce barème avant le calcul, quelle que soit la note maximale de l'évaluation (un 5/10 compte pour 10/20)                                                          |
 | Matière à option (choisie par élève) | cochez si cette matière n'est pas suivie par tous les élèves mais choisie individuellement (voir [Élèves et tuteurs](/guide/admin/eleves-tuteurs#matieres-a-option)) ; laissez décoché pour une matière de tronc commun, appliquée automatiquement à tous |
 | Type d'option                        | pour une matière à option : Enseignement d'exploration, Spécialité ou Langue vivante. Les spécialités ont leur propre bloc sur le bulletin                                                                                                                |
-| Rubrique du bulletin                 | facultatif : un intitulé (ex. « Tronc commun », « Sciences ») sous lequel le bulletin regroupe les matières qui le partagent                                                                                                                              |
-| Ordre                                | position de la matière sur le bulletin ; les matières sont classées par ordre, puis par nom                                                                                                                                                               |
+| Rubrique du bulletin                 | facultatif : une rubrique de la [liste des rubriques](#rubriques-de-bulletin), sous laquelle le bulletin regroupe les matières qui la partagent                                                                                                           |
+| Ordre                                | position de la matière dans sa rubrique ; les matières sont classées par ordre, puis par nom                                                                                                                                                              |
 
 ### Une matière propre à un niveau
 
@@ -263,6 +263,28 @@ même matière pour ce niveau : pour les classes de ce niveau, il **remplace**
 celui de tout le département ; les autres niveaux gardent le réglage
 général. Une matière qui n'existe que pour un niveau (une spécialité de
 terminale, par exemple) n'a besoin que de son rattachement au niveau.
+
+## Rubriques de bulletin {#rubriques-de-bulletin}
+
+**Paramétrage scolaire → Rubriques de bulletin** est la liste des intitulés
+sous lesquels le bulletin regroupe les matières (« Tronc commun »,
+« Sciences »…). Dans [Matières par département](#matieres-par-departement), on
+choisit la rubrique d'une matière dans cette liste : une faute de frappe ne peut
+donc plus créer un second groupe.
+
+1. Cliquez sur **Nouvelle rubrique**, donnez-lui un nom (60 caractères au
+   plus, sans doublon, majuscules ou non) et un **ordre**.
+2. Choisissez-la dans le champ **Rubrique du bulletin** de chaque matière
+   concernée.
+
+Le bulletin et le récapitulatif de notes de la classe suivent le même
+classement : d'abord les matières sans rubrique, puis chaque rubrique selon
+son ordre, et dans une rubrique les matières selon leur propre ordre. Les
+spécialités restent dans leur bloc à part.
+
+Renommer ou déplacer une rubrique s'applique aux bulletins publiés à partir de
+là ; un bulletin déjà publié ne change pas. **Supprimer** une rubrique ne
+supprime pas les matières : elles n'ont simplement plus de rubrique.
 
 ## Types d'évaluation
 

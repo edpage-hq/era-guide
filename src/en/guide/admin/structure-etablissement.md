@@ -242,8 +242,8 @@ To create an assignment:
 | Grading scale                         | the subject's maximum on the report card; 20 by default. Every mark is brought to this scale before averaging, whatever the evaluation's own maximum (5/10 counts as 10/20)                                                        |
 | Optional subject (chosen per student) | check if this subject isn't taken by every student but chosen individually (see [Students and guardians](/en/guide/admin/eleves-tuteurs#optional-subjects)); leave unchecked for a core subject, applied automatically to everyone |
 | Option kind                           | for an optional subject: Exploration, Specialty or Modern language. Specialties get their own block on the report card                                                                                                             |
-| Bulletin heading                      | optional: a heading (e.g. "Tronc commun", "Sciences") under which the report card groups the subjects that share it                                                                                                                |
-| Order                                 | the subject's position on the report card; subjects are sorted by order, then by name                                                                                                                                              |
+| Bulletin heading                      | optional: a heading from the [list of headings](#bulletin-headings) under which the report card groups the subjects that share it                                                                                                  |
+| Order                                 | the subject's position inside its heading; subjects are sorted by order, then by name                                                                                                                                              |
 
 ### A subject for one level
 
@@ -254,6 +254,25 @@ that level: for that level's classes it **replaces** the department-wide
 one, while the other levels keep the general setting. A subject that only
 exists at one level (a terminale specialty, for instance) only needs its
 level assignment.
+
+## Bulletin headings {#bulletin-headings}
+
+**School setup → Bulletin headings** is the list of headings the report card
+groups subjects under ("Tronc commun", "Sciences"…). In
+[Subjects per department](#subjects-by-department) a subject's heading is
+picked from this list, so a typo can no longer create a second group.
+
+1. Click **New heading**, give it a name (60 characters at most, no
+   duplicate, whatever the case) and an **order**.
+2. Pick it in the **Bulletin heading** field of each subject concerned.
+
+The report card and the class grade summary follow the same order: subjects
+without a heading first, then each heading by its order, and inside a heading
+the subjects by their own order. Specialties stay in their own block.
+
+Renaming or moving a heading applies to the report cards published from then
+on; a report card already published does not change. **Deleting** a heading
+does not delete the subjects: they just have no heading any more.
 
 ## Evaluation types {#evaluation-types}
 

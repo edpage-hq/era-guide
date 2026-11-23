@@ -264,6 +264,33 @@ celui de tout le département ; les autres niveaux gardent le réglage
 général. Une matière qui n'existe que pour un niveau (une spécialité de
 terminale, par exemple) n'a besoin que de son rattachement au niveau.
 
+## Matières au choix {#matieres-au-choix}
+
+**Paramétrage scolaire → Matières au choix** est l'écran le plus rapide pour
+dire qui suit quelle option : on part de la **matière**, pas de l'élève. Il
+complète l'écran [Matières à option](/guide/admin/eleves-tuteurs#matieres-a-option)
+de la fiche élève, qui reste la bonne porte d'entrée pour un seul élève.
+
+1. Choisissez un **type d'option** (exploration, spécialité, langue vivante) si
+   vous voulez réduire la liste, puis la **matière**.
+2. L'écran liste les classes de l'année dont le département propose cette
+   matière comme option, avec leurs élèves inscrits. Cochez les élèves qui la
+   suivent. **Tout cocher** et **Tout décocher** agissent sur une classe ; pour
+   donner un coefficient commun aux élèves cochés, saisissez-le puis cliquez sur
+   **Appliquer**.
+3. Pour une spécialité, choisissez aussi le **statut** (« Suivie » ou
+   « Abandonnée »). Un coefficient laissé vide est celui du département ou du
+   niveau.
+4. Cliquez sur **Enregistrer**.
+
+L'enregistrement ne touche **que cette matière** : les autres options de
+l'élève restent telles quelles, et décocher un élève retire seulement son choix
+pour cette matière. Les notes déjà saisies ne sont jamais effacées.
+
+Le bouton **Liste (PDF)** de chaque classe télécharge la liste des élèves qui
+suivent la matière, avec leur statut et leur coefficient. Sans classe précise,
+la liste porte sur toutes les classes.
+
 ## Rubriques de bulletin {#rubriques-de-bulletin}
 
 **Paramétrage scolaire → Rubriques de bulletin** est la liste des intitulés

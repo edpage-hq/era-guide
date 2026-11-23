@@ -81,6 +81,20 @@ téléchargent :
 - son **fichier Excel**, toutes matières confondues, à remplir et importer
   (voir ci-dessous).
 
+Le récap de la classe propose aussi, pour la période choisie :
+
+- **Toutes les matières** (PDF ou Excel) : les feuilles de notes de toute la
+  classe en un seul fichier, une page ou un onglet par matière. Une matière
+  sans évaluation sur la période n'y figure pas. Ce fichier Excel sert à
+  lire ou à imprimer, pas à importer : pour importer, utilisez le fichier
+  d'une matière ou d'un élève ;
+- **Appréciations du conseil** (PDF) : une ligne par élève, avec sa moyenne
+  générale, son rang, l'appréciation générale, la conduite, et ses
+  distinctions ou avertissements. La même liste se télécharge depuis la page
+  de saisie des appréciations du professeur principal.
+
+Ces exports sont réservés à l'administration et au professeur principal.
+
 ### Importer des notes et des appréciations depuis Excel {#importer-depuis-excel}
 
 Le fichier Excel téléchargé sert aussi de modèle : on le remplit, puis on le

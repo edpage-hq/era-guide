@@ -122,6 +122,12 @@ This is a pedagogical choice, not a display detail: it changes computed
 averages, and therefore report cards. Settle it before the year's first
 report cards are published, and avoid changing it mid-year.
 
+A second box, **Teachers also create their own evaluations**, is ticked by
+default. Unticked, only the administration creates evaluations (see
+[Plan evaluations](/en/guide/admin/structure-etablissement#evaluation-planning)):
+teachers enter grades but can no longer create any, and the button disappears
+from their page. The evaluations they already created stay editable.
+
 ## Approvals {#approvals}
 
 This section only appears with the **Pilotage** and **Finances** modules.

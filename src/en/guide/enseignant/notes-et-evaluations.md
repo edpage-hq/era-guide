@@ -76,6 +76,14 @@ From the list, use **Edit** to change an evaluation's context or details.
 it** — a confirmation dialog asks you to confirm before this irreversible
 action runs.
 
+## Evaluations planned by the administration
+
+The administration can plan an evaluation for several classes. It appears in
+your list with the **Planned** badge: you enter the grades as usual, but cannot
+edit or delete it. An evaluation the administration has hidden does not appear.
+If the school turned off creation by teachers, the **New evaluation** button
+is not offered.
+
 ## Competency observations
 
 Some departments — typically nursery and pre-school — are graded by

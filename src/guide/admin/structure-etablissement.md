@@ -341,6 +341,42 @@ moyenne du bulletin** que pour une épreuve qui ne doit pas peser, comme un
 examen blanc.
 :::
 
+## Planifier les évaluations {#planification-evaluations}
+
+**Paramétrage scolaire → Planification des évaluations** permet à
+l'administration de créer d'un coup une évaluation pour **plusieurs classes** :
+un devoir commun, une composition de fin de trimestre…
+
+1. Cliquez sur **Planifier une évaluation**.
+2. Choisissez la **Période**, le **Type d'évaluation**, l'**Intitulé**, la
+   **Date** (dans la période) et le **Barème**.
+3. Cochez les **Classes** : seules celles de l'année de la période sont
+   proposées, hors classes notées par compétences.
+4. Choisissez les **Matières** : « toutes les matières de chaque classe » (par
+   défaut, selon les [matières par département](#matieres-par-departement)), ou
+   une sélection. Les matières au choix sont incluses : seuls leurs élèves
+   reçoivent une note.
+5. Décochez **Affichée aux enseignants** pour garder l'évaluation pour vous.
+
+ERA crée alors une évaluation ordinaire **par classe et par matière** : les
+moyennes, les récapitulatifs et les bulletins n'ont rien de particulier.
+
+- **Modifier** une planification change l'intitulé, le type, la date et le
+  barème de toutes ses évaluations, sans toucher aux notes déjà saisies. Une
+  classe ou une matière ajoutée reçoit ses évaluations.
+- Retirer une classe ou une matière supprime ses évaluations, **sauf si des
+  notes y sont saisies** : ERA refuse alors tout l'enregistrement et nomme les
+  évaluations concernées.
+- **Supprimer** une planification n'est possible que si aucune note n'est
+  saisie.
+- Une période clôturée refuse toute planification.
+
+Côté enseignant, une évaluation planifiée est **verrouillée** : l'enseignant
+saisit les notes mais ne la modifie ni ne la supprime. Masquée, elle n'apparaît
+pas dans sa liste et il ne peut pas y saisir de notes ; vous seul la voyez. Pour
+que seule l'administration crée des évaluations, décochez
+[« Les enseignants créent aussi leurs évaluations »](/guide/admin/parametres-application#notation).
+
 ## Périodes scolaires
 
 **Paramétrage scolaire → Périodes scolaires** définit les périodes de notation

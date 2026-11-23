@@ -62,6 +62,12 @@ des bulletins d'une classe mène au même endroit.
   spécialité abandonnée est marquée. La dernière colonne donne la moyenne
   générale, puis le rang de l'élève dans la classe ; les trois dernières
   lignes, la moyenne de la classe, la plus basse et la plus haute.
+  Comme sur le bulletin, les matières sont regroupées sous leur
+  [rubrique](/guide/admin/structure-etablissement#rubriques-de-bulletin) :
+  un intitulé couvre les colonnes de la rubrique, et les spécialités
+  forment un groupe « Enseignements de spécialité » à la fin. Sans rubrique
+  ni spécialité dans la classe, cet intitulé n'apparaît pas. Le fichier
+  Excel garde, lui, une seule ligne d'en-tête (c'est le format de l'import).
 - **Une matière** — le relevé de la matière : chaque évaluation de la
   période, la note de chaque élève telle que saisie (sur le barème de
   l'évaluation, avec bonus ou malus, absent ou dispensé), puis sa moyenne

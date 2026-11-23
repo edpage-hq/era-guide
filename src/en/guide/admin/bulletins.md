@@ -63,6 +63,12 @@ leads to the same place.
   flagged. The last columns give the overall average, then the student's
   rank in the class; the last three rows, the class average, the lowest and
   the highest.
+  As on the report card, subjects are grouped under their
+  [heading](/en/guide/admin/structure-etablissement#bulletin-headings): a
+  title spans the heading's columns, and specialties form a "Specialty
+  subjects" group at the end. With no heading and no specialty in the class,
+  the title row does not appear. The Excel file keeps a single header row
+  (it is the import format).
 - **A subject** — the subject's mark sheet: every evaluation of the period,
   each student's grade as entered (on the evaluation's own scale, with bonus
   or malus, absent or excused), then their subject average and their rank

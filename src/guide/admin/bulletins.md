@@ -42,6 +42,13 @@ avec :
 - Un bouton de téléchargement (icône), disponible dès qu'un bulletin a été
   généré pour cet élève.
 
+Le bouton **Télécharger tous les bulletins**, en haut de la page, donne en
+un seul fichier **ZIP** les bulletins publiés de la période choisie : un PDF
+par élève de la classe, nommé d'après l'élève. Ce sont les bulletins tels
+que les familles les téléchargent. Un élève dont le bulletin n'est pas
+encore publié, ou qui a quitté la classe, n'y figure pas. Le bouton
+n'apparaît que si au moins un bulletin est publié pour la période.
+
 ## Récapitulatifs de notes {#recapitulatifs-de-notes}
 
 **Enseignement → Récapitulatifs de notes** liste les classes de l'année et,

@@ -106,6 +106,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Site transfers', link: 'secretariat/transferts-sites' },
         { text: 'Class changes', link: 'secretariat/changements-de-classe' },
         { text: 'Parents', link: 'secretariat/parents' },
+        { text: 'Import students', link: 'secretariat/import-eleves' },
         { text: 'Transcripts and certificates', link: 'secretariat/releves-attestations' },
       ],
     },

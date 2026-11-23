@@ -48,6 +48,27 @@ saved: the bottom bar shows how many fields to fix and the page takes you
 to the first one. If you leave the page before saving, ERA asks you to
 confirm so you don't lose what you entered.
 
+### Enter grades in Excel
+
+You can enter grades in Excel instead of on the page. On an evaluation's
+row, **Excel file** opens the subject's mark sheet for the evaluation's
+period. Download the file there with **Excel**, fill in the grades and
+appreciations, then send it back with **Import**. The details are in
+[Import from Excel](/en/guide/admin/bulletins#import-from-excel).
+
+### Homeroom teacher: the whole class's grades
+
+A class's homeroom teacher enters and imports the grades and appreciations
+of **every subject of the class**, including those their colleagues teach.
+The **Evaluations** list therefore also shows them their colleagues'
+evaluations in that class, with **Grades**, **Report cards** and **Excel
+file**.
+
+They don't create an evaluation in a colleague's subject, and they don't
+edit or delete one: **Edit** and **Delete** don't appear on those rows.
+Deleting an evaluation would erase its grades; only the subject's teacher,
+or the administration, can do it.
+
 ## Edit or delete an evaluation
 
 From the list, use **Edit** to change an evaluation's context or details.

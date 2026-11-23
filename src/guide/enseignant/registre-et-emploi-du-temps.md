@@ -23,9 +23,14 @@ Pour chaque classe, un tableau récapitule, par élève :
 | Incidents disciplinaires | Nombre d'incidents enregistrés pour cet élève   |
 
 Ce tableau est une vue de suivi en lecture seule. À côté du nom de chaque
-classe, le bouton **Appréciations de fin de période** vous amène à la
-saisie décrite dans
-[Bulletins et cahier de textes](/guide/enseignant/bulletins-et-cahier-texte).
+classe :
+
+- **Notes de la classe** ouvre le récapitulatif des notes de toute la
+  classe. De là, vous ouvrez chaque matière pour en saisir ou en importer
+  les notes, y compris celles de vos collègues (voir
+  [Notes et évaluations](/guide/enseignant/notes-et-evaluations#professeur-principal-les-notes-de-toute-la-classe)) ;
+- **Appréciations de fin de période** vous amène à la saisie décrite dans
+  [Bulletins et cahier de textes](/guide/enseignant/bulletins-et-cahier-texte).
 
 Si vous n'êtes actuellement professeur principal d'aucune classe, la page
 l'indique et ne propose rien d'autre.

@@ -22,10 +22,14 @@ For each class, a table summarizes, per student:
 | Unjustified absences | Number of absences with no approved justification       |
 | Discipline incidents | Number of incidents recorded for this student           |
 
-This table is a read-only tracking view. Next to each class's name, the
-**End-of-period appreciations** button takes you to the entry screen
-described in
-[Report cards and lesson log](/en/guide/enseignant/bulletins-et-cahier-texte).
+This table is a read-only tracking view. Next to each class's name:
+
+- **Class grades** opens the grade summary of the whole class. From there,
+  you open each subject to enter or import its grades, including your
+  colleagues' (see
+  [Grades and evaluations](/en/guide/enseignant/notes-et-evaluations#homeroom-teacher-the-whole-class-s-grades));
+- **End-of-period appreciations** takes you to the entry screen described in
+  [Report cards and lesson log](/en/guide/enseignant/bulletins-et-cahier-texte).
 
 If you are not currently the homeroom teacher of any class, the page says
 so and offers nothing else.

@@ -88,7 +88,8 @@ renvoie avec le bouton **Importer** du même écran.
   « disp ») ; dans la colonne **Appréciation**, l'appréciation du bulletin.
   Les évaluations doivent d'abord être créées dans ERA : l'import remplit
   leurs notes, il n'en crée pas. Un bonus ou un malus déjà donné est
-  conservé. Réservé à l'administration et à l'enseignant de la matière.
+  conservé. Réservé à l'administration, à l'enseignant de la matière et au
+  professeur principal de la classe.
 - **Appréciations du conseil** — depuis le récap de la classe, feuille
   « Appréciations du conseil » : appréciation générale, conduite, et un « x »
   pour chaque distinction ou alerte (félicitations, compliments,

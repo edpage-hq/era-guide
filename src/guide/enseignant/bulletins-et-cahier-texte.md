@@ -11,7 +11,8 @@ qui trace le contenu de vos séances et les devoirs donnés.
 ## Rédiger les appréciations par matière
 
 Pour chacune de vos affectations classe/matière, vous pouvez saisir une
-appréciation par élève pour une période scolaire donnée.
+appréciation par élève pour une période scolaire donnée. Le professeur
+principal le peut aussi pour toutes les matières de sa classe.
 
 1. Depuis la liste des **Évaluations**, cliquez sur **Bulletins** sur la
    ligne d'une évaluation de la classe et de la matière concernées.
@@ -51,8 +52,11 @@ enseignez :
 
 Chaque écran se télécharge en PDF ou en Excel, avec les rangs. Le fichier
 Excel d'une matière que vous enseignez sert aussi à **importer** vos notes
-et appréciations : remplissez-le, puis renvoyez-le avec **Importer** ; le
-professeur principal importe de la même façon les appréciations du conseil.
+et appréciations : remplissez-le, puis renvoyez-le avec **Importer**. Le
+professeur principal importe de la même façon les notes et appréciations de
+toutes les matières de sa classe, ainsi que les appréciations du conseil.
+Depuis la liste des **Évaluations**, **Fichier Excel** mène directement au
+relevé de la matière.
 Le détail est dans le guide de l'administration :
 [Récapitulatifs de notes](/guide/admin/bulletins#recapitulatifs-de-notes) et
 [Importer depuis Excel](/guide/admin/bulletins#importer-depuis-excel).

@@ -19,7 +19,10 @@ it for every subject of their class.
 2. Choose the **academic period** from the selector at the top of the
    page.
 3. For each student, enter their **Appreciation** in the text field
-   (optional).
+   (optional). If the school set up
+   [appreciation rubrics](/en/guide/admin/bulletins#appreciation-rubrics)
+   (Attitude, Progression, Advice…), each student has one field per rubric,
+   all optional.
 4. Click **Save** — every appreciation in the list is saved at once.
 
 ## Write the end-of-period general appreciation (homeroom teacher)

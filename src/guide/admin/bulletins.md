@@ -85,7 +85,9 @@ renvoie avec le bouton **Importer** du même écran.
 - **Notes et appréciations d'une matière** — depuis le relevé de la matière.
   Dans chaque colonne d'évaluation, saisissez la note sur le barème de
   l'évaluation (12 ou 12,5), « Absent » (ou « abs ») ou « Dispensé » (ou
-  « disp ») ; dans la colonne **Appréciation**, l'appréciation du bulletin.
+  « disp ») ; dans la colonne **Appréciation**, l'appréciation du bulletin
+  (une colonne par rubrique si l'établissement a des
+  [rubriques d'appréciation](#rubriques-d-appreciation)).
   Les évaluations doivent d'abord être créées dans ERA : l'import remplit
   leurs notes, il n'en crée pas. Un bonus ou un malus déjà donné est
   conservé. Réservé à l'administration, à l'enseignant de la matière et au
@@ -110,6 +112,35 @@ Les règles de l'import :
   est refusé, comme tout import dans une période clôturée ;
 - un fichier CSV enregistré depuis Excel est aussi accepté, tant que ses
   en-têtes de colonnes sont ceux du fichier téléchargé.
+
+## Rubriques d'appréciation {#rubriques-d-appreciation}
+
+Par défaut, l'appréciation d'une matière est un commentaire libre. Vous
+pouvez la découper en **rubriques d'appréciation** : par exemple
+« Attitude », « Progression » et « Conseils ». À ne pas confondre avec les
+rubriques de matières (« Tronc commun », « Sciences »…), qui regroupent les
+matières sur le bulletin.
+
+1. Ouvrez **Paramètres de l'application**, section **Bulletins**.
+2. Sous **Rubriques des appréciations par matière**, cliquez sur **Ajouter
+   une rubrique** et donnez-lui un nom (60 caractères au plus). Six rubriques
+   au maximum.
+3. Rangez-les avec les flèches, dans l'ordre où le bulletin les affichera,
+   puis cliquez sur **Enregistrer les modifications**.
+
+Ensuite :
+
+- les enseignants remplissent chaque rubrique pour chaque élève, sur la
+  page des appréciations comme dans le fichier Excel de la matière, qui a
+  une colonne par rubrique ;
+- le bulletin affiche, dans la case d'appréciation, les rubriques remplies
+  l'une après l'autre : « Attitude : … · Progression : … ».
+
+**Renommer** une rubrique garde les textes déjà saisis. **Supprimer** une
+rubrique la masque partout, mais ses textes restent enregistrés. Sans
+aucune rubrique, l'appréciation redevient un commentaire libre. Un
+commentaire libre saisi avant l'ajout des rubriques reste sur le bulletin
+tant qu'aucune rubrique n'est remplie pour cet élève.
 
 ## Modèle de bulletin
 

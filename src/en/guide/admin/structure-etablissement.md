@@ -326,6 +326,40 @@ evaluation type counts equally). Only uncheck **Counts in the bulletin
 average** for a test that must not weigh, such as a mock exam.
 :::
 
+## Plan evaluations {#evaluation-planning}
+
+**School setup → Evaluation planning** lets the administration create an
+evaluation for **several classes** at once: a common assignment, an end-of-term
+exam…
+
+1. Click **Plan an evaluation**.
+2. Pick the **Period**, the **Evaluation type**, the **Label**, the **Date**
+   (within the period) and the **Max score**.
+3. Tick the **Classes**: only those of the period's school year are offered,
+   without the classes graded by competencies.
+4. Choose the **Subjects**: "every subject of each class" (the default, following
+   the [subjects by department](#subjects-by-department)), or a selection.
+   Optional subjects are included: only their students receive a grade.
+5. Untick **Shown to teachers** to keep the evaluation to yourself.
+
+ERA then creates an ordinary evaluation **per class and subject**: averages,
+summaries and report cards need nothing special.
+
+- **Editing** a plan changes the label, type, date and max score of all its
+  evaluations, without touching the grades already entered. A class or subject
+  you add gets its evaluations.
+- Removing a class or subject deletes its evaluations, **unless grades are
+  entered in them**: ERA then refuses the whole save and names the evaluations
+  concerned.
+- **Deleting** a plan is only possible while no grade is entered.
+- A closed period refuses any planning.
+
+On the teacher's side, a planned evaluation is **locked**: the teacher enters
+the grades but cannot edit or delete it. When hidden, it is missing from their
+list and they cannot enter grades in it; only you see it. To let only the
+administration create evaluations, untick
+["Teachers also create their own evaluations"](/en/guide/admin/parametres-application#grading).
+
 ## Academic periods
 
 **School setup → Academic Periods** defines the grading periods (terms,

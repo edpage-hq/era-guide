@@ -79,6 +79,15 @@ détails d'une évaluation. **Supprimer** l'efface définitivement ainsi que
 **toutes les notes qui lui sont associées** — une boîte de dialogue vous
 demande confirmation avant que l'action, irréversible, ne soit exécutée.
 
+## Évaluations planifiées par l'administration
+
+L'administration peut planifier une évaluation pour plusieurs classes. Elle
+apparaît dans votre liste avec le badge **Planifiée** : vous saisissez les
+notes comme d'habitude, mais vous ne pouvez ni la modifier ni la supprimer.
+Une évaluation que l'administration a masquée n'apparaît pas. Si
+l'établissement a désactivé la création par les enseignants, le bouton
+**Nouvelle évaluation** n'est pas proposé.
+
 ## Observations de compétences
 
 Certains départements — typiquement crèche et maternelle — sont notés par

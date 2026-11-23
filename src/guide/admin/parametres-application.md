@@ -130,6 +130,13 @@ moyennes calculées, donc les bulletins. Arrêtez-le avant la première
 publication de bulletins de l'année, et évitez d'en changer en cours
 d'année.
 
+Une seconde case, **Les enseignants créent aussi leurs évaluations**, est
+cochée par défaut. Décochée, seule l'administration crée les évaluations (voir
+[Planifier les évaluations](/guide/admin/structure-etablissement#planification-evaluations)) :
+les enseignants saisissent les notes mais ne peuvent plus en créer, et le bouton
+disparaît de leur page. Les évaluations qu'ils ont déjà créées restent
+modifiables.
+
 ## Approbations {#approbations}
 
 Cette section n'apparaît qu'avec les modules **Pilotage** et **Finances**.

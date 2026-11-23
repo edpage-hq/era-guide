@@ -50,6 +50,28 @@ enregistré : la barre du bas indique le nombre de champs à corriger et la
 page vous amène au premier. Si vous quittez la page avant d'enregistrer,
 ERA vous demande de confirmer pour ne pas perdre votre saisie.
 
+### Saisir dans Excel
+
+Plutôt que dans la page, vous pouvez saisir les notes dans Excel. Sur la
+ligne d'une évaluation, **Fichier Excel** ouvre le récapitulatif de la
+matière pour la période de l'évaluation. Téléchargez-y le fichier avec
+**Excel**, remplissez les notes et les appréciations, puis renvoyez-le avec
+**Importer**. Le détail est dans
+[Importer depuis Excel](/guide/admin/bulletins#importer-depuis-excel).
+
+### Professeur principal : les notes de toute la classe
+
+Le professeur principal d'une classe saisit et importe les notes et les
+appréciations de **toutes les matières de sa classe**, y compris celles
+qu'enseignent ses collègues. La liste des **Évaluations** lui montre donc
+aussi les évaluations de ses collègues dans cette classe, avec **Notes**,
+**Bulletins** et **Fichier Excel**.
+
+Il ne crée pas d'évaluation dans la matière d'un collègue, et il ne la
+modifie ni ne la supprime : **Modifier** et **Supprimer** n'apparaissent
+pas sur ces lignes. Supprimer une évaluation effacerait les notes qu'elle
+porte ; seul l'enseignant de la matière, ou l'administration, le peut.
+
 ## Modifier ou supprimer une évaluation
 
 Depuis la liste, utilisez **Modifier** pour changer le contexte ou les

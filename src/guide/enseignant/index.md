@@ -12,7 +12,9 @@ affectation ne vous relie encore à elle — signalez-le à l'administrateur.
 
 Si vous êtes désigné **professeur principal** d'une classe, vous disposez en
 plus d'une vue consolidée de cette classe et des appréciations générales de
-fin de période, décrites dans la troisième page ci-dessous.
+fin de période, décrites dans la troisième page ci-dessous. Vous saisissez
+aussi les notes et les appréciations de toutes les matières de cette classe,
+y compris celles de vos collègues.
 
 Ce guide couvre quatre activités :
 

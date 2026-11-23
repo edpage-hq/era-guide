@@ -12,7 +12,9 @@ administrator.
 
 If you are designated **homeroom teacher** for a class, you also get a
 consolidated view of that class and its end-of-period general
-appreciations, described in the third page below.
+appreciations, described in the third page below. You also enter the
+grades and appreciations of every subject of that class, including your
+colleagues'.
 
 This guide covers four activities:
 

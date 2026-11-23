@@ -11,7 +11,8 @@ tracks what was covered in your sessions and the homework assigned.
 ## Write per-subject appreciations
 
 For each of your class/subject assignments, you can enter one appreciation
-per student for a given academic period.
+per student for a given academic period. The homeroom teacher can also do
+it for every subject of their class.
 
 1. From the **Evaluations** list, click **Bulletins** on the row of an
    evaluation for the relevant class and subject.
@@ -49,8 +50,11 @@ end-of-period general appreciation, separate from the per-subject ones.
 
 Each screen downloads as a PDF or an Excel file, with the ranks. The Excel
 file of a subject you teach is also how you **import** your grades and
-appreciations: fill it in, then send it back with **Import**; the homeroom
-teacher imports the council appreciations the same way. The details are in
+appreciations: fill it in, then send it back with **Import**. The homeroom
+teacher imports the grades and appreciations of every subject of their
+class the same way, as well as the council appreciations. From the
+**Evaluations** list, **Excel file** goes straight to the subject's mark
+sheet. The details are in
 the admin guide:
 [Grade summaries](/en/guide/admin/bulletins#grade-summaries) and
 [Import from Excel](/en/guide/admin/bulletins#import-from-excel).

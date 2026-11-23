@@ -88,8 +88,8 @@ back with the **Import** button of the same screen.
   12.5), "Absent" (or "abs") or "Excused" ("Dispensé" in French); in the
   **Appreciation** column, the report card appreciation. Evaluations must
   first be created in ERA: the import fills in their grades, it doesn't
-  create any. A bonus or malus already given is kept. Admins and the
-  subject's teacher only.
+  create any. A bonus or malus already given is kept. Admins, the
+  subject's teacher and the class's homeroom teacher only.
 - **Council appreciations** — from the class summary, "Council
   appreciations" sheet: general appreciation, conduct, and an "x" for each
   distinction or warning (congratulations, compliments, encouragements,

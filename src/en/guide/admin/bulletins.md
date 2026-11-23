@@ -131,7 +131,8 @@ back with the **Import** button of the same screen.
 - **Council appreciations** — from the class summary, "Council
   appreciations" sheet: general appreciation, conduct, and an "x" for each
   distinction or warning (congratulations, compliments, encouragements,
-  work warning, conduct warning). Admins and the homeroom teacher only.
+  work warning, conduct warning) and each
+  [report card activity](#report-card-activities). Admins and the homeroom teacher only.
 
 The import's rules:
 
@@ -173,6 +174,36 @@ rubric hides it everywhere, but its texts stay saved. Without any rubric,
 the appreciation is a free comment again. A free comment entered before
 the rubrics were added stays on the report card as long as no rubric is
 filled in for that student.
+
+## Report card activities {#report-card-activities}
+
+The report card can list **activities** — "Extracurricular activities",
+"Recreational activities", "Parental involvement"… — that the homeroom
+teacher ticks, student by student and period by period. Nothing is
+calculated: it is a hand-ticked list.
+
+1. Open **App settings**, **Bulletins** section.
+2. Under **Bulletin activities**, click **Add an activity** and name it (60
+   characters at most). Ten activities at most.
+3. Order them with the arrows, as the report card will show them, then click
+   **Save changes**.
+
+Then:
+
+- the homeroom teacher ticks each student's activities on their
+  [end-of-period appreciations](/en/guide/enseignant/bulletins-et-cahier-texte#end-of-period-appreciation) page;
+- the three report card templates print an **Activities** block: every
+  activity of the catalogue with a box, ticked (☒) or not (☐);
+- the "Council appreciations" sheet of the Excel file has one column per
+  activity (an "x" ticks it), and the council appreciations PDF list an
+  **Activities** column. As for distinctions, on a filled-in row an empty
+  cell means "no"; a file downloaded before the activities were added leaves
+  them as they are.
+
+**Renaming** an activity keeps the boxes already ticked. **Removing** an
+activity hides it everywhere, but the ticked boxes stay saved. Without any
+activity, the block does not appear on the report card. A published report
+card is fixed: publish it again to show a change.
 
 ## Report card template
 

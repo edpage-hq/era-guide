@@ -134,7 +134,8 @@ renvoie avec le bouton **Importer** du même écran.
 - **Appréciations du conseil** — depuis le récap de la classe, feuille
   « Appréciations du conseil » : appréciation générale, conduite, et un « x »
   pour chaque distinction ou alerte (félicitations, compliments,
-  encouragements, alerte travail, alerte conduite). Réservé à
+  encouragements, alerte travail, alerte conduite) et chaque
+  [activité du bulletin](#activites-du-bulletin). Réservé à
   l'administration et au professeur principal.
 
 Les règles de l'import :
@@ -182,6 +183,36 @@ rubrique la masque partout, mais ses textes restent enregistrés. Sans
 aucune rubrique, l'appréciation redevient un commentaire libre. Un
 commentaire libre saisi avant l'ajout des rubriques reste sur le bulletin
 tant qu'aucune rubrique n'est remplie pour cet élève.
+
+## Activités du bulletin {#activites-du-bulletin}
+
+Le bulletin peut lister des **activités** — « Activités extrascolaires »,
+« Activités récréatives », « Implication parentale »… — que le professeur
+principal coche, élève par élève et période par période. Rien n'est calculé :
+c'est une liste cochée à la main.
+
+1. Ouvrez **Paramètres de l'application**, section **Bulletins**.
+2. Sous **Activités du bulletin**, cliquez sur **Ajouter une activité** et
+   donnez-lui un nom (60 caractères au plus). Dix activités au maximum.
+3. Rangez-les avec les flèches, dans l'ordre où le bulletin les affichera,
+   puis cliquez sur **Enregistrer les modifications**.
+
+Ensuite :
+
+- le professeur principal coche les activités de chaque élève sur sa page
+  d'[appréciations de fin de période](/guide/enseignant/bulletins-et-cahier-texte#appreciation-de-fin-de-periode) ;
+- les trois modèles de bulletin impriment un bloc **Activités** : chaque
+  activité du catalogue avec une case, cochée (☒) ou non (☐) ;
+- la feuille « Appréciations du conseil » du fichier Excel a une colonne par
+  activité (un « x » pour cocher), et la liste PDF des appréciations du
+  conseil une colonne **Activités**. Comme pour les distinctions, sur une ligne
+  remplie, une case vide veut dire « non » ; un fichier téléchargé avant
+  l'ajout des activités les laisse telles quelles.
+
+**Renommer** une activité garde les cases déjà cochées. **Supprimer** une
+activité la masque partout, mais les cases cochées restent enregistrées. Sans
+aucune activité, le bloc n'apparaît pas sur le bulletin. Un bulletin déjà
+publié est figé : republiez-le pour y faire apparaître un changement.
 
 ## Modèle de bulletin
 

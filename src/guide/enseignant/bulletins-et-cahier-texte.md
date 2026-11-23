@@ -25,7 +25,7 @@ principal le peut aussi pour toutes les matières de sa classe.
 4. Cliquez sur **Enregistrer** — toutes les appréciations de la liste sont
    enregistrées en une fois.
 
-## Rédiger l'appréciation générale de fin de période (professeur principal)
+## Rédiger l'appréciation générale de fin de période (professeur principal) {#appreciation-de-fin-de-periode}
 
 Si vous êtes professeur principal d'une classe, vous saisissez en plus une
 appréciation générale de fin de période, distincte des appréciations par
@@ -38,7 +38,10 @@ matière.
    **Conduite**, et cochez si besoin une ou plusieurs mentions :
    **Félicitations**, **Compliments**, **Encouragements**, **Alerte
    travail**, **Alerte conduite**.
-4. Cliquez sur **Enregistrer**.
+4. Si l'établissement a défini des
+   [activités du bulletin](/guide/admin/bulletins#activites-du-bulletin),
+   cochez celles de l'élève : elles s'impriment sur son bulletin.
+5. Cliquez sur **Enregistrer**.
 
 ## Consulter les récapitulatifs de notes
 

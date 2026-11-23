@@ -60,6 +60,9 @@ professeur principal importe de la même façon les notes et appréciations de
 toutes les matières de sa classe, ainsi que les appréciations du conseil ;
 il peut aussi importer **toutes les matières d'un élève** en un seul
 fichier, avec les icônes à côté de son nom dans le récap de la classe.
+Le récap de la classe donne aussi, en un seul fichier, **toutes les
+matières** (PDF ou Excel) et les **appréciations du conseil** (PDF), que
+vous retrouvez aussi sur la page de saisie des appréciations.
 Depuis la liste des **Évaluations**, **Fichier Excel** mène directement au
 relevé de la matière.
 Le détail est dans le guide de l'administration :

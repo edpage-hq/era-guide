@@ -81,6 +81,19 @@ In the class summary, the icons next to a student's name download:
 - their **Excel file**, across all subjects, to fill in and import (see
   below).
 
+The class summary also offers, for the chosen period:
+
+- **All subjects** (PDF or Excel): the mark sheets of the whole class in
+  one file, one page or sheet per subject. A subject with no evaluation in
+  the period is left out. The Excel file is for reading or printing, not
+  for importing: to import, use a subject's or a student's file;
+- **Council appreciations** (PDF): one line per student, with their overall
+  average, rank, general appreciation, conduct, and their distinctions or
+  warnings. The same list downloads from the homeroom teacher's
+  appreciations page.
+
+These exports are for the administration and the homeroom teacher only.
+
 ### Import grades and appreciations from Excel {#import-from-excel}
 
 The downloaded Excel file is also the template: fill it in, then send it

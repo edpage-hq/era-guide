@@ -69,12 +69,15 @@ they type anything.
 The homepage tagline and subtitle are no longer edited here: they joined
 the rest of the page's content, in [Homepage](/en/guide/admin/page-accueil).
 
-## Receipt customisation
+## School contact details
 
-These fields are printed on **every generated payment receipt**, alongside
-the logo (the student's site logo if it has one, otherwise the full logo):
-address, phone, email, thank-you message and footer note. These fields are
-shared by every site.
+Address, P.O. box, phone, email and website are printed under the school
+name on **all three report card templates**, and on **every generated
+payment receipt**, alongside the logo (the student's site logo if it has
+one, otherwise the full logo). The thank-you message and footer note appear
+on receipts. A field left empty is not printed. These fields are shared by
+every site. The phone and email are also available in document templates
+(`{school.phone}`, `{school.email}`).
 
 This is where the details a family needs on their proof of payment belong.
 Already-generated receipts aren't rewritten: the change applies to receipts

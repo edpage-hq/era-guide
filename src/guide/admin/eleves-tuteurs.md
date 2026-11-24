@@ -28,7 +28,10 @@ Pour créer un élève :
 1. Cliquez sur **Nouvel élève**.
 2. Renseignez le **Prénom** et le **Nom de famille**, puis, s'ils sont
    connus, la **Date de naissance**, le **Lieu de naissance** et le
-   **Sexe** (Masculin ou Féminin). Si
+   **Sexe** (Masculin ou Féminin), la **Nationalité** et une **Photo**
+   (JPG, PNG ou WebP, 2 Mo au plus). La photo reste sur la fiche : elle est
+   privée, seule l'administration la voit, et ne figure pas sur le bulletin.
+   Sur la fiche d'un élève, **Retirer la photo** la supprime. Si
    l'établissement utilise le matricule, renseignez aussi le
    **Matricule** : deux élèves ne peuvent pas avoir le même. Tous ces
    champs sont facultatifs ; le matricule et le lieu de naissance figurent

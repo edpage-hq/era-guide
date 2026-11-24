@@ -27,7 +27,10 @@ To create a student:
 
 1. Click **New student**.
 2. Fill in the **First name** and **Last name**, then, when known, the
-   **Date of birth**, **Place of birth** and **Sex** (Male or Female).
+   **Date of birth**, **Place of birth** and **Sex** (Male or Female), the **Nationality** and a **Photo** (JPG, PNG
+   or WebP, up to 2 MB). The photo stays on the record: it is private, only
+   the administration sees it, and it is not printed on the report card. On
+   an existing record, **Remove the photo** deletes it.
    If the school uses
    registration numbers, also fill in the **Registration number**: no two
    students can share one. All these fields are optional; the registration

@@ -216,6 +216,10 @@ publié est figé : republiez-le pour y faire apparaître un changement.
 
 ## Modèle de bulletin
 
+Sous le nom de l'établissement, chaque modèle imprime ses coordonnées
+(adresse, boîte postale, téléphone, e-mail, site web), saisies dans les
+[Paramètres de l'application](/guide/admin/parametres-application#coordonnees-de-l-etablissement).
+
 Le modèle visuel utilisé (Classique, Compact ou Traditionnel à la
 française) se choisit par classe, dans le formulaire de la classe — voir
 [Structure de l'établissement](/guide/admin/structure-etablissement#classes).

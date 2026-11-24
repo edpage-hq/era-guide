@@ -33,6 +33,24 @@ year**. To move a student to another site, use a
 The student's enrollment is moved, not recreated: their payments, payment
 plan and bulletins stay attached to their record.
 
+## Several students at once {#several-students}
+
+To rearrange class lists, the **Move several students** button moves a
+group of students in one go.
+
+1. Choose the **Class to move from**: its students are listed, with the
+   number of grades a move would abandon.
+2. Tick the students to move (**Select all** takes everyone).
+3. Choose the **Class to move to** (same year, same site), then a reason
+   if needed.
+4. Click **Move N students**.
+
+The rules are those of a single change. The move is **all or nothing**: if
+a student cannot be moved, the message names them and nobody moves. If the
+new class does not have enough seats, tick "Place the students in this
+class anyway" and give a reason: each overrun is recorded. Every student
+keeps their own line in the history.
+
 ## Warnings before you confirm
 
 Depending on the situation, a box appears under the chosen class:

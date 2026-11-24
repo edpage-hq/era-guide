@@ -36,6 +36,25 @@ année scolaire**. Pour faire passer un élève sur un autre site, utilisez un
 L'inscription de l'élève est déplacée, pas recréée : ses paiements, son
 échéancier et ses bulletins restent rattachés à son dossier.
 
+## Plusieurs élèves à la fois {#plusieurs-eleves}
+
+Pour réorganiser les listes, le bouton **Changer plusieurs élèves de classe**
+déplace un groupe d'élèves d'un coup.
+
+1. Choisissez la **Classe de départ** : ses élèves s'affichent, avec le
+   nombre de notes qu'un déplacement abandonnerait.
+2. Cochez les élèves à déplacer (**Tout cocher** les prend tous).
+3. Choisissez la **Classe d'arrivée** (même année, même site), puis,
+   si besoin, le motif.
+4. Cliquez sur **Déplacer N élèves**.
+
+Les règles sont celles d'un changement individuel. Le déplacement est
+**tout ou rien** : si un élève ne peut pas être déplacé, le message le
+nomme et personne ne bouge. Si la classe d'arrivée n'a pas assez de places,
+il faut cocher « Placer les élèves dans cette classe malgré tout » et
+donner un motif : chaque dépassement est enregistré. Chaque élève garde sa
+ligne dans l'historique.
+
 ## Les avertissements avant de valider
 
 Selon la situation, un encadré apparaît sous la classe choisie :

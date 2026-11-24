@@ -48,7 +48,11 @@ Click **Edit** at the end of the row.
    written with the country code, for example +228 90 11 22 33.
 2. For a parent without an e-mail, leave the field empty until you have
    their address: they keep their **No e-mail** status.
-3. Click **Save changes**.
+3. Fill in, when known, the **Civility** (Mr., Mrs., Miss), **Profession**,
+   **Nationality** and **P.O. box**. The civility precedes the parent's name
+   on the Traditional report card; all four fields are also in the CSV
+   export.
+4. Click **Save changes**.
 
 As soon as a real address is saved, the parent becomes **Not invited** and
 can be invited. Changing the address of an account not yet activated

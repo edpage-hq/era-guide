@@ -53,7 +53,11 @@ Cliquez sur **Modifier** au bout de la ligne.
    +228 90 11 22 33.
 2. Pour un parent sans e-mail, laissez le champ vide tant que vous n'avez
    pas son adresse : il garde son état **Sans e-mail**.
-3. Cliquez sur **Enregistrer les modifications**.
+3. Renseignez, si vous les connaissez, la **Civilité** (M., Mme, Mlle), la
+   **Profession**, la **Nationalité** et la **Boîte postale**. La civilité
+   précède le nom du parent sur le bulletin au modèle Traditionnel ; ces
+   quatre champs figurent aussi dans l'export CSV.
+4. Cliquez sur **Enregistrer les modifications**.
 
 Dès qu'une vraie adresse est enregistrée, le parent passe à **Non invité**
 et peut être invité. Changer l'adresse d'un compte pas encore activé annule

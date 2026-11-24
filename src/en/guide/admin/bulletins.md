@@ -207,6 +207,10 @@ card is fixed: publish it again to show a change.
 
 ## Report card template
 
+Under the school name, every template prints its contact details (address,
+P.O. box, phone, email, website), entered in the
+[Application settings](/guide/admin/parametres-application#school-contact-details).
+
 The visual template used (Classic, Compact, or Traditional French-style)
 is chosen per class, in the class's form — see
 [School structure](/en/guide/admin/structure-etablissement#classes). If no

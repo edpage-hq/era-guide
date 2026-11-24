@@ -74,12 +74,16 @@ L'accroche et le sous-titre de la page d'accueil ne se modifient plus ici :
 ils ont rejoint le reste du contenu de la page, dans
 [Page d'accueil](/guide/admin/page-accueil).
 
-## Personnalisation des reçus
+## Coordonnées de l'établissement
 
-Ces champs s'impriment sur **chaque reçu de paiement généré**, en plus du
-logo (celui du site de l'élève s'il en a un, sinon le logo complet) :
-adresse, téléphone, e-mail, message de remerciement et note de bas de page.
-Ces champs sont communs à tous les sites.
+Adresse, boîte postale, téléphone, e-mail et site web s'impriment sous le
+nom de l'établissement sur **les trois modèles de bulletin**, et sur
+**chaque reçu de paiement généré**, en plus du logo (celui du site de
+l'élève s'il en a un, sinon le logo complet). Le message de remerciement et
+la note de bas de page figurent sur les reçus. Un champ laissé vide
+n'apparaît pas. Ces champs sont communs à tous les sites. Le téléphone et
+l'e-mail sont aussi disponibles dans les modèles de documents
+(`{school.phone}`, `{school.email}`).
 
 C'est ici qu'on met les mentions que la famille doit retrouver sur son
 justificatif. Les reçus déjà générés ne sont pas réécrits : le changement
